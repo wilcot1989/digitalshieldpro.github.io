@@ -1,0 +1,23 @@
+{{ define "main" }}
+<div class="hero">
+  <div class="container">
+    <h1>🛡️ Protect Your Digital Life</h1>
+    <p>Expert reviews and guides on VPNs, password managers, AI security tools, and online privacy.</p>
+    <a href="/categories/vpn/" class="cta">Best VPNs 2026</a>
+    <a href="/categories/password-managers/" class="cta cta-outline" style="color:white;border-color:white;">Password Managers</a>
+  </div>
+</div>
+<div class="container" style="padding-top:2rem;">
+  <h2>Latest Articles</h2>
+  {{ range first 10 (where .Site.RegularPages "Type" "posts") }}
+  <div class="card">
+    <div class="meta">{{ .Date.Format "January 2, 2006" }} · {{ .ReadingTime }} min read</div>
+    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    <p>{{ .Summary }}</p>
+    <div class="tags">
+      {{ range .Params.tags }}<span class="tag">{{ . }}</span>{{ end }}
+    </div>
+  </div>
+  {{ end }}
+</div>
+{{ end }}
