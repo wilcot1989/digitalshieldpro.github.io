@@ -1,0 +1,47 @@
+baseURL = "https://digitalshieldpro.com/"
+languageCode = "en-us"
+title = "Digital Shield Pro"
+theme = "starter"
+
+[params]
+  description = "Expert reviews and guides on VPNs, password managers, AI security tools, and online privacy. Protect your digital life."
+  author = "Digital Shield Pro"
+  tagline = "Your Trusted Guide to Digital Security"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[menu]
+  [[menu.main]]
+    name = "Best VPNs"
+    url = "/categories/vpn/"
+    weight = 1
+  [[menu.main]]
+    name = "Password Managers"
+    url = "/categories/password-managers/"
+    weight = 2
+  [[menu.main]]
+    name = "AI Security"
+    url = "/categories/ai-tools/"
+    weight = 3
+  [[menu.main]]
+    name = "Privacy Guide"
+    url = "/categories/privacy/"
+    weight = 4
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 5
+
+[outputs]
+  home = ["HTML", "RSS"]
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
