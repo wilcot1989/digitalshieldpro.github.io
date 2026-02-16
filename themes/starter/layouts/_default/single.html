@@ -1,0 +1,19 @@
+{{ define "main" }}
+<div class="container">
+  <article>
+    <div class="meta">{{ .Date.Format "January 2, 2006" }} · {{ .ReadingTime }} min read</div>
+    <h1>{{ .Title }}</h1>
+    {{ if .Params.affiliate }}
+    <div class="affiliate-disclosure">
+      📋 <strong>Disclosure:</strong> This article contains affiliate links. We may earn a commission at no extra cost to you when you purchase through our links. This helps us keep creating free security guides.
+    </div>
+    {{ end }}
+    {{ .Content }}
+    {{ if .Params.tags }}
+    <div class="tags" style="margin-top:2rem;">
+      {{ range .Params.tags }}<span class="tag">{{ . }}</span>{{ end }}
+    </div>
+    {{ end }}
+  </article>
+</div>
+{{ end }}
