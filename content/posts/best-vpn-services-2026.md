@@ -78,7 +78,7 @@ NordVPN unblocks:
 
 **Our verdict:** NordVPN is the best all-around VPN for 2026. It excels in speed, security, and streaming — the holy trinity of VPN features.
 
-<a href="#" class="cta">🔒 Get NordVPN — 68% Off + 3 Months Free</a>
+<a href="https://nordvpn.com" class="cta" rel="nofollow" target="_blank">🔒 Get NordVPN — 68% Off + 3 Months Free</a>
 
 *Affiliate link — we earn a commission at no extra cost to you.*
 
@@ -175,7 +175,7 @@ ExpressVPN has the highest streaming success rate in our testing:
 </div>
 </div>
 
-<a href="#" class="cta">📺 Get ExpressVPN — 49% Off + 3 Months Free</a>
+<a href="https://expressvpn.com" class="cta" rel="nofollow" target="_blank">📺 Get ExpressVPN — 49% Off + 3 Months Free</a>
 
 ---
 
@@ -195,7 +195,7 @@ ProtonVPN comes from the team behind ProtonMail. Based in Switzerland (outside t
 ### Why Privacy Enthusiasts Love It
 ProtonVPN is one of the few VPN providers that are **fully open-source**. Every app has been independently audited, and their infrastructure runs on Secure Core servers in Switzerland, Iceland, and Sweden.
 
-<a href="#" class="cta cta-outline">🔐 Try ProtonVPN Free</a>
+<a href="https://protonvpn.com" class="cta cta-outline" rel="nofollow" target="_blank">🔐 Try ProtonVPN Free</a>
 
 ---
 

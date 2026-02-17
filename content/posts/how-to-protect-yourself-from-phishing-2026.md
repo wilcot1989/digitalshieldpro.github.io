@@ -76,7 +76,7 @@ A password manager is your **#1 defense** against phishing. Here's why: it only 
 | **Bitwarden** | ✅ Good — URL matching | Free / $10/yr |
 | **Dashlane** | ✅ Good — Dark web alerts | $4.99/mo |
 
-<a href="#" class="cta">🔑 Get 1Password — Best Phishing Protection</a>
+<a href="https://1password.com" class="cta" rel="nofollow" target="_blank">🔑 Get 1Password — Best Phishing Protection</a>
 
 👉 Read our full comparison: [Best Password Managers in 2026](/posts/best-password-managers-2026/)
 
@@ -89,7 +89,7 @@ Public WiFi networks are phishing playgrounds. Attackers can:
 
 A VPN encrypts all your traffic, making these attacks impossible.
 
-<a href="#" class="cta">🔒 Get NordVPN — #1 Rated VPN</a>
+<a href="https://nordvpn.com" class="cta" rel="nofollow" target="_blank">🔒 Get NordVPN — #1 Rated VPN</a>
 
 👉 Read our full comparison: [Best VPN Services in 2026](/posts/best-vpn-services-2026/)
 

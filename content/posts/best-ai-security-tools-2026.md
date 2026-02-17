@@ -25,7 +25,7 @@ Norton has integrated deep learning models into its threat detection engine. It 
 
 **Price:** $49.99/year (first year)
 
-<a href="#" class="cta">Get Norton 360</a>
+<a href="https://norton.com" class="cta" rel="nofollow" target="_blank">Get Norton 360</a>
 
 ---
 
@@ -70,7 +70,7 @@ Malwarebytes uses a combination of signature-based detection, heuristic analysis
 
 **Price:** $44.99/year
 
-<a href="#" class="cta cta-outline">Get Malwarebytes</a>
+<a href="https://malwarebytes.com" class="cta cta-outline" rel="nofollow" target="_blank">Get Malwarebytes</a>
 
 ---
 

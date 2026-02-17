@@ -60,7 +60,7 @@ Their security model has been independently audited by **Cure53**, **ISE**, and 
 </div>
 </div>
 
-<a href="#" class="cta">🔑 Try 1Password Free for 14 Days</a>
+<a href="https://1password.com" class="cta" rel="nofollow" target="_blank">🔑 Try 1Password Free for 14 Days</a>
 
 ---
 
@@ -109,7 +109,7 @@ Bitwarden proves that security doesn't have to cost a fortune. Its free tier is 
 </div>
 </div>
 
-<a href="#" class="cta cta-outline">🆓 Get Bitwarden Free</a>
+<a href="https://bitwarden.com" class="cta cta-outline" rel="nofollow" target="_blank">🆓 Get Bitwarden Free</a>
 
 ---
 
@@ -125,7 +125,7 @@ Dashlane goes beyond password management. Its premium plan includes a VPN, dark 
 - **Password Health Score** — Visual dashboard of your security posture
 - **Automatic password changer** — Changes passwords for you on supported sites
 
-<a href="#" class="cta">Try Dashlane Premium</a>
+<a href="https://dashlane.com" class="cta" rel="nofollow" target="_blank">Try Dashlane Premium</a>
 
 ---
 
