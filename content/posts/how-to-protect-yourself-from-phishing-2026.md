@@ -114,7 +114,7 @@ Fight AI with AI. Modern email security tools use machine learning to detect phi
 - **Norton 360** includes email security scanning
 - **Bitdefender** offers real-time anti-phishing in its browser extension
 
-<a href="#" class="cta cta-outline">Get Norton 360 — AI Email Protection</a>
+<a href="https://www.awin1.com/awclick.php?mid=11660&id=2776410" class="cta cta-outline" rel="nofollow sponsored" target="_blank">Get Bitdefender — AI Email Protection</a>
 
 ### 5. Keep Everything Updated
 

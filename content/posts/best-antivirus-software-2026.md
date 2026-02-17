@@ -68,7 +68,7 @@ Bitdefender has topped independent test results from AV-TEST and AV-Comparatives
 
 **Pricing:** Starts at $39.99/year for 5 devices (first year). Renewal at ~$89.99/year.
 
-👉 **[Try Bitdefender Total Security →](https://www.bitdefender.com)** *Our #1 recommendation for most users.*
+👉 **[Try Bitdefender Total Security →](https://www.awin1.com/awclick.php?mid=11660&id=2776410){rel="nofollow sponsored"}** *Our #1 recommendation for most users.*
 
 ---
 
@@ -130,7 +130,7 @@ Despite geopolitical controversies, Kaspersky's detection engine remains one of 
 
 **Pricing:** Starts at $54.99/year for 5 devices. Regular renewal pricing similar.
 
-👉 **[Try Kaspersky Premium →](https://www.kaspersky.com)** *Top-tier detection if geopolitics don't concern you.*
+👉 **[Try Kaspersky Premium →](https://www.awin1.com/awclick.php?mid=19487&id=2776410){rel="nofollow sponsored"}** *Top-tier detection if geopolitics don't concern you.*
 
 ---
 
@@ -192,7 +192,7 @@ ESET has a loyal following among IT professionals and power users. Its NOD32 eng
 
 **Pricing:** Starts at $59.99/year for 5 devices. Same price on renewal.
 
-👉 **[Try ESET Smart Security →](https://www.eset.com)** *Ideal for tech-savvy users who want granular control.*
+👉 **[Try ESET Smart Security →](https://www.awin1.com/awclick.php?mid=18785&id=2776410){rel="nofollow sponsored"}** *Ideal for tech-savvy users who want granular control.*
 
 ---
 
@@ -223,7 +223,7 @@ Surfshark, known primarily for their VPN, has expanded into antivirus protection
 
 **Pricing:** Starts at $29.88/year (Surfshark One bundle: $41.88/year including VPN).
 
-👉 **[Get Surfshark Antivirus →](https://www.surfshark.com)** *Best value for budget-conscious users with multiple devices.*
+👉 **[Get Surfshark Antivirus →](https://www.awin1.com/awclick.php?mid=36608&id=2776410){rel="nofollow sponsored"}** *Best value for budget-conscious users with multiple devices.*
 
 ---
 

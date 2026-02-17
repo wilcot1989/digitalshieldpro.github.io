@@ -131,7 +131,7 @@ The **unlimited device** policy is a game-changer. Most VPNs limit you to 5-10 c
 | 1-year plan | $3.99/mo |
 | Monthly | $15.45/mo |
 
-<a href="#" class="cta">🏄 Get Surfshark — 81% Off</a>
+<a href="https://www.awin1.com/awclick.php?mid=36608&id=2776410" class="cta" rel="nofollow sponsored" target="_blank">🏄 Get Surfshark — 81% Off</a>
 
 ---
 

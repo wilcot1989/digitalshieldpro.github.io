@@ -42,7 +42,7 @@ Bitdefender's AI engine, called **NeuralNet**, processes over 5 billion threat q
 
 **Price:** $39.99/year (first year, 5 devices)
 
-<a href="#" class="cta">Get Bitdefender</a>
+<a href="https://www.awin1.com/awclick.php?mid=11660&id=2776410" class="cta" rel="nofollow sponsored" target="_blank">Get Bitdefender</a>
 
 ---
 
