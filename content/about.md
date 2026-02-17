@@ -1,6 +1,9 @@
 ---
 title: "About Digital Shield Pro"
 description: "Learn about Digital Shield Pro — your trusted source for cybersecurity reviews and digital privacy guides."
+layout: "single"
+_build:
+  list: false
 ---
 
 ## Who We Are

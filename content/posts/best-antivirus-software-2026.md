@@ -4,7 +4,7 @@ date: 2026-02-17T09:00:00+01:00
 draft: false
 description: "Looking for the best antivirus software in 2026? We compare top picks like Bitdefender, Norton, Kaspersky, and Malwarebytes on protection, performance, price, and features."
 tags: ["antivirus", "cybersecurity", "malware protection", "endpoint security", "digital security"]
-categories: ["Security Software"]
+categories: ["ai-tools"]
 slug: "best-antivirus-software-2026"
 keywords: ["best antivirus 2026", "best antivirus software", "antivirus comparison", "top antivirus programs", "best malware protection 2026"]
 ---

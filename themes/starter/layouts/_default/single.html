@@ -1,7 +1,7 @@
 {{ define "main" }}
 <div class="container">
   <article>
-    <div class="meta">{{ .Date.Format "January 2, 2006" }} · {{ .ReadingTime }} min read</div>
+    {{ if not .Date.IsZero }}<div class="meta">{{ .Date.Format "January 2, 2006" }} · {{ .ReadingTime }} min read</div>{{ end }}
     <h1>{{ .Title }}</h1>
     {{ if .Params.affiliate }}
     <div class="affiliate-disclosure">

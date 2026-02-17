@@ -1,6 +1,9 @@
 ---
 title: "Privacy Policy"
 description: "Privacy policy for Digital Shield Pro."
+layout: "single"
+_build:
+  list: false
 ---
 
 *Last updated: February 16, 2026*
