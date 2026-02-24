@@ -1,0 +1,68 @@
+name: Weekly Affiliate Link Check
+
+on:
+  schedule:
+    - cron: '0 9 * * 1'  # Every Monday at 9:00 UTC
+  workflow_dispatch:  # Manual trigger
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Check affiliate links
+        id: check
+        run: |
+          RESULTS=""
+          FAILURES=0
+
+          check_link() {
+            local name="$1"
+            local url="$2"
+            HTTP_CODE=$(curl -s -o /dev/null -w "%{http_code}" -L --max-time 15 -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/122.0.0.0" "$url" 2>/dev/null)
+            # 200, 301, 302, 403 (Cloudflare) are all OK for affiliate links
+            if [ "$HTTP_CODE" -ge 200 ] && [ "$HTTP_CODE" -lt 500 ]; then
+              RESULTS="${RESULTS}✅ ${name} (${HTTP_CODE})\n"
+            else
+              RESULTS="${RESULTS}❌ ${name} (${HTTP_CODE}) - ${url}\n"
+              FAILURES=$((FAILURES + 1))
+            fi
+          }
+
+          echo "Checking affiliate links..."
+          check_link "NordVPN" "https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830"
+          check_link "NordPass" "https://go.nordpass.io/aff_c?offer_id=488&aff_id=141337&url_id=9356"
+          check_link "Bitdefender (AWIN)" "https://www.awin1.com/awclick.php?mid=11660&id=2776410"
+          check_link "Kaspersky (AWIN)" "https://www.awin1.com/awclick.php?mid=19487&id=2776410"
+          check_link "ESET (AWIN)" "https://www.awin1.com/awclick.php?mid=18785&id=2776410"
+          check_link "Surfshark (AWIN)" "https://www.awin1.com/awclick.php?mid=36608&id=2776410"
+
+          # Count bare links that should have tracking
+          BARE=$(grep -r 'href="https://\(norton\|expressvpn\|1password\|dashlane\|malwarebytes\)\.com"' content/posts/ --include="*.md" -c 2>/dev/null | awk -F: '{s+=$2}END{print s+0}')
+
+          echo -e "$RESULTS"
+          echo "failures=$FAILURES" >> $GITHUB_OUTPUT
+          echo "bare_links=$BARE" >> $GITHUB_OUTPUT
+
+          {
+            echo "report<<EOF"
+            echo -e "$RESULTS"
+            echo ""
+            echo "Untracked bare links: $BARE"
+            echo "EOF"
+          } >> $GITHUB_OUTPUT
+
+      - name: Create issue if links are broken
+        if: steps.check.outputs.failures != '0'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: '⚠️ Broken affiliate links detected',
+              body: `The weekly link check found broken affiliate links:\n\n\`\`\`\n${{ steps.check.outputs.report }}\n\`\`\`\n\nPlease fix these links to avoid losing commission revenue.`,
+              labels: ['affiliate-links']
+            });

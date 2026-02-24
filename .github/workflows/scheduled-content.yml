@@ -1,0 +1,154 @@
+name: Scheduled Content Generation
+
+on:
+  schedule:
+    - cron: '0 10 * * 3'  # Every Wednesday at 10:00 UTC
+  workflow_dispatch:  # Manual trigger
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pick next article from calendar
+        id: pick
+        run: |
+          # Find the first article in the calendar that doesn't exist yet
+          ARTICLE=$(python3 -c "
+          import json, os
+          with open('content-calendar.json') as f:
+              calendar = json.load(f)
+          for item in calendar:
+              path = f'content/posts/{item[\"slug\"]}.md'
+              if not os.path.exists(path):
+                  print(json.dumps(item))
+                  break
+          else:
+              print('NONE')
+          ")
+
+          if [ "$ARTICLE" = "NONE" ]; then
+            echo "All articles in calendar have been generated."
+            echo "skip=true" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+
+          echo "article=$ARTICLE" >> $GITHUB_OUTPUT
+          echo "skip=false" >> $GITHUB_OUTPUT
+
+          TOPIC=$(echo "$ARTICLE" | jq -r '.topic')
+          TYPE=$(echo "$ARTICLE" | jq -r '.type')
+          CATEGORY=$(echo "$ARTICLE" | jq -r '.category')
+          SLUG=$(echo "$ARTICLE" | jq -r '.slug')
+
+          echo "topic=$TOPIC" >> $GITHUB_OUTPUT
+          echo "type=$TYPE" >> $GITHUB_OUTPUT
+          echo "category=$CATEGORY" >> $GITHUB_OUTPUT
+          echo "slug=$SLUG" >> $GITHUB_OUTPUT
+
+          echo "Next article: $TOPIC"
+
+      - name: Generate article with Claude API
+        if: steps.pick.outputs.skip != 'true'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          TOPIC="${{ steps.pick.outputs.topic }}"
+          TYPE="${{ steps.pick.outputs.type }}"
+          CATEGORY="${{ steps.pick.outputs.category }}"
+          SLUG="${{ steps.pick.outputs.slug }}"
+          DATE=$(date +%Y-%m-%dT%H:%M:%S+01:00)
+          FILENAME="content/posts/${SLUG}.md"
+
+          case "$TYPE" in
+            product-review)
+              INSTRUCTIONS="Write a comprehensive product review article (3000+ words). Include: overall rating out of 10, detailed feature breakdown, speed/performance test results, pros and cons, pricing table, comparison with competitors, FAQ section (5+ questions), and a final verdict."
+              ;;
+            comparison)
+              INSTRUCTIONS="Write a detailed head-to-head comparison article (2500+ words). Include: comparison table at the top, category-by-category breakdown, clear winner per category, overall recommendation, and FAQ section."
+              ;;
+            how-to-guide)
+              INSTRUCTIONS="Write a comprehensive how-to guide (2500+ words). Include: step-by-step instructions, tool recommendations with links, common mistakes to avoid, FAQ section, and related guides section."
+              ;;
+            best-of-list)
+              INSTRUCTIONS="Write a detailed best-of list article (3000+ words). Include: quick comparison table, detailed review of each product (5+), pros and cons for each, pricing comparison, how we tested section, and FAQ."
+              ;;
+          esac
+
+          PROMPT="You are a cybersecurity content writer for digitalshieldpro.com. Write a Hugo markdown article about: ${TOPIC}
+
+          ${INSTRUCTIONS}
+
+          IMPORTANT FORMATTING RULES:
+          - Start with Hugo front matter (title, date: ${DATE}, description, categories: [\"${CATEGORY}\"], tags, keywords, affiliate: true)
+          - Use these affiliate links where relevant:
+            * NordVPN: https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830
+            * NordPass: https://go.nordpass.io/aff_c?offer_id=488&aff_id=141337&url_id=9356
+            * Bitdefender (AWIN): https://www.awin1.com/awclick.php?mid=11660&id=2776410
+            * Kaspersky (AWIN): https://www.awin1.com/awclick.php?mid=19487&id=2776410
+            * ESET (AWIN): https://www.awin1.com/awclick.php?mid=18785&id=2776410
+            * Surfshark (AWIN): https://www.awin1.com/awclick.php?mid=36608&id=2776410
+          - CTA format: <a href=\"URL\" class=\"cta\" rel=\"nofollow sponsored\" target=\"_blank\">CTA text</a>
+          - Outline CTA: <a href=\"URL\" class=\"cta cta-outline\" rel=\"nofollow sponsored\" target=\"_blank\">CTA text</a>
+          - Rating format: <div class=\"rating\">⭐⭐⭐⭐⭐ 9.5/10</div>
+          - Pros/cons: <div class=\"pros-cons\"><div class=\"pros\"><strong>Pros</strong>...</div><div class=\"cons\"><strong>Cons</strong>...</div></div>
+          - NO emojis in CTA buttons
+          - Add rel=\"nofollow sponsored\" to ALL affiliate links
+          - Include internal links to related articles (use /posts/slug/ format)
+          - End with Related Guides section and *Last updated: $(date +'%B %Y').*
+
+          Write the complete article now. Output ONLY the markdown content."
+
+          RESPONSE=$(curl -s https://api.anthropic.com/v1/messages \
+            -H "content-type: application/json" \
+            -H "x-api-key: $ANTHROPIC_API_KEY" \
+            -H "anthropic-version: 2023-06-01" \
+            -d "$(jq -n \
+              --arg prompt "$PROMPT" \
+              '{
+                "model": "claude-sonnet-4-5-20250929",
+                "max_tokens": 8000,
+                "messages": [{"role": "user", "content": $prompt}]
+              }')")
+
+          ARTICLE=$(echo "$RESPONSE" | python3 -c "
+          import sys, json
+          data = json.load(sys.stdin)
+          if 'content' in data:
+              for block in data['content']:
+                  if block['type'] == 'text':
+                      print(block['text'])
+          elif 'error' in data:
+              print(f'ERROR: {data[\"error\"][\"message\"]}')
+              sys.exit(1)
+          ")
+
+          echo "$ARTICLE" > "$FILENAME"
+          echo "Generated: $FILENAME ($(wc -w < "$FILENAME") words)"
+
+      - name: Commit and push
+        if: steps.pick.outputs.skip != 'true'
+        run: |
+          git config user.name "Claude AI Bot"
+          git config user.email "claude-bot@digitalshieldpro.com"
+          FILENAME="content/posts/${{ steps.pick.outputs.slug }}.md"
+          git add "$FILENAME"
+          git commit -m "Auto-generate article: ${{ steps.pick.outputs.topic }}
+
+          Generated from content-calendar.json by Claude AI.
+
+          Co-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>"
+          git push
+
+      - name: Summary
+        if: steps.pick.outputs.skip != 'true'
+        run: |
+          FILENAME="content/posts/${{ steps.pick.outputs.slug }}.md"
+          WORDS=$(wc -w < "$FILENAME")
+          echo "## New Article Published" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "- **Topic:** ${{ steps.pick.outputs.topic }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Words:** $WORDS" >> $GITHUB_STEP_SUMMARY
+          echo "- **URL:** https://digitalshieldpro.com/posts/${{ steps.pick.outputs.slug }}/" >> $GITHUB_STEP_SUMMARY

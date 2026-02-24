@@ -1,0 +1,71 @@
+name: Weekly AWIN Commission Report
+
+on:
+  schedule:
+    - cron: '0 8 * * 1'  # Every Monday at 8:00 UTC
+  workflow_dispatch:  # Manual trigger
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch AWIN data
+        id: awin
+        env:
+          AWIN_API_KEY: ${{ secrets.AWIN_API_KEY }}
+        run: |
+          PUBLISHER_ID="2776410"
+          START_DATE=$(date -d "-7 days" +%Y-%m-%dT00:00:00)
+          END_DATE=$(date +%Y-%m-%dT23:59:59)
+
+          echo "Fetching AWIN transactions for last 7 days..."
+
+          RESPONSE=$(curl -s -H "Authorization: Bearer $AWIN_API_KEY" \
+            "https://api.awin.com/publishers/$PUBLISHER_ID/transactions/?startDate=$START_DATE&endDate=$END_DATE&timezone=Europe/Amsterdam")
+
+          REPORT=$(echo "$RESPONSE" | python3 -c "
+          import sys, json
+          try:
+              data = json.load(sys.stdin)
+              if isinstance(data, list):
+                  if len(data) == 0:
+                      print('No transactions this week.')
+                  else:
+                      total = sum(float(t.get('commissionAmount', {}).get('amount', 0)) for t in data)
+                      merchants = {}
+                      for t in data:
+                          mid = str(t.get('advertiserId', '?'))
+                          merchants[mid] = merchants.get(mid, 0) + 1
+                      names = {'11660': 'Bitdefender', '19487': 'Kaspersky', '18785': 'ESET', '36608': 'Surfshark'}
+                      print(f'Transactions: {len(data)}')
+                      print(f'Total commission: EUR {total:.2f}')
+                      print()
+                      for mid, count in merchants.items():
+                          print(f'  {names.get(mid, mid)}: {count} sale(s)')
+              else:
+                  print(f'API error: {json.dumps(data)[:200]}')
+          except Exception as e:
+              print(f'Error: {e}')
+          ")
+
+          {
+            echo "report<<EOF"
+            echo "$REPORT"
+            echo "EOF"
+          } >> $GITHUB_OUTPUT
+
+      - name: Create weekly report issue
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const today = new Date().toISOString().split('T')[0];
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `📊 AWIN Weekly Report - ${today}`,
+              body: `## AWIN Commission Report\n\nPeriod: Last 7 days\n\n\`\`\`\n${{ steps.awin.outputs.report }}\n\`\`\`\n\n---\n*Automated report by Digital Shield Pro*`,
+              labels: ['report']
+            });
