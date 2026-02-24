@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
   <link rel="canonical" href="{{ .Permalink }}">
   <meta name="robots" content="index, follow">
   <meta name="author" content="{{ .Site.Params.author }}">
@@ -153,7 +154,7 @@
     .author-box .author-name { font-weight: 700; color: var(--primary); }
     .author-box .author-bio { font-size: 0.9rem; color: var(--text); margin-top: 0.25rem; }
     .article-hero { background-size: cover; background-position: center; background-repeat: no-repeat; margin-top: -2rem; }
-    .article-hero-overlay { background: rgba(15,23,42,0.75); padding: 4rem 0 3rem; }
+    .article-hero-overlay { background: rgba(15,23,42,0.55); padding: 4rem 0 3rem; }
     .article-hero-title { color: #fff; font-size: 2.2rem; margin-bottom: 0.5rem; }
     .breadcrumb-light a, .breadcrumb-light { color: rgba(255,255,255,0.7); }
     .breadcrumb-light a:hover { color: #fff; }
