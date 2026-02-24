@@ -1,0 +1,15 @@
+# Affiliate partner credentials - NEVER commit
+partners/
+*.xlsx
+~$*
+
+# Hugo build output
+public/
+resources/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment
+.env

@@ -197,7 +197,7 @@ No matter which app you use, add these layers:
 3. **Use a strong screen lock** — physical access bypasses all encryption
 4. **Keep your app updated** — security patches are critical
 
-<a href="https://nordvpn.com" class="cta" rel="nofollow sponsored" target="_blank">Get NordVPN — Protect All Your Traffic</a>
+<a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" class="cta" rel="nofollow sponsored" target="_blank">Get NordVPN — Protect All Your Traffic</a>
 <a href="https://www.awin1.com/awclick.php?mid=36608&id=2776410" class="cta cta-outline" rel="nofollow sponsored" target="_blank">Get Surfshark — Unlimited Devices</a>
 
 ## Related Privacy Guides

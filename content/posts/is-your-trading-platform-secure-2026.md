@@ -123,7 +123,7 @@ A VPN adds an important security layer for traders:
 
 **Important:** Always use the **kill switch** feature. If your VPN drops, the kill switch blocks all traffic — preventing your real IP from being exposed.
 
-<a href="https://nordvpn.com" class="cta" rel="nofollow sponsored" target="_blank">Get NordVPN — Dedicated IP for Trading</a>
+<a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" class="cta" rel="nofollow sponsored" target="_blank">Get NordVPN — Dedicated IP for Trading</a>
 <a href="https://www.awin1.com/awclick.php?mid=36608&id=2776410" class="cta cta-outline" rel="nofollow sponsored" target="_blank">Get Surfshark — Unlimited Devices</a>
 
 ## The Complete Trader Security Checklist

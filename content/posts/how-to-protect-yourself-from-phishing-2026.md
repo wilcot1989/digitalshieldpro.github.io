@@ -90,7 +90,7 @@ Public WiFi networks are phishing playgrounds. Attackers can:
 
 A VPN encrypts all your traffic, making these attacks impossible.
 
-<a href="https://nordvpn.com" class="cta" rel="nofollow sponsored" target="_blank">Get NordVPN — #1 Rated VPN</a>
+<a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" class="cta" rel="nofollow sponsored" target="_blank">Get NordVPN — #1 Rated VPN</a>
 
 👉 Read our full comparison: [Best VPN Services in 2026](/posts/best-vpn-services-2026/)
 

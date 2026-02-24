@@ -173,7 +173,7 @@ NordPass comes from the team behind NordVPN — one of the most trusted names in
 </div>
 </div>
 
-<a href="https://nordvpn.com" class="cta" rel="nofollow sponsored" target="_blank">Get NordPass Premium</a>
+<a href="https://go.nordpass.io/aff_c?offer_id=488&aff_id=141337&url_id=9356" class="cta" rel="nofollow sponsored" target="_blank">Get NordPass Premium</a>
 
 ---
 
