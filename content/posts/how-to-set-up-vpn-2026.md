@@ -6,6 +6,7 @@ categories: ["vpn"]
 tags: ["vpn setup", "how to use vpn", "vpn guide", "vpn tutorial"]
 keywords: ["how to set up vpn", "vpn setup guide 2026", "install vpn", "vpn on iphone", "vpn on android", "vpn on windows", "vpn on mac", "vpn on router"]
 affiliate: true
+featured_image: "/images/categories/vpn.svg"
 ---
 
 Setting up a VPN sounds technical, but it's actually one of the simplest things you can do to protect yourself online. If you can install an app on your phone, you can set up a VPN.

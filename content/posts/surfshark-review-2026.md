@@ -6,6 +6,7 @@ categories: ["vpn"]
 tags: ["surfshark", "vpn review", "budget vpn", "streaming vpn"]
 keywords: ["surfshark review 2026", "surfshark vpn review", "best budget vpn", "surfshark speed test", "surfshark vs nordvpn"]
 affiliate: true
+featured_image: "/images/categories/vpn.svg"
 ---
 
 # Surfshark VPN Review 2026: Best Budget VPN Tested

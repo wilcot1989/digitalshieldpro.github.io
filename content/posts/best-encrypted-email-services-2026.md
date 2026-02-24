@@ -6,6 +6,7 @@ categories: ["privacy"]
 tags: ["email", "encryption", "privacy", "ProtonMail", "Tutanota"]
 keywords: ["best encrypted email 2026", "ProtonMail review", "Tutanota review", "secure email service", "private email provider", "encrypted inbox"]
 affiliate: true
+featured_image: "/images/categories/privacy.svg"
 ---
 
 Your email contains everything — bank statements, medical records, passwords resets, private conversations. And if you're using Gmail, Outlook, or Yahoo, your provider can read all of it.

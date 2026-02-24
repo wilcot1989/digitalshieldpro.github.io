@@ -6,6 +6,7 @@ categories: ["password-managers"]
 tags: ["password manager", "security", "1Password", "Bitwarden", "Dashlane"]
 keywords: ["best password manager 2026", "password manager comparison", "1Password review", "Bitwarden review", "Dashlane review", "NordPass review", "free password manager"]
 affiliate: true
+featured_image: "/images/categories/password-managers.svg"
 ---
 
 The average person has 100+ online accounts. If you're using the same password for more than one of them, you're one data breach away from losing everything.

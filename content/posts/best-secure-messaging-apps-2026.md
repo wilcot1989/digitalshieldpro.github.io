@@ -6,6 +6,7 @@ categories: ["privacy"]
 tags: ["messaging", "Signal", "WhatsApp", "Telegram", "encryption", "privacy"]
 keywords: ["best secure messaging app 2026", "Signal vs WhatsApp", "encrypted messaging", "most private chat app", "Telegram security"]
 affiliate: true
+featured_image: "/images/categories/privacy.svg"
 ---
 
 Your messaging app knows who you talk to, when, how often, and sometimes what you say. In a world of data breaches and surveillance, choosing the right messaging app matters more than ever.

@@ -6,6 +6,7 @@ categories: ["privacy"]
 tags: ["identity theft", "credit monitoring", "dark web", "fraud protection", "security"]
 keywords: ["best identity theft protection 2026", "identity theft services", "credit monitoring", "Aura review", "LifeLock review", "dark web monitoring"]
 affiliate: true
+featured_image: "/images/categories/privacy.svg"
 ---
 
 In 2025, over **47 million Americans** were victims of identity theft. The average victim spent 200+ hours and $1,100 resolving the damage. And with AI making it easier than ever to create convincing fake identities, the problem is only getting worse.

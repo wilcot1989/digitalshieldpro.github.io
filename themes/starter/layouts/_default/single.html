@@ -1,4 +1,21 @@
 {{ define "main" }}
+{{ if .Params.featured_image }}
+<div class="article-hero" style="background-image: url('{{ .Params.featured_image }}');">
+  <div class="article-hero-overlay">
+    <div class="container">
+      <div class="breadcrumb breadcrumb-light">
+        <a href="/">Home</a> &rsaquo;
+        {{ range .Params.categories }}<a href="/categories/{{ . }}/">{{ . | humanize | title }}</a>{{ end }}
+        &rsaquo; {{ .Title }}
+      </div>
+      <h1 class="article-hero-title">{{ .Title }}</h1>
+      {{ if not .Date.IsZero }}<div class="meta meta-light">{{ .Date.Format "January 2, 2006" }} · {{ .ReadingTime }} min read</div>{{ end }}
+    </div>
+  </div>
+</div>
+<div class="container">
+  <article>
+{{ else }}
 <div class="container">
   <article>
     <div class="breadcrumb">
@@ -8,6 +25,7 @@
     </div>
     {{ if not .Date.IsZero }}<div class="meta">{{ .Date.Format "January 2, 2006" }} · {{ .ReadingTime }} min read · Updated {{ .Lastmod.Format "January 2, 2006" }}</div>{{ end }}
     <h1>{{ .Title }}</h1>
+{{ end }}
     {{ if .Params.affiliate }}
     <div class="affiliate-disclosure">
       <strong>Disclosure:</strong> This article contains affiliate links. We may earn a commission at no extra cost to you when you purchase through our links. This helps us keep creating free security guides.

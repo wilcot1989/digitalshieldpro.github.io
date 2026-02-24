@@ -6,6 +6,7 @@ categories: ["ai-tools"]
 tags: ["AI", "cybersecurity", "tools", "machine learning", "threat detection"]
 keywords: ["AI security tools 2026", "AI antivirus", "machine learning cybersecurity", "AI threat detection", "best AI protection software"]
 affiliate: true
+featured_image: "/images/categories/antivirus.svg"
 ---
 
 AI isn't just writing your emails and generating images — it's revolutionizing cybersecurity. From detecting threats in real-time to automatically patching vulnerabilities, AI security tools are becoming essential.

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f172a"/>
+      <stop offset="100%" style="stop-color:#1a3a2a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#22c55e"/>
+      <stop offset="100%" style="stop-color:#10b981"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <!-- Hex pattern -->
+  <g opacity="0.04" stroke="#fff" stroke-width="1">
+    <polygon points="600,80 640,100 640,140 600,160 560,140 560,100"/>
+    <polygon points="680,80 720,100 720,140 680,160 640,140 640,100"/>
+    <polygon points="520,80 560,100 560,140 520,160 480,140 480,100"/>
+    <polygon points="640,140 680,160 680,200 640,220 600,200 600,160"/>
+    <polygon points="560,140 600,160 600,200 560,220 520,200 520,160"/>
+    <polygon points="720,140 760,160 760,200 720,220 680,200 680,160"/>
+    <polygon points="480,140 520,160 520,200 480,220 440,200 440,160"/>
+    <polygon points="600,200 640,220 640,260 600,280 560,260 560,220"/>
+    <polygon points="680,200 720,220 720,260 680,280 640,260 640,220"/>
+    <polygon points="520,200 560,220 560,260 520,280 480,260 480,220"/>
+  </g>
+  <!-- Large shield -->
+  <path d="M600 150 L700 195 L700 310 C700 380 600 420 600 420 C600 420 500 380 500 310 L500 195 Z" stroke="url(#accent)" stroke-width="3" fill="url(#accent)" fill-opacity="0.1"/>
+  <!-- Checkmark inside shield -->
+  <path d="M555 285 L585 315 L650 245" stroke="#22c55e" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- Scanning lines -->
+  <g opacity="0.15">
+    <line x1="350" y1="180" x2="500" y2="220" stroke="#22c55e" stroke-width="1"/>
+    <line x1="350" y1="240" x2="500" y2="260" stroke="#22c55e" stroke-width="1"/>
+    <line x1="350" y1="300" x2="500" y2="300" stroke="#22c55e" stroke-width="1"/>
+    <line x1="350" y1="360" x2="500" y2="340" stroke="#22c55e" stroke-width="1"/>
+    <line x1="850" y1="180" x2="700" y2="220" stroke="#10b981" stroke-width="1"/>
+    <line x1="850" y1="240" x2="700" y2="260" stroke="#10b981" stroke-width="1"/>
+    <line x1="850" y1="300" x2="700" y2="300" stroke="#10b981" stroke-width="1"/>
+    <line x1="850" y1="360" x2="700" y2="340" stroke="#10b981" stroke-width="1"/>
+  </g>
+  <!-- Side nodes -->
+  <g opacity="0.4">
+    <circle cx="340" cy="180" r="5" fill="#22c55e"/>
+    <circle cx="340" cy="240" r="5" fill="#22c55e"/>
+    <circle cx="340" cy="300" r="5" fill="#22c55e"/>
+    <circle cx="340" cy="360" r="5" fill="#22c55e"/>
+    <circle cx="860" cy="180" r="5" fill="#10b981"/>
+    <circle cx="860" cy="240" r="5" fill="#10b981"/>
+    <circle cx="860" cy="300" r="5" fill="#10b981"/>
+    <circle cx="860" cy="360" r="5" fill="#10b981"/>
+  </g>
+  <!-- Text -->
+  <text x="600" y="480" font-family="system-ui, -apple-system, sans-serif" font-size="28" font-weight="700" fill="#fff" text-anchor="middle" letter-spacing="2">ANTIVIRUS &amp; SECURITY</text>
+  <text x="600" y="515" font-family="system-ui, -apple-system, sans-serif" font-size="16" fill="#94a3b8" text-anchor="middle" letter-spacing="4">DIGITAL SHIELD PRO</text>
+</svg>

@@ -6,6 +6,7 @@ categories: ["privacy"]
 tags: ["home network", "WiFi security", "router", "IoT", "network security"]
 keywords: ["secure home network 2026", "WiFi security guide", "router security settings", "home network protection", "IoT security"]
 affiliate: true
+featured_image: "/images/categories/privacy.svg"
 ---
 
 Your home network connects everything — laptops, phones, smart TVs, security cameras, baby monitors, thermostats, and more. If a hacker gets into your network, they get access to all of it.

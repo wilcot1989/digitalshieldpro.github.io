@@ -6,6 +6,7 @@ categories: ["vpn"]
 tags: ["NordVPN", "VPN", "review", "privacy", "streaming", "security"]
 keywords: ["NordVPN review 2026", "NordVPN review", "is NordVPN good", "NordVPN speed test", "NordVPN streaming", "NordVPN worth it"]
 affiliate: true
+featured_image: "/images/categories/vpn.svg"
 ---
 
 NordVPN is the most recommended VPN on the internet. But does it actually live up to the hype, or is it just great marketing?

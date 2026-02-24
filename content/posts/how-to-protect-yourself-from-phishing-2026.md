@@ -6,6 +6,7 @@ categories: ["privacy"]
 tags: ["phishing", "security", "email security", "scams", "AI threats"]
 keywords: ["phishing protection 2026", "how to prevent phishing", "phishing email examples", "anti-phishing tools", "AI phishing attacks"]
 affiliate: true
+featured_image: "/images/categories/privacy.svg"
 ---
 
 Phishing is the #1 cyber threat facing individuals in 2026. It's not even close. Over **90% of data breaches** start with a phishing attack, and thanks to AI, these scams are now nearly impossible to distinguish from legitimate messages.

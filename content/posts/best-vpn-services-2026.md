@@ -6,6 +6,7 @@ categories: ["vpn"]
 tags: ["VPN", "privacy", "security", "NordVPN", "Surfshark", "ExpressVPN"]
 keywords: ["best VPN 2026", "best VPN service", "VPN comparison", "NordVPN review", "Surfshark review", "ExpressVPN review", "fastest VPN", "VPN for streaming"]
 affiliate: true
+featured_image: "/images/categories/vpn.svg"
 ---
 
 Choosing the right VPN can feel overwhelming — there are hundreds of providers, each claiming to be the "fastest" or "most secure." We cut through the noise.
