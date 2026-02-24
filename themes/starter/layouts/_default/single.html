@@ -38,6 +38,18 @@
     </div>
     {{ end }}
 
+    {{ if .Params.faq }}
+    <div class="faq-section">
+      <h2>Frequently Asked Questions</h2>
+      {{ range .Params.faq }}
+      <details class="faq-item">
+        <summary>{{ .q }}</summary>
+        <p>{{ .a }}</p>
+      </details>
+      {{ end }}
+    </div>
+    {{ end }}
+
     <div class="author-box">
       <div class="author-info">
         <div class="author-name">Digital Shield Pro Editorial Team</div>
