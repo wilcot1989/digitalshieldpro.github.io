@@ -82,6 +82,20 @@
   </script>
   {{ end }}
 
+  <!-- Google Analytics (loaded after consent) -->
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    if(localStorage.getItem('cookie-consent')==='true'){
+      var s=document.createElement('script');
+      s.async=true;
+      s.src='https://www.googletagmanager.com/gtag/js?id=G-7FD0CG0FDL';
+      document.head.appendChild(s);
+      gtag('js',new Date());
+      gtag('config','G-7FD0CG0FDL');
+    }
+  </script>
+
   <style>
     :root { --primary: #0f172a; --accent: #2563eb; --bg: #ffffff; --text: #334155; --light: #f8fafc; --border: #e2e8f0; }
     * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -160,6 +174,14 @@
       nav a { margin: 0 1rem 0 0; }
       .author-box { flex-direction: column; text-align: center; }
     }
+    .cookie-banner { position: fixed; bottom: 0; left: 0; right: 0; background: var(--primary); color: #cbd5e1; padding: 1rem; z-index: 9999; display: none; }
+    .cookie-banner.show { display: block; }
+    .cookie-inner { max-width: 1100px; margin: 0 auto; display: flex; align-items: center; justify-content: space-between; gap: 1rem; flex-wrap: wrap; }
+    .cookie-inner p { margin: 0; font-size: 0.85rem; flex: 1; }
+    .cookie-inner a { color: #60a5fa; }
+    .cookie-btn { padding: 0.5rem 1.25rem; border-radius: 6px; border: none; cursor: pointer; font-weight: 600; font-size: 0.85rem; }
+    .cookie-accept { background: var(--accent); color: white; }
+    .cookie-decline { background: transparent; color: #94a3b8; border: 1px solid #475569; }
   </style>
 </head>
 <body>
@@ -183,5 +205,29 @@
       <p><a href="/privacy/">Privacy Policy</a> · <a href="/about/">About</a></p>
     </div>
   </footer>
+  <div class="cookie-banner" id="cookieBanner">
+    <div class="cookie-inner">
+      <p>We use cookies and analytics to improve your experience. By clicking "Accept", you consent to our use of Google Analytics. <a href="/privacy/">Privacy Policy</a></p>
+      <div>
+        <button class="cookie-btn cookie-decline" onclick="document.getElementById('cookieBanner').classList.remove('show');localStorage.setItem('cookie-consent','false')">Decline</button>
+        <button class="cookie-btn cookie-accept" onclick="acceptCookies()">Accept</button>
+      </div>
+    </div>
+  </div>
+  <script>
+    function acceptCookies(){
+      localStorage.setItem('cookie-consent','true');
+      document.getElementById('cookieBanner').classList.remove('show');
+      var s=document.createElement('script');
+      s.async=true;
+      s.src='https://www.googletagmanager.com/gtag/js?id=G-7FD0CG0FDL';
+      document.head.appendChild(s);
+      gtag('js',new Date());
+      gtag('config','G-7FD0CG0FDL');
+    }
+    if(!localStorage.getItem('cookie-consent')){
+      document.getElementById('cookieBanner').classList.add('show');
+    }
+  </script>
 </body>
 </html>
