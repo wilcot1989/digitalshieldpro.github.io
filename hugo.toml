@@ -42,6 +42,12 @@ theme = "starter"
   changefreq = "weekly"
   priority = 0.5
 
+[params.sitemapPriorities]
+  home = 1.0
+  posts = 0.8
+  categories = 0.6
+  tags = 0.4
+
 [taxonomies]
   category = "categories"
   tag = "tags"
