@@ -7,6 +7,21 @@ tags: ["password security", "strong passwords", "password tips", "cybersecurity 
 keywords: ["how to create strong password", "password best practices 2026", "unbreakable password", "password security tips", "password generator"]
 affiliate: true
 featured_image: "/images/categories/password-managers.svg"
+faq:
+  - q: "How long should my password be?"
+    a: "At minimum 12 characters for accounts protected by a password manager. For your master password or any password you need to memorize, use a passphrase of 5 or more randomly chosen words, which typically results in 25-35 characters. Longer is always better."
+  - q: "Are passphrases really stronger than complex passwords?"
+    a: "Yes. A four-word passphrase from a 7,776-word list has roughly 51 bits of entropy, comparable to an 8-character random string of mixed characters. A five or six-word passphrase easily surpasses most complex passwords while being far easier to remember."
+  - q: "How often should I change my passwords?"
+    a: "Only when there is a reason to. NIST recommends against mandatory periodic password changes. Change a password immediately if a service reports a data breach, you suspect unauthorized access, you shared it with someone who no longer needs it, or your password manager flags it as weak or reused."
+  - q: "Is it safe to use a password manager? What if it gets hacked?"
+    a: "Reputable password managers use zero-knowledge encryption, meaning your passwords are encrypted on your device before being sent to their servers. Even if the servers were compromised, attackers would get only encrypted data useless without your master password. This is dramatically safer than reusing weak passwords."
+  - q: "What should I do if my password appears in a data breach?"
+    a: "Change it immediately on the affected service and on every other service where you used the same password. Then enable two-factor authentication on the affected account. Your password manager's breach monitoring feature can automate this detection for you."
+  - q: "Can hackers crack a 16-character random password?"
+    a: "With current technology, a truly random 16-character password using mixed case, numbers, and symbols has roughly 105 bits of entropy. Cracking it through brute force would take longer than the age of the universe. The real risks are phishing, malware, or the password being stored insecurely by the website itself."
+  - q: "Are browser-built-in password managers good enough?"
+    a: "They are better than reusing passwords but fall short of dedicated password managers. Browser password managers typically lack cross-platform support, advanced breach monitoring, secure sharing, and the ability to store other sensitive data. A dedicated password manager offers stronger encryption and works everywhere."
 ---
 
 Passwords are not dead. Despite the rise of passkeys and biometric authentication, passwords remain the primary gatekeepers to your digital life in 2026. The average person now has over 100 online accounts, and the vast majority of them still require a password.

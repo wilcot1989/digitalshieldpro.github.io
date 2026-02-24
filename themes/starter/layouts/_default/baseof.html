@@ -81,6 +81,25 @@
     }
   }
   </script>
+  {{ if .Params.faq }}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {{ range $i, $item := .Params.faq }}{{ if $i }},{{ end }}
+      {
+        "@type": "Question",
+        "name": "{{ $item.q }}",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "{{ $item.a }}"
+        }
+      }{{ end }}
+    ]
+  }
+  </script>
+  {{ end }}
   {{ end }}
 
   <!-- Google Analytics with Consent Mode v2 -->

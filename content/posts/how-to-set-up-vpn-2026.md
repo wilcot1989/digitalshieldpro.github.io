@@ -7,6 +7,21 @@ tags: ["vpn setup", "how to use vpn", "vpn guide", "vpn tutorial"]
 keywords: ["how to set up vpn", "vpn setup guide 2026", "install vpn", "vpn on iphone", "vpn on android", "vpn on windows", "vpn on mac", "vpn on router"]
 affiliate: true
 featured_image: "/images/categories/vpn.svg"
+faq:
+  - q: "Is using a VPN legal?"
+    a: "Yes, using a VPN is completely legal in most countries, including the US, Canada, the UK, Australia, and all EU countries. However, a handful of countries restrict or ban VPN use, so check local laws if traveling to a restrictive country."
+  - q: "Will a VPN slow down my internet?"
+    a: "Slightly, but with a good VPN the difference is barely noticeable. With NordVPN using NordLynx, we typically see only a 5-10% speed reduction on nearby servers, which is undetectable during normal browsing, streaming, or gaming."
+  - q: "Can I use one VPN subscription on multiple devices?"
+    a: "Yes. NordVPN allows up to 10 simultaneous connections on one account, and Surfshark offers unlimited connections. Installing a VPN on your router counts as one connection but protects every device on your network."
+  - q: "Do I need to keep the VPN on all the time?"
+    a: "We recommend keeping it on whenever possible, especially on public Wi-Fi. You might turn it off for apps that block VPNs or when you need maximum speed. With modern protocols like WireGuard, the performance impact is minimal."
+  - q: "Will a VPN protect me on public Wi-Fi?"
+    a: "Absolutely. Public Wi-Fi networks are notoriously insecure, and anyone on the same network could potentially intercept your data. A VPN encrypts everything, making it unreadable even if intercepted."
+  - q: "Can my ISP see that I'm using a VPN?"
+    a: "Your ISP can see you are connected to a VPN server, but they cannot see what you are doing through that connection. Some providers like NordVPN offer obfuscated servers that disguise VPN traffic as regular HTTPS traffic."
+  - q: "What's the difference between a VPN app and a browser extension?"
+    a: "A VPN app protects all internet traffic from your device, including every app and background process. A browser extension only protects traffic within that specific browser. For full protection, always use the VPN app."
 ---
 
 Setting up a VPN sounds technical, but it's actually one of the simplest things you can do to protect yourself online. If you can install an app on your phone, you can set up a VPN.

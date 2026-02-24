@@ -7,6 +7,15 @@ tags: ["phishing", "security", "email security", "scams", "AI threats"]
 keywords: ["phishing protection 2026", "how to prevent phishing", "phishing email examples", "anti-phishing tools", "AI phishing attacks"]
 affiliate: true
 featured_image: "/images/categories/privacy.svg"
+faq:
+  - q: "Can antivirus software stop phishing?"
+    a: "Modern antivirus with AI-powered web protection like Norton 360 and Bitdefender can block known phishing sites. But no tool is 100% effective, so combine it with a password manager and two-factor authentication."
+  - q: "Is it safe to open a phishing email?"
+    a: "Opening an email is generally safe. The danger is in clicking links or downloading attachments. Delete suspicious emails immediately."
+  - q: "How do I report phishing?"
+    a: "In Gmail, click the three dots and select Report phishing. In Outlook, right-click and select Report then Phishing. You can also forward phishing emails to reportphishing@apwg.org."
+  - q: "My phone got a suspicious text. What do I do?"
+    a: "Do not click any links. Block the number. If the text claims to be from your bank or a service you use, contact them directly through their official app or website, never through the link in the text."
 ---
 
 Phishing is the #1 cyber threat facing individuals in 2026. It's not even close. Over **90% of data breaches** start with a phishing attack, and thanks to AI, these scams are now nearly impossible to distinguish from legitimate messages.
