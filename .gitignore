@@ -1,5 +1,11 @@
 # Affiliate partner credentials - NEVER commit
 partners/
+
+# Google service account keys - NEVER commit
+google/
+
+# Generated reports
+reports/
 *.xlsx
 ~$*
 
