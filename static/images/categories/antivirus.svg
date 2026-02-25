@@ -1,55 +1,132 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0f172a"/>
-      <stop offset="100%" style="stop-color:#1a3a2a"/>
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e3a5f"/>
     </linearGradient>
     <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#22c55e"/>
-      <stop offset="100%" style="stop-color:#10b981"/>
+      <stop offset="0%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
     </linearGradient>
+    <linearGradient id="danger" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ef4444"/>
+      <stop offset="100%" stop-color="#f97316"/>
+    </linearGradient>
+    <pattern id="dots" width="40" height="40" patternUnits="userSpaceOnUse">
+      <circle cx="20" cy="20" r="1" fill="white" opacity="0.04"/>
+    </pattern>
   </defs>
+
+  <!-- Background -->
   <rect width="1200" height="630" fill="url(#bg)"/>
-  <!-- Hex pattern -->
-  <g opacity="0.04" stroke="#fff" stroke-width="1">
-    <polygon points="600,80 640,100 640,140 600,160 560,140 560,100"/>
-    <polygon points="680,80 720,100 720,140 680,160 640,140 640,100"/>
-    <polygon points="520,80 560,100 560,140 520,160 480,140 480,100"/>
-    <polygon points="640,140 680,160 680,200 640,220 600,200 600,160"/>
-    <polygon points="560,140 600,160 600,200 560,220 520,200 520,160"/>
-    <polygon points="720,140 760,160 760,200 720,220 680,200 680,160"/>
-    <polygon points="480,140 520,160 520,200 480,220 440,200 440,160"/>
-    <polygon points="600,200 640,220 640,260 600,280 560,260 560,220"/>
-    <polygon points="680,200 720,220 720,260 680,280 640,260 640,220"/>
-    <polygon points="520,200 560,220 560,260 520,280 480,260 480,220"/>
-  </g>
-  <!-- Large shield -->
-  <path d="M600 150 L700 195 L700 310 C700 380 600 420 600 420 C600 420 500 380 500 310 L500 195 Z" stroke="url(#accent)" stroke-width="3" fill="url(#accent)" fill-opacity="0.1"/>
+  <rect width="1200" height="630" fill="url(#dots)"/>
+
+  <!-- Decorative background circles -->
+  <circle cx="600" cy="315" r="280" fill="white" opacity="0.03"/>
+  <circle cx="600" cy="315" r="220" fill="white" opacity="0.03"/>
+  <circle cx="300" cy="250" r="150" fill="white" opacity="0.04"/>
+  <circle cx="900" cy="400" r="150" fill="white" opacity="0.04"/>
+
+  <!-- Scanning circle rings -->
+  <circle cx="600" cy="330" r="250" fill="none" stroke="url(#accent)" stroke-width="1" opacity="0.1" stroke-dasharray="8,12"/>
+  <circle cx="600" cy="330" r="210" fill="none" stroke="url(#accent)" stroke-width="1" opacity="0.12" stroke-dasharray="6,10"/>
+  <circle cx="600" cy="330" r="170" fill="none" stroke="url(#accent)" stroke-width="1.5" opacity="0.15" stroke-dasharray="4,8"/>
+  <circle cx="600" cy="330" r="130" fill="none" stroke="url(#accent)" stroke-width="1" opacity="0.1"/>
+
+  <!-- Scanning sweep line -->
+  <line x1="600" y1="330" x2="820" y2="220" stroke="url(#accent)" stroke-width="2" opacity="0.2"/>
+  <path d="M600,330 L800,230 A220,220 0 0,0 750,180 Z" fill="url(#accent)" opacity="0.06"/>
+
+  <!-- Protection dome -->
+  <path d="M350,430 Q350,180 600,180 Q850,180 850,430" fill="none" stroke="url(#accent)" stroke-width="1.5" opacity="0.15"/>
+  <path d="M380,430 Q380,210 600,210 Q820,210 820,430" fill="none" stroke="url(#accent)" stroke-width="1" opacity="0.1"/>
+
+  <!-- Virus 1 - top left -->
+  <circle cx="280" cy="250" r="18" fill="none" stroke="url(#danger)" stroke-width="1.5" opacity="0.4"/>
+  <circle cx="280" cy="250" r="8" fill="url(#danger)" opacity="0.3"/>
+  <line x1="280" y1="228" x2="280" y2="220" stroke="url(#danger)" stroke-width="1.5" opacity="0.4" stroke-linecap="round"/>
+  <line x1="280" y1="272" x2="280" y2="280" stroke="url(#danger)" stroke-width="1.5" opacity="0.4" stroke-linecap="round"/>
+  <line x1="258" y1="250" x2="250" y2="250" stroke="url(#danger)" stroke-width="1.5" opacity="0.4" stroke-linecap="round"/>
+  <line x1="302" y1="250" x2="310" y2="250" stroke="url(#danger)" stroke-width="1.5" opacity="0.4" stroke-linecap="round"/>
+  <line x1="267" y1="237" x2="261" y2="231" stroke="url(#danger)" stroke-width="1.5" opacity="0.4" stroke-linecap="round"/>
+  <line x1="293" y1="263" x2="299" y2="269" stroke="url(#danger)" stroke-width="1.5" opacity="0.4" stroke-linecap="round"/>
+  <line x1="267" y1="263" x2="261" y2="269" stroke="url(#danger)" stroke-width="1.5" opacity="0.4" stroke-linecap="round"/>
+  <line x1="293" y1="237" x2="299" y2="231" stroke="url(#danger)" stroke-width="1.5" opacity="0.4" stroke-linecap="round"/>
+  <!-- Block X -->
+  <line x1="265" y1="235" x2="295" y2="265" stroke="url(#accent)" stroke-width="2.5" opacity="0.6" stroke-linecap="round"/>
+  <line x1="295" y1="235" x2="265" y2="265" stroke="url(#accent)" stroke-width="2.5" opacity="0.6" stroke-linecap="round"/>
+
+  <!-- Virus 2 - bottom left -->
+  <circle cx="320" cy="410" r="15" fill="none" stroke="url(#danger)" stroke-width="1.5" opacity="0.35"/>
+  <circle cx="320" cy="410" r="6" fill="url(#danger)" opacity="0.25"/>
+  <line x1="320" y1="392" x2="320" y2="385" stroke="url(#danger)" stroke-width="1.5" opacity="0.35" stroke-linecap="round"/>
+  <line x1="320" y1="428" x2="320" y2="435" stroke="url(#danger)" stroke-width="1.5" opacity="0.35" stroke-linecap="round"/>
+  <line x1="302" y1="410" x2="295" y2="410" stroke="url(#danger)" stroke-width="1.5" opacity="0.35" stroke-linecap="round"/>
+  <line x1="338" y1="410" x2="345" y2="410" stroke="url(#danger)" stroke-width="1.5" opacity="0.35" stroke-linecap="round"/>
+  <line x1="309" y1="399" x2="304" y2="394" stroke="url(#danger)" stroke-width="1.5" opacity="0.35" stroke-linecap="round"/>
+  <line x1="331" y1="421" x2="336" y2="426" stroke="url(#danger)" stroke-width="1.5" opacity="0.35" stroke-linecap="round"/>
+  <line x1="307" y1="397" x2="333" y2="423" stroke="url(#accent)" stroke-width="2" opacity="0.5" stroke-linecap="round"/>
+  <line x1="333" y1="397" x2="307" y2="423" stroke="url(#accent)" stroke-width="2" opacity="0.5" stroke-linecap="round"/>
+
+  <!-- Virus 3 - right top -->
+  <circle cx="920" cy="280" r="16" fill="none" stroke="url(#danger)" stroke-width="1.5" opacity="0.35"/>
+  <circle cx="920" cy="280" r="7" fill="url(#danger)" opacity="0.25"/>
+  <line x1="920" y1="260" x2="920" y2="253" stroke="url(#danger)" stroke-width="1.5" opacity="0.35" stroke-linecap="round"/>
+  <line x1="920" y1="300" x2="920" y2="307" stroke="url(#danger)" stroke-width="1.5" opacity="0.35" stroke-linecap="round"/>
+  <line x1="900" y1="280" x2="893" y2="280" stroke="url(#danger)" stroke-width="1.5" opacity="0.35" stroke-linecap="round"/>
+  <line x1="940" y1="280" x2="947" y2="280" stroke="url(#danger)" stroke-width="1.5" opacity="0.35" stroke-linecap="round"/>
+  <line x1="909" y1="269" x2="904" y2="264" stroke="url(#danger)" stroke-width="1.5" opacity="0.35" stroke-linecap="round"/>
+  <line x1="931" y1="291" x2="936" y2="296" stroke="url(#danger)" stroke-width="1.5" opacity="0.35" stroke-linecap="round"/>
+  <line x1="909" y1="291" x2="904" y2="296" stroke="url(#danger)" stroke-width="1.5" opacity="0.35" stroke-linecap="round"/>
+  <line x1="931" y1="269" x2="936" y2="264" stroke="url(#danger)" stroke-width="1.5" opacity="0.35" stroke-linecap="round"/>
+  <line x1="906" y1="266" x2="934" y2="294" stroke="url(#accent)" stroke-width="2" opacity="0.5" stroke-linecap="round"/>
+  <line x1="934" y1="266" x2="906" y2="294" stroke="url(#accent)" stroke-width="2" opacity="0.5" stroke-linecap="round"/>
+
+  <!-- Virus 4 - right bottom -->
+  <circle cx="880" cy="400" r="13" fill="none" stroke="url(#danger)" stroke-width="1.5" opacity="0.3"/>
+  <circle cx="880" cy="400" r="5" fill="url(#danger)" opacity="0.2"/>
+  <line x1="880" y1="384" x2="880" y2="378" stroke="url(#danger)" stroke-width="1.5" opacity="0.3" stroke-linecap="round"/>
+  <line x1="880" y1="416" x2="880" y2="422" stroke="url(#danger)" stroke-width="1.5" opacity="0.3" stroke-linecap="round"/>
+  <line x1="864" y1="400" x2="858" y2="400" stroke="url(#danger)" stroke-width="1.5" opacity="0.3" stroke-linecap="round"/>
+  <line x1="896" y1="400" x2="902" y2="400" stroke="url(#danger)" stroke-width="1.5" opacity="0.3" stroke-linecap="round"/>
+  <line x1="869" y1="389" x2="891" y2="411" stroke="url(#accent)" stroke-width="2" opacity="0.45" stroke-linecap="round"/>
+  <line x1="891" y1="389" x2="869" y2="411" stroke="url(#accent)" stroke-width="2" opacity="0.45" stroke-linecap="round"/>
+
+  <!-- Small virus top right -->
+  <circle cx="980" cy="220" r="10" fill="none" stroke="url(#danger)" stroke-width="1" opacity="0.25"/>
+  <circle cx="980" cy="220" r="4" fill="url(#danger)" opacity="0.2"/>
+  <line x1="980" y1="207" x2="980" y2="203" stroke="url(#danger)" stroke-width="1" opacity="0.25" stroke-linecap="round"/>
+  <line x1="980" y1="233" x2="980" y2="237" stroke="url(#danger)" stroke-width="1" opacity="0.25" stroke-linecap="round"/>
+  <line x1="967" y1="220" x2="963" y2="220" stroke="url(#danger)" stroke-width="1" opacity="0.25" stroke-linecap="round"/>
+  <line x1="993" y1="220" x2="997" y2="220" stroke="url(#danger)" stroke-width="1" opacity="0.25" stroke-linecap="round"/>
+
+  <!-- Small virus left middle -->
+  <circle cx="200" cy="350" r="11" fill="none" stroke="url(#danger)" stroke-width="1" opacity="0.25"/>
+  <circle cx="200" cy="350" r="4" fill="url(#danger)" opacity="0.2"/>
+  <line x1="200" y1="336" x2="200" y2="331" stroke="url(#danger)" stroke-width="1" opacity="0.25" stroke-linecap="round"/>
+  <line x1="200" y1="364" x2="200" y2="369" stroke="url(#danger)" stroke-width="1" opacity="0.25" stroke-linecap="round"/>
+  <line x1="186" y1="350" x2="181" y2="350" stroke="url(#danger)" stroke-width="1" opacity="0.25" stroke-linecap="round"/>
+  <line x1="214" y1="350" x2="219" y2="350" stroke="url(#danger)" stroke-width="1" opacity="0.25" stroke-linecap="round"/>
+
+  <!-- Central Shield -->
+  <path d="M600,195 L720,245 L720,380 Q720,455 600,490 Q480,455 480,380 L480,245 Z" fill="url(#bg)" stroke="url(#accent)" stroke-width="3"/>
+  <path d="M600,212 L707,258 L707,375 Q707,443 600,476 Q493,443 493,375 L493,258 Z" fill="url(#accent)" opacity="0.08"/>
+  <path d="M600,212 L707,258 L707,375 Q707,443 600,476 Q493,443 493,375 L493,258 Z" fill="none" stroke="url(#accent)" stroke-width="1.5" opacity="0.3"/>
+
   <!-- Checkmark inside shield -->
-  <path d="M555 285 L585 315 L650 245" stroke="#22c55e" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
-  <!-- Scanning lines -->
-  <g opacity="0.15">
-    <line x1="350" y1="180" x2="500" y2="220" stroke="#22c55e" stroke-width="1"/>
-    <line x1="350" y1="240" x2="500" y2="260" stroke="#22c55e" stroke-width="1"/>
-    <line x1="350" y1="300" x2="500" y2="300" stroke="#22c55e" stroke-width="1"/>
-    <line x1="350" y1="360" x2="500" y2="340" stroke="#22c55e" stroke-width="1"/>
-    <line x1="850" y1="180" x2="700" y2="220" stroke="#10b981" stroke-width="1"/>
-    <line x1="850" y1="240" x2="700" y2="260" stroke="#10b981" stroke-width="1"/>
-    <line x1="850" y1="300" x2="700" y2="300" stroke="#10b981" stroke-width="1"/>
-    <line x1="850" y1="360" x2="700" y2="340" stroke="#10b981" stroke-width="1"/>
-  </g>
-  <!-- Side nodes -->
-  <g opacity="0.4">
-    <circle cx="340" cy="180" r="5" fill="#22c55e"/>
-    <circle cx="340" cy="240" r="5" fill="#22c55e"/>
-    <circle cx="340" cy="300" r="5" fill="#22c55e"/>
-    <circle cx="340" cy="360" r="5" fill="#22c55e"/>
-    <circle cx="860" cy="180" r="5" fill="#10b981"/>
-    <circle cx="860" cy="240" r="5" fill="#10b981"/>
-    <circle cx="860" cy="300" r="5" fill="#10b981"/>
-    <circle cx="860" cy="360" r="5" fill="#10b981"/>
-  </g>
-  <!-- Text -->
-  <text x="600" y="480" font-family="system-ui, -apple-system, sans-serif" font-size="28" font-weight="700" fill="#fff" text-anchor="middle" letter-spacing="2">ANTIVIRUS &amp; SECURITY</text>
-  <text x="600" y="515" font-family="system-ui, -apple-system, sans-serif" font-size="16" fill="#94a3b8" text-anchor="middle" letter-spacing="4">DIGITAL SHIELD PRO</text>
+  <path d="M555,340 L585,375 L650,295" fill="none" stroke="url(#accent)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
+  <path d="M555,340 L585,375 L650,295" fill="none" stroke="url(#accent)" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" opacity="0.15"/>
+
+  <!-- Shield accent lines -->
+  <path d="M600,205 L712,250" stroke="white" stroke-width="1" opacity="0.12"/>
+  <path d="M600,205 L488,250" stroke="white" stroke-width="1" opacity="0.12"/>
+
+  <!-- Small shield icons -->
+  <path d="M150,220 L170,228 L170,245 Q170,255 160,260 Q150,255 150,245 Z" fill="none" stroke="url(#accent)" stroke-width="1" opacity="0.2"/>
+  <path d="M1040,370 L1060,378 L1060,395 Q1060,405 1050,410 Q1040,405 1040,395 Z" fill="none" stroke="url(#accent)" stroke-width="1" opacity="0.2"/>
+  <path d="M1070,250 L1085,256 L1085,268 Q1085,276 1077,280 Q1070,276 1070,268 Z" fill="none" stroke="url(#accent)" stroke-width="1" opacity="0.15"/>
+
+  <!-- Glow behind shield -->
+  <circle cx="600" cy="345" r="160" fill="url(#accent)" opacity="0.04"/>
+  <circle cx="600" cy="345" r="110" fill="url(#accent)" opacity="0.03"/>
 </svg>
