@@ -2,7 +2,7 @@
 title: "Best Antivirus for Mac 2026: Top Picks for macOS Security"
 date: 2026-02-24T14:00:00+01:00
 description: "The best antivirus software for Mac in 2026. We tested and compared top macOS security suites including Bitdefender, Kaspersky, ESET, and more."
-categories: ["ai-tools"]
+categories: ["antivirus"]
 tags: ["mac antivirus", "macos security", "antivirus for mac", "mac malware protection"]
 keywords: ["best antivirus for mac 2026", "mac antivirus", "macos security software", "do macs need antivirus", "best mac security"]
 affiliate: true

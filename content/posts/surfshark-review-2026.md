@@ -26,7 +26,7 @@ faq:
     a: "Surfshark is a VPN and does not include a dedicated password manager. For password management, consider a dedicated solution like NordPass or check out standalone password manager reviews."
 ---
 
-# Surfshark VPN Review 2026: Best Budget VPN Tested
+## Surfshark VPN Review 2026: Best Budget VPN Tested
 
 <div class="rating">⭐⭐⭐⭐ 8.8/10</div>
 

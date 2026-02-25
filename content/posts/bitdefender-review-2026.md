@@ -2,7 +2,7 @@
 title: "Bitdefender Total Security Review 2026: Still the Best Antivirus?"
 date: 2026-02-24T12:00:00+01:00
 description: "Our in-depth Bitdefender Total Security review after months of testing. We cover protection rates, performance impact, features, and pricing."
-categories: ["ai-tools"]
+categories: ["antivirus"]
 tags: ["Bitdefender", "antivirus", "review", "malware protection", "cybersecurity"]
 keywords: ["Bitdefender review 2026", "Bitdefender Total Security review", "is Bitdefender good", "Bitdefender vs Norton", "best antivirus 2026"]
 affiliate: true

@@ -2,7 +2,7 @@
 title: "Kaspersky Antivirus Review 2026: Is It Safe to Use?"
 date: 2026-02-24T11:00:00+01:00
 description: "In-depth Kaspersky antivirus review for 2026. We examine malware detection, performance impact, the Russia controversy, and whether Kaspersky is still safe to use."
-categories: ["ai-tools"]
+categories: ["antivirus"]
 tags: ["kaspersky", "antivirus review", "malware protection", "internet security"]
 keywords: ["kaspersky review 2026", "is kaspersky safe", "kaspersky antivirus", "kaspersky vs bitdefender", "kaspersky banned"]
 affiliate: true

@@ -48,11 +48,6 @@
       "@type": "Organization",
       "name": "{{ .Site.Title }}",
       "url": "{{ .Site.BaseURL }}"
-    },
-    "potentialAction": {
-      "@type": "SearchAction",
-      "target": "{{ .Site.BaseURL }}?q={search_term_string}",
-      "query-input": "required name=search_term_string"
     }
   }
   </script>
@@ -60,7 +55,7 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "{{ if .Params.affiliate }}ReviewNewsArticle{{ else }}Article{{ end }}",
+    "@type": "Article",
     "headline": "{{ .Title }}",
     "description": "{{ .Description }}",
     "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
