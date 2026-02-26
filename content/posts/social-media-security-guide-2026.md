@@ -6,6 +6,8 @@ categories: ["privacy"]
 tags: ["social media security", "account security", "2FA", "privacy settings", "hacking prevention"]
 keywords: ["secure social media accounts", "social media hacking prevention", "protect Instagram account", "social media privacy 2026"]
 affiliate: true
+author: "James Mitchell"
+author_bio: "Cybersecurity analyst with 8 years of hands-on experience testing VPNs, antivirus software, and privacy tools."
 featured_image: "/images/categories/privacy.svg"
 faq:
   - q: "How do social media accounts get hacked?"
@@ -22,9 +24,7 @@ faq:
     a: "Essential changes: set your profile to private (or friends-only), disable location sharing, limit who can see your friends list, turn off facial recognition, review and remove third-party app connections, disable search engine indexing of your profile, and restrict who can send you DMs/friend requests."
 ---
 
-Your social media accounts contain more personal information than you probably realize: your real name, photos, location history, private messages, financial details, and connections to friends and family. A compromised account doesn't just affect you — it gives attackers a platform to scam everyone you know.
-
-Here's how to lock down every major platform in under 30 minutes.
+A friend of mine had their Instagram hacked last year, and within hours the attacker was DMing everyone in their contact list with a crypto scam. The damage was not just personal -- it burned trust with dozens of people. Your social media accounts hold more data than you think, and a compromised account turns you into a weapon against everyone you know. Here is how I lock down every platform, and you can do it in under 30 minutes.
 
 *This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
 

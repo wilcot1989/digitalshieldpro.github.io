@@ -15,6 +15,8 @@ keywords:
   - how to enable 2FA
   - two-factor authentication guide
 affiliate: true
+author: "James Mitchell"
+author_bio: "Cybersecurity analyst with 8 years of hands-on experience testing VPNs, antivirus software, and privacy tools."
 featured_image: "/images/categories/privacy.svg"
 faq:
   - question: "What is two-factor authentication (2FA)?"
@@ -35,9 +37,9 @@ faq:
     answer: "Hardware security keys like YubiKey are physical USB or NFC devices that you plug into your computer or tap against your phone when logging in. They use the FIDO2/WebAuthn protocol to cryptographically verify your identity. The key communicates directly with the legitimate website, making it impossible for phishing sites to intercept the authentication. Most keys cost between $25 and $70."
 ---
 
-Two-factor authentication is the single most effective step you can take to protect your online accounts. Even if a hacker obtains your password through a data breach, phishing attack, or brute force, they still cannot access your account without the second verification factor. Yet despite being available on nearly every major platform, most people still have not enabled 2FA on their most important accounts.
+If I could force everyone to do one single thing for their security, it would be enabling two-factor authentication on every account. I have hardware YubiKeys on my keychain, authenticator apps on my phone, and 2FA on literally every service that supports it. Even when my credentials have appeared in breach databases, 2FA stopped attackers cold every time.
 
-This guide walks you through setting up two-factor authentication on every major platform, explains the different types of 2FA and which is most secure, and gives you a priority list for which accounts to protect first. By the time you finish reading, you will have no excuse for leaving your accounts vulnerable.
+This guide walks you through setting up 2FA on every major platform, explains which types are actually secure (hint: not SMS), and gives you my priority list for which accounts to lock down first.
 
 ## Types of Two-Factor Authentication
 

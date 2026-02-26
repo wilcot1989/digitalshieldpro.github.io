@@ -6,6 +6,8 @@ categories: ["security-software"]
 tags: ["small business security", "cybersecurity SMB", "business antivirus", "employee training", "compliance"]
 keywords: ["cybersecurity small business", "SMB security guide 2026", "small business antivirus", "business security tools"]
 affiliate: true
+author: "James Mitchell"
+author_bio: "Cybersecurity analyst with 8 years of hands-on experience testing VPNs, antivirus software, and privacy tools."
 featured_image: "/images/categories/security-software.svg"
 faq:
   - q: "How much should a small business spend on cybersecurity?"
@@ -22,9 +24,7 @@ faq:
     a: "Yes, especially if you handle customer data, process payments, or would be significantly impacted by downtime. Cyber insurance costs €500-€2,000/year for small businesses and covers breach response costs, legal fees, notification expenses, and business interruption losses. Many policies also include incident response services."
 ---
 
-Small businesses are the #1 target for cybercriminals — not banks, not governments, not tech companies. Why? Because small businesses often have valuable data but limited security. One ransomware attack costs an average of €120,000 and puts many SMBs out of business entirely.
-
-The good news: protecting your business doesn't require an enterprise budget. Here's your complete guide to affordable, effective cybersecurity.
+I consult with small businesses on security, and the pattern is always the same: they assume attackers only go after big companies. Then a single phishing email leads to ransomware, and suddenly they are staring at a €120,000 recovery bill. Small businesses are the #1 target precisely because they have valuable data and minimal defenses. The good news is that fixing this does not require an enterprise budget -- here is exactly what to do.
 
 *This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
 

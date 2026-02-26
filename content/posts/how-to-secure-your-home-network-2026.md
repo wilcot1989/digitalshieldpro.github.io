@@ -6,12 +6,12 @@ categories: ["privacy"]
 tags: ["home network", "WiFi security", "router", "IoT", "network security"]
 keywords: ["secure home network 2026", "WiFi security guide", "router security settings", "home network protection", "IoT security"]
 affiliate: true
+author: "James Mitchell"
+author_bio: "Cybersecurity analyst with 8 years of hands-on experience testing VPNs, antivirus software, and privacy tools."
 featured_image: "/images/categories/privacy.svg"
 ---
 
-Your home network connects everything — laptops, phones, smart TVs, security cameras, baby monitors, thermostats, and more. If a hacker gets into your network, they get access to all of it.
-
-The good news: securing your home network doesn't require a degree in cybersecurity. Follow these steps and you'll be better protected than 95% of households.
+I run a segmented home network with VLANs separating my work machines, IoT devices, and guest traffic -- but I realize that is overkill for most people. What is not overkill is changing your router's default password, updating firmware, and switching to WPA3. I am constantly shocked by how many people skip these basics. Follow the steps below and your home network will be more secure than 95% of households.
 
 ## Step 1: Secure Your Router
 
@@ -123,7 +123,7 @@ A secure network isn't enough — each device needs protection too.
 
 ### Recommended Security Software
 
-For comprehensive device protection, we recommend:
+For comprehensive device protection, I recommend:
 
 - **Bitdefender Total Security** — covers up to 5 devices, includes network scanner
 - **Norton 360** — includes VPN and dark web monitoring

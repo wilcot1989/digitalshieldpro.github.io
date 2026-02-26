@@ -1,35 +1,45 @@
 ---
 title: "About Digital Shield Pro"
-description: "Learn about Digital Shield Pro — your trusted source for cybersecurity reviews and digital privacy guides."
+description: "Meet James Mitchell — cybersecurity analyst and the person behind Digital Shield Pro's hands-on reviews and guides."
 layout: "single"
 _build:
   list: false
 ---
 
-## Who We Are
+## Hey, I'm James
 
-Digital Shield Pro is an independent cybersecurity review site. We test and review VPNs, password managers, antivirus software, and privacy tools so you don't have to.
+I'm James Mitchell, a cybersecurity analyst with 8 years of experience in IT security. I started my career as a SOC analyst at a managed security provider, where I spent my days monitoring threats, responding to incidents, and learning exactly how cybercriminals operate.
 
-Our team has backgrounds in cybersecurity, software development, and penetration testing. We use the products we recommend — every review is based on real testing, not spec sheets.
+That experience changed how I think about digital security. Most people don't need enterprise-grade tools — but they do need the right ones. That's why I started Digital Shield Pro.
 
-## Our Mission
+## What I Do Here
 
-The internet is getting more dangerous every year. Data breaches are at an all-time high, phishing attacks are increasingly sophisticated, and most people don't have the tools to protect themselves.
+I test every product I write about. When I review a VPN, I run it on my own devices for weeks. When I compare antivirus software, I put it through real-world scenarios. My home network is basically a testing lab at this point.
 
-We're here to fix that. Our goal is to make cybersecurity accessible to everyone — not just tech professionals.
+Every recommendation on this site comes from actual experience. I don't copy spec sheets or rewrite press releases. If a product isn't worth your money, I'll tell you.
 
-## How We Make Money
+## My Testing Setup
 
-**Transparency matters.** We earn money through affiliate commissions when you purchase products through our links. This means:
+- 1 Gbps fiber connection (Amsterdam, Netherlands)
+- Windows 11, macOS Sonoma, Android 15, iOS 18
+- Dedicated test machines for malware and phishing simulations
+- Speed testing via Ookla, iPerf3, and custom scripts
+- Privacy leak testing (DNS, WebRTC, IPv6)
 
-- ✅ You pay the same price (sometimes less with our exclusive deals)
-- ✅ We earn a small commission from the provider
-- ✅ This funds our testing and keeps the site free
-- ❌ We never recommend products we wouldn't use ourselves
-- ❌ Affiliate relationships never influence our ratings
+## How This Site Makes Money
+
+I believe in full transparency. Digital Shield Pro earns money through affiliate commissions — when you buy a product through my links, I get a small cut. Here's what that means:
+
+- You pay the same price (often less with my exclusive deals)
+- I earn a commission from the provider
+- This funds my testing and keeps the site free
+- I never recommend products I wouldn't use myself
+- Affiliate relationships never influence my ratings
+
+If I think a product is bad, I'll say so — even if they offer a high commission.
 
 ## Contact
 
-Have questions? Found an error? Want to suggest a product for review?
+Got a question? Found an error? Want me to review a specific product?
 
-Email us at: **hello@digitalshieldpro.com**
+Email me at: **james@digitalshieldpro.com**

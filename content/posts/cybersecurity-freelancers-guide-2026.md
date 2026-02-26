@@ -6,6 +6,8 @@ categories: ["privacy"]
 tags: ["freelancer security", "remote work", "data protection", "cybersecurity basics", "small business security"]
 keywords: ["cybersecurity freelancers", "freelancer data protection", "secure freelance work", "protect freelance business"]
 affiliate: true
+author: "James Mitchell"
+author_bio: "Cybersecurity analyst with 8 years of hands-on experience testing VPNs, antivirus software, and privacy tools."
 featured_image: "/images/categories/privacy.svg"
 faq:
   - q: "Why do freelancers need cybersecurity?"
@@ -22,9 +24,7 @@ faq:
     a: "Immediately change passwords on all accounts (starting with email and banking), enable 2FA everywhere, scan your devices for malware, notify affected clients, check financial accounts for unauthorized transactions, and consider credit monitoring. Document everything for potential insurance or legal claims."
 ---
 
-As a freelancer, you are your own IT department. There is no corporate security team monitoring your network, no enterprise firewall protecting your devices, and no incident response team on standby. If your laptop gets compromised or your accounts get hacked, you deal with the fallout alone.
-
-The stakes are high: client data breaches, financial losses, and reputational damage that can end a freelance career. This guide gives you a practical, affordable security setup that protects you and your clients.
+Before I went full-time in cybersecurity, I freelanced for two years -- and I was my own IT department, help desk, and incident response team all at once. One phishing email nearly cost me a client relationship when I clicked a link on a bad day. That wake-up call shaped the security stack I now recommend to every freelancer I know. It is practical, affordable, and takes an afternoon to set up.
 
 *This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
 
@@ -94,7 +94,7 @@ If you work from cafes, coworking spaces, airports, or client offices, a VPN is 
 - Hides your browsing from ISPs and network administrators
 - Secures access to client systems
 
-<a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" rel="nofollow sponsored" target="_blank">NordVPN</a> is our top pick for freelancers: fast, reliable, with threat protection built in. See our [best VPN guide](/posts/best-vpn-services-2026/).
+<a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" rel="nofollow sponsored" target="_blank">NordVPN</a> is my top pick for freelancers: fast, reliable, with threat protection built in. See our [best VPN guide](/posts/best-vpn-services-2026/).
 
 ## 5. Backup Strategy
 

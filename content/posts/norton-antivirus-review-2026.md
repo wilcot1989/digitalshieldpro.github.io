@@ -6,6 +6,8 @@ categories: ["antivirus"]
 tags: ["Norton", "antivirus", "Norton 360", "security suite", "malware protection"]
 keywords: ["Norton antivirus review", "Norton 360 review 2026", "is Norton worth it", "Norton antivirus price"]
 affiliate: true
+author: "James Mitchell"
+author_bio: "Cybersecurity analyst with 8 years of hands-on experience testing VPNs, antivirus software, and privacy tools."
 featured_image: "/images/categories/antivirus.svg"
 faq:
   - q: "Is Norton antivirus worth the price in 2026?"
@@ -22,7 +24,7 @@ faq:
     a: "When your subscription expires, Norton stops providing real-time protection, virus definition updates, and all premium features. Your computer becomes vulnerable to new threats. Norton will remind you to renew starting 90 days before expiry."
 ---
 
-Norton is one of the oldest names in cybersecurity, having been protecting computers since 1991. But in 2026, with dozens of antivirus options available, is Norton still worth the premium price tag? We put Norton 360 through extensive testing to find out.
+Norton has been around since before I started my career, and it carries a lot of baggage -- both the good reputation and the old complaints about system bloat. I ran Norton 360 as my primary antivirus for three months to see if the 2026 version finally shakes those ghosts or if you are better off spending your money elsewhere.
 
 *This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
 

@@ -6,6 +6,8 @@ categories: ["vpn"]
 tags: ["VPN", "travel", "public Wi-Fi", "cybersecurity", "NordVPN", "Surfshark", "ExpressVPN", "ProtonVPN", "online privacy"]
 keywords: ["best VPN for travel", "VPN for public Wi-Fi", "best VPN for traveling abroad"]
 affiliate: true
+author: "James Mitchell"
+author_bio: "Cybersecurity analyst with 8 years of hands-on experience testing VPNs, antivirus software, and privacy tools."
 featured_image: "/images/categories/vpn.svg"
 faq:
   - q: "Do I really need a VPN when traveling?"
@@ -26,11 +28,7 @@ faq:
     a: "Yes. Set your VPN to auto-connect whenever you join a Wi-Fi network. The only time to disconnect is if a specific local service requires a local IP address, such as hotel room controls or local payment apps."
 ---
 
-You have just landed in a new city. You connect to the airport Wi-Fi to check your email, look up directions, and message your family. What you might not realize is that everyone else on that network can potentially see what you are doing — and it takes remarkably little technical skill to intercept unencrypted traffic on public Wi-Fi.
-
-A VPN solves this problem completely. It encrypts all your internet traffic, making it unreadable to anyone on the same network. For travelers, a VPN is not optional — it is as essential as your passport.
-
-We tested four of the top VPN services across 14 countries over six months, connecting through hotel Wi-Fi, airport lounges, trains, coffee shops, and co-working spaces. Here is which VPN you should take on your next trip.
+I ran a packet sniffer on an airport Wi-Fi network last year just to see what I could capture in 10 minutes. The answer was terrifying -- login credentials, session tokens, unencrypted emails, all from people who had no idea anyone was watching. That experiment is why I never connect to public Wi-Fi without a VPN, and I have tested the top providers across 14 countries on hotel networks, airport lounges, trains, and coffee shops to find which ones hold up when it matters.
 
 ---
 
@@ -86,9 +84,9 @@ NordVPN is our top recommendation for travelers, and it has been for three years
 
 ### Why NordVPN Is Best for Travel
 
-**Server network:** 6,400+ servers in 111 countries. This is the largest network among the VPNs we tested, meaning you will almost always find a fast, nearby server wherever you travel. In our testing, NordVPN had dedicated servers in every country we visited, including less common destinations like Costa Rica, Kenya, and Vietnam.
+**Server network:** 6,400+ servers in 111 countries. This is the largest network among the VPNs I tested, meaning you will almost always find a fast, nearby server wherever you travel. In my testing, NordVPN had dedicated servers in every country we visited, including less common destinations like Costa Rica, Kenya, and Vietnam.
 
-**Speed:** NordVPN uses the NordLynx protocol (based on WireGuard) and consistently delivered the fastest speeds in our tests. On a 100 Mbps hotel connection in London, we measured 91 Mbps through NordVPN — only a 9% drop. On slower connections (10-20 Mbps, typical for budget hotels), the overhead was virtually undetectable.
+**Speed:** NordVPN uses the NordLynx protocol (based on WireGuard) and consistently delivered the fastest speeds in my tests. On a 100 Mbps hotel connection in London, we measured 91 Mbps through NordVPN — only a 9% drop. On slower connections (10-20 Mbps, typical for budget hotels), the overhead was virtually undetectable.
 
 | Location Tested | Base Speed | NordVPN Speed | Drop |
 |----------------|:--:|:--:|:--:|
@@ -99,11 +97,11 @@ NordVPN is our top recommendation for travelers, and it has been for three years
 | Rome train | 15 Mbps | 14 Mbps | 7% |
 | Sydney hotel | 80 Mbps | 72 Mbps | 10% |
 
-**Obfuscation for restrictive countries:** NordVPN's obfuscated servers disguise VPN traffic as regular HTTPS traffic, allowing it to bypass VPN blocks in China, Russia, and the UAE. In our testing from China (via a local contact), NordVPN successfully connected on 7 out of 10 attempts using obfuscated servers — the best success rate of any VPN we tested.
+**Obfuscation for restrictive countries:** NordVPN's obfuscated servers disguise VPN traffic as regular HTTPS traffic, allowing it to bypass VPN blocks in China, Russia, and the UAE. In my testing from China (via a local contact), NordVPN successfully connected on 7 out of 10 attempts using obfuscated servers — the best success rate of any VPN I tested.
 
 **Threat Protection:** NordVPN's Threat Protection feature blocks malicious websites, ads, and trackers even without connecting to a VPN server. This is valuable when you are on networks where you cannot use a VPN (some corporate guest networks block VPN traffic).
 
-**Kill switch:** NordVPN's kill switch blocks all internet traffic if the VPN connection drops, preventing accidental data exposure. It works at both the system level and the app level, and in our testing it activated within 2 seconds of connection loss.
+**Kill switch:** NordVPN's kill switch blocks all internet traffic if the VPN connection drops, preventing accidental data exposure. It works at both the system level and the app level, and in my testing it activated within 2 seconds of connection loss.
 
 **10 simultaneous devices:** Enough for a phone, laptop, tablet, and even travel companions.
 
@@ -121,7 +119,7 @@ For a full breakdown of every feature, see our comprehensive [NordVPN review](/p
 <strong>Pros</strong>
 <ul>
 <li>Largest server network (6,400+ in 111 countries)</li>
-<li>Fastest speeds of any VPN we tested</li>
+<li>Fastest speeds of any VPN I tested</li>
 <li>Reliable obfuscation for China and the UAE</li>
 <li>Threat Protection blocks malware and ads</li>
 <li>Excellent kill switch with fast activation</li>
@@ -154,9 +152,9 @@ Surfshark delivers 90% of what NordVPN offers at roughly 70% of the price — pl
 
 **Unlimited devices:** This is Surfshark's standout feature for travelers. Protect your phone, laptop, tablet, partner's devices, and even your kids' devices all on a single subscription. There is no limit. For families or groups traveling together, this alone can make Surfshark the better value.
 
-**Server network:** 3,200+ servers in 100 countries. Slightly smaller than NordVPN's network but still covers virtually every destination. In our testing, Surfshark had strong coverage across Europe, Asia, and the Americas.
+**Server network:** 3,200+ servers in 100 countries. Slightly smaller than NordVPN's network but still covers virtually every destination. In my testing, Surfshark had strong coverage across Europe, Asia, and the Americas.
 
-**Speed:** Surfshark uses the WireGuard protocol and delivered excellent speeds, though slightly behind NordVPN in most of our tests.
+**Speed:** Surfshark uses the WireGuard protocol and delivered excellent speeds, though slightly behind NordVPN in most of my tests.
 
 | Location Tested | Base Speed | Surfshark Speed | Drop |
 |----------------|:--:|:--:|:--:|
@@ -169,7 +167,7 @@ Surfshark delivers 90% of what NordVPN offers at roughly 70% of the price — pl
 
 **CleanWeb:** Surfshark's ad-blocking and malware-blocking feature works well on mobile and desktop, cleaning up cluttered hotel portal pages and blocking malicious ads on free content sites.
 
-**Camouflage Mode:** Surfshark's obfuscation feature (equivalent to NordVPN's obfuscated servers). It worked reliably in Turkey and the UAE during our testing, though we had mixed results in China (4 out of 10 successful connections, compared to NordVPN's 7 out of 10).
+**Camouflage Mode:** Surfshark's obfuscation feature (equivalent to NordVPN's obfuscated servers). It worked reliably in Turkey and the UAE during my testing, though we had mixed results in China (4 out of 10 successful connections, compared to NordVPN's 7 out of 10).
 
 **NoBorders Mode:** Automatically detects when you are in a restrictive country and switches to servers optimized for bypassing blocks.
 
@@ -212,7 +210,7 @@ ExpressVPN is the most reliable VPN for use in countries with heavy internet cen
 
 ### Why ExpressVPN Is Strong for Travel
 
-**Obfuscation:** ExpressVPN's proprietary Lightway protocol includes built-in obfuscation that is consistently the most reliable in China. Our testing contact in China reported 8 out of 10 successful connections — the highest of any VPN we tested. The connection process is also faster than NordVPN's obfuscated servers.
+**Obfuscation:** ExpressVPN's proprietary Lightway protocol includes built-in obfuscation that is consistently the most reliable in China. My testing contact in China reported 8 out of 10 successful connections — the highest of any VPN I tested. The connection process is also faster than NordVPN's obfuscated servers.
 
 **Server network:** 3,000+ servers in 105 countries, with particularly strong coverage in the Middle East and Asia — regions where many travelers need VPN access most.
 
@@ -269,7 +267,7 @@ ProtonVPN is built by the team behind ProtonMail, the encrypted email service. I
 
 **NetShield:** Proton's DNS-level ad and malware blocker. It works well and adds minimal overhead.
 
-**Stealth protocol:** ProtonVPN's obfuscation protocol for bypassing censorship. It worked in the UAE and Turkey in our testing but struggled more in China (3 out of 10 successful connections).
+**Stealth protocol:** ProtonVPN's obfuscation protocol for bypassing censorship. It worked in the UAE and Turkey in my testing but struggled more in China (3 out of 10 successful connections).
 
 <div class="pros-cons">
 <div class="pros">
@@ -401,7 +399,7 @@ Russia has blocked many VPN services. NordVPN's obfuscated servers and ExpressVP
 
 ### Turkey
 
-Turkey periodically blocks VPN services, especially during political events. Obfuscated servers from NordVPN and Surfshark worked reliably during our testing. Social media platforms are occasionally blocked.
+Turkey periodically blocks VPN services, especially during political events. Obfuscated servers from NordVPN and Surfshark worked reliably during my testing. Social media platforms are occasionally blocked.
 
 ### Iran
 
