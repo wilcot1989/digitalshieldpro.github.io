@@ -26,8 +26,6 @@ faq:
 
 I ditched Chrome two years ago after running a packet capture and seeing just how much telemetry it sends back to Google. Every search, every site, every click -- all of it phoned home. Switching to a privacy-focused browser was one of the easiest security wins I have ever made, and I have tested every serious option since. Here is what I actually use and recommend.
 
-*This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
-
 For complete online privacy, combine a privacy browser with a [VPN service](/posts/best-vpn-services-2026/) and a [password manager](/posts/best-password-managers-2026/).
 
 ## Quick Comparison

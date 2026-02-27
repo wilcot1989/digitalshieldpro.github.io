@@ -26,8 +26,6 @@ faq:
 
 I set up parental controls for friends and family all the time, and the questions are always the same: will my kid bypass it, does it actually work, and will it spy on them too much? After testing over a dozen apps on real devices with real kids in the loop, I can tell you which ones strike the right balance between safety and age-appropriate freedom.
 
-*This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
-
 ## Best Parental Control Apps 2026
 
 | App | Best For | Price/year | Platforms | Content Filter | Screen Time | Location |

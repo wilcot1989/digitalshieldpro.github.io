@@ -26,8 +26,6 @@ faq:
 
 I recently received a phone call that sounded exactly like a colleague asking me to verify a wire transfer. The voice was perfect -- tone, cadence, even the way he pauses mid-sentence. It was a deepfake. AI-generated voice cloning now needs as little as three seconds of audio to produce a convincing replica, and deepfake fraud losses exceeded $25 billion globally in 2025-2026. This is the threat that keeps me up at night, and here is how to defend against it.
 
-*This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
-
 For broader online safety, see our [complete privacy protection guide](/posts/protect-online-privacy-2026/) and [phishing protection guide](/posts/how-to-report-phishing-2026/).
 
 ## How Deepfake Scams Work

@@ -5,7 +5,7 @@ theme = "starter"
 
 [params]
   description = "Expert reviews and guides on VPNs, password managers, AI security tools, and online privacy. Protect your digital life."
-  author = "Digital Shield Pro"
+  author = "James Mitchell"
   tagline = "Your Trusted Guide to Digital Security"
 
 [markup]

@@ -32,8 +32,6 @@ After auditing dozens of home networks for friends, family, and readers, the sam
 
 This guide walks you through securing your home network in 7 concrete steps. No expensive equipment required. If you follow everything below, your network will be more secure than 95% of households. That is not a guess -- it is based on what I see when I scan the networks around me.
 
-*This article contains affiliate links. I earn a small commission if you purchase through my links, at no extra cost to you.*
-
 ## Step 1: Lock Down Your Router (The Most Important Step)
 
 Your router is the single point of entry to your entire home network. Every device, every byte of traffic passes through it. And yet, most people never touch the settings after plugging it in. That is like leaving your front door unlocked because the key was inconvenient.

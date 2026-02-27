@@ -26,8 +26,6 @@ faq:
     a: "Yes. Even if all your work is done in a browser on cloud platforms, your device can still be infected with keyloggers, screen capture malware, or browser-hijacking extensions that steal credentials. Endpoint protection remains essential regardless of where your data is stored."
 ---
 
-*This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
-
 I work from home and I have seen firsthand how different the threat landscape is when you are outside a corporate network. No enterprise firewall, no managed switches, no SOC watching for anomalies. Attacks targeting remote workers jumped **238%** in 2025, and most home offices have security gaps I could exploit in minutes.
 
 The good news: locking down your home office takes an afternoon, not an IT degree. This guide covers every layer of protection I use in my own setup.

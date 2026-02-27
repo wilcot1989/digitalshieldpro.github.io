@@ -26,8 +26,6 @@ faq:
 
 I audit home WiFi networks for friends and family all the time, and the mistakes I find are almost always the same: default router password, WPS enabled, firmware from 2021, and a WiFi password that is the family dog's name. Any of those alone is enough for a determined attacker to own your entire network. The good news: fixing all of it takes about 30 minutes and costs nothing.
 
-*This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
-
 For a complete network security setup, see our [home network security guide](/posts/secure-home-network-2026/).
 
 ## WiFi Security Checklist

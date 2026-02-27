@@ -26,8 +26,6 @@ NordVPN vs ExpressVPN -- I get asked about this matchup more than any other VPN 
 
 The short version? NordVPN wins for most people. It is faster, nearly half the price, and has been audited three times more than ExpressVPN. But there are specific scenarios where ExpressVPN genuinely earns its premium. I will break down exactly when each VPN makes sense so you can stop second-guessing and just pick one.
 
-*This article contains affiliate links. I earn a small commission if you purchase through my links, at no extra cost to you.*
-
 ## NordVPN vs ExpressVPN: Full Comparison at a Glance
 
 Before diving into the details, here is how these two stack up across every category that matters.

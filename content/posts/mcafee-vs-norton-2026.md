@@ -26,8 +26,6 @@ faq:
 
 McAfee and Norton have both been around since I was a kid, and most people pick between them based on name recognition alone. That is a mistake. I installed both on identical test machines and ran them head-to-head for two months -- same malware samples, same benchmarks, same real-world workloads. The differences are more significant than you might expect.
 
-*This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
-
 Want more options? See our complete [best antivirus software guide](/posts/best-antivirus-software-2026/) or read our [Bitdefender vs Norton comparison](/posts/bitdefender-vs-norton-2026/).
 
 ## Head-to-Head Comparison
