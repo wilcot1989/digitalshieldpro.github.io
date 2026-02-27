@@ -2,6 +2,7 @@
 title: "Privacy Policy"
 description: "Privacy policy for Digital Shield Pro."
 layout: "single"
+noindex: true
 _build:
   list: false
 ---
