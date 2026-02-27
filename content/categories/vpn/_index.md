@@ -1,5 +1,4 @@
 ---
-
 title: "Best VPNs in 2026"
 description: "Expert VPN reviews and comparisons to help you find the best VPN for privacy, streaming, and security in 2026."
 keywords: ["best VPN 2026", "VPN reviews", "VPN comparison", "fastest VPN", "VPN for streaming"]

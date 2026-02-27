@@ -1,5 +1,4 @@
 ---
-
 title: "AI Security & Antivirus Software in 2026"
 description: "Reviews of AI-powered cybersecurity tools and antivirus software. Bitdefender, Norton, Kaspersky, and more — tested and compared."
 keywords: ["best antivirus 2026", "AI security tools", "antivirus comparison", "best malware protection", "AI threat detection"]

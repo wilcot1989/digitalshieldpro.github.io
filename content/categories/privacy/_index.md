@@ -1,5 +1,4 @@
 ---
-
 title: "Online Privacy & Security Guides"
 description: "Comprehensive guides on protecting your online privacy, securing your accounts, avoiding phishing scams, and staying safe in 2026."
 keywords: ["online privacy guide", "cybersecurity tips", "phishing protection", "home network security", "encrypted email", "secure messaging"]

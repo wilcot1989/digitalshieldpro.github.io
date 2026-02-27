@@ -1,5 +1,4 @@
 ---
-
 title: "Best Password Managers in 2026"
 description: "In-depth reviews and comparisons of the top password managers to keep your accounts secure. Comparing 1Password, Bitwarden, Dashlane, and NordPass."
 keywords: ["best password manager 2026", "password manager reviews", "1Password vs Bitwarden", "password manager comparison"]

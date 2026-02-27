@@ -66,11 +66,7 @@
       "@type": "Organization",
       "name": "{{ .Site.Title }}",
       "url": "{{ .Site.BaseURL }}"
-    },
-    "potentialAction": {
-      "@type": "SearchAction",
-      "target": "{{ .Site.BaseURL }}search/?q={search_term_string}",
-      "query-input": "required name=search_term_string"
+
     }
   }
   </script>
@@ -99,7 +95,7 @@
     }
   }
   </script>
-  {{ else if .IsSection }}
+  {{ else if and .IsNode (not .IsHome) }}
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -111,7 +107,7 @@
   </script>
   {{ end }}
 
-  {{ if or .IsPage .IsSection }}
+  {{ if and (or .IsPage .IsNode) (not .IsHome) }}
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",

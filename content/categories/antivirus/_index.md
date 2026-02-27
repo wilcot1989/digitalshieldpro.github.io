@@ -1,5 +1,4 @@
 ---
-
 title: "Best Antivirus Software in 2026"
 description: "Hands-on antivirus reviews and comparisons focused on real-world protection, speed impact, and long-term value."
 keywords: ["best antivirus 2026", "antivirus reviews", "best antivirus for mac", "best antivirus for windows"]
