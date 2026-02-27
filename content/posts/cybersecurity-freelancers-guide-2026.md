@@ -26,8 +26,6 @@ faq:
 
 Before I went full-time in cybersecurity, I freelanced for two years -- and I was my own IT department, help desk, and incident response team all at once. One phishing email nearly cost me a client relationship when I clicked a link on a bad day. That wake-up call shaped the security stack I now recommend to every freelancer I know. It is practical, affordable, and takes an afternoon to set up.
 
-*This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
-
 Working remotely? See our [remote work security guide](/posts/remote-work-security-guide-2026/) for additional tips.
 
 ## The Freelancer Security Stack

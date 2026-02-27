@@ -2,22 +2,23 @@
 title: "Privacy Policy"
 description: "Privacy policy for Digital Shield Pro."
 layout: "single"
+noindex: true
 _build:
   list: false
 ---
 
-*Last updated: February 16, 2026*
+*Last updated: February 27, 2026*
 
 ## Information We Collect
 
 Digital Shield Pro is a static website. We do not collect personal information directly. However:
 
-- **Analytics:** We may use privacy-friendly analytics to understand which articles are helpful.
+- **Optional analytics:** If you click **Accept** in our cookie banner, Google Analytics may collect aggregated usage data (such as page views and device type) to help us improve content quality.
 - **Affiliate links:** When you click an affiliate link, the destination site may collect data according to their own privacy policy.
 
-## Cookies
+## Cookies and Local Storage
 
-This website does not use cookies for tracking. Affiliate partner sites may set their own cookies when you visit them through our links.
+We use a small local storage setting to remember your cookie preference (accept/decline). We do not run analytics cookies until consent is provided. Affiliate partner sites may set their own cookies when you visit them through our links.
 
 ## Affiliate Disclosure
 

@@ -24,8 +24,6 @@ faq:
     a: "Immediately change passwords for affected accounts, enable two-factor authentication, freeze your credit at all three bureaus, monitor bank and credit card statements closely, and consider placing a fraud alert. If your SSN is exposed, file an identity theft report with the FTC."
 ---
 
-*This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
-
 I check dark web marketplaces as part of my job, and I can tell you: the volume of stolen personal data floating around those forums is staggering. Over **26 billion records** were exposed in 2025 alone. I have found my own email in breach databases more than once, and each time it was a dark web monitoring service that caught it before I noticed anything suspicious.
 
 Most people discover their data has been compromised only after the damage is done. A good monitoring service flips that timeline. Here are the ones I trust.

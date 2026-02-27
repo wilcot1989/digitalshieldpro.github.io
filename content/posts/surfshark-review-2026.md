@@ -30,8 +30,6 @@ I recommend NordVPN as my top VPN pick, but Surfshark is what I tell people when
 
 **On Trustpilot, Surfshark scores a 4.3/5 based on 28,700+ reviews** -- one of the highest-rated VPNs on the platform. Most users praise the value-for-money and ease of use. The recurring complaints? Customer support response times and occasional app connectivity hiccups.
 
-*This article contains affiliate links. I receive a small commission if you purchase through my links, at no extra cost to you.*
-
 <a href="https://www.awin1.com/awclick.php?mid=36608&id=2776410" class="cta" rel="nofollow sponsored" target="_blank">Try Surfshark VPN Risk-Free for 30 Days</a>
 
 ---

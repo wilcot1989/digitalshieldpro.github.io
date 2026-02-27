@@ -452,6 +452,4 @@ Looking for more security recommendations? These in-depth guides will help:
 
 ---
 
-*This article contains affiliate links. If you purchase through my links, I may earn a commission at no extra cost to you. This helps keep Digital Shield Pro running and producing free security guides. [Read my full disclosure](/privacy/).*
-
 *Prices last checked: February 2026. Trustpilot score last checked: February 2026.*

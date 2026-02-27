@@ -26,8 +26,6 @@ faq:
     a: "Priority locations are the front door (where 34% of burglars enter), back door, first-floor windows, garage or driveway, and any other entry point. Place cameras at 7-9 feet high, angled slightly downward, with no obstructions blocking the field of view."
 ---
 
-*This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
-
 I have 11 security cameras running across my home and garage, and I have tested more than 20 models over the past six months. The dirty secret of this market is that most people focus on resolution and night vision but completely ignore the cybersecurity side -- default passwords, unencrypted streams, cloud services with questionable data practices. Here are the cameras that actually deliver on both security and surveillance, along with the hardening steps most reviews skip.
 
 ## Quick Comparison

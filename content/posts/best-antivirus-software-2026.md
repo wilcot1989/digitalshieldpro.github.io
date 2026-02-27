@@ -32,8 +32,6 @@ Best antivirus software in 2026 is not what it was two years ago. I test these p
 
 I have run every major suite on my lab machines over the past 14 months — measuring detection rates against live malware feeds, benchmarking system performance hit, and stress-testing every bundled feature people actually use. Here is what deserves your money, what does not, and which one I would install on my own machine.
 
-*This article contains affiliate links. I earn a small commission if you purchase through my links, at no extra cost to you. This keeps Digital Shield Pro running.*
-
 ## Antivirus Comparison Table: Prices, Scores, and Devices (2026)
 
 | Antivirus | Year 1 Price | Renewal Price | Devices | AV-TEST Score | Trustpilot | Best For |

@@ -26,6 +26,17 @@ Every recommendation on this site comes from actual experience. I don't copy spe
 - Speed testing via Ookla, iPerf3, and custom scripts
 - Privacy leak testing (DNS, WebRTC, IPv6)
 
+## Editorial Policy
+
+- Reviews are based on hands-on testing, not vendor demos.
+- Pricing and plan claims are rechecked before major updates.
+- We highlight limitations and "not for you" scenarios, even when commission is available.
+- Sponsored placements are not accepted in exchange for rankings.
+
+## Corrections and Update Cadence
+
+If we publish an error, we correct it in-place and update the article's modified date. Core comparison pages are revalidated on a 90-day cadence (pricing, key features, and major platform compatibility changes).
+
 ## How This Site Makes Money
 
 I believe in full transparency. Digital Shield Pro earns money through affiliate commissions — when you buy a product through my links, I get a small cut. Here's what that means:

@@ -26,8 +26,6 @@ faq:
 
 I consult with small businesses on security, and the pattern is always the same: they assume attackers only go after big companies. Then a single phishing email leads to ransomware, and suddenly they are staring at a €120,000 recovery bill. Small businesses are the #1 target precisely because they have valuable data and minimal defenses. The good news is that fixing this does not require an enterprise budget -- here is exactly what to do.
 
-*This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
-
 Already have basic protection? Level up with our [endpoint security comparison](/posts/best-endpoint-security-2026/).
 
 ## The Small Business Security Stack

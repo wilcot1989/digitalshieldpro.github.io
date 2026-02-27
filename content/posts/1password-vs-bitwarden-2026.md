@@ -32,8 +32,6 @@ faq:
 
 For a broader overview of all leading password managers, see my **[Best Password Managers in 2026](/posts/best-password-managers-2026/)** guide.
 
-*This article contains affiliate links. I earn a small commission if you purchase through my links, at no extra cost to you.*
-
 ---
 
 ## 1Password vs Bitwarden: Full Pricing Comparison (2026)

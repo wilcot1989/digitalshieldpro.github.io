@@ -26,8 +26,6 @@ faq:
 
 I use all three -- a VPN as my daily driver, Tor for specific research, and occasionally a SOCKS5 proxy for targeted tasks. Most people lump them together as "privacy tools," but they work completely differently and protect against different threats. Choosing the wrong one gives you a false sense of security, which is worse than using nothing at all.
 
-*This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
-
 Already decided you want a VPN? Check our [best VPN services guide](/posts/best-vpn-services-2026/) for top picks.
 
 ## Quick Comparison

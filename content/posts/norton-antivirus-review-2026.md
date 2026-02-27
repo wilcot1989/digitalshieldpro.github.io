@@ -26,8 +26,6 @@ faq:
 
 Norton has been around since before I started my career, and it carries a lot of baggage -- both the good reputation and the old complaints about system bloat. I ran Norton 360 as my primary antivirus for three months to see if the 2026 version finally shakes those ghosts or if you are better off spending your money elsewhere.
 
-*This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
-
 Want to compare Norton with alternatives? Check our [best antivirus software guide](/posts/best-antivirus-software-2026/) or our detailed [Bitdefender vs Norton comparison](/posts/bitdefender-vs-norton-2026/).
 
 ## Norton 360 Plans and Pricing

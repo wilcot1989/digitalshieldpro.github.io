@@ -30,8 +30,6 @@ Best identity theft protection -- let me cut to it. After finding my own credent
 
 I've spent the past 14 months running five different identity theft protection services side by side. Tracking which ones actually caught threats first. Which ones buried me in false positives. And which insurance policies actually paid out when I helped clients file claims. Here's what I found.
 
-*This article contains affiliate links. I earn a small commission if you purchase through my links, at no extra cost to you.*
-
 ## Cost Comparison: What You'll Actually Pay in 2026
 
 Before diving into features, let me show you what these services really cost. I've mapped out the entry-level and full-coverage options side by side (prices checked February 2026):

@@ -26,8 +26,6 @@ faq:
     a: "First-party coverage pays for your own losses like data recovery, business interruption, and ransom payments. Third-party coverage pays for claims against you from customers, partners, or regulators, including legal defense costs, settlements, and regulatory fines."
 ---
 
-*This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
-
 I helped a small business owner navigate a ransomware attack last year. The encryption hit on a Friday night, the ransom demand was $85,000, and the recovery took three weeks. They had no cyber insurance. The total cost in lost revenue, forensics, and legal fees exceeded $200,000. That experience is why I now consider cyber insurance non-negotiable for any business handling digital data. Here is everything you need to know to get covered in 2026.
 
 ## What Is Cyber Insurance?

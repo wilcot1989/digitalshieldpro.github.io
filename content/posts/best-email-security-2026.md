@@ -26,8 +26,6 @@ faq:
 
 I have personally analyzed hundreds of phishing emails that sailed right past Microsoft 365 and Google Workspace filters -- convincing BEC attacks, zero-day payloads, AI-crafted social engineering that built-in protection simply was not designed to catch. With 91% of cyberattacks starting with an email, the default filters are not enough for any business that takes security seriously.
 
-*This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
-
 Want to protect all your devices, not just email? See our [endpoint security comparison](/posts/best-endpoint-security-2026/).
 
 ## Best Email Security Solutions 2026
