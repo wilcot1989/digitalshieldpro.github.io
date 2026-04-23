@@ -1,6 +1,7 @@
 ---
 title: "Bitdefender Total Security Review 2026: Still the Best Antivirus?"
 date: 2026-02-24T12:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Bitdefender review 2026: 4 months tested, 99.9% detection, from $19.99/yr. See real benchmarks, honest downsides, and who should skip it."
 categories: ["antivirus"]
 tags: ["Bitdefender", "antivirus", "review", "malware protection", "cybersecurity"]

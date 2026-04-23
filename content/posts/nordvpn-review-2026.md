@@ -1,6 +1,7 @@
 ---
 title: "NordVPN Review 2026: Is It Still the Best VPN?"
 date: 2026-02-24T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "NordVPN review after 6 months of daily testing. Speed benchmarks, streaming results, and honest pricing breakdown. Find out if it's worth it."
 categories: ["vpn"]
 tags: ["NordVPN", "VPN", "review", "privacy", "streaming", "security"]

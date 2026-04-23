@@ -1,6 +1,7 @@
 ---
 title: "Best Antivirus for Android in 2026: Top Mobile Security Apps"
 date: 2026-03-25T09:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "The best antivirus apps for Android in 2026. We tested real-time scanning, app permission auditing, anti-theft, Wi-Fi scanning, and SMS phishing protection across the top mobile security apps."
 categories: ["antivirus"]
 tags: ["android antivirus", "mobile security", "android malware protection", "phone antivirus app", "android security"]

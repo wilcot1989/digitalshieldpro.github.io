@@ -1,6 +1,7 @@
 ---
 title: "Cyber Insurance Guide 2026: What Every Business Needs to Know"
 date: 2026-04-02T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Cyber insurance protects your business from the financial fallout of data breaches, ransomware, and cyberattacks. Here's everything you need to know in 2026."
 categories: ["security"]
 tags: ["cyber insurance", "business security", "data breach", "ransomware", "risk management"]

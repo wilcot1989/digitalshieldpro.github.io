@@ -1,6 +1,7 @@
 ---
 title: "Best Identity Theft Protection 2026: Tested & Compared"
 date: 2026-02-17T11:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Best identity theft protection services compared on price, monitoring, and insurance. I tested Aura, LifeLock, and 3 more. Find your match."
 categories: ["privacy"]
 tags: ["identity theft", "credit monitoring", "dark web", "fraud protection", "security"]

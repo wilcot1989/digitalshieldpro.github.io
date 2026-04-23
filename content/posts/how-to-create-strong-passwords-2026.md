@@ -1,6 +1,7 @@
 ---
 title: "How to Create Unbreakable Passwords: The Complete Guide"
 date: 2026-02-24T17:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Learn how to create strong, unbreakable passwords in 2026. Includes password best practices, common mistakes, and why you need a password manager."
 categories: ["password-managers"]
 tags: ["password security", "strong passwords", "password tips", "cybersecurity basics"]

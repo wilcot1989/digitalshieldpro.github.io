@@ -1,6 +1,7 @@
 ---
 title: "Best Parental Control Apps 2026: Keep Your Kids Safe Online"
 date: 2026-06-27T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "The best parental control apps and software for 2026. Qustodio, Bark, Net Nanny, Google Family Link, and Kaspersky Safe Kids compared on features, price, and ease of use."
 categories: ["privacy"]
 tags: ["parental controls", "child safety", "screen time", "content filtering", "family security"]

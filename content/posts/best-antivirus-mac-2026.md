@@ -1,6 +1,7 @@
 ---
 title: "Best Antivirus for Mac 2026: Top Picks for macOS Security"
 date: 2026-02-24T14:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "The best antivirus software for Mac in 2026. We tested and compared top macOS security suites including Bitdefender, Kaspersky, ESET, and more."
 categories: ["antivirus"]
 tags: ["mac antivirus", "macos security", "antivirus for mac", "mac malware protection"]
@@ -180,7 +181,7 @@ The **Norton Secure VPN** is included without daily data caps, offering unlimite
 
 ### The trade-offs
 
-All of these features come at a cost, both financial and in terms of system performance. Norton 360 had the **highest system resource consumption** of any product in our roundup. During full scans, we noticed perceptible slowdowns when running alongside demanding applications. The installer is also heavier than competitors, and the initial setup process involves creating a Norton account and navigating through several configuration screens.
+All of these features come at a cost, both financial and in terms of system performance. Norton 360 had the **highest system resource consumption** of any product in our roundup. During full scans, I noticed perceptible slowdowns when running alongside demanding applications. The installer is also heavier than competitors, and the initial setup process involves creating a Norton account and navigating through several configuration screens.
 
 The macOS version of Norton 360 also lacks some features available on Windows, including the SONAR behavioral protection engine and the full intrusion prevention system. This is a common limitation across Mac antivirus products, but it is worth noting given Norton's premium pricing.
 

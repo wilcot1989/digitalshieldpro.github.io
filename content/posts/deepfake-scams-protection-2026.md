@@ -1,6 +1,7 @@
 ---
 title: "Deepfake Scams 2026: How to Spot and Protect Yourself"
 date: 2026-05-21T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "How to identify deepfake scams in 2026. AI-generated voice calls, video impersonation, and social engineering attacks explained with practical protection tips."
 categories: ["privacy"]
 tags: ["deepfake", "AI scams", "social engineering", "fraud protection", "identity theft"]

@@ -1,6 +1,7 @@
 ---
 title: "ESET Review 2026: Lightweight Antivirus for Power Users"
 date: 2026-03-06T09:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Our comprehensive ESET review after months of testing NOD32, Internet Security, and Home Security Premium. Discover why power users love ESET's lightweight engine, HIPS system, and advanced device control."
 categories: ["antivirus"]
 tags: ["ESET", "antivirus", "review", "NOD32", "malware protection", "cybersecurity", "HIPS", "lightweight antivirus"]

@@ -1,6 +1,7 @@
 ---
 title: "McAfee vs Norton 2026: Which Antivirus Is Better?"
 date: 2026-05-07T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "McAfee vs Norton head-to-head comparison. We compare malware detection, performance, features, pricing, and value to help you choose the right antivirus."
 categories: ["antivirus"]
 tags: ["McAfee", "Norton", "antivirus comparison", "McAfee vs Norton", "security suite"]

@@ -1,6 +1,7 @@
 ---
 title: "Best VPN for Travel in 2026: Stay Secure on Public Wi-Fi Worldwide"
 date: 2026-03-11T09:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "The best VPNs for travel in 2026. We tested VPNs on hotel Wi-Fi, airport networks, and in restrictive countries. NordVPN, Surfshark, ExpressVPN, and ProtonVPN ranked for travelers."
 categories: ["vpn"]
 tags: ["VPN", "travel", "public Wi-Fi", "cybersecurity", "NordVPN", "Surfshark", "ExpressVPN", "ProtonVPN", "online privacy"]

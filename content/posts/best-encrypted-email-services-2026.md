@@ -1,6 +1,7 @@
 ---
 title: "Best Encrypted Email Services in 2026: Protect Your Inbox"
 date: 2026-02-17T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Best encrypted email services tested head-to-head. I compare Proton Mail, Tuta, Mailfence & StartMail on price, privacy, and real-world use."
 categories: ["privacy"]
 tags: ["email", "encryption", "privacy", "ProtonMail", "Tutanota"]

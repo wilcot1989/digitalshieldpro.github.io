@@ -1,6 +1,7 @@
 ---
 title: "Norton Antivirus Review 2026: Is It Worth the Price?"
 date: 2026-04-15T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "In-depth Norton antivirus review for 2026. We test Norton 360 on malware detection, performance impact, features, and value for money."
 categories: ["antivirus"]
 tags: ["Norton", "antivirus", "Norton 360", "security suite", "malware protection"]

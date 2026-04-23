@@ -1,6 +1,7 @@
 ---
 title: "Cybersecurity for Small Business 2026: Essential Protection Guide"
 date: 2026-06-11T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Complete cybersecurity guide for small businesses in 2026. Affordable security tools, employee training, compliance requirements, and step-by-step implementation."
 categories: ["security-software"]
 tags: ["small business security", "cybersecurity SMB", "business antivirus", "employee training", "compliance"]

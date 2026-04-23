@@ -1,6 +1,7 @@
 ---
 title: "Best Antivirus Software 2026: Tested & Compared"
 date: 2026-02-17T09:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 draft: false
 description: "Best antivirus software 2026 — I tested 7 suites on real malware, speed, and value. Compare prices, Trustpilot scores, and find my top pick."
 tags: ["antivirus", "cybersecurity", "malware protection", "endpoint security", "digital security"]

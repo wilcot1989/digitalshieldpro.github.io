@@ -1,6 +1,7 @@
 ---
 title: "Best Endpoint Security Software 2026: Protect Every Device"
 date: 2026-05-28T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "The best endpoint security solutions for 2026 compared. Protect laptops, desktops, and mobile devices from malware, ransomware, and zero-day threats."
 categories: ["security-software"]
 tags: ["endpoint security", "EDR", "antivirus", "business security", "device protection"]

@@ -1,6 +1,7 @@
 ---
 title: "Is Your Trading Platform Secure? A Cybersecurity Guide for Traders"
 date: 2026-02-17T14:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Trading platform security in 2026: protect your brokerage, crypto wallet, and API keys from hackers. Tested tools and real-world advice inside."
 categories: ["privacy"]
 tags: ["trading", "cybersecurity", "crypto", "brokerage", "MQL5", "MetaTrader"]

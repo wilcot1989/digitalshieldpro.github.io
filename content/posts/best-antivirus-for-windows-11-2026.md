@@ -1,6 +1,7 @@
 ---
 title: "Best Antivirus for Windows 11 in 2026: Beyond Windows Defender"
 date: 2026-02-28T09:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "We tested the top antivirus programs on Windows 11 against real malware, ransomware, and zero-day threats. See which ones outperform Microsoft Defender and by how much."
 categories: ["antivirus"]
 tags: ["antivirus", "Windows 11", "Windows Defender", "Bitdefender", "Kaspersky", "Norton", "ESET", "Surfshark Antivirus", "malware protection"]

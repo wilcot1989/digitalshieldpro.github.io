@@ -1,6 +1,7 @@
 ---
 title: "How to Protect Yourself from Phishing in 2026: The Complete Guide"
 date: 2026-02-17
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Phishing protection in 2026: spot AI-generated scams, set up layered defenses, and avoid the mistakes that cost people $1,400 on average."
 categories: ["privacy"]
 tags: ["phishing", "security", "email security", "scams", "AI threats"]

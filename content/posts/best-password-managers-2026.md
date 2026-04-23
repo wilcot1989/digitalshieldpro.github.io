@@ -1,6 +1,7 @@
 ---
 title: "Best Password Managers in 2026: Tested & Compared"
 date: 2026-02-15
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Best password manager 2026 — I tested 1Password, Bitwarden, Dashlane & NordPass for 6+ months. Compare pricing, security & real Trustpilot scores."
 categories: ["password-managers"]
 tags: ["password manager", "security", "1Password", "Bitwarden", "Dashlane", "NordPass"]

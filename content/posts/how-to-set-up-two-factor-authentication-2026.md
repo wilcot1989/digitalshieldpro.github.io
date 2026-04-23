@@ -1,6 +1,7 @@
 ---
 title: "How to Set Up Two-Factor Authentication (2FA) on Every Account"
 date: 2026-03-18T09:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Learn how to set up two-factor authentication (2FA) on Google, Apple, Microsoft, social media, banking, and crypto accounts. Step-by-step guide covering SMS, authenticator apps, hardware keys, and passkeys."
 categories:
   - privacy

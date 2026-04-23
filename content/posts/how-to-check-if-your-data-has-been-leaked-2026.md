@@ -1,6 +1,7 @@
 ---
 title: "How to Check If Your Personal Data Has Been Leaked (And What to Do Next)"
 date: 2026-03-27T09:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "A step-by-step guide to checking if your personal data has been leaked in a data breach, with actionable recovery steps. Covers HaveIBeenPwned, dark web monitoring, credit freezes, and breach notification tools."
 categories: ["privacy"]
 tags: ["data breach", "data leak check", "identity theft", "breach monitoring", "personal data security"]

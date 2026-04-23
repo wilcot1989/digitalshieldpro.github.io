@@ -1,6 +1,7 @@
 ---
 title: "Surfshark VPN Review 2026: Best Budget VPN Tested"
 date: 2026-02-24T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Surfshark VPN review 2026: I tested speeds, streaming, and security for 3 months. Unlimited devices from $2.19/mo. See my honest verdict."
 categories: ["vpn"]
 tags: ["surfshark", "vpn review", "budget vpn", "streaming vpn"]

@@ -1,6 +1,7 @@
 ---
 title: "NordPass Review 2026: Simple Password Manager from the Makers of NordVPN"
 date: 2026-03-13T09:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Our in-depth NordPass review after six months of daily use. We cover zero-knowledge encryption, passkey support, breach scanning, cross-platform apps, and how NordPass compares to 1Password and Bitwarden."
 categories: ["password-managers"]
 tags: ["NordPass", "password manager", "review", "cybersecurity", "passkeys", "NordVPN", "breach scanner"]

@@ -1,6 +1,7 @@
 ---
 title: "Ransomware Protection Guide 2026: How to Prevent and Recover"
 date: 2026-04-27T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Complete ransomware protection guide for 2026. Learn how ransomware works, how to prevent attacks, and what to do if you get infected."
 categories: ["antivirus"]
 tags: ["ransomware", "malware protection", "cybersecurity", "data backup", "ransomware recovery"]

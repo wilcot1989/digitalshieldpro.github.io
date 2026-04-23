@@ -1,6 +1,7 @@
 ---
 title: "Best Email Security Solutions 2026: Protect Your Inbox"
 date: 2026-06-17T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "The best email security solutions for 2026 compared. Protect against phishing, BEC, malware, and spam. Proofpoint, Mimecast, Microsoft Defender, Barracuda and IRONSCALES."
 categories: ["security-software"]
 tags: ["email security", "anti-phishing", "business email", "spam filter", "BEC protection"]

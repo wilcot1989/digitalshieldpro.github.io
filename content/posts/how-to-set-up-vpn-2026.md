@@ -1,6 +1,7 @@
 ---
 title: "How to Set Up a VPN on Any Device: Complete Beginner's Guide"
 date: 2026-02-24T13:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Step-by-step guide to setting up a VPN on Windows, Mac, iPhone, Android, and routers. Beginner-friendly instructions with screenshots alternatives."
 categories: ["vpn"]
 tags: ["vpn setup", "how to use vpn", "vpn guide", "vpn tutorial"]
@@ -410,7 +411,7 @@ Good VPN apps handle this automatically by routing all DNS requests through the 
 
 ## Common Mistakes to Avoid
 
-After helping countless readers set up their VPNs, these are the mistakes we see most often:
+After helping countless readers set up their VPNs, these are the mistakes I see most often:
 
 ### 1. Using a Free VPN
 Free VPNs have to make money somehow. Most do it by logging your browsing data and selling it to advertisers — the exact thing you're trying to prevent. Some inject ads into your browsing. Others have been caught containing malware. If you're not paying for the product, you are the product.

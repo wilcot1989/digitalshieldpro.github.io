@@ -1,6 +1,7 @@
 ---
 title: "Best Internet Security Suites in 2026: All-in-One Protection Compared"
 date: 2026-03-04T09:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "We compare the top internet security suites that bundle antivirus, VPN, password manager, and identity protection into one subscription. Find the best all-in-one solution for 2026."
 categories: ["antivirus"]
 tags: ["internet security", "security suite", "Bitdefender", "Norton", "Kaspersky", "ESET", "antivirus", "VPN", "password manager", "identity protection"]

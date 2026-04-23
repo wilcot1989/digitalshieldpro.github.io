@@ -1,6 +1,7 @@
 ---
 title: "Remote Work Security Guide 2026: Protect Your Home Office"
 date: 2026-04-11T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Working from home opens new attack vectors for cybercriminals. This comprehensive guide covers everything you need to secure your home office in 2026."
 categories: ["security"]
 tags: ["remote work", "home office", "work from home", "cybersecurity", "VPN", "endpoint security"]

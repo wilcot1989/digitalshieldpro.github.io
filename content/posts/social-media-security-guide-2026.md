@@ -1,6 +1,7 @@
 ---
 title: "How to Secure Your Social Media Accounts in 2026"
 date: 2026-06-04T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Step-by-step guide to securing your social media accounts. Protect Facebook, Instagram, X, LinkedIn, and TikTok from hackers, scams, and data theft."
 categories: ["privacy"]
 tags: ["social media security", "account security", "2FA", "privacy settings", "hacking prevention"]

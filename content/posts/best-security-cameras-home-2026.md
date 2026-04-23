@@ -1,6 +1,7 @@
 ---
 title: "Best Security Cameras for Home 2026: AI-Powered Protection"
 date: 2026-04-08T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "AI-powered home security cameras have changed the game. Here are the best smart cameras for protecting your home in 2026, with features that actually matter."
 categories: ["security"]
 tags: ["security cameras", "home security", "smart home", "AI cameras", "surveillance"]

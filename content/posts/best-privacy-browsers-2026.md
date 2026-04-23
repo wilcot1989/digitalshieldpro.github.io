@@ -1,6 +1,7 @@
 ---
 title: "Best Privacy Browsers in 2026: Top 7 for Maximum Security"
 date: 2026-04-23T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "The best privacy browsers of 2026 compared. Brave, Firefox, Tor, Vivaldi, and more tested on tracking protection, speed, and usability."
 categories: ["privacy"]
 tags: ["privacy browser", "Brave", "Firefox", "Tor Browser", "secure browsing", "anti-tracking"]

@@ -1,6 +1,7 @@
 ---
 title: "Best Parental Control Software in 2026: Keep Your Kids Safe Online"
 date: 2026-03-16T09:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Discover the best parental control software in 2026. Compare content filtering, screen time limits, location tracking, and social media monitoring tools to keep your kids safe online."
 categories:
   - privacy

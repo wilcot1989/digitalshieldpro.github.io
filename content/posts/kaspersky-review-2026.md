@@ -1,6 +1,7 @@
 ---
 title: "Kaspersky Antivirus Review 2026: Is It Safe to Use?"
 date: 2026-02-24T11:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Kaspersky review 2026 after 4 months of testing. Detection scores, the Russia ban truth, pricing vs Bitdefender & ESET. My honest verdict inside."
 categories: ["antivirus"]
 tags: ["kaspersky", "antivirus review", "malware protection", "internet security"]

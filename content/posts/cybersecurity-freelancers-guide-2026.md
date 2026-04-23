@@ -1,6 +1,7 @@
 ---
 title: "Cybersecurity for Freelancers 2026: Protect Your Business"
 date: 2026-05-14T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Essential cybersecurity guide for freelancers and solopreneurs. Protect your data, clients, and reputation with these practical security measures."
 categories: ["privacy"]
 tags: ["freelancer security", "remote work", "data protection", "cybersecurity basics", "small business security"]

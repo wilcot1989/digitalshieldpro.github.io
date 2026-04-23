@@ -1,6 +1,7 @@
 ---
 title: "WiFi Security Guide 2026: How to Protect Your Wireless Network"
 date: 2026-06-22T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Complete guide to securing your WiFi network in 2026. WPA3 setup, router hardening, guest networks, VPN protection, and how to detect intruders on your network."
 categories: ["privacy"]
 tags: ["WiFi security", "network security", "router security", "WPA3", "home network"]

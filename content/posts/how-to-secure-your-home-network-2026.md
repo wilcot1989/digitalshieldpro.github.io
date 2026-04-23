@@ -1,6 +1,7 @@
 ---
 title: "How to Secure Your Home Network in 2026: Step-by-Step Guide"
 date: 2026-02-17T12:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Secure your home network in 7 steps: router hardening, WPA3, VLANs, VPN setup and device protection. Tested by a cybersecurity analyst."
 categories: ["privacy"]
 tags: ["home network", "WiFi security", "router", "IoT", "network security"]

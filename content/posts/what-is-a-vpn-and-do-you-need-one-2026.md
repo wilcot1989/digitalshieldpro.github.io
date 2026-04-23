@@ -1,6 +1,7 @@
 ---
 title: "What Is a VPN and Do You Actually Need One in 2026?"
 date: 2026-03-23T09:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Learn what a VPN is, how it works, and whether you actually need one in 2026. Plain-language guide covering encryption, use cases, common myths, and when a VPN is (and isn't) worth it."
 categories:
   - vpn

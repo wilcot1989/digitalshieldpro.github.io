@@ -1,6 +1,7 @@
 ---
 title: "How to Protect Yourself Online: The Complete Digital Security Checklist"
 date: 2026-03-09T09:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "The complete 2026 guide to protecting yourself online. A step-by-step checklist covering VPNs, antivirus, password managers, 2FA, safe browsing, social media privacy, email security, home networks, and mobile security."
 categories: ["privacy"]
 tags: ["online security", "privacy", "internet safety", "cybersecurity checklist", "digital security", "VPN", "antivirus", "password manager", "2FA", "phishing"]
