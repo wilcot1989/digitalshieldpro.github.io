@@ -65,6 +65,22 @@
       {{ end }}
     </div>
 
+    {{/* Email capture: privacy newsletter */}}
+    <div class="email-capture" style="background:var(--paper-warm,#ECEFF4);border:1px solid var(--ink-line,#0e1e3322);border-radius:8px;padding:1.5rem;margin:2rem 0;">
+      <h3 style="margin-top:0;color:var(--ink,#0E1E33);">📬 Get the privacy stack newsletter — free</h3>
+      <p style="margin:.5rem 0 1rem;color:var(--ink-soft,#4A5A75);">Monthly: 1 actionable privacy tip + 1 product alert (data breach, new tool, price drop). No spam, unsubscribe anytime.</p>
+      <form action="https://formsubmit.co/wt@port-it.nl" method="POST" style="display:flex;flex-wrap:wrap;gap:.5rem;">
+        <input type="hidden" name="_subject" value="DSP Privacy Newsletter Signup">
+        <input type="hidden" name="_captcha" value="false">
+        <input type="hidden" name="_next" value="https://digitalshieldpro.com/thanks/">
+        <input type="hidden" name="_template" value="table">
+        <input type="hidden" name="source_page" value="{{ .RelPermalink }}">
+        <input type="email" name="email" placeholder="your@email.com" required style="flex:1;min-width:220px;padding:.7rem;border:1px solid var(--ink-line,#0e1e3322);border-radius:5px;">
+        <button type="submit" style="background:var(--blue,#1E5FCF);color:#fff;padding:.7rem 1.2rem;border:0;border-radius:5px;font-weight:600;cursor:pointer;">Subscribe</button>
+      </form>
+      <p style="font-size:.75rem;color:var(--ink-soft,#4A5A75);margin:.5rem 0 0;">By subscribing you agree to our <a href="/privacy/" style="color:inherit;text-decoration:underline;">privacy policy</a>. We never sell or share emails.</p>
+    </div>
+
     {{ $allOther := where (where .Site.RegularPages "Type" "posts") ".Permalink" "ne" .Permalink }}
     {{ $related := where $allOther ".Params.categories" "intersect" .Params.categories }}
     {{ if not $related }}{{ $related = $allOther }}{{ end }}
