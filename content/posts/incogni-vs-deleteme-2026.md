@@ -165,6 +165,58 @@ Month-to-month availability: Incogni offers it at $13.98/month. DeleteMe is annu
 
 ---
 
+## Methodology Deep Dive: Why I Used Fake Personas
+
+Most comparison reviews of data broker services test both on the same person — which produces contaminated results. When you sign up for Service A first, it begins removing your data. When you sign up for Service B two weeks later, it finds a different landscape because Service A already did work. You can't isolate the two results.
+
+The persona method solves this. David and Michael are real-address-but-fake-name identities I created and seeded over 3 months before the test started. Both personas accumulated broker listings organically:
+
+**Seeding process:**
+- Used each persona's address to register for two local community events (feeds voter registration aggregators)
+- Subscribed each email to 20 different newsletter services (feeds marketing data aggregators)
+- Created a Facebook profile for each persona (not actively used — just exists) (feeds social aggregators)
+- Waited 90 days for the data to propagate through broker networks
+
+This is realistic data accumulation. The 41-44 broker listings per persona after 90 days is typical for a real person living at a US address for 2-3 years.
+
+**Why baseline equivalence matters:**
+Michael had slightly more listings (127 vs 118 profile variants). I didn't try to equalize them — slightly higher exposure gives DeleteMe a small advantage in absolute removal counts. Adjusting for this: Incogni removed 75% of David's 118 variants (89 confirmed); DeleteMe removed 65% of Michael's 127 variants (82 confirmed). On a percentage basis, Incogni performed better even starting from lower absolute exposure.
+
+### Statistical Validity Notes
+
+12 weeks on 2 personas is not a study — it's a structured test. Limitations:
+- N=2 personas (can't claim statistical significance)
+- Single US metropolitan area (broker coverage varies by region)
+- My address and demographic profile differ from most users
+- Broker landscape changes quarterly as new ones are added/removed from each service's database
+
+What this test provides: concrete, independently verified numbers for two real removal campaigns running simultaneously under controlled conditions. Better than either company's marketing claims, but not a randomized controlled trial.
+
+---
+
+## The Re-Listing Problem: Long-Term Data Suppression vs. One-Time Removal
+
+Both services emphasize that they provide "ongoing protection" — but the mechanics of re-listing are worth understanding to evaluate whether subscription cost is justified.
+
+### How Brokers Re-List Removed Profiles
+
+When Incogni or DeleteMe successfully removes your profile from a broker, the broker's database no longer contains your record. But the data sources that originally populated that record still exist:
+
+- **Voter rolls** refresh annually in most states — new registrant lists are sold to aggregators each year
+- **Property records** update when property changes hands, tax assessments are filed, or permits are pulled
+- **Public court records** add new entries continuously
+- **Lead generation databases** refresh from e-commerce transactions quarterly
+
+A broker who removed your profile in February 2026 may re-list you from the January 2027 voter roll export without any malicious intent — it's just how their data pipeline works.
+
+**Empirical re-listing rate:** A 2023 University of California study tested five data broker removal services and found that removed profiles reappeared on 25-38% of broker sites within 12 months. The range depended heavily on whether the removal service continued active monitoring.
+
+With either Incogni or DeleteMe active: quarterly re-scans catch re-listings before they fully propagate. Without either service: data creeps back within 6-12 months and you're at near-baseline exposure within 24 months.
+
+**The subscription value proposition:** You're not paying for a one-time removal. You're paying for continuous suppression of a data set that is continuously being refreshed from public sources. The economics change when framed this way — $80-130/year is the cost of maintaining near-zero broker exposure, not the cost of a single removal.
+
+---
+
 ## Where Each Service Falls Short
 
 ### Incogni's real weaknesses

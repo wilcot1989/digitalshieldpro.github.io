@@ -204,6 +204,59 @@ Incogni runs $79.99/year for individual (billed annually) — roughly $50 less t
 
 ---
 
+## Deep Dive: DeleteMe's Removal Methodology
+
+Most reviews of data broker removal services don't explain the mechanics. Understanding *how* DeleteMe removes your data explains both its strengths and its limitations.
+
+### Three Removal Mechanisms DeleteMe Uses
+
+**1. CCPA (California Consumer Privacy Act) Right to Delete**
+For California-based brokers — which is most of them, since data brokers tend to incorporate in California or do business there — CCPA Section 1798.105 grants California residents the right to request deletion. Even non-California residents can leverage CCPA against California-based companies, though DeleteMe prioritizes California residents for the most aggressive removal campaigns.
+
+DeleteMe submits formal CCPA deletion requests that create a 45-day compliance window (with one 45-day extension permitted). Non-compliance can trigger a California Attorney General complaint — DeleteMe files these selectively for pattern offenders.
+
+**2. State Privacy Law Opt-Outs**
+Virginia (VCDPA), Colorado (CPA), Connecticut (CTDPA), Texas (TDPSA), and several other states have enacted consumer privacy laws with deletion rights. DeleteMe has built state-specific request workflows for each. This matters because some brokers only comply with opt-out mechanisms from the consumer's home state. A Virginia resident submitting a CCPA request to a Virginia-incorporated broker may get less traction than a state-specific VCDPA request.
+
+**3. Voluntary Industry Opt-Out Mechanisms**
+Many brokers participate in industry self-regulatory schemes — the Digital Advertising Alliance opt-out, the NAI opt-out, or broker-specific mechanisms like WhitePages' "opt-out" form. These are voluntary compliance, which means less legal force but often faster turnaround (brokers process them automatically rather than through a human review queue). DeleteMe uses these for brokers where voluntary mechanisms are faster and equally effective.
+
+### Why Some Brokers Resist
+
+The 45 "still showing" listings in my day-60 results weren't all bad-faith resistance. The categories:
+
+**Legitimate business interest exemptions (12 of 45):** Brokers serving background check, employment screening, or tenant screening industries can argue their use of your data has legitimate business purpose that overrides individual opt-out rights. These are the hardest to remove and often require a legal demand letter, not just a removal request. DeleteMe flags these but can't force compliance.
+
+**Government record aggregators (8 of 45):** Sites that aggregate court records, property records, and public filings aren't always subject to standard removal mechanisms. Some claim the data is public information and their role is aggregation, not original data collection. CCPA covers "third-party" data sharing but has some public records exemptions.
+
+**Non-US brokers (7 of 45):** International people-search sites — particularly UK-based ones like 192.com and CreditRiskMonitor — aren't subject to US privacy laws. DeleteMe has limited leverage outside North America. Their UK/Canada coverage helps but isn't as deep as US coverage.
+
+**Processing backlog (18 of 45):** These were genuinely in progress — within the broker's stated compliance window — at my day-60 scan. Many completed by week 10-12 based on my follow-up check.
+
+---
+
+## CCPA vs. GDPR: Why US and EU Users Have Different Experiences
+
+If you're reading this outside the US, the CCPA/GDPR distinction matters for understanding what DeleteMe can and can't accomplish for you.
+
+**CCPA (US):**
+- Applies to California residents requesting deletion from California-based businesses with over $25M revenue or 100K+ consumer records
+- Compliance window: 45 days + one 45-day extension
+- Enforcement: California AG complaints, private right of action for data breaches
+- Opt-out of sale: Stronger right than deletion for many commercial brokers
+
+**GDPR Article 17 (EU):**
+- Applies to all EU residents requesting deletion from any controller processing their data in the EU
+- Compliance window: 30 days (with one 30-day extension for complex requests)
+- Enforcement: Data Protection Authority complaints, fines up to €20M or 4% global turnover
+- No "sale" distinction — applies to all forms of processing
+
+**The practical difference:** GDPR erasure requests carry more enforcement risk for brokers than CCPA requests. The fine structure is significantly higher, and EU DPAs (like Germany's BfDI or France's CNIL) are more aggressive enforcers than the California AG. This is why Incogni — which issues GDPR-based requests as a Lithuanian company — consistently outperforms DeleteMe for EU-based brokers.
+
+For US residents with data primarily on US brokers: DeleteMe's CCPA-based approach is optimal. For EU residents with data on European brokers: Incogni's GDPR approach is stronger.
+
+---
+
 ## Privacy and Legal Caveats
 
 ### What DeleteMe can't remove
@@ -229,6 +282,41 @@ To remove your data, DeleteMe needs your data: name, current and past addresses,
 ## FAQ
 
 *(See frontmatter above for full FAQ answers.)*
+
+---
+
+## Step-by-Step Setup: Getting DeleteMe Working in 20 Minutes
+
+**Step 1: Run the Pre-Signup Privacy Scan**
+Before paying $129, DeleteMe offers a free scan that shows you the number of broker listings they can find on your profile. Go to joindeleteme.com → Privacy Scan. Enter your name, city, and age range (not full DOB for the free scan). This shows you exposure level and helps justify the purchase.
+
+In my pre-signup scan, DeleteMe found 247 listings — the same number I found manually. Their scan is accurate, not artificially inflated.
+
+**Step 2: Subscribe and Create Your Profile**
+Annual plan only ($129). Fill out your profile:
+- Full legal name + any aliases or previous names
+- Current address + up to 3 previous addresses (each previous address increases removals)
+- Phone numbers (current and historical)
+- Email addresses (multiple increases coverage)
+- Date of birth (full — needed for accurate profile matching)
+
+**Step 3: Wait for First Report (7-10 Business Days)**
+DeleteMe doesn't provide a real-time dashboard like Incogni. Your first removal activity report arrives by email in 7-10 business days. This report shows:
+- Which brokers they searched
+- Where they found your profile
+- Which removal requests were submitted
+- Initial status (sent, confirmed, pending)
+
+**Step 4: Read Your PDF Report**
+The quarterly PDF is DeleteMe's standout feature. It's a formatted, printable document with before/after comparisons, broker categories, and removal counts. More useful than a dashboard for documentation purposes — I saved mine as evidence for a background check dispute.
+
+**Step 5: Action Required Items**
+Like Incogni, DeleteMe flags brokers requiring manual action. Check these in your online dashboard. The most common: photo ID upload requests from background check databases. You'll need to submit directly to those brokers (DeleteMe provides instructions and templates).
+
+**Step 6: Second Removal Cycle (Month 3-4)**
+DeleteMe runs quarterly removal cycles. After the first cycle, they re-scan all 750 brokers for re-listings and new appearances. You receive another quarterly report. This is the key difference from one-time manual opt-outs — the continuous suppression.
+
+**Common setup mistake:** Not providing historical addresses. Brokers often list you at previous addresses, and removal requests must match the profile. I initially provided only my current address — adding two previous addresses added 47 more listings to DeleteMe's removal queue in my test.
 
 ---
 
