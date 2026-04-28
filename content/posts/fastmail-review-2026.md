@@ -1,8 +1,8 @@
 ---
-title: "Fastmail Review 2026: Six Weeks Testing the Best Non-Encrypted Privacy Email"
+title: "Fastmail Review 2026: Six Weeks Testing the Best"
 date: 2026-07-28T09:00:00-05:00
 lastmod: 2026-07-28T09:00:00-05:00
-description: "Fastmail is fast, private, and genuinely polished — but it's not zero-knowledge encrypted. After 6 weeks testing spam filtering, IMAP migration, and custom domains, here's my honest verdict."
+description: "Fastmail is fast, private, and genuinely polished — but it's not zero-knowledge encrypted."
 categories: ["encrypted-email"]
 tags: ["fastmail", "privacy email", "email review", "custom domain email", "JMAP", "email security"]
 keywords: ["fastmail review", "fastmail review 2026", "fastmail vs protonmail", "is fastmail private", "fastmail pricing", "fastmail custom domain", "fastmail spam filter"]

@@ -1,5 +1,5 @@
 ---
-title: "Passkeys explained 2026: the password replacement that's already here"
+title: "Passkeys explained 2026: the password replacement that's"
 date: 2026-05-02T08:00:00+02:00
 lastmod: 2026-05-02T08:00:00+02:00
 description: "Passkeys are replacing passwords across major sites. Plain-English guide to what they are, why they're more secure, and how to start using them today."

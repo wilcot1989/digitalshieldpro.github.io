@@ -1,8 +1,8 @@
 ---
-title: "Best Hardware Security Keys in 2026: Six Keys Tested for Six Weeks"
+title: "Best Hardware Security Keys in 2026"
 date: 2026-07-23T09:00:00-05:00
 lastmod: 2026-07-23T09:00:00-05:00
-description: "I tested six hardware security keys across Google, Microsoft, GitHub, AWS, and password managers for six weeks. Real setup difficulty scores, NFC reliability data, and best picks by use case."
+description: "I tested six hardware security keys across Google, Microsoft, GitHub, AWS, and password managers for six weeks."
 categories: ["hardware-security-keys"]
 tags: ["hardware security key", "FIDO2", "YubiKey", "WebAuthn", "2FA", "phishing protection", "U2F", "MFA"]
 keywords: ["best hardware security key 2026", "YubiKey review", "FIDO2 key comparison", "hardware 2FA key", "YubiKey vs Nitrokey", "Google Titan key review", "security key buying guide"]

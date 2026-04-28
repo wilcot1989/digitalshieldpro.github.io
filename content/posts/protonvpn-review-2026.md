@@ -1,8 +1,8 @@
 ---
-title: "ProtonVPN Review 2026: Eight Weeks Testing Speed, Streaming, and the Free Tier"
+title: "ProtonVPN Review 2026: Eight Weeks Testing Speed"
 date: 2026-08-02T09:00:00-05:00
 lastmod: 2026-08-02T09:00:00-05:00
-description: "ProtonVPN has the best free VPN tier in existence and Swiss jurisdiction. After 8 weeks of speed tests, streaming verification, and kill switch abuse, here's what I actually found."
+description: "ProtonVPN has the best free VPN tier in existence and Swiss jurisdiction. After 8 weeks of speed tests, streaming verification, and kill switch abuse."
 categories: ["vpn"]
 tags: ["protonvpn", "vpn review", "swiss vpn", "free vpn", "wireguard vpn", "streaming vpn", "privacy"]
 keywords: ["protonvpn review", "protonvpn review 2026", "protonvpn free tier", "protonvpn vs nordvpn", "protonvpn speed test", "protonvpn streaming", "best vpn 2026", "protonvpn secure core"]

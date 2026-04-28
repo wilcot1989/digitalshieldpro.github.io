@@ -1,5 +1,5 @@
 ---
-title: "ProtonMail vs Gmail 2026: when privacy actually beats convenience"
+title: "ProtonMail vs Gmail 2026: when privacy actually beats"
 date: 2026-05-03T08:00:00+02:00
 lastmod: 2026-05-03T08:00:00+02:00
 description: "ProtonMail vs Gmail — comprehensive comparison after using both daily. Privacy, features, deliverability, ecosystem, and when to switch."

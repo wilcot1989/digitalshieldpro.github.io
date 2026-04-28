@@ -1,5 +1,5 @@
 ---
-title: "DeleteMe Review 2026: 8-Week Test Results, Pricing, and How It Compares to Incogni"
+title: "DeleteMe Review 2026: 8-Week Test Results, Pricing"
 date: 2026-06-29T09:00:00-05:00
 lastmod: 2026-06-29T09:00:00-05:00
 description: "I tested DeleteMe for 8 weeks, starting with 247 broker listings on my profile. Here's exactly what got removed, what didn't, and whether $129/year is worth it."

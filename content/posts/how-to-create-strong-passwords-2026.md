@@ -25,6 +25,10 @@ faq:
     a: "With current technology, a truly random 16-character password using mixed case, numbers, and symbols has roughly 105 bits of entropy. Cracking it through brute force would take longer than the age of the universe. The real risks are phishing, malware, or the password being stored insecurely by the website itself."
   - q: "Are browser-built-in password managers good enough?"
     a: "They are better than reusing passwords but fall short of dedicated password managers. Browser password managers typically lack cross-platform support, advanced breach monitoring, secure sharing, and the ability to store other sensitive data. A dedicated password manager offers stronger encryption and works everywhere."
+products:
+  - name: "NordVPN"
+    url: "/go/nordvpn"
+    price: ""
 ---
 
 I analyze breached password databases as part of my work, and it never stops surprising me: **"123456"**, **"password"**, and **"qwerty"** are still in the top 10 most commonly used passwords worldwide. People are guarding their bank accounts and medical records with credentials a five-year-old could guess.
@@ -376,6 +380,9 @@ If you checked everything, your password security is excellent. If not, start wi
 <a href="https://go.digitalshieldpro.com/nordpass?ref=/posts/how-to-create-strong-passwords-2026/" class="cta" rel="nofollow sponsored" target="_blank">Secure All Your Passwords with NordPass</a>
 
 ---
+
+
+<a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
 
 ## Related Guides
 

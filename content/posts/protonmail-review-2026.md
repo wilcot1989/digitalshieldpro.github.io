@@ -1,5 +1,5 @@
 ---
-title: "ProtonMail review 2026: 12 months testing the privacy-first email"
+title: "ProtonMail review 2026: 12 months testing the privacy-first"
 date: 2026-04-29T08:00:00+02:00
 lastmod: 2026-04-29T08:00:00+02:00
 description: "ProtonMail has been my primary email for a year. Honest review of features, encryption, deliverability, and whether the paid plans are worth it."

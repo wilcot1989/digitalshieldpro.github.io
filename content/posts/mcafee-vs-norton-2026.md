@@ -23,6 +23,10 @@ faq:
     a: "Yes, both include a VPN with their premium plans. Neither VPN is as good as a dedicated service like NordVPN — both have limited server locations and slower speeds. For serious VPN needs, get a dedicated VPN instead."
   - q: "Which antivirus has better customer support?"
     a: "Norton has better customer support with 24/7 phone and chat support, faster response times, and more knowledgeable agents. McAfee's support is available 24/7 but quality can be inconsistent, and wait times are often longer."
+products:
+  - name: "NordVPN"
+    url: "/go/nordvpn"
+    price: ""
 ---
 
 McAfee and Norton have both been around since I was a kid, and most people pick between them based on name recognition alone. That is a mistake. I installed both on identical test machines and ran them head-to-head for two months -- same malware samples, same benchmarks, same real-world workloads. The differences are more significant than you might expect.
@@ -160,6 +164,9 @@ Read our detailed [Norton review](/posts/norton-antivirus-review-2026/).
 Norton wins in malware detection, performance impact, and features (cloud backup is a real advantage). McAfee's unlimited device coverage is its biggest strength, but Norton's better protection makes it worth the per-device premium.
 
 **However**, both are solid choices. If neither appeals to you, consider [Bitdefender](/posts/bitdefender-review-2026/) or <a href="https://go.digitalshieldpro.com/kaspersky?ref=/posts/mcafee-vs-norton-2026/" rel="nofollow sponsored" target="_blank">Kaspersky</a> — both offer excellent protection at competitive prices.
+
+
+<a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
 
 ## Explore More Security Reviews
 

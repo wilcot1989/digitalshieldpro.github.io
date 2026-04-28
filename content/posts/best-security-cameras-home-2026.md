@@ -25,6 +25,10 @@ faq:
     a: "Absolutely. Most modern home security cameras are designed for DIY installation. Wireless cameras simply need to be mounted and connected to WiFi. Wired PoE cameras require running an Ethernet cable to each camera but offer more reliable connections."
   - q: "Where should I place home security cameras?"
     a: "Priority locations are the front door (where 34% of burglars enter), back door, first-floor windows, garage or driveway, and any other entry point. Place cameras at 7-9 feet high, angled slightly downward, with no obstructions blocking the field of view."
+products:
+  - name: "NordVPN"
+    url: "/go/nordvpn"
+    price: ""
 ---
 
 *This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
@@ -287,3 +291,6 @@ Whatever camera you choose, secure it properly. An unsecured camera is worse tha
 ---
 
 *Last updated: April 2026.*
+
+
+<a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>

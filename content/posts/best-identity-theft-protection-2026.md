@@ -25,6 +25,10 @@ faq:
     a: "Most services detect dark web exposures within hours to a few days after data appears in breach databases. Credit monitoring alerts for new accounts typically arrive within 24 hours. Aura claims near real-time detection, while LifeLock and Identity Guard typically alert within one to two business days."
   - q: "What should I do first if my identity is stolen?"
     a: "Immediately freeze your credit at all three bureaus (Equifax, Experian, TransUnion). Then file an identity theft report at IdentityTheft.gov. Contact your bank and credit card companies to flag the fraud. If you have an identity protection service, call their fraud resolution team, as they will handle most of the legwork for you."
+products:
+  - name: "NordVPN"
+    url: "/go/nordvpn"
+    price: ""
 ---
 
 Best identity theft protection -- let me cut to it. After finding my own credentials in two separate breach databases last year, I stopped treating identity theft as something that happens to other people. Over **47 million Americans** were victims in 2025, and with AI making it trivially easy to clone voices, forge documents, and open credit lines, the numbers keep climbing.
@@ -360,3 +364,6 @@ And here's the thing most review sites won't tell you: a credit freeze (free) + 
 ---
 
 *Prices and Trustpilot scores last verified: February 2026.*
+
+
+<a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>

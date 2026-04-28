@@ -25,6 +25,10 @@ faq:
     a: "For most homes, a WiFi 6E router with WPA3 support, automatic firmware updates, and built-in firewall is sufficient. The ASUS RT-AX86U Pro offers strong security features including AiProtection (powered by Trend Micro) for around 250 dollars. The TP-Link Archer AX73 is a solid budget option around 120 dollars. For advanced users, a Ubiquiti Dream Router or pfSense box gives full network segmentation and monitoring capabilities."
   - q: "Is my old router a security risk?"
     a: "If your router is more than 5 years old, it likely no longer receives security patches, may not support WPA3, and could have known unpatched vulnerabilities. Older routers are regularly targeted in botnet attacks. Replacing a router every 4 to 5 years is a worthwhile security investment — a modern WiFi 6E router costs 100 to 250 dollars and provides dramatically better security and performance."
+products:
+  - name: "NordVPN"
+    url: "/go/nordvpn"
+    price: ""
 ---
 
 I run a segmented home network with VLANs separating my work machines, IoT devices, and guest traffic on a pfSense firewall. I've been doing this for over a decade. But here is what I've learned: you don't need my setup to be secure. What you need is to get the basics right -- and most people don't.
@@ -322,6 +326,9 @@ After a decade of building and auditing home networks, here is my honest advice:
 **If you want the full stack**, add a [router-level VPN with NordVPN](https://go.digitalshieldpro.com/nordvpn?ref=/posts/how-to-secure-your-home-network-2026/) and follow the complete checklist above. With the budget setup, you are looking at $186 in the first year and $66/year after that. For protecting every device in your household, that is a reasonable investment.
 
 **What you should not do**: buy expensive "smart home security" gadgets without fixing the basics first. I have seen people spend $300 on a network security device while their router still had "admin" as the password. Fix the foundation before adding layers.
+
+
+<a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
 
 ## Related Security Guides
 

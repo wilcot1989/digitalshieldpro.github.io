@@ -23,6 +23,10 @@ faq:
     a: "Check haveibeenpwned.com — enter your email to see if it appears in known data breaches. Also check your platform's security settings for unrecognized login attempts. Most platforms (Facebook, Google, Instagram) have a 'Security Checkup' feature that reviews your account security."
   - q: "What privacy settings should I change on social media?"
     a: "Essential changes: set your profile to private (or friends-only), disable location sharing, limit who can see your friends list, turn off facial recognition, review and remove third-party app connections, disable search engine indexing of your profile, and restrict who can send you DMs/friend requests."
+products:
+  - name: "NordVPN"
+    url: "/go/nordvpn"
+    price: ""
 ---
 
 A friend of mine had their Instagram hacked last year, and within hours the attacker was DMing everyone in their contact list with a crypto scam. The damage was not just personal -- it burned trust with dozens of people. Your social media accounts hold more data than you think, and a compromised account turns you into a weapon against everyone you know. Here is how I lock down every platform, and you can do it in under 30 minutes.
@@ -165,6 +169,9 @@ Schedule a monthly 10-minute checkup:
 ## Conclusion
 
 Securing your social media takes 30 minutes upfront and 10 minutes per month to maintain. The three most impactful actions: unique passwords with a password manager, authenticator-based 2FA on every account, and regular review of connected apps and active sessions.
+
+
+<a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
 
 ## Read More
 
