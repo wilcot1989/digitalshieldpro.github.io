@@ -162,7 +162,7 @@ Fight fire with fire. Modern email security tools use machine learning to detect
 - **Norton 360** -- Trustpilot 4.7/5 with 65,800+ reviews. Includes real-time email scanning, Safe Web browser extension, and URL blocking. The highest-rated security suite on Trustpilot, and the email protection caught two phishing emails in my testing that Gmail missed
 - **Bitdefender** -- Trustpilot 3.6/5 with 10,100+ reviews. The browser extension's real-time anti-phishing is excellent. Lower Trustpilot score is mostly due to support complaints, not product quality. The actual detection rates in independent AV-TEST labs are consistently top-tier
 
-<a href="https://www.awin1.com/awclick.php?mid=11660&id=2776410" class="cta cta-outline" rel="nofollow sponsored" target="_blank">Get Bitdefender -- Real-Time Anti-Phishing Protection</a>
+<a href="https://go.digitalshieldpro.com/bitdefender?ref=/posts/how-to-protect-yourself-from-phishing-2026/" class="cta cta-outline" rel="nofollow sponsored" target="_blank">Get Bitdefender -- Real-Time Anti-Phishing Protection</a>
 
 Read more: [Best Antivirus Software in 2026](/posts/best-antivirus-software-2026/) | [Bitdefender vs Norton](/posts/bitdefender-vs-norton-2026/)
 

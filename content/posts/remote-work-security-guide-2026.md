@@ -110,7 +110,7 @@ Modern endpoint protection goes far beyond traditional antivirus. You need:
 - **Firewall** — Monitors and controls network traffic to and from your device
 - **Exploit protection** — Prevents attackers from leveraging software vulnerabilities
 
-<a href="https://www.awin1.com/awclick.php?mid=19487&id=2776410" rel="nofollow sponsored" target="_blank">Kaspersky</a> offers excellent endpoint protection with specific features for remote workers, including a hardened browser for online banking, webcam protection, and a built-in VPN for additional encryption. See our [Kaspersky review](/posts/kaspersky-review-2026/) and [best antivirus guide](/posts/best-antivirus-software-2026/) for detailed comparisons.
+<a href="https://go.digitalshieldpro.com/kaspersky?ref=/posts/remote-work-security-guide-2026/" rel="nofollow sponsored" target="_blank">Kaspersky</a> offers excellent endpoint protection with specific features for remote workers, including a hardened browser for online banking, webcam protection, and a built-in VPN for additional encryption. See our [Kaspersky review](/posts/kaspersky-review-2026/) and [best antivirus guide](/posts/best-antivirus-software-2026/) for detailed comparisons.
 
 ### Keep Everything Updated
 

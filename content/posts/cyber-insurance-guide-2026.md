@@ -132,7 +132,7 @@ The days of answering a few checkbox questions on an application are over. Cyber
 
 The good news is that meeting these requirements also makes you genuinely more secure. Here is a practical approach:
 
-**For endpoint protection**, solutions like <a href="https://www.awin1.com/awclick.php?mid=19487&id=2776410" rel="nofollow sponsored" target="_blank">Kaspersky</a> offer business-grade EDR capabilities that satisfy insurer requirements. Modern antivirus suites go far beyond traditional signature-based detection — they include behavioral analysis, ransomware rollback, and centralized management consoles. See our [best antivirus software guide](/posts/best-antivirus-software-2026/) for detailed comparisons.
+**For endpoint protection**, solutions like <a href="https://go.digitalshieldpro.com/kaspersky?ref=/posts/cyber-insurance-guide-2026/" rel="nofollow sponsored" target="_blank">Kaspersky</a> offer business-grade EDR capabilities that satisfy insurer requirements. Modern antivirus suites go far beyond traditional signature-based detection — they include behavioral analysis, ransomware rollback, and centralized management consoles. See our [best antivirus software guide](/posts/best-antivirus-software-2026/) for detailed comparisons.
 
 **For network security**, a business VPN protects remote connections and satisfies the encrypted communications requirement. <a href="https://go.digitalshieldpro.com/nordvpn?ref=/posts/cyber-insurance-guide-2026/" rel="nofollow sponsored" target="_blank">NordVPN</a> offers dedicated business plans with centralized management, dedicated IP addresses, and a strict no-logs policy that has been independently audited. Our [VPN comparison guide](/posts/best-vpn-services-2026/) covers the best options.
 

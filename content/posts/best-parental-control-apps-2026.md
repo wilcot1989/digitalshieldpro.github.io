@@ -93,7 +93,7 @@ Bark takes a different approach: instead of blocking everything, it monitors con
 
 ## 3. Kaspersky Safe Kids — Best Budget
 
-<a href="https://www.awin1.com/awclick.php?mid=19487&id=2776410" rel="nofollow sponsored" target="_blank">Kaspersky Safe Kids</a> offers premium features at the lowest price: €20/year for unlimited devices covers the whole family.
+<a href="https://go.digitalshieldpro.com/kaspersky?ref=/posts/best-parental-control-apps-2026/" rel="nofollow sponsored" target="_blank">Kaspersky Safe Kids</a> offers premium features at the lowest price: €20/year for unlimited devices covers the whole family.
 
 ### Key Features
 - **Content filtering** — 14 categories, customizable per child age

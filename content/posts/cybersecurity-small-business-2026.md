@@ -49,7 +49,7 @@ Every computer, laptop, and phone that accesses business data needs endpoint pro
 
 ### Recommended: Kaspersky Endpoint Security
 
-<a href="https://www.awin1.com/awclick.php?mid=19487&id=2776410" rel="nofollow sponsored" target="_blank">Kaspersky Endpoint Security</a> offers the best protection-to-price ratio for small businesses:
+<a href="https://go.digitalshieldpro.com/kaspersky?ref=/posts/cybersecurity-small-business-2026/" rel="nofollow sponsored" target="_blank">Kaspersky Endpoint Security</a> offers the best protection-to-price ratio for small businesses:
 - **€3/device/month** — Most affordable enterprise-grade protection
 - **Central management** — Dashboard to manage all devices
 - **Auto-updates** — Patches and definitions update automatically

@@ -76,7 +76,7 @@ Modern antivirus solutions include dedicated ransomware protection that monitors
 
 Read our detailed reviews: [Bitdefender review](/posts/bitdefender-review-2026/), [Norton review](/posts/norton-antivirus-review-2026/), [Kaspersky review](/posts/kaspersky-review-2026/).
 
-<a href="https://www.awin1.com/awclick.php?mid=19487&id=2776410" rel="nofollow sponsored" target="_blank">Kaspersky Premium</a> includes a dedicated anti-ransomware module that monitors for suspicious encryption activity and can roll back changes if an attack is detected.
+<a href="https://go.digitalshieldpro.com/kaspersky?ref=/posts/ransomware-protection-guide-2026/" rel="nofollow sponsored" target="_blank">Kaspersky Premium</a> includes a dedicated anti-ransomware module that monitors for suspicious encryption activity and can roll back changes if an attack is detected.
 
 ### 2. Keep Everything Updated
 

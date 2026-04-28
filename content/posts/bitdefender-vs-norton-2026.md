@@ -352,7 +352,7 @@ Both provide remote assistance where a support agent can connect to your compute
 
 Bitdefender Total Security is our **top recommendation for most users**. It delivers the strongest core security, the lightest system footprint, and the best value for money. Unless you specifically need LifeLock or unlimited VPN, Bitdefender is the better product.
 
-<a href="https://www.awin1.com/awclick.php?mid=11660&id=2776410" class="cta" rel="nofollow sponsored" target="_blank">Get Bitdefender Total Security -- Best Price Available</a>
+<a href="https://go.digitalshieldpro.com/bitdefender?ref=/posts/bitdefender-vs-norton-2026/" class="cta" rel="nofollow sponsored" target="_blank">Get Bitdefender Total Security -- Best Price Available</a>
 
 Read our full **[Bitdefender Total Security Review 2026](/posts/bitdefender-review-2026/)** for a deeper dive into every feature.
 
@@ -374,7 +374,7 @@ If neither Bitdefender nor Norton feels like the right fit, **Kaspersky Premium*
 
 For more details, read our **[Kaspersky Review 2026](/posts/kaspersky-review-2026/)**.
 
-<a href="https://www.awin1.com/awclick.php?mid=19487&id=2776410" class="cta cta-outline" rel="nofollow sponsored" target="_blank">Get Kaspersky Premium -- Special Offer</a>
+<a href="https://go.digitalshieldpro.com/kaspersky?ref=/posts/bitdefender-vs-norton-2026/" class="cta cta-outline" rel="nofollow sponsored" target="_blank">Get Kaspersky Premium -- Special Offer</a>
 
 ---
 

@@ -78,7 +78,7 @@ CrowdStrike pioneered cloud-native endpoint security. Its lightweight agent and 
 
 ## 3. Kaspersky Endpoint Security — Best Value
 
-<a href="https://www.awin1.com/awclick.php?mid=19487&id=2776410" rel="nofollow sponsored" target="_blank">Kaspersky Endpoint Security</a> delivers top-tier detection at the lowest price point, backed by one of the industry's most respected threat research labs.
+<a href="https://go.digitalshieldpro.com/kaspersky?ref=/posts/best-endpoint-security-2026/" rel="nofollow sponsored" target="_blank">Kaspersky Endpoint Security</a> delivers top-tier detection at the lowest price point, backed by one of the industry's most respected threat research labs.
 
 ### Key Features
 - **Multi-layered protection** — Signature, behavioral, and ML-based detection

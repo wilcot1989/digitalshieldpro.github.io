@@ -97,7 +97,7 @@ The web dashboard feels stuck in 2019. Setting up multi-device management is mor
 - **Bitdefender Total Security**: $39.99/yr first year (5 devices, all platforms) -- my pick
 - **Bitdefender Premium Security**: $69.99/yr first year (includes unlimited VPN)
 
-<a href="https://www.awin1.com/awclick.php?mid=11660&id=2776410" class="cta" rel="nofollow sponsored" target="_blank">Get Bitdefender Total Security</a>
+<a href="https://go.digitalshieldpro.com/bitdefender?ref=/posts/best-ai-security-tools-2026/" class="cta" rel="nofollow sponsored" target="_blank">Get Bitdefender Total Security</a>
 
 ---
 
@@ -236,7 +236,7 @@ After testing all four extensively and throwing real malware at them in controll
 
 - **If you want the most complete all-in-one protection**: <a href="https://norton.com" rel="nofollow sponsored" target="_blank">Norton 360 Deluxe</a> covers antivirus, VPN, dark web monitoring, and cloud backup. It is the most "set it and forget it" option, and the 4.7 Trustpilot score backs that up. Just watch the renewal price.
 
-- **If detection accuracy is your top priority**: <a href="https://www.awin1.com/awclick.php?mid=11660&id=2776410" rel="nofollow sponsored" target="_blank">Bitdefender Total Security</a> has the best AI detection engine I have tested. Period. It is also the lightest on system resources and cheapest at $39.99/year. For power users and anyone handling sensitive data, this is my number one pick.
+- **If detection accuracy is your top priority**: <a href="https://go.digitalshieldpro.com/bitdefender?ref=/posts/best-ai-security-tools-2026/" rel="nofollow sponsored" target="_blank">Bitdefender Total Security</a> has the best AI detection engine I have tested. Period. It is also the lightest on system resources and cheapest at $39.99/year. For power users and anyone handling sensitive data, this is my number one pick.
 
 - **If you have been in a data breach or worry about credential theft**: <a href="https://dashlane.com" rel="nofollow sponsored" target="_blank">Dashlane Premium</a> fills a gap that antivirus cannot. Pair it with Bitdefender or Norton for a layered approach that covers both malware and stolen credentials.
 

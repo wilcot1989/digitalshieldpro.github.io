@@ -159,7 +159,7 @@ Norton Family provides web filtering, time management, location tracking, and ac
 
 Norton 360 is a **solid antivirus suite** with excellent detection rates, minimal performance impact, and a comprehensive feature bundle. The first-year pricing is competitive, making it worth trying.
 
-However, the steep renewal prices and aggressive upselling are genuine downsides. Our recommendation: buy Norton at the first-year discount, and when renewal time comes, either negotiate a retention offer or switch to an alternative like [Bitdefender](/posts/bitdefender-review-2026/) or <a href="https://www.awin1.com/awclick.php?mid=19487&id=2776410" rel="nofollow sponsored" target="_blank">Kaspersky</a>.
+However, the steep renewal prices and aggressive upselling are genuine downsides. Our recommendation: buy Norton at the first-year discount, and when renewal time comes, either negotiate a retention offer or switch to an alternative like [Bitdefender](/posts/bitdefender-review-2026/) or <a href="https://go.digitalshieldpro.com/kaspersky?ref=/posts/norton-antivirus-review-2026/" rel="nofollow sponsored" target="_blank">Kaspersky</a>.
 
 **Rating: 8.0/10** — Excellent protection and features, held back by pricing practices.
 

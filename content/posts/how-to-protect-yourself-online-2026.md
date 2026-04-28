@@ -148,7 +148,7 @@ Windows Defender (built into Windows 11) provides decent baseline protection. Fo
 
 Read our full [best antivirus software 2026 guide](/posts/best-antivirus-software-2026/) for detailed comparisons and testing data, or see individual reviews of [Bitdefender](/posts/bitdefender-review-2026/) and [Kaspersky](/posts/kaspersky-review-2026/).
 
-<a href="https://www.awin1.com/awclick.php?mid=11660&id=2776410" class="cta" rel="nofollow sponsored" target="_blank">Get Bitdefender Total Security — Protect Up to 10 Devices</a>
+<a href="https://go.digitalshieldpro.com/bitdefender?ref=/posts/how-to-protect-yourself-online-2026/" class="cta" rel="nofollow sponsored" target="_blank">Get Bitdefender Total Security — Protect Up to 10 Devices</a>
 
 ### Mac Users
 
@@ -581,7 +581,7 @@ Here is a quick reference for the tools and services recommended throughout this
 
 <a href="https://go.digitalshieldpro.com/nordvpn?ref=/posts/how-to-protect-yourself-online-2026/" class="cta" rel="nofollow sponsored" target="_blank">Get NordVPN — Protect Your Internet Connection</a>
 
-<a href="https://www.awin1.com/awclick.php?mid=11660&id=2776410" class="cta cta-outline" rel="nofollow sponsored" target="_blank">Get Bitdefender — Protect Your Devices</a>
+<a href="https://go.digitalshieldpro.com/bitdefender?ref=/posts/how-to-protect-yourself-online-2026/" class="cta cta-outline" rel="nofollow sponsored" target="_blank">Get Bitdefender — Protect Your Devices</a>
 
 <a href="https://go.nordvpn.net/aff_c?offer_id=488&aff_id=141337" class="cta cta-outline" rel="nofollow sponsored" target="_blank">Get NordPass — Protect Your Passwords</a>
 

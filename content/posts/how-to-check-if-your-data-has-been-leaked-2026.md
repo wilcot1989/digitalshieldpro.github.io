@@ -98,7 +98,7 @@ When an issue is found, Bitdefender provides specific remediation steps tailored
 
 For a full analysis of Bitdefender's security ecosystem, see our [Bitdefender Review 2026](/posts/bitdefender-review-2026/).
 
-<a href="https://www.awin1.com/awclick.php?mid=11660&id=2776410" class="cta" rel="nofollow sponsored" target="_blank">Get Bitdefender Digital Identity Protection</a>
+<a href="https://go.digitalshieldpro.com/bitdefender?ref=/posts/how-to-check-if-your-data-has-been-leaked-2026/" class="cta" rel="nofollow sponsored" target="_blank">Get Bitdefender Digital Identity Protection</a>
 
 ---
 

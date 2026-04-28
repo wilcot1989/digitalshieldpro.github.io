@@ -143,7 +143,7 @@ Bitdefender remains remarkably light even with the full suite running. For a det
 </div>
 </div>
 
-<a href="https://www.awin1.com/awclick.php?mid=11660&id=2776410" class="cta" rel="nofollow sponsored" target="_blank">Get Bitdefender Premium Security - Best Overall Suite</a>
+<a href="https://go.digitalshieldpro.com/bitdefender?ref=/posts/best-internet-security-suite-2026/" class="cta" rel="nofollow sponsored" target="_blank">Get Bitdefender Premium Security - Best Overall Suite</a>
 
 ---
 
@@ -313,7 +313,7 @@ Kaspersky sits between Bitdefender and Norton on resource usage — heavier than
 </div>
 </div>
 
-<a href="https://www.awin1.com/awclick.php?mid=19487&id=2776410" class="cta cta-outline" rel="nofollow sponsored" target="_blank">Get Kaspersky Premium - Best Bundled VPN</a>
+<a href="https://go.digitalshieldpro.com/kaspersky?ref=/posts/best-internet-security-suite-2026/" class="cta cta-outline" rel="nofollow sponsored" target="_blank">Get Kaspersky Premium - Best Bundled VPN</a>
 
 ---
 
@@ -397,7 +397,7 @@ ESET is the lightest security suite available. If you run an older PC or a machi
 </div>
 </div>
 
-<a href="https://www.awin1.com/awclick.php?mid=18785&id=2776410" class="cta cta-outline" rel="nofollow sponsored" target="_blank">Get ESET Home Security Ultimate</a>
+<a href="https://go.digitalshieldpro.com/eset?ref=/posts/best-internet-security-suite-2026/" class="cta cta-outline" rel="nofollow sponsored" target="_blank">Get ESET Home Security Ultimate</a>
 
 ---
 
@@ -537,9 +537,9 @@ For those interested in Mac-specific protection, our guide to the [best antiviru
 
 No matter which suite you choose, you will be significantly better protected than relying on Windows Defender alone.
 
-<a href="https://www.awin1.com/awclick.php?mid=11660&id=2776410" class="cta" rel="nofollow sponsored" target="_blank">Get Bitdefender Premium Security - Best Overall Suite</a>
+<a href="https://go.digitalshieldpro.com/bitdefender?ref=/posts/best-internet-security-suite-2026/" class="cta" rel="nofollow sponsored" target="_blank">Get Bitdefender Premium Security - Best Overall Suite</a>
 
-<a href="https://www.awin1.com/awclick.php?mid=19487&id=2776410" class="cta cta-outline" rel="nofollow sponsored" target="_blank">Get Kaspersky Premium - Best Bundled VPN</a>
+<a href="https://go.digitalshieldpro.com/kaspersky?ref=/posts/best-internet-security-suite-2026/" class="cta cta-outline" rel="nofollow sponsored" target="_blank">Get Kaspersky Premium - Best Bundled VPN</a>
 
 ---
 

@@ -159,7 +159,7 @@ Read our detailed [Norton review](/posts/norton-antivirus-review-2026/).
 
 Norton wins in malware detection, performance impact, and features (cloud backup is a real advantage). McAfee's unlimited device coverage is its biggest strength, but Norton's better protection makes it worth the per-device premium.
 
-**However**, both are solid choices. If neither appeals to you, consider [Bitdefender](/posts/bitdefender-review-2026/) or <a href="https://www.awin1.com/awclick.php?mid=19487&id=2776410" rel="nofollow sponsored" target="_blank">Kaspersky</a> — both offer excellent protection at competitive prices.
+**However**, both are solid choices. If neither appeals to you, consider [Bitdefender](/posts/bitdefender-review-2026/) or <a href="https://go.digitalshieldpro.com/kaspersky?ref=/posts/mcafee-vs-norton-2026/" rel="nofollow sponsored" target="_blank">Kaspersky</a> — both offer excellent protection at competitive prices.
 
 ## Explore More Security Reviews
 

@@ -147,7 +147,7 @@ For a complete breakdown, see our [Bitdefender review](/posts/bitdefender-review
 </div>
 </div>
 
-<a href="https://www.awin1.com/awclick.php?mid=11660&id=2776410" class="cta" rel="nofollow sponsored" target="_blank">Get Bitdefender Total Security - Best Protection for Windows 11</a>
+<a href="https://go.digitalshieldpro.com/bitdefender?ref=/posts/best-antivirus-for-windows-11-2026/" class="cta" rel="nofollow sponsored" target="_blank">Get Bitdefender Total Security - Best Protection for Windows 11</a>
 
 ---
 
@@ -217,7 +217,7 @@ For the full analysis, read our [Kaspersky review](/posts/kaspersky-review-2026/
 </div>
 </div>
 
-<a href="https://www.awin1.com/awclick.php?mid=19487&id=2776410" class="cta cta-outline" rel="nofollow sponsored" target="_blank">Get Kaspersky Premium - Lowest False Positives</a>
+<a href="https://go.digitalshieldpro.com/kaspersky?ref=/posts/best-antivirus-for-windows-11-2026/" class="cta cta-outline" rel="nofollow sponsored" target="_blank">Get Kaspersky Premium - Lowest False Positives</a>
 
 ---
 
@@ -341,7 +341,7 @@ ESET is the lightest antivirus I tested on Windows 11. If you are running an old
 </div>
 </div>
 
-<a href="https://www.awin1.com/awclick.php?mid=18785&id=2776410" class="cta cta-outline" rel="nofollow sponsored" target="_blank">Get ESET Home Security Premium</a>
+<a href="https://go.digitalshieldpro.com/eset?ref=/posts/best-antivirus-for-windows-11-2026/" class="cta cta-outline" rel="nofollow sponsored" target="_blank">Get ESET Home Security Premium</a>
 
 ---
 
@@ -524,9 +524,9 @@ For complete digital security, you should also use a strong, unique password for
 
 Windows Defender is fine as a free baseline, but if you store sensitive data, do online banking, or simply want peace of mind, the upgrade to a dedicated antivirus is well worth it.
 
-<a href="https://www.awin1.com/awclick.php?mid=11660&id=2776410" class="cta" rel="nofollow sponsored" target="_blank">Get Bitdefender Total Security - Best for Windows 11</a>
+<a href="https://go.digitalshieldpro.com/bitdefender?ref=/posts/best-antivirus-for-windows-11-2026/" class="cta" rel="nofollow sponsored" target="_blank">Get Bitdefender Total Security - Best for Windows 11</a>
 
-<a href="https://www.awin1.com/awclick.php?mid=19487&id=2776410" class="cta cta-outline" rel="nofollow sponsored" target="_blank">Get Kaspersky Premium - Best Accuracy</a>
+<a href="https://go.digitalshieldpro.com/kaspersky?ref=/posts/best-antivirus-for-windows-11-2026/" class="cta cta-outline" rel="nofollow sponsored" target="_blank">Get Kaspersky Premium - Best Accuracy</a>
 
 ---
 

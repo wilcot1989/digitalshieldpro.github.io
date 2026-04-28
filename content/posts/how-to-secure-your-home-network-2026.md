@@ -214,7 +214,7 @@ I have tested over 20 antivirus products in the past 3 years. For home network p
 
 **ESET Smart Security Premium** -- my personal pick for advanced users. Lighter on system resources than Norton or Bitdefender, and the built-in Network Inspector actively scans for vulnerable devices on your network. Scores 4.2/5 on Trustpilot (31,700+ reviews). Around $60/year for 5 devices.
 
-<a href="https://www.awin1.com/awclick.php?mid=11660&id=2776410" class="cta" rel="nofollow sponsored" target="_blank">Get Bitdefender Total Security</a>
+<a href="https://go.digitalshieldpro.com/bitdefender?ref=/posts/how-to-secure-your-home-network-2026/" class="cta" rel="nofollow sponsored" target="_blank">Get Bitdefender Total Security</a>
 
 ### Cost Comparison: Home Network Security Stack
 
@@ -317,7 +317,7 @@ After a decade of building and auditing home networks, here is my honest advice:
 
 **If you do nothing else**, complete Step 1 and Step 2 today. Change your router admin password, update the firmware, and make sure you are on WPA3 or WPA2-AES with a strong password. Those three actions take 10 minutes and eliminate the most common attack vectors. That alone puts you ahead of the vast majority of home users.
 
-**If you want serious protection**, add a guest network for IoT devices (Step 3) and install [Bitdefender Total Security](https://www.awin1.com/awclick.php?mid=11660&id=2776410) or ESET on all your computers. That is 80% of the security for 20% of the effort.
+**If you want serious protection**, add a guest network for IoT devices (Step 3) and install [Bitdefender Total Security](https://go.digitalshieldpro.com/bitdefender?ref=/posts/how-to-secure-your-home-network-2026/) or ESET on all your computers. That is 80% of the security for 20% of the effort.
 
 **If you want the full stack**, add a [router-level VPN with NordVPN](https://go.digitalshieldpro.com/nordvpn?ref=/posts/how-to-secure-your-home-network-2026/) and follow the complete checklist above. With the budget setup, you are looking at $186 in the first year and $66/year after that. For protecting every device in your household, that is a reasonable investment.
 

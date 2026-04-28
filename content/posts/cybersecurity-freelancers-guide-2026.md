@@ -80,7 +80,7 @@ Enable 2FA on every account, especially:
 Your devices are your livelihood. Protect them with reputable antivirus software.
 
 ### Our Recommendations
-- **<a href="https://www.awin1.com/awclick.php?mid=19487&id=2776410" rel="nofollow sponsored" target="_blank">Kaspersky</a>** — Excellent protection with minimal performance impact
+- **<a href="https://go.digitalshieldpro.com/kaspersky?ref=/posts/cybersecurity-freelancers-guide-2026/" rel="nofollow sponsored" target="_blank">Kaspersky</a>** — Excellent protection with minimal performance impact
 - **Bitdefender** — Best detection rates, affordable
 
 See our [best antivirus comparison](/posts/best-antivirus-software-2026/) and [anti-malware guide](/posts/best-anti-malware-software-2026/).
