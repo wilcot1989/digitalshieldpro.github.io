@@ -250,6 +250,65 @@ The minimum viable stack if budget is genuinely tight: a free password manager (
 - [ ] Separate browser profiles for work and personal browsing
 - [ ] GDPR/HIPAA obligations understood and addressed for your client types
 
+## Incident Response: What to Do When Something Goes Wrong
+
+No security setup is perfect, and the question is not whether you will experience a security incident but whether you will be prepared when you do. I have walked through incident response with three freelancers over the past two years — one phishing compromise, one ransomware infection, and one case of a client portal being accessed by a former partner who still had the credentials. Here is the response process I recommend for each scenario.
+
+### Phishing: Your Credentials Were Stolen
+
+**First 30 minutes:**
+1. Change the password on the compromised account immediately
+2. Change the password on your email account (even if not directly compromised — email is the recovery path for everything else)
+3. Enable 2FA on both if not already enabled
+4. Check the account's login history (Settings → Security → Recent Activity on most platforms) for unfamiliar access
+5. Log out all other sessions
+
+**First 2 hours:**
+6. Change passwords on all accounts that use the same password as the compromised one (another reason to use a password manager — you will know exactly which accounts need updating)
+7. Check your email sent folder for outgoing messages you did not send — phishers often use compromised email to send more phishing to your contacts
+8. Alert clients if the compromised account was used for client communication — transparency here protects the relationship
+9. Scan your device with antivirus — phishing sometimes delivers malware as a secondary payload
+
+### Ransomware: Your Files Are Encrypted
+
+**Immediate actions:**
+1. Disconnect from the internet and all network drives immediately — ransomware actively spreads across networks
+2. Do not pay the ransom — there is no guarantee of recovery, and payment funds further attacks
+3. Identify the ransomware variant using ID Ransomware (id-ransomware.malwarehunterteam.com) — some variants have free decryption tools
+4. Restore from your most recent clean backup
+
+**If no clean backup exists:**
+5. Check VSS (Volume Shadow Copies) on Windows — ransomware often but not always deletes these
+6. Contact a professional incident response service — for businesses with valuable data, this can be worth the cost
+7. Document everything for insurance (if you have cyber insurance) and for your forensic record
+
+**After recovery:**
+8. Audit how the ransomware got in (most commonly: phishing email, unpatched software, or RDP exposed to the internet)
+9. Implement the missing control that allowed the infection
+10. Test your backup restoration process — this incident revealed that you had one, but future you needs confidence it works
+
+### Compromised Account: A Former Client or Contractor Has Access
+
+This is more common than people realise, and the remediation is often overlooked. When a client relationship ends or a contractor's engagement finishes, revoke their access to every system they could reach.
+
+Audit trail: list every tool, platform, and account you shared access to during the engagement. Revoke credentials, remove their email from shared accounts, and rotate any shared passwords. If they had access to your password manager's shared vault entries, change those credentials immediately.
+
+## Conclusion: Build Your Stack This Week, Not Next Month
+
+The most dangerous moment in freelance security is when you finish reading an article like this and think "I should do that soon." Soon becomes never. Here is a concrete 90-minute implementation plan to go from zero to a solid security baseline:
+
+**Minutes 1-20:** Download and set up Bitwarden (free). Import any passwords your browser has saved. Begin generating unique passwords for your most critical accounts starting with email, banking, and freelance platforms.
+
+**Minutes 21-40:** Enable 2FA on your email account using Google Authenticator or Authy. Then enable 2FA on banking, cloud storage, and your three most-used freelance platforms.
+
+**Minutes 41-60:** Check your device's disk encryption status. On Windows: Control Panel → BitLocker. On Mac: System Settings → Privacy & Security → FileVault. Enable if not already on.
+
+**Minutes 61-80:** Sign up for NordVPN or your preferred VPN service. Install it. Test it on the public WiFi you use most often. Make a habit of turning it on whenever you leave your home network.
+
+**Minutes 81-90:** Set up automatic cloud backup for your most important client project folder. Google Drive, OneDrive, and Dropbox all offer 15GB free. The sync client runs silently in the background once configured.
+
+At the end of 90 minutes you will have addressed the majority of realistic threats facing a freelancer in 2026. The remaining items — encrypted backup, secure communication channels, data handling contracts — can be added over the following week. But the foundation needs to be today.
+
 ## Explore More Security Guides
 
 - **[Best VPN Services 2026](/posts/best-vpn-services-2026/)** — Protect your connection

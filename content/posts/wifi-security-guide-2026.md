@@ -257,6 +257,28 @@ Signs it is time to replace your router:
 
 Budget replacement options that I have tested and trust: TP-Link Archer AX55 (€80, WPA3, solid update cadence), ASUS RT-AX58U (€120, excellent security features, AiProtection built in), and Synology RT6600ax (€270, best-in-class security, firewall, and VPN server capabilities).
 
+## Extended FAQ: WiFi Security Questions I Get All the Time
+
+Beyond the basic checklist, here are the questions I encounter most often from people who take their network security seriously and want to go deeper.
+
+**Q: Should I use a separate router for my home office?**
+If you run a business from home and have client obligations around data security — particularly under GDPR, HIPAA, or contractual NDAs — a separate VLAN or physical router for work devices is worth serious consideration. The guest network approach works for casual IoT isolation, but it provides weaker guarantees than a fully separate network with its own firewall rules. My home office setup uses a Synology router running a dedicated work VLAN with firewall rules that block all traffic to and from my personal device network segment.
+
+**Q: What is the difference between 2.4GHz and 5GHz WiFi from a security perspective?**
+The frequency bands themselves have no meaningful security difference — WPA3 applies equally to both. The practical security consideration is range: 2.4GHz travels through walls more easily and has a larger effective radius, meaning your network is more accessible to neighbours and passers-by. If your home is densely surrounded by other dwellings, using 5GHz for primary devices (which have shorter range and require closer proximity) reduces your exposure slightly. This is a marginal benefit — strong encryption matters far more than frequency selection.
+
+**Q: My router has a "Turbo" or "Gaming" mode that disables some security features. Should I use it?**
+No. These modes often disable the SPI firewall, disable some traffic inspection, or prioritise throughput over security scanning. The performance gains are modest on modern hardware — typically 5-15% in synthetic benchmarks — and not worth the security trade-off for the average home network. If you are running a competitive gaming setup with a dedicated gaming VLAN, that is a different conversation, but for a typical home network keep all security features enabled.
+
+**Q: How worried should I be about WiFi password sharing?**
+Your WiFi password is a permanent credential — once you share it, there is no easy way to revoke access for one person without changing the password and reconfiguring all your devices. For guests and visitors, always use the guest network with a separate password. Change your guest network password every few months if you have it posted publicly in your home. Your main network password should be shared only with household members who live there permanently.
+
+**Q: What is a WiFi deauthentication attack and should I worry about it?**
+A deauthentication (deauth) attack forces devices off your WiFi by sending spoofed disconnection frames. This cannot compromise your network security directly, but it is used as a precursor to more sophisticated attacks (forcing your device to reconnect so the attacker can capture the handshake). With WPA3, deauth attacks are largely mitigated — WPA3 uses Management Frame Protection (MFP) which authenticates management frames and prevents spoofed deauth packets. Another reason to use WPA3 if your hardware supports it.
+
+**Q: I have a mesh WiFi system (like Eero, Orbi, or Google Nest). Does it change my security posture?**
+Mesh systems generally have good security defaults — auto-firmware updates, WPA3, no WPS. The security trade-off is that cloud-based management (required for most mesh systems) means your router configuration is accessible through a vendor app, which introduces account security as a dependency. Enable 2FA on your mesh system account and use a strong, unique password. If the vendor's cloud is compromised or your account is stolen, someone could reconfigure your network. This is a low-probability risk but worth addressing.
+
 ## Conclusion
 
 WiFi security comes down to four fundamentals: WPA3/WPA2 encryption with a strong password, updated firmware, changed default credentials, and a guest network for IoT devices. This takes 30 minutes to set up and provides strong protection against the vast majority of wireless attacks.

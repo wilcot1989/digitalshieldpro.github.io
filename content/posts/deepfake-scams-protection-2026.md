@@ -221,6 +221,52 @@ Write this down. Share it with everyone in your team. The value of a protocol co
 | **Netherlands** | Fraudehelpdesk.nl | Team High Tech Crime (THTC) |
 | **Germany** | Bundeskriminalamt (bka.de) | ZIT cybercrime unit |
 
+## Deepfake Scams Targeting Specific Groups
+
+The threat model varies significantly depending on who you are and what role you play. Here is how deepfake scams are specifically targeting different groups in 2026:
+
+### Elderly People and Grandparent Scams
+The grandparent scam — where an attacker impersonates a grandchild claiming to be in an emergency — is now overwhelmingly AI voice-powered. Scammers harvest audio from public social media videos and generate a convincing voice clone. The emotional pressure of hearing your grandchild's voice, combined with urgency ("I'm in jail, don't tell Mom"), produces a compliance rate that fraudsters count on.
+
+Specific protections for this demographic: set up a family code word in an explicit conversation, not just a casual mention. Write it down. Practise using it. Make it clear that any family member calling from an unknown number during an emergency will give the code word when asked, no questions about why you asked.
+
+### Business Executives and Finance Teams
+C-suite executives are disproportionately targeted because the potential payout per successful attack is enormous. The fraud pattern is consistent: a deepfake video call featuring the CEO and other familiar faces, requesting an urgent wire transfer, with instructions to keep it confidential. The 2024 case where $25 million was transferred is the most publicised example, but similar attacks — typically in the €50,000-€500,000 range — occur regularly and are not widely reported due to reputational concerns.
+
+Specific protections for finance teams: no wire transfer above a defined threshold should be processed based solely on a video or email instruction, regardless of who appears to be on the call. Require a phone callback to a pre-established number. Document this policy in writing and train staff explicitly on the threat vector.
+
+### Teenagers and Young Adults
+Deepfake pornography — non-consensual intimate images generated from regular photos — is increasingly used for blackmail targeting teenagers. An attacker creates explicit material using a victim's photos from social media and then demands money to prevent distribution. This is illegal in most jurisdictions but enforcement is difficult.
+
+Specific protections: review social media privacy settings so photos are visible only to confirmed connections. Educate teenagers that this type of blackmail exists, that they should not pay, and that they should immediately tell a trusted adult and report to the platform and police. The UK's Revenge Porn Helpline and NCMEC in the US provide support resources.
+
+### Journalists and Activists
+Deepfakes are used to discredit journalists and activists by creating fabricated footage of them saying or doing things they did not say or do. This is a targeted harassment and reputation destruction tool. The protection is proactive: establish a public record of your authentic audio and video content, use content credentials tools (like Adobe's Content Authenticity Initiative), and document any deepfake attacks for legal purposes.
+
+## The Psychological Manipulation Layer
+
+What makes deepfake scams particularly effective is not just the technology — it is the psychological architecture layered around it. Understanding the manipulation techniques helps you resist them even when the deepfake itself is convincing.
+
+**Manufactured urgency.** Every successful deepfake scam I have studied includes an artificial time pressure: "this needs to happen in the next hour," "the transfer window closes at 3pm," "I need help RIGHT NOW." Urgency bypasses careful thinking and triggers emotional responses. My rule: if a request creates urgency, that urgency is itself a warning sign. Pause. Verify. The cost of a 10-minute delay to verify is zero. The cost of acting on a successful deepfake scam can be catastrophic.
+
+**Authority and hierarchy.** Business email compromise deepfakes almost always invoke authority — a CEO, CFO, or senior partner making a direct request. The social conditioning to respond promptly and positively to requests from authority figures is deeply ingrained. Attackers exploit this deliberately. A policy that requires secondary verification for large transfers protects employees from their own trained compliance instincts.
+
+**Isolation instructions.** "Don't tell anyone about this," "keep this between us," "your colleague doesn't need to know." Isolation is a hallmark of social engineering. Legitimate urgent business does not come with secrecy requirements. When any communication includes isolation instructions alongside an unusual request, treat it as an automatic red flag regardless of how convincing the source appears.
+
+**Emotional loading.** The grandparent scam version of the deepfake call includes sounds of distress, fear, and pleading — emotional content that triggers a protective response in the listener. This emotional activation reduces critical evaluation. The antidote: acknowledge the emotion consciously ("this sounds like an emergency, which is exactly why I need to verify") rather than suppressing the feeling.
+
+## A Realistic Assessment of Where This Threat Goes Next
+
+I want to be direct about the trajectory here, because the honest picture is more alarming than most coverage acknowledges.
+
+The generation of deepfakes is getting cheaper, faster, and more accessible every six months. In 2022, creating a convincing voice clone required technical skill and expensive compute. Today it requires a browser tab. By 2027, real-time video deepfakes in video calls — already demonstrated in research contexts — will likely be accessible to non-technical attackers.
+
+Detection technology is not keeping pace. Every detection method currently available is trained on today's generation of deepfakes and will be bypassed by the next generation before it is widely deployed. Regulation is meaningful but slow — laws passed in 2024 are enforced by police forces that have not yet trained for this threat vector and prosecutors who have not yet built case precedent.
+
+The defences that will still work in 2028 are the same ones that work today: procedural verification rather than perceptual detection. A code word cannot be deepfaked. A callback to a pre-established phone number cannot be deepfaked. A written policy requiring secondary authorisation for large financial transactions cannot be bypassed by a convincing video call.
+
+The technology is going to keep getting better. The answer is to build systems that do not rely on being able to tell the difference.
+
 ## Explore More Security Guides
 
 - **[How to Report Phishing](/posts/how-to-report-phishing-2026/)** — Stop scam emails
