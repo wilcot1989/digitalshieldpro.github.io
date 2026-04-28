@@ -71,7 +71,7 @@ What makes the NordPass approach particularly useful is its integration with you
 
 NordPass also provides a **Password Health** dashboard that identifies weak passwords, reused passwords, and old passwords across all your accounts. Combined with breach monitoring, this gives you a comprehensive view of your credential security posture. For more on creating truly secure passwords, see our guide on [how to create strong passwords](/posts/how-to-create-strong-passwords-2026/).
 
-<a href="https://go.nordvpn.net/aff_c?offer_id=488&aff_id=141337" class="cta" rel="nofollow sponsored" target="_blank">Check Your Breach Status with NordPass</a>
+<a href="https://go.digitalshieldpro.com/nordpass?ref=/posts/how-to-check-if-your-data-has-been-leaked-2026/" class="cta" rel="nofollow sponsored" target="_blank">Check Your Breach Status with NordPass</a>
 
 ### Surfshark Alert
 
@@ -142,7 +142,7 @@ If a breach exposed your password, change it on the affected service right now. 
 
 A password manager like NordPass makes this process manageable. It identifies every account that shares a compromised password and lets you update each one with a strong, unique replacement.
 
-<a href="https://go.nordvpn.net/aff_c?offer_id=488&aff_id=141337" class="cta cta-outline" rel="nofollow sponsored" target="_blank">Get NordPass Password Manager</a>
+<a href="https://go.digitalshieldpro.com/nordpass?ref=/posts/how-to-check-if-your-data-has-been-leaked-2026/" class="cta cta-outline" rel="nofollow sponsored" target="_blank">Get NordPass Password Manager</a>
 
 ### 2. Enable two-factor authentication (2FA)
 
@@ -262,7 +262,7 @@ Data breaches are a permanent feature of the digital landscape. No amount of per
 
 Start by checking your email addresses on HaveIBeenPwned today. Then set up continuous monitoring through NordPass, Surfshark Alert, or Bitdefender Digital Identity Protection. These are small investments of time and money that can save you from the enormous financial and emotional cost of identity theft.
 
-<a href="https://go.nordvpn.net/aff_c?offer_id=488&aff_id=141337" class="cta" rel="nofollow sponsored" target="_blank">Check Your Breach Status with NordPass</a>
+<a href="https://go.digitalshieldpro.com/nordpass?ref=/posts/how-to-check-if-your-data-has-been-leaked-2026/" class="cta" rel="nofollow sponsored" target="_blank">Check Your Breach Status with NordPass</a>
 
 <a href="https://go.digitalshieldpro.com/surfshark?ref=/posts/how-to-check-if-your-data-has-been-leaked-2026/" class="cta cta-outline" rel="nofollow sponsored" target="_blank">Get Surfshark Alert Dark Web Monitoring</a>
 

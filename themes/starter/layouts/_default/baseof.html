@@ -210,10 +210,22 @@
     table { width: 100%; border-collapse: collapse; margin: 1rem 0; }
     th, td { padding: 0.75rem; text-align: left; border-bottom: 1px solid var(--border); }
     th { background: var(--light); font-weight: 600; }
-    footer { background: var(--ink); color: rgba(255,255,255,0.7); padding: clamp(2.5rem, 6vh, 4rem) 0 1.5rem; margin-top: 3rem; text-align: center; font-size: 0.9rem; }
+    footer { background: var(--ink); color: rgba(255,255,255,0.7); padding: clamp(3rem, 6vh, 4rem) 0 1.5rem; margin-top: 3rem; font-size: 0.9rem; }
     footer p { margin-bottom: 0.5rem; }
-    footer a { color: #60A5FA; text-decoration: none; }
-    footer a:hover { color: var(--bone); text-decoration: underline; }
+    footer a { color: rgba(255,255,255,0.7); text-decoration: none; transition: color 0.15s; }
+    footer a:hover { color: #60A5FA; text-decoration: none; }
+    .footer-grid { display: grid; grid-template-columns: 1.5fr repeat(3, 1fr); gap: 2rem; margin-bottom: 3rem; }
+    .footer-logo { font-family: var(--display); font-size: 1.3rem; font-weight: 700; color: #fff; margin-bottom: 0.5rem; }
+    .footer-logo span { font-family: var(--serif); font-style: italic; font-weight: 500; color: #60A5FA; }
+    .footer-tagline { font-family: var(--serif); font-size: 0.95rem; line-height: 1.55; max-width: 18rem; color: rgba(255,255,255,0.75); }
+    .footer-col-title { font-family: var(--mono); font-size: 0.7rem; letter-spacing: 0.18em; text-transform: uppercase; color: #60A5FA; margin-bottom: 1rem; font-weight: 500; }
+    .footer-col ul { list-style: none; margin: 0; }
+    .footer-col li { margin-bottom: 0.5rem; }
+    .footer-col a { font-family: var(--display); font-size: 0.9rem; color: rgba(255,255,255,0.7); }
+    .footer-col a:hover { color: #fff; }
+    .footer-meta { border-top: 1px solid rgba(255,255,255,0.12); padding-top: 1.5rem; display: flex; justify-content: space-between; flex-wrap: wrap; gap: 1rem; font-family: var(--mono); font-size: 0.7rem; letter-spacing: 0.05em; color: rgba(255,255,255,0.45); }
+    @media (max-width: 768px) { .footer-grid { grid-template-columns: 1fr 1fr; } }
+    @media (max-width: 540px) { .footer-grid { grid-template-columns: 1fr; } }
     .affiliate-disclosure { color: #64748b; font-size: 0.78rem; margin-bottom: 1.5rem; padding: 0; border: none; background: none; }
     .breadcrumb { font-size: 0.85rem; color: #64748b; margin-bottom: 1rem; }
     .breadcrumb a { color: #64748b; }
@@ -318,10 +330,48 @@
     {{ block "main" . }}{{ end }}
   </main>
   <footer>
-    <div class="container">
-      <p>&copy; {{ now.Year }} Digital Shield Pro. All rights reserved.</p>
-      <p>We may earn commissions from qualifying purchases through affiliate links.</p>
-      <p><a href="/privacy/">Privacy Policy</a> · <a href="/about/">About</a></p>
+    <div class="container wide">
+      <div class="footer-grid">
+        <div>
+          <div class="footer-logo">Digital<span>Shield</span>Pro</div>
+          <p class="footer-tagline">Independent privacy and security reports. Tested in our own lab. We don't take ad money for placements.</p>
+        </div>
+        <div class="footer-col">
+          <div class="footer-col-title">Reports</div>
+          <ul>
+            <li><a href="/categories/vpn/">VPN reports</a></li>
+            <li><a href="/categories/encrypted-email/">Encrypted email</a></li>
+            <li><a href="/categories/password-managers/">Password managers</a></li>
+            <li><a href="/categories/antivirus/">Antivirus reviews</a></li>
+            <li><a href="/categories/messaging/">Encrypted messaging</a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <div class="footer-col-title">Tools</div>
+          <ul>
+            <li><a href="/posts/">Latest reports</a></li>
+            <li><a href="/categories/">All categories</a></li>
+            <li><a href="/about/">About James</a></li>
+            <li><a href="/posts/cyber-insurance-guide-2026/">Cyber insurance guide</a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <div class="footer-col-title">Operations</div>
+          <ul>
+            <li><a href="/about/">About</a></li>
+            <li><a href="/privacy/">Privacy policy</a></li>
+            <li><a href="/posts/">Methodology</a></li>
+            <li><a href="mailto:james@digitalshieldpro.com">Contact</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-meta">
+        <span>&copy; {{ now.Year }} Digital Shield Pro · Independent operation</span>
+        <span>Issue {{ now.Format "01 / 2006" }}</span>
+      </div>
+      <div style="margin-top:1rem;font-family:var(--mono);font-size:.68rem;color:rgba(255,255,255,0.4);max-width:60rem;">
+        Affiliate disclosure: We may earn commissions from qualifying purchases through affiliate links — at no extra cost to you. Our reviews remain independent and editorial.
+      </div>
     </div>
   </footer>
   <div class="cookie-banner" id="cookieBanner">

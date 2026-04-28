@@ -486,7 +486,7 @@ Nord Security offers its own all-in-one ecosystem that does not follow the tradi
 | Product | What It Does | Price |
 |---------|-------------|-------|
 | [NordVPN](/posts/nordvpn-review-2026/) | VPN with Threat Protection Pro (anti-malware, ad blocking) | $3.49/mo |
-| [NordPass](https://go.nordvpn.net/aff_c?offer_id=488&aff_id=141337){rel="nofollow sponsored"} | Password manager with breach monitoring | $1.49/mo |
+| [NordPass](https://go.digitalshieldpro.com/nordpass?ref=/posts/best-internet-security-suite-2026/){rel="nofollow sponsored"} | Password manager with breach monitoring | $1.49/mo |
 | NordLocker | Encrypted cloud storage | $3.99/mo |
 
 **NordVPN Plus** ($4.49/mo) bundles VPN plus Threat Protection Pro. Combining NordVPN Plus with NordPass gives you a VPN, anti-malware, ad blocking, and a password manager for about $5.98 per month or $71.76 per year — comparable to Bitdefender Premium Security.
@@ -495,7 +495,7 @@ The main gap in the Nord ecosystem is the lack of a traditional full antivirus w
 
 <a href="https://go.digitalshieldpro.com/nordvpn?ref=/posts/best-internet-security-suite-2026/" class="cta cta-outline" rel="nofollow sponsored" target="_blank">Get NordVPN Plus - VPN with Threat Protection</a>
 
-<a href="https://go.nordvpn.net/aff_c?offer_id=488&aff_id=141337" class="cta cta-outline" rel="nofollow sponsored" target="_blank">Get NordPass - Secure Password Manager</a>
+<a href="https://go.digitalshieldpro.com/nordpass?ref=/posts/best-internet-security-suite-2026/" class="cta cta-outline" rel="nofollow sponsored" target="_blank">Get NordPass - Secure Password Manager</a>
 
 ---
 

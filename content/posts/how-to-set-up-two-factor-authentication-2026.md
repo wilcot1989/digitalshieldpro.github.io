@@ -60,7 +60,7 @@ An authenticator app generates time-based one-time passwords (TOTP) that change 
 
 **Our recommendation:** NordPass includes a built-in TOTP authenticator alongside its password management features, meaning your passwords and 2FA codes are stored together and synced across all your devices. This is particularly convenient because you do not need to open a separate app to get your codes.
 
-<a href="https://go.nordvpn.net/aff_c?offer_id=488&aff_id=141337" class="cta" rel="nofollow sponsored" target="_blank">Get NordPass with Built-in Authenticator</a>
+<a href="https://go.digitalshieldpro.com/nordpass?ref=/posts/how-to-set-up-two-factor-authentication-2026/" class="cta" rel="nofollow sponsored" target="_blank">Get NordPass with Built-in Authenticator</a>
 
 ### Hardware Security Keys
 
@@ -227,7 +227,7 @@ One of the most convenient approaches to managing 2FA is using a password manage
 
 If you are still choosing a password manager, our guide to the [best password managers in 2026](/posts/best-password-managers-2026/) and our [1Password vs Bitwarden comparison](/posts/1password-vs-bitwarden-2026/) can help you decide.
 
-<a href="https://go.nordvpn.net/aff_c?offer_id=488&aff_id=141337" class="cta" rel="nofollow sponsored" target="_blank">Get NordPass with Built-in 2FA Authenticator</a>
+<a href="https://go.digitalshieldpro.com/nordpass?ref=/posts/how-to-set-up-two-factor-authentication-2026/" class="cta" rel="nofollow sponsored" target="_blank">Get NordPass with Built-in 2FA Authenticator</a>
 
 ## Hardware Security Keys: The Gold Standard
 
@@ -293,7 +293,7 @@ Most services let you register more than one 2FA method. Take advantage of this:
 
 If you use NordPass or another password manager with built-in TOTP, your 2FA codes are automatically backed up and synced across devices. Losing your phone does not mean losing access because you can retrieve codes from the password manager on another device.
 
-<a href="https://go.nordvpn.net/aff_c?offer_id=488&aff_id=141337" class="cta" rel="nofollow sponsored" target="_blank">Get NordPass - Passwords and 2FA in One Vault</a>
+<a href="https://go.digitalshieldpro.com/nordpass?ref=/posts/how-to-set-up-two-factor-authentication-2026/" class="cta" rel="nofollow sponsored" target="_blank">Get NordPass - Passwords and 2FA in One Vault</a>
 
 ### Recovery Account Settings
 
