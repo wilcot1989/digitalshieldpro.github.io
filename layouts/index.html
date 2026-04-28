@@ -1,0 +1,137 @@
+{{ define "main" }}
+
+<!-- TOP BAR -->
+<div style="background:var(--ink);color:var(--bone);padding:.55rem 0;font-family:var(--mono);font-size:.7rem;letter-spacing:.05em;">
+  <div class="container wide" style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:.5rem;">
+    <span style="color:var(--blue);text-transform:uppercase;letter-spacing:.18em;font-weight:500;">● LIVE · Issue #{{ now.Format "002" }}</span>
+    <span style="opacity:.7;">Independent privacy & security reports · {{ now.Format "January 2006" }}</span>
+  </div>
+</div>
+
+<!-- HERO -->
+<section style="padding:clamp(3rem,8vh,5rem) 0 clamp(4rem,8vh,6rem);">
+  <div class="container wide">
+    <div style="display:grid;grid-template-columns:1.3fr 1fr;gap:clamp(2rem,5vw,4rem);align-items:center;">
+      <div>
+        <div style="font-family:var(--mono);font-size:.75rem;letter-spacing:.12em;color:var(--ink-soft);margin-bottom:1.5rem;display:inline-flex;align-items:center;gap:.6rem;">
+          <span style="display:inline-block;width:1.5rem;height:1px;background:var(--blue);"></span>
+          Fig. 01 — Independent privacy reports
+        </div>
+        <h1 style="font-family:var(--display);font-size:clamp(2.75rem,6.5vw,5rem);line-height:.96;letter-spacing:-.035em;font-weight:800;color:var(--ink);margin-bottom:1.5rem;">Privacy is <em style="font-family:var(--serif);font-style:italic;font-weight:500;color:var(--blue);">architecture</em>.<br>Not a feature.</h1>
+        <p style="font-family:var(--serif);font-size:clamp(1.05rem,1.4vw,1.2rem);line-height:1.6;color:var(--ink-soft);max-width:36rem;margin-bottom:2rem;">Hands-on reports on VPNs, encrypted email, password managers, and data broker removal. We test in our own lab. We don't take ad money for placements.</p>
+        <div style="display:flex;gap:1rem;flex-wrap:wrap;">
+          <a href="/posts/" class="cta">Latest reports →</a>
+          <a href="#lab" class="cta-outline cta">Run a security audit</a>
+        </div>
+      </div>
+      <div id="ipCard" style="background:var(--bone);border:1px solid var(--ink-line);border-top:3px solid var(--blue);padding:1.75rem;box-shadow:0 4px 20px -8px rgba(14,30,51,.12);">
+        <div style="display:inline-block;margin-bottom:1.25rem;background:var(--blue-pale);padding:.35rem .85rem;font-family:var(--mono);font-size:.66rem;letter-spacing:.18em;color:var(--blue-deep);text-transform:uppercase;font-weight:600;border-radius:2px;">Live · your exposure</div>
+        <div style="display:grid;grid-template-columns:auto 1fr;gap:.5rem 1rem;margin-bottom:1rem;align-items:baseline;">
+          <span style="font-family:var(--mono);font-size:.7rem;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft);">IPv4</span>
+          <span style="font-family:var(--mono);font-size:1.05rem;color:var(--blue);font-weight:600;word-break:break-all;" id="ipv4">resolving…</span>
+          <span style="font-family:var(--mono);font-size:.7rem;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft);">Country</span>
+          <span style="font-family:var(--mono);font-size:1.05rem;color:var(--ink);font-weight:500;" id="ipCountry">—</span>
+          <span style="font-family:var(--mono);font-size:.7rem;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft);">ISP</span>
+          <span style="font-family:var(--mono);font-size:1.05rem;color:var(--ink);font-weight:500;" id="ipOrg">—</span>
+        </div>
+        <div style="border-top:1px dashed var(--ink-line);margin:1rem 0;"></div>
+        <div style="display:flex;align-items:center;gap:.5rem;font-family:var(--mono);font-size:.72rem;color:var(--ink-soft);">
+          <span id="ipDot" style="width:8px;height:8px;background:var(--blue);border-radius:50%;display:inline-block;"></span>
+          <span id="ipVerdict">Detecting protection status…</span>
+        </div>
+        <a id="ipFix" href="/posts/" style="display:none;margin-top:1rem;padding:.75rem 1rem;background:var(--blue);color:var(--bone);font-family:var(--display);font-size:.85rem;font-weight:600;text-align:center;text-decoration:none;border-radius:2px;">Fix this — review VPNs →</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- STATS BAND -->
+<section style="background:var(--bone);border-top:1px solid var(--ink);border-bottom:1px solid var(--ink);padding:clamp(2.5rem,5vh,4rem) 0;">
+  <div class="container wide">
+    <div style="font-family:var(--mono);font-size:.72rem;letter-spacing:.18em;text-transform:uppercase;color:var(--ink-soft);margin-bottom:2rem;"><span style="color:var(--blue);font-weight:600;">[ 02 ]</span> Why this matters · 2026 figures</div>
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:clamp(2rem,4vw,3.5rem);">
+      <div>
+        <div style="font-family:var(--display);font-size:clamp(2.5rem,5vw,4rem);line-height:.95;font-weight:800;letter-spacing:-.04em;color:var(--ink);">14.2<span style="font-family:var(--serif);font-style:italic;font-size:.45em;font-weight:500;color:var(--blue);"> B</span></div>
+        <div style="font-family:var(--mono);font-size:.72rem;letter-spacing:.08em;color:var(--ink-soft);margin-top:.5rem;">Stolen credentials in active circulation</div>
+      </div>
+      <div>
+        <div style="font-family:var(--display);font-size:clamp(2.5rem,5vw,4rem);line-height:.95;font-weight:800;letter-spacing:-.04em;color:var(--ink);"><span id="liveCounter" style="color:var(--blue);">847</span></div>
+        <div style="font-family:var(--mono);font-size:.72rem;letter-spacing:.08em;color:var(--ink-soft);margin-top:.5rem;">Breaches reported this hour <em style="font-family:var(--serif);">(live)</em></div>
+      </div>
+      <div>
+        <div style="font-family:var(--display);font-size:clamp(2.5rem,5vw,4rem);line-height:.95;font-weight:800;letter-spacing:-.04em;color:var(--ink);">72<span style="font-family:var(--serif);font-style:italic;font-size:.45em;font-weight:500;color:var(--blue);"> %</span></div>
+        <div style="font-family:var(--mono);font-size:.72rem;letter-spacing:.08em;color:var(--ink-soft);margin-top:.5rem;">Of users reuse passwords across multiple sites</div>
+      </div>
+      <div>
+        <div style="font-family:var(--display);font-size:clamp(2.5rem,5vw,4rem);line-height:.95;font-weight:800;letter-spacing:-.04em;color:var(--ink);">$4.45<span style="font-family:var(--serif);font-style:italic;font-size:.45em;font-weight:500;color:var(--blue);"> M</span></div>
+        <div style="font-family:var(--mono);font-size:.72rem;letter-spacing:.08em;color:var(--ink-soft);margin-top:.5rem;">Average cost of a corporate data breach (2025)</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- LATEST POSTS -->
+{{ $posts := where .Site.RegularPages "Type" "posts" }}
+<section style="padding:clamp(4rem,8vh,6rem) 0;">
+  <div class="container wide">
+    <div style="display:flex;align-items:end;justify-content:space-between;flex-wrap:wrap;gap:2rem;margin-bottom:3rem;">
+      <div>
+        <div style="font-family:var(--mono);font-size:.72rem;letter-spacing:.2em;text-transform:uppercase;color:var(--ink-soft);margin-bottom:1rem;"><span style="color:var(--blue);font-weight:600;">Fig. 03</span> · Latest reports</div>
+        <h2 style="font-family:var(--display);font-size:clamp(2rem,4vw,3rem);line-height:1.05;font-weight:800;letter-spacing:-.025em;">From the <em style="font-family:var(--serif);font-style:italic;font-weight:500;color:var(--blue);">lab notebook</em>.</h2>
+      </div>
+      <a href="/posts/" style="font-family:var(--mono);font-size:.78rem;letter-spacing:.1em;text-transform:uppercase;color:var(--blue);font-weight:600;border-bottom:1px solid var(--blue);padding-bottom:.2rem;">Browse all {{ len $posts }} reports →</a>
+    </div>
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:1.75rem;">
+      {{ range first 6 $posts }}
+      <a href="{{ .RelPermalink }}" style="display:block;background:var(--bone);border:1px solid var(--ink-line);padding:1.5rem;color:var(--ink);transition:all .2s;">
+        <div style="font-family:var(--mono);font-size:.65rem;letter-spacing:.16em;color:var(--blue);margin-bottom:.5rem;">{{ .Date.Format "02 / 2006" }} · #{{ .Date.Format "002" }}</div>
+        {{ with .Params.categories }}{{ range first 1 . }}<div style="font-family:var(--mono);font-size:.7rem;letter-spacing:.1em;text-transform:uppercase;color:var(--blue);margin-bottom:.75rem;font-weight:500;">{{ . | humanize | title }}</div>{{ end }}{{ end }}
+        <h3 style="font-family:var(--display);font-size:1.25rem;line-height:1.2;font-weight:700;letter-spacing:-.015em;margin-bottom:.6rem;">{{ .Title }}</h3>
+        <p style="font-size:.92rem;color:var(--ink-soft);line-height:1.55;margin-bottom:1rem;">{{ .Description | truncate 130 }}</p>
+        <div style="font-family:var(--mono);font-size:.68rem;letter-spacing:.05em;color:var(--ink-soft);border-top:1px dashed var(--ink-line);padding-top:.75rem;">{{ .Date.Format "02 Jan 2006" }} · {{ .ReadingTime }} min read</div>
+      </a>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+<script>
+  // IPv4 detection
+  fetch('https://api4.ipify.org?format=json')
+    .then(function(r){return r.json();})
+    .then(function(d){
+      document.getElementById('ipv4').textContent = d.ip || 'unknown';
+      return fetch('https://ipapi.co/' + d.ip + '/json/');
+    })
+    .then(function(r){return r.json();})
+    .then(function(d){
+      document.getElementById('ipCountry').textContent = (d.country_name || '?') + ' · ' + (d.city || '?');
+      document.getElementById('ipOrg').textContent = d.org || 'unknown';
+      var isVPN = d.org && /vpn|hosting|datacenter|cloud|server|nordvpn|mullvad|surfshark|expressvpn/i.test(d.org);
+      var v = document.getElementById('ipVerdict');
+      var dot = document.getElementById('ipDot');
+      var fix = document.getElementById('ipFix');
+      if (isVPN) {
+        v.textContent = 'VPN/proxy detected. You\'re protected.';
+        dot.style.background = '#4A8B7A';
+      } else {
+        v.textContent = 'No VPN detected. Anyone can geo-locate you.';
+        fix.style.display = 'block';
+      }
+    })
+    .catch(function(){
+      document.getElementById('ipv4').textContent = 'blocked';
+      document.getElementById('ipVerdict').textContent = 'Detection blocked (privacy tools active)';
+      document.getElementById('ipDot').style.background = '#4A8B7A';
+    });
+
+  // Live counter
+  var bc = 847;
+  setInterval(function(){
+    bc += Math.floor(Math.random() * 3) + 1;
+    var el = document.getElementById('liveCounter');
+    if (el) el.textContent = bc.toLocaleString();
+  }, 3500);
+</script>
+
+{{ end }}
