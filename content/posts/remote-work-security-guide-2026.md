@@ -144,7 +144,7 @@ A [password manager](/posts/best-password-managers-2026/) generates unique, comp
 - Weak passwords that are easy to guess or crack
 - Phishing attacks (the password manager will not auto-fill on a fake login page)
 
-<a href="https://go.nordpass.io/aff_c?offer_id=488&aff_id=141337" rel="nofollow sponsored" target="_blank">NordPass</a> is particularly well-suited for remote workers because it includes:
+<a href="https://go.digitalshieldpro.com/nordpass?ref=/posts/remote-work-security-guide-2026/" rel="nofollow sponsored" target="_blank">NordPass</a> is particularly well-suited for remote workers because it includes:
 - **Data breach scanner** — Alerts you when your credentials appear in a breach
 - **Password health report** — Identifies weak, reused, and old passwords
 - **Secure sharing** — Share credentials with colleagues without revealing the actual password

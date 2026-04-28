@@ -98,7 +98,7 @@ Neither compares to a dedicated VPN. For serious privacy needs, use <a href="htt
 - **McAfee True Key:** Basic password manager, browser extension, biometric login
 - **Norton Password Manager:** Basic password manager, vault, password generator
 
-Neither is particularly good. A dedicated password manager like <a href="https://go.nordpass.io/aff_c?offer_id=488&aff_id=141337" rel="nofollow sponsored" target="_blank">NordPass</a> is a much better choice. See our [password manager comparison](/posts/best-password-managers-2026/).
+Neither is particularly good. A dedicated password manager like <a href="https://go.digitalshieldpro.com/nordpass?ref=/posts/mcafee-vs-norton-2026/" rel="nofollow sponsored" target="_blank">NordPass</a> is a much better choice. See our [password manager comparison](/posts/best-password-managers-2026/).
 
 ### Cloud Backup (Norton Only)
 Norton includes cloud backup (10-75GB depending on plan). McAfee does not include any backup. This is a significant advantage for Norton — automated backups are excellent ransomware protection.

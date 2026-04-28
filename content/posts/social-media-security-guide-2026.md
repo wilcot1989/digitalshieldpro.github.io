@@ -36,7 +36,7 @@ Want stronger passwords for all your accounts? Check our [guide to creating unbr
 Before diving into platform-specific settings, apply these to every social media account:
 
 ### 1. Use Unique Passwords
-Every account needs a different, complex password. Use <a href="https://go.nordpass.io/aff_c?offer_id=488&aff_id=141337&url_id=32468" rel="nofollow sponsored" target="_blank">NordPass</a> or another password manager to generate and store them.
+Every account needs a different, complex password. Use <a href="https://go.digitalshieldpro.com/nordpass?ref=/posts/social-media-security-guide-2026/" rel="nofollow sponsored" target="_blank">NordPass</a> or another password manager to generate and store them.
 
 ### 2. Enable Two-Factor Authentication (2FA)
 
@@ -150,7 +150,7 @@ Watch for these warning signs:
 ## Advanced Protection
 
 ### Use a VPN on Public Wi-Fi
-When checking social media on public networks, use <a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=25704" rel="nofollow sponsored" target="_blank">NordVPN</a> to encrypt your connection and prevent session hijacking.
+When checking social media on public networks, use <a href="https://go.digitalshieldpro.com/nordvpn?ref=/posts/social-media-security-guide-2026/" rel="nofollow sponsored" target="_blank">NordVPN</a> to encrypt your connection and prevent session hijacking.
 
 ### Separate Email for Social Media
 Create a dedicated email address for your social media accounts. If one is compromised, your primary email stays safe.

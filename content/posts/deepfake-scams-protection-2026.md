@@ -110,7 +110,7 @@ Legitimate emergencies can wait 5 minutes for you to verify. Scams cannot.
 ### 6. Monitor Your Identity
 Use dark web monitoring to know if your personal data has been leaked, which could be used to make deepfakes more convincing.
 - Check [haveibeenpwned.com](https://haveibeenpwned.com) for email breaches
-- Use <a href="https://go.nordpass.io/aff_c?offer_id=488&aff_id=141337" rel="nofollow sponsored" target="_blank">NordPass</a> Data Breach Scanner
+- Use <a href="https://go.digitalshieldpro.com/nordpass?ref=/posts/deepfake-scams-protection-2026/" rel="nofollow sponsored" target="_blank">NordPass</a> Data Breach Scanner
 
 ## What to Do If You Are Targeted
 

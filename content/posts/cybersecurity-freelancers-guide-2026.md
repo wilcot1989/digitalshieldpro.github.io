@@ -58,7 +58,7 @@ A password manager is the single most impactful security tool you can adopt. It 
 - A password manager eliminates this risk entirely
 
 ### Recommended
-- **<a href="https://go.nordpass.io/aff_c?offer_id=488&aff_id=141337" rel="nofollow sponsored" target="_blank">NordPass</a>** — Easy to use, secure sharing for client credentials, breach scanner
+- **<a href="https://go.digitalshieldpro.com/nordpass?ref=/posts/cybersecurity-freelancers-guide-2026/" rel="nofollow sponsored" target="_blank">NordPass</a>** — Easy to use, secure sharing for client credentials, breach scanner
 - **Bitwarden** — Open-source, free tier available, excellent for privacy-conscious users
 
 See our [best password managers guide](/posts/best-password-managers-2026/) for a full comparison.

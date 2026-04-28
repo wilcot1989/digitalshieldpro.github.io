@@ -260,7 +260,7 @@ Whichever browser you choose, consider adding:
 4. **HTTPS Everywhere** — Forces encrypted connections (built into most privacy browsers)
 5. **Bitwarden or NordPass** — Secure password management
 
-Need a password manager? See our [best password managers guide](/posts/best-password-managers-2026/) or check out <a href="https://go.nordpass.io/aff_c?offer_id=488&aff_id=141337" rel="nofollow sponsored" target="_blank">NordPass</a>.
+Need a password manager? See our [best password managers guide](/posts/best-password-managers-2026/) or check out <a href="https://go.digitalshieldpro.com/nordpass?ref=/posts/best-privacy-browsers-2026/" rel="nofollow sponsored" target="_blank">NordPass</a>.
 
 ## Complete Your Privacy Setup
 
@@ -268,7 +268,7 @@ A privacy browser is one piece of the puzzle. For comprehensive protection:
 
 1. **Privacy browser** — Brave or Firefox (you are here)
 2. **VPN** — <a href="https://go.digitalshieldpro.com/nordvpn?ref=/posts/best-privacy-browsers-2026/" rel="nofollow sponsored" target="_blank">NordVPN</a> to hide your IP and encrypt traffic
-3. **Password manager** — <a href="https://go.nordpass.io/aff_c?offer_id=488&aff_id=141337" rel="nofollow sponsored" target="_blank">NordPass</a> for secure, unique passwords
+3. **Password manager** — <a href="https://go.digitalshieldpro.com/nordpass?ref=/posts/best-privacy-browsers-2026/" rel="nofollow sponsored" target="_blank">NordPass</a> for secure, unique passwords
 4. **Antivirus** — [Protect against malware](/posts/best-antivirus-software-2026/)
 5. **2FA** — Enable on all important accounts
 
