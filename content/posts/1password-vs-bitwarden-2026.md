@@ -291,9 +291,9 @@ Bitwarden Premium at $10/year is the best value in password management. Period.
 
 **NordPass** deserves a look if you want something between the two. Built by the team behind NordVPN, it uses **XChaCha20 encryption** -- a more modern algorithm than the AES-256 used by both 1Password and Bitwarden. Starting at $1.49/mo, it sits between them on price and includes email masking, a data breach scanner, and passkey support. The family plan covers 6 users at $2.79/mo.
 
-If you already use <a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" rel="nofollow sponsored" target="_blank">NordVPN</a>, NordPass fits naturally into that ecosystem.
+If you already use <a href="https://go.digitalshieldpro.com/nordvpn?ref=/posts/1password-vs-bitwarden-2026/" rel="nofollow sponsored" target="_blank">NordVPN</a>, NordPass fits naturally into that ecosystem.
 
-<a href="https://go.nordpass.io/aff_c?offer_id=488&aff_id=141337&url_id=9356" class="cta" rel="nofollow sponsored" target="_blank">Get NordPass Premium -- 50% Off</a>
+<a href="https://go.digitalshieldpro.com/nordpass?ref=/posts/1password-vs-bitwarden-2026/" class="cta" rel="nofollow sponsored" target="_blank">Get NordPass Premium -- 50% Off</a>
 
 ---
 

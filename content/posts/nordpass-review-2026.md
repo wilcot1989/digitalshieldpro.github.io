@@ -247,7 +247,7 @@ If you already use [NordVPN](/posts/nordvpn-review-2026/) or are considering it,
 
 This is a genuinely good deal if you need both a VPN and a password manager. NordVPN is our top-rated VPN service, and pairing it with NordPass creates a strong security foundation.
 
-<a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" class="cta cta-outline" rel="nofollow sponsored" target="_blank">See NordVPN + NordPass Bundle Pricing</a>
+<a href="https://go.digitalshieldpro.com/nordvpn?ref=/posts/nordpass-review-2026/" class="cta cta-outline" rel="nofollow sponsored" target="_blank">See NordVPN + NordPass Bundle Pricing</a>
 
 ---
 
@@ -374,7 +374,7 @@ At $1.49/month, the barrier to entry is low. If you are still storing passwords 
 
 <a href="https://go.nordvpn.net/aff_c?offer_id=488&aff_id=141337" class="cta" rel="nofollow sponsored" target="_blank">Get NordPass Premium — Protect Your Passwords</a>
 
-<a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" class="cta cta-outline" rel="nofollow sponsored" target="_blank">See NordVPN + NordPass Bundle Deal</a>
+<a href="https://go.digitalshieldpro.com/nordvpn?ref=/posts/nordpass-review-2026/" class="cta cta-outline" rel="nofollow sponsored" target="_blank">See NordVPN + NordPass Bundle Deal</a>
 
 ---
 

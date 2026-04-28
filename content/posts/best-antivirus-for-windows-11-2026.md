@@ -402,7 +402,7 @@ For the full VPN component, read our [Surfshark review](/posts/surfshark-review-
 </div>
 </div>
 
-<a href="https://www.awin1.com/awclick.php?mid=36608&id=2776410" class="cta cta-outline" rel="nofollow sponsored" target="_blank">Get Surfshark One - Antivirus Plus VPN</a>
+<a href="https://go.digitalshieldpro.com/surfshark?ref=/posts/best-antivirus-for-windows-11-2026/" class="cta cta-outline" rel="nofollow sponsored" target="_blank">Get Surfshark One - Antivirus Plus VPN</a>
 
 ---
 

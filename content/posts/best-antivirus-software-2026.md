@@ -179,7 +179,7 @@ Surfshark entered the antivirus market as a VPN company expanding sideways, and 
 - **Surfshark One (antivirus + VPN + alerts, unlimited):** ~$42/year
 - **Surfshark One+ (adds data removal):** ~$60/year
 
-[Get Surfshark Antivirus](https://www.awin1.com/awclick.php?mid=36608&id=2776410){rel="nofollow sponsored"} — *Best value if you need to cover a whole household on a budget.*
+[Get Surfshark Antivirus](https://go.digitalshieldpro.com/surfshark?ref=/posts/best-antivirus-software-2026/){rel="nofollow sponsored"} — *Best value if you need to cover a whole household on a budget.*
 
 ---
 
@@ -292,7 +292,7 @@ After testing all seven suites extensively, here is exactly what I would tell a 
 
 **If you are technical and want control:** [ESET HOME Security Premium](https://www.awin1.com/awclick.php?mid=18785&id=2776410){rel="nofollow sponsored"}. Lightest footprint, honest pricing, granular configuration. This is what I run on my primary work machine.
 
-**If you have a large family and a tight budget:** [Surfshark Antivirus](https://www.awin1.com/awclick.php?mid=36608&id=2776410){rel="nofollow sponsored"}. Unlimited devices for ~$30/year is unbeatable value. Pair it with Surfshark One for the VPN bundle.
+**If you have a large family and a tight budget:** [Surfshark Antivirus](https://go.digitalshieldpro.com/surfshark?ref=/posts/best-antivirus-software-2026/){rel="nofollow sponsored"}. Unlimited devices for ~$30/year is unbeatable value. Pair it with Surfshark One for the VPN bundle.
 
 **If you want a second layer alongside Defender:** [Malwarebytes Premium](https://www.malwarebytes.com){rel="nofollow"}. Designed to coexist, catches what Defender misses, zero bloat.
 

@@ -81,7 +81,7 @@ The service monitors both indexed breaches (similar to HIBP) and private dark we
 
 The Surfshark One bundle includes Alert alongside Surfshark VPN, Surfshark Antivirus, and Surfshark Search for **$3.49 per month** (billed annually), making it one of the most cost-effective ways to get breach monitoring along with VPN and antivirus protection. Read our [Surfshark Review 2026](/posts/surfshark-review-2026/) for a detailed look at the full bundle.
 
-<a href="https://www.awin1.com/awclick.php?mid=36608&id=2776410" class="cta" rel="nofollow sponsored" target="_blank">Get Surfshark Alert and Dark Web Monitoring</a>
+<a href="https://go.digitalshieldpro.com/surfshark?ref=/posts/how-to-check-if-your-data-has-been-leaked-2026/" class="cta" rel="nofollow sponsored" target="_blank">Get Surfshark Alert and Dark Web Monitoring</a>
 
 ### Bitdefender Digital Identity Protection
 
@@ -188,7 +188,7 @@ Every piece of personal information you provide to a service is data that can be
 
 Public Wi-Fi is a common vector for credential interception. A VPN encrypts your traffic and prevents network-level eavesdropping. For our current top picks, see [Best VPN Services 2026](/posts/best-vpn-services-2026/).
 
-<a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" class="cta" rel="nofollow sponsored" target="_blank">Get NordVPN for Secure Browsing</a>
+<a href="https://go.digitalshieldpro.com/nordvpn?ref=/posts/how-to-check-if-your-data-has-been-leaked-2026/" class="cta" rel="nofollow sponsored" target="_blank">Get NordVPN for Secure Browsing</a>
 
 ### Regularly audit your accounts
 
@@ -264,7 +264,7 @@ Start by checking your email addresses on HaveIBeenPwned today. Then set up cont
 
 <a href="https://go.nordvpn.net/aff_c?offer_id=488&aff_id=141337" class="cta" rel="nofollow sponsored" target="_blank">Check Your Breach Status with NordPass</a>
 
-<a href="https://www.awin1.com/awclick.php?mid=36608&id=2776410" class="cta cta-outline" rel="nofollow sponsored" target="_blank">Get Surfshark Alert Dark Web Monitoring</a>
+<a href="https://go.digitalshieldpro.com/surfshark?ref=/posts/how-to-check-if-your-data-has-been-leaked-2026/" class="cta cta-outline" rel="nofollow sponsored" target="_blank">Get Surfshark Alert Dark Web Monitoring</a>
 
 ---
 

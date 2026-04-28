@@ -77,7 +77,7 @@ Our [home network security guide](/posts/how-to-secure-your-home-network-2026/) 
 
 A VPN encrypts all traffic between your device and the internet, making it unreadable to anyone monitoring your network. This is non-negotiable for remote work.
 
-<a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" rel="nofollow sponsored" target="_blank">NordVPN</a> is our top recommendation for remote workers. Here is why:
+<a href="https://go.digitalshieldpro.com/nordvpn?ref=/posts/remote-work-security-guide-2026/" rel="nofollow sponsored" target="_blank">NordVPN</a> is our top recommendation for remote workers. Here is why:
 
 - **NordLynx protocol** — Built on WireGuard, it delivers enterprise-grade encryption with minimal speed impact
 - **Threat Protection Pro** — Blocks malicious websites, ads, and trackers while connected
@@ -94,7 +94,7 @@ A VPN encrypts all traffic between your device and the internet, making it unrea
 
 For a detailed comparison of VPN options, see our [best VPN services guide](/posts/best-vpn-services-2026/) and our in-depth [NordVPN review](/posts/nordvpn-review-2026/).
 
-<a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" class="cta" rel="nofollow sponsored" target="_blank">Get NordVPN — Essential Protection for Remote Work</a>
+<a href="https://go.digitalshieldpro.com/nordvpn?ref=/posts/remote-work-security-guide-2026/" class="cta" rel="nofollow sponsored" target="_blank">Get NordVPN — Essential Protection for Remote Work</a>
 
 ## Layer 2: Protect Your Devices
 

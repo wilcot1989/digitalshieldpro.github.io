@@ -96,7 +96,7 @@ Included with all 360 plans. It provides basic encryption and IP masking, but:
 - Slower speeds than dedicated VPNs
 - No streaming optimization
 
-For serious VPN needs, a dedicated service like <a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" rel="nofollow sponsored" target="_blank">NordVPN</a> is a much better choice. See our [best VPN services guide](/posts/best-vpn-services-2026/).
+For serious VPN needs, a dedicated service like <a href="https://go.digitalshieldpro.com/nordvpn?ref=/posts/norton-antivirus-review-2026/" rel="nofollow sponsored" target="_blank">NordVPN</a> is a much better choice. See our [best VPN services guide](/posts/best-vpn-services-2026/).
 
 ### Password Manager
 Norton Password Manager is a decent basic password manager included free with all plans. It covers the basics (password generation, autofill, secure vault) but lacks advanced features like secure sharing or breach monitoring that dedicated managers like <a href="https://go.nordpass.io/aff_c?offer_id=488&aff_id=141337" rel="nofollow sponsored" target="_blank">NordPass</a> offer. See our [best password managers guide](/posts/best-password-managers-2026/).

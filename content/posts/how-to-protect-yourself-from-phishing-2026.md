@@ -130,7 +130,7 @@ Surfshark is the better budget option and actually scores higher on Trustpilot. 
 
 The honest downside of any VPN: it protects your network traffic, not your decision-making. If you type your password into a phishing page while connected to a VPN, the VPN can't save you. That's why this is layer 2, not layer 1.
 
-<a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" class="cta" rel="nofollow sponsored" target="_blank">Get NordVPN -- Threat Protection Included</a>
+<a href="https://go.digitalshieldpro.com/nordvpn?ref=/posts/how-to-protect-yourself-from-phishing-2026/" class="cta" rel="nofollow sponsored" target="_blank">Get NordVPN -- Threat Protection Included</a>
 
 Read more: [Best VPN Services in 2026](/posts/best-vpn-services-2026/) | [NordVPN vs Surfshark](/posts/nordvpn-vs-surfshark-2026/)
 
@@ -276,7 +276,7 @@ After 10 years in this field, here's what I'd tell a friend who asked me how to 
 
 **Start with two things right now** -- a password manager and 2FA on your email. [1Password](https://1password.com) is my top recommendation (4.4/5 on Trustpilot, 12,300+ reviews). If you want free, [Bitwarden](https://bitwarden.com) is excellent. Then enable 2FA on every account that supports it, starting with email, then banking, then social media.
 
-**Next, add network protection.** [NordVPN](https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830) with Threat Protection blocks malicious URLs before they load. If you ever use public WiFi -- at a coffee shop, hotel, airport -- a VPN is not optional.
+**Next, add network protection.** [NordVPN](https://go.digitalshieldpro.com/nordvpn?ref=/posts/how-to-protect-yourself-from-phishing-2026/) with Threat Protection blocks malicious URLs before they load. If you ever use public WiFi -- at a coffee shop, hotel, airport -- a VPN is not optional.
 
 **Finally, get antivirus with email scanning.** Norton 360 has the best Trustpilot reputation (4.7/5), and Bitdefender has the best independent lab scores. Either one adds an AI-powered layer that catches phishing your email provider misses.
 

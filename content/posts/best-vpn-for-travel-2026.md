@@ -139,7 +139,7 @@ For a full breakdown of every feature, see our comprehensive [NordVPN review](/p
 </div>
 </div>
 
-<a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" class="cta" rel="nofollow sponsored" target="_blank">Get NordVPN — Best VPN for Travel</a>
+<a href="https://go.digitalshieldpro.com/nordvpn?ref=/posts/best-vpn-for-travel-2026/" class="cta" rel="nofollow sponsored" target="_blank">Get NordVPN — Best VPN for Travel</a>
 
 ---
 
@@ -199,7 +199,7 @@ For the complete analysis, read our full [Surfshark review](/posts/surfshark-rev
 </div>
 </div>
 
-<a href="https://www.awin1.com/awclick.php?mid=36608&id=2776410" class="cta" rel="nofollow sponsored" target="_blank">Get Surfshark — Unlimited Devices for Travel</a>
+<a href="https://go.digitalshieldpro.com/surfshark?ref=/posts/best-vpn-for-travel-2026/" class="cta" rel="nofollow sponsored" target="_blank">Get Surfshark — Unlimited Devices for Travel</a>
 
 ---
 
@@ -445,9 +445,9 @@ If privacy is your overriding concern and you want the most transparent, audited
 
 Whichever you choose, the most important thing is to have a VPN installed and configured before you leave home. Do not wait until you are sitting in an airport trying to figure it out on unsecured Wi-Fi.
 
-<a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" class="cta" rel="nofollow sponsored" target="_blank">Get NordVPN — Best VPN for Travel in 2026</a>
+<a href="https://go.digitalshieldpro.com/nordvpn?ref=/posts/best-vpn-for-travel-2026/" class="cta" rel="nofollow sponsored" target="_blank">Get NordVPN — Best VPN for Travel in 2026</a>
 
-<a href="https://www.awin1.com/awclick.php?mid=36608&id=2776410" class="cta cta-outline" rel="nofollow sponsored" target="_blank">Or Get Surfshark — Unlimited Devices for Travelers</a>
+<a href="https://go.digitalshieldpro.com/surfshark?ref=/posts/best-vpn-for-travel-2026/" class="cta cta-outline" rel="nofollow sponsored" target="_blank">Or Get Surfshark — Unlimited Devices for Travelers</a>
 
 ---
 

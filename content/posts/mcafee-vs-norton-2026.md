@@ -92,7 +92,7 @@ Both include basic VPNs that are adequate for light use:
 - **McAfee VPN:** 48 countries, unlimited bandwidth, auto-connect on public Wi-Fi
 - **Norton VPN:** 30 countries, unlimited bandwidth, split tunneling
 
-Neither compares to a dedicated VPN. For serious privacy needs, use <a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" rel="nofollow sponsored" target="_blank">NordVPN</a> instead. See our [best VPN guide](/posts/best-vpn-services-2026/).
+Neither compares to a dedicated VPN. For serious privacy needs, use <a href="https://go.digitalshieldpro.com/nordvpn?ref=/posts/mcafee-vs-norton-2026/" rel="nofollow sponsored" target="_blank">NordVPN</a> instead. See our [best VPN guide](/posts/best-vpn-services-2026/).
 
 ### Password Manager
 - **McAfee True Key:** Basic password manager, browser extension, biometric login

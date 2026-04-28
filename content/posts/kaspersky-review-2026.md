@@ -225,7 +225,7 @@ VPN performance on Premium:
 | United States | 190 Mbps | 102 ms |
 | Japan | 120 Mbps | 210 ms |
 
-Respectable speeds, but not class-leading. For heavy VPN use -- streaming, torrenting, full-time VPN -- a dedicated service like <a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" rel="nofollow sponsored" target="_blank">NordVPN</a> will give you faster speeds and more server locations. For occasional secure browsing, the bundled VPN does the job.
+Respectable speeds, but not class-leading. For heavy VPN use -- streaming, torrenting, full-time VPN -- a dedicated service like <a href="https://go.digitalshieldpro.com/nordvpn?ref=/posts/kaspersky-review-2026/" rel="nofollow sponsored" target="_blank">NordVPN</a> will give you faster speeds and more server locations. For occasional secure browsing, the bundled VPN does the job.
 
 For a full VPN comparison, check my [Best VPN Services 2026](/posts/best-vpn-services-2026/) guide.
 

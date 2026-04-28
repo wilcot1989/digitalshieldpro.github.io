@@ -239,7 +239,7 @@ After testing these apps for years -- not just reading spec sheets, but actually
 
 One more thing I always recommend: pair your messaging app with a solid VPN. It hides which servers you connect to and adds a critical privacy layer on public networks.
 
-<a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" class="cta" rel="nofollow sponsored" target="_blank">Get NordVPN -- Protect All Your Traffic</a>
+<a href="https://go.digitalshieldpro.com/nordvpn?ref=/posts/best-secure-messaging-apps-2026/" class="cta" rel="nofollow sponsored" target="_blank">Get NordVPN -- Protect All Your Traffic</a>
 
 ## Related Privacy Guides
 

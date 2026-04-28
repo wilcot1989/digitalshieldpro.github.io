@@ -222,9 +222,9 @@ Surfshark Antivirus does not offer app permission auditing, anti-theft features,
 
 <div class="pros-cons"><div class="pros"><strong>Pros</strong><ul><li>Exceptional value with the Surfshark One bundle</li><li>Unlimited devices on a single subscription</li><li>Solid malware detection that far exceeds Play Protect</li><li>Includes VPN, breach monitoring, and private search</li><li>Clean, user-friendly interface</li></ul></div><div class="cons"><strong>Cons</strong><ul><li>No app permission auditing</li><li>No anti-theft features</li><li>No SMS phishing link scanning</li><li>Antivirus engine less mature than established competitors</li><li>Fewer independent lab test results available</li></ul></div></div>
 
-<a href="https://www.awin1.com/awclick.php?mid=36608&id=2776410" class="cta" rel="nofollow sponsored" target="_blank">Get Surfshark One Bundle</a>
+<a href="https://go.digitalshieldpro.com/surfshark?ref=/posts/best-antivirus-for-android-2026/" class="cta" rel="nofollow sponsored" target="_blank">Get Surfshark One Bundle</a>
 
-<a href="https://www.awin1.com/awclick.php?mid=36608&id=2776410" class="cta cta-outline" rel="nofollow sponsored" target="_blank">Compare Surfshark Plans</a>
+<a href="https://go.digitalshieldpro.com/surfshark?ref=/posts/best-antivirus-for-android-2026/" class="cta cta-outline" rel="nofollow sponsored" target="_blank">Compare Surfshark Plans</a>
 
 ---
 
@@ -264,7 +264,7 @@ An antivirus protects against malware, phishing, and malicious apps. A VPN encry
 
 If you want the simplest setup, Surfshark One bundles both antivirus and VPN in a single app. For users who prefer the best-in-class approach, pairing Bitdefender Mobile Security with NordVPN gives you top-tier protection in both categories.
 
-<a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" class="cta" rel="nofollow sponsored" target="_blank">Get NordVPN for Android</a>
+<a href="https://go.digitalshieldpro.com/nordvpn?ref=/posts/best-antivirus-for-android-2026/" class="cta" rel="nofollow sponsored" target="_blank">Get NordVPN for Android</a>
 
 NordVPN consistently ranks as our top VPN pick for Android thanks to its NordLynx protocol (built on WireGuard) that delivers fast speeds with minimal battery impact. For a full analysis, read our [NordVPN Review 2026](/posts/nordvpn-review-2026/). And for a head-to-head comparison with the competition, see [NordVPN vs ExpressVPN 2026](/posts/nordvpn-vs-expressvpn-2026/).
 
