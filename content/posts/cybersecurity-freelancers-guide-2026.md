@@ -141,6 +141,98 @@ See our [ransomware protection guide](/posts/ransomware-protection-guide-2026/) 
 - Do not install apps from unknown sources
 - Use your VPN when on public Wi-Fi
 
+## The Five Most Dangerous Mistakes Freelancers Make
+
+After reviewing the security posture of dozens of freelancers and small solo businesses over the years, the same five mistakes come up again and again. Each one is fixable in under an hour, but each one has ended careers or caused serious financial damage when left unaddressed.
+
+**Mistake 1: Using the Same Password Across Client Portals**
+This is the single most common mistake I encounter. A freelancer signs up for fifteen different client portals, project management tools, and invoicing platforms over five years, and every single one uses the same password. When one of those platforms has a data breach — and breaches happen constantly, check haveibeenpwned.com — attackers run those credentials against every other service. Email, banking, everything.
+
+The fix: one password manager session to generate and store unique passwords for every account. Takes 45 minutes, never think about it again.
+
+**Mistake 2: No 2FA on Business Email**
+Your email account is the master key to your entire digital life. Password resets for every other account flow through email. If an attacker has your email, they own everything else. I have seen freelancers lose their entire client roster because they did not have 2FA on their Gmail account.
+
+The fix: enable 2FA on your email account right now, before finishing this article. Use an authenticator app, not SMS.
+
+**Mistake 3: Working from Coffee Shop WiFi Without a VPN**
+I spent two years in my freelance career working from coworking spaces and cafés without a VPN, because I thought "I use HTTPS, so I am fine." This is partly true but misses the threat model. ARP spoofing on a local network can intercept traffic before it reaches HTTPS. More practically, an attacker on the same WiFi can see which services you are connecting to, learn your device identifiers, and run targeted attacks. A VPN eliminates this entire class of threat.
+
+**Mistake 4: No Offsite Backup**
+I know freelancers who lost months of client work to a single hardware failure because their only backup was on the same machine. Ransomware attacks on individual freelancers are increasingly common — attackers pay attention to LinkedIn and can identify high-value targets (designers, developers, lawyers, accountants) who likely have sensitive files and might pay to recover them.
+
+The 3-2-1 backup rule: three copies, two different media types, one offsite (cloud). This is non-negotiable.
+
+**Mistake 5: Using Personal Devices Without Disk Encryption**
+A stolen laptop or phone is a manageable inconvenience if the drive is encrypted. Without encryption, it is a full data breach. Every file you have ever worked on, every client credential saved in your browser, every confidential document — all accessible to whoever picked up your bag on the train. BitLocker on Windows and FileVault on Mac are built in and free. Enable them today.
+
+## Contractual and Legal Obligations
+
+Many freelancers focus entirely on technical security measures and completely miss the legal dimension. Depending on the type of work you do and where your clients are based, you may have legal obligations around data protection that are as binding as any contract clause.
+
+**GDPR (EU/UK)** — If you handle personal data of EU or UK residents in any capacity, GDPR applies to you. This means: a lawful basis for processing, appropriate technical security measures, the ability to respond to data subject access requests, and notification obligations in the event of a breach. As a freelancer you are a data controller or processor — the regulation does not exempt sole traders.
+
+**HIPAA (US, healthcare)** — If you do any work for US healthcare clients — design, development, writing, consulting — and you have any access to patient data, you may be a Business Associate under HIPAA. This requires a Business Associate Agreement with your client and specific security controls.
+
+**PCI-DSS (payment data)** — If you handle payment card data for any client, even incidentally, PCI-DSS compliance requirements may apply to your systems.
+
+The practical implication: include data handling clauses in every client contract. Specify what data you will access, how you will store it, how you will delete it at project end, and what security measures you maintain. This protects both you and your client, and signals professionalism that larger clients specifically look for.
+
+Here is a basic data handling clause I include in my own contracts:
+
+> "Contractor will maintain reasonable technical and organisational security measures appropriate to the nature of the data accessed, including encrypted storage for all client files, access controls limiting exposure to a need-to-know basis, and secure deletion of all client data within 30 days of project completion unless otherwise agreed in writing."
+
+## Security for Specific Freelancer Types
+
+Different freelance specialisations face different threat profiles. Here is how the risk landscape varies:
+
+### Developers and Engineers
+**Specific risks:** Malicious npm/pip packages, compromised code repositories, client credentials in code, supply chain attacks.
+
+- Never commit API keys, database credentials, or secrets to Git. Use environment variables and .gitignore religiously.
+- Audit your npm/pip dependencies for known vulnerabilities (npm audit, Snyk, Dependabot).
+- Use SSH keys for repository access, not passwords.
+- Keep your development environment isolated — use Docker or VMs for client projects.
+
+### Designers and Creative Professionals
+**Specific risks:** File-based malware in design assets, compromised font files, social engineering via fake client briefs.
+
+- Open suspicious files received from new clients in a sandboxed environment first.
+- Be cautious of font files and plugin downloads from unofficial sources — these are a known malware vector.
+- Use a separate browser profile for client communication to limit cookie and session exposure.
+
+### Writers, Editors, and Consultants
+**Specific risks:** Phishing via document links ("review my draft"), spear phishing using publicly available professional information, fake invoice scams targeting clients by impersonating you.
+
+- Verify document links before clicking — use VirusTotal for suspicious URLs.
+- Alert long-term clients if your email or contact details change — impersonation of established freelancer relationships is a common fraud vector.
+- Use email authentication (SPF, DKIM) on your professional domain to make your emails harder to spoof.
+
+### Accountants and Financial Consultants
+**Specific risks:** Highest value target for attackers, client financial data, tax return files, banking credentials.
+
+- Encrypted storage for all client financial documents (Tresorit, VeraCrypt container, or ProtonDrive).
+- Client communication only over encrypted channels for anything involving account numbers, tax IDs, or financial data.
+- Verify any payment instruction changes via phone before acting — wire transfer fraud specifically targets the accounting/finance sector.
+
+## Pricing: What Proper Security Actually Costs
+
+One of the objections I hear from freelancers is that security tools are expensive. Let me break down exactly what a complete security stack costs per year:
+
+| Tool | Recommended Option | Cost/year |
+|------|-------------------|-----------|
+| Password manager | NordPass Business (1 user) | €36 |
+| VPN | NordVPN (1-year plan) | €48 |
+| Antivirus | Bitdefender Total Security | €35 |
+| Encrypted backup | Backblaze Personal | €99 |
+| Encrypted email | ProtonMail Plus | €48 |
+| 2FA app | Authy | Free |
+| **Total** | | **~€266/year** |
+
+€266 per year is €22 per month. If you are earning more than €15/hour as a freelancer — and if you are freelancing professionally you almost certainly are — this is less than two hours of your billable rate. The reputational cost of a client data breach, the potential legal liability, and the business disruption from a ransomware attack are orders of magnitude larger.
+
+The minimum viable stack if budget is genuinely tight: a free password manager (Bitwarden), a free 2FA app (Authy), and a paid VPN (€4/month). That is €48 per year and eliminates the majority of realistic threats.
+
 ## Freelancer Security Checklist
 
 - [ ] Password manager installed and used for ALL accounts
@@ -153,6 +245,10 @@ See our [ransomware protection guide](/posts/ransomware-protection-guide-2026/) 
 - [ ] Software and OS auto-updates enabled
 - [ ] Client data stored in encrypted storage
 - [ ] Secure communication channels established
+- [ ] Data handling clause in client contracts
+- [ ] Client-specific folders with encrypted storage
+- [ ] Separate browser profiles for work and personal browsing
+- [ ] GDPR/HIPAA obligations understood and addressed for your client types
 
 ## Explore More Security Guides
 

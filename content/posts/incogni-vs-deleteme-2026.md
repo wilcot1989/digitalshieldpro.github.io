@@ -239,6 +239,33 @@ With either Incogni or DeleteMe active: quarterly re-scans catch re-listings bef
 
 ---
 
+## Common Mistakes When Using Either Service
+
+**1. Not providing historical addresses and name variants**
+Both services match your identity against broker databases. Brokers often list you under previous addresses, maiden names, or common misspellings. Providing only your current identity leaves 15-25% of your listings unaddressed. Update your profile immediately after signup with:
+- All addresses from the past 7 years
+- Maiden name if applicable
+- Common nickname if your legal name differs from what you go by
+- All email addresses (work, personal, old)
+- All phone numbers you've had for more than 6 months
+
+**2. Ignoring "Action Required" prompts**
+Both services flag brokers that need manual action from you — typically identity verification (government ID upload) required by the broker before they'll process a removal. These listings stay active indefinitely if you ignore the prompts. In my test: 6 brokers with Incogni and 9 with DeleteMe required manual action. I addressed them by week 4; profiles removed by week 8-10 on average.
+
+**3. Canceling after the first removal cycle**
+The most common mistake: seeing a 50-60% removal rate at 8 weeks, feeling satisfied, canceling. Re-listing starts within 6 months. Users who cancel after round one return to near-baseline broker exposure within 18-24 months. The subscription model exists for a reason — continuous suppression is the value, not one-time removal.
+
+**4. Treating either service as protection against breach data**
+Both Incogni and DeleteMe remove your data from opt-out-compliant brokers. They have no ability to remove data that's already been leaked in a breach and is now circulating in criminal databases (Telegram, dark web forums, credential dumps). If you've had your email in a major breach (check HaveIBeenPwned.com), broker removal doesn't address that separate exposure. Different problem, different tool.
+
+**5. Assuming removal prevents all spam and robocalls immediately**
+Your phone number and email may already be in cold-calling lists that aren't broker-sourced — purchased from lead-gen companies years ago and resold multiple times. Broker removal reduces future accumulation and removes current broker-sourced listings, but it won't immediately silence every robocaller. Meaningful spam reduction typically takes 3-6 months as data pipeline cycles turn over.
+
+**6. Not running a baseline check before subscribing**
+Both services offer free pre-signup scans (Incogni's is integrated in signup, DeleteMe has a standalone scan). Run these before subscribing to understand your actual exposure. Some users find they have minimal broker presence (recent mover, uncommon name, minimal public records) — in which case manual removal of 10-15 sites may be more economical than a subscription. The pre-scan tells you whether the subscription math works.
+
+---
+
 ## Privacy and Legal Caveats
 
 ### What neither service covers

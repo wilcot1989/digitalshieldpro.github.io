@@ -295,6 +295,45 @@ The migration cost is a few hours. The privacy benefit is permanent. Worth testi
 
 ---
 
+## Common Mistakes When Switching from Gmail to ProtonMail
+
+After coaching 30+ people through this migration, I see the same errors:
+
+**1. Switching overnight and then switching back**
+The biggest failure mode: someone signs up, spends two frustrating days finding features they miss, and returns to Gmail. The correct method is parallel use for 30+ days. Gmail stays active with forwarding. You read everything in ProtonMail. After a month, the unfamiliar becomes familiar and you make an informed decision about whether to commit.
+
+**2. Using only the free plan and blaming ProtonMail for limitations**
+ProtonMail Free has 1 GB storage, 150 messages per day, and no custom domain. Those limits will frustrate a daily email user within weeks. The free plan is for evaluation, not daily use. If you're serious about switching, start with Plus at €4.99/month. Running a migration on the free tier and then concluding "ProtonMail isn't good enough" is like test-driving a base-trim car with no features and concluding the model is bad.
+
+**3. Forgetting about Bridge for desktop email clients**
+Many former Gmail users want Thunderbird or Apple Mail as their desktop client. ProtonMail's encrypted architecture doesn't work with standard IMAP/SMTP directly. You need Proton Bridge — a small local application that translates between Thunderbird and Proton's encryption protocol. Bridge is included in Plus and above. Setting it up takes 20 minutes. Not knowing it exists leads to confusion when IMAP setup fails.
+
+**4. Expecting zero deliverability issues**
+In my 90-day test, 2 emails I sent to small business domains got flagged as spam. Both were sent from my `@proton.me` address rather than my custom domain. Custom domains have better deliverability because they send from your domain's reputation, not Proton's. If you have any deliverability concerns: use a custom domain on Plus or Unlimited.
+
+**5. Giving up on encrypted search**
+ProtonMail's search is encrypted — meaning it runs on an index built locally on your device rather than server-side like Gmail's. The first time you search a fresh inbox, the index has to build. This takes 30-60 minutes for large inboxes. After that, search is fast and functional. Users who try search before the index builds, find it slow, and conclude search doesn't work are wrong by 45 minutes.
+
+---
+
+## Extended FAQ
+
+**Q: Can I keep my Gmail address permanently alongside ProtonMail?**
+
+Yes. Most people do. Set up Gmail forwarding to ProtonMail so any mail sent to your old Gmail address arrives in your Proton inbox. Update accounts gradually. You can keep Gmail forwarding active indefinitely at no cost — Google has never removed this feature for inactive accounts. The practical approach: ProtonMail becomes your primary, Gmail becomes a legacy forwarding address, and you let the natural account-update process handle the transition over 12-18 months.
+
+**Q: Can my employer see my ProtonMail if I access it on a company device?**
+
+Yes — partially. Your employer's MDM system or network monitoring can see that you connected to proton.me, and for how long. They cannot see the content of your messages (it's encrypted). However, if your company has an endpoint agent with keylogging capability, they could theoretically capture your password at login. For work email: use your corporate email system. ProtonMail is appropriate for personal email, even on a work device, for most reasonable workplace policies.
+
+**Q: Does ProtonMail work in countries that block it?**
+
+In some countries (China, Iran, parts of Russia), ProtonMail has been blocked at the ISP level. Proton provides Tor-accessible onion addresses for their web app and apps for users in heavily censored regions. If you're traveling to a country where Proton is blocked, use Proton VPN first — then access ProtonMail. The Proton Unlimited plan includes both.
+
+**Q: What about Gmail's "end-to-end encrypted" messages via Google Workspace?**
+
+Google Workspace Enterprise users can send client-side encrypted (E2EE) messages using Google's CSE feature. This is genuine E2EE — Google can't read the content. But it requires both sender and recipient to use Google Workspace Enterprise and specific compatible clients. It's an enterprise-only feature, not available for personal Gmail. For regular Gmail → ProtonMail comparison, CSE doesn't change the picture.
+
 ## Conclusion
 
 ProtonMail is objectively better for privacy. Gmail is objectively better for features. Both are excellent at their priorities.

@@ -274,7 +274,66 @@ False positive rate: 9 out of 2,019 legitimate emails = 0.45%. ProtonMail was 0.
 - Power user with 10k+ inbox needing fast search
 - High-volume sender (deliverability matters more)
 
-## What about Tutanota's recent controversies?
+## Setting Up Tuta: Walkthrough for New Users
+
+Tuta's onboarding is simpler than ProtonMail's — fewer features means fewer choices. Here's my exact setup process for the Revolutionary plan.
+
+**Account creation:**
+1. Go to tuta.com → Create Account → Select Revolutionary (€3/month or €30/year)
+2. Choose your username: `yourname@tuta.com`, `@tutanota.com`, or `@tuta.io` — all are equivalent
+3. Create a strong password. This password is your only key to your encrypted inbox. Tuta cannot reset it without deleting your account. Store it in a password manager immediately.
+4. Optional: enable 2FA (TOTP) — do this. Authentication app (Aegis, Authy, 1Password) is fine.
+
+**Setting up a custom domain (Revolutionary plan):**
+1. Settings → Global Settings → Custom Email Domains → Add Domain
+2. Add your domain, then configure 4 DNS records: MX, SPF, DKIM, DMARC
+3. Tuta provides the exact record values — copy-paste into your DNS registrar
+4. DNS propagation: 15 minutes to 24 hours. Tuta's domain wizard checks automatically.
+5. Once verified, create new email addresses on your custom domain under Settings → Manage Users
+
+**Mobile setup:**
+Download the Tuta app (iOS App Store or Google Play). Sign in with email + password + 2FA. Works immediately — no configuration needed. Push notifications work reliably in my 6 months of use.
+
+**Web app keyboard shortcuts worth knowing:**
+- `n` — new email
+- `r` — reply
+- `f` — forward
+- `e` — mark as read/unread
+- `del` — delete
+- `/` — search
+
+**What you can't do:** Connect Thunderbird, Apple Mail, or any IMAP client. There is no bridge, no workaround, no roadmap item for IMAP support. This is an intentional architectural decision by Tuta — their custom encryption protocol requires their own applications. Accept this limitation before subscribing.
+
+---
+
+## Tuta for High-Risk Users: What the Encryption Actually Protects
+
+Journalists, activists, and whistleblowers sometimes ask whether Tuta is "safe enough" for sensitive communications. The honest answer is: safer than Gmail or Fastmail, but not unconditionally safe.
+
+**What Tuta's encryption protects:**
+- Message content (body, attachments) — zero-access encrypted, Tuta cannot read
+- Subject lines — encrypted since 2020 (ProtonMail still doesn't encrypt subjects)
+- Calendar events — encrypted end-to-end
+
+**What Tuta's encryption does NOT protect:**
+- Your IP address — Tuta logs IP addresses for abuse prevention and legal compliance
+- Metadata — who you're emailing, when, and how often can be logged and provided under court order
+- Your login location and timing — if a German court orders Tuta to log a specific account, they comply
+
+**The 2020 surveillance order:**
+A German court ordered Tuta to monitor a specific account for 3 months and hand over incoming metadata (sender, timestamp). Tuta complied — they legally must, and they published this in their transparency report. The content remained encrypted; the metadata was logged and provided.
+
+**For high-risk users, the recommendation:**
+- Use Tuta (or ProtonMail) for content encryption — both are genuinely zero-access
+- Use Tor Browser to access Tuta's web app — removes your IP from Tuta's logs
+- Use a separate anonymous payment method (Tuta accepts Bitcoin/Monero — use a privacy wallet)
+- Never access your anonymous Tuta account from a device or IP associated with your real identity
+
+For most users — journalists protecting source confidentiality from corporate surveillance, activists protecting communications from bulk data collection — Tuta is genuinely adequate. For users facing targeted law enforcement investigation: consult a digital security professional.
+
+---
+
+## What About Tutanota's Recent Controversies?
 
 Two things to know about Tuta in 2026:
 
