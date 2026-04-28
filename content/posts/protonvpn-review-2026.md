@@ -284,6 +284,72 @@ At €4.99/month standalone for Plus (annual), ProtonVPN is in the mid-range of 
 
 ---
 
+## Common Mistakes ProtonVPN Users Make
+
+After helping dozens of people set up ProtonVPN, I see the same configuration errors repeatedly.
+
+**Mistake 1: Using OpenVPN when WireGuard is available.** OpenVPN was the gold standard for a decade, but WireGuard has replaced it for daily use. In my tests, WireGuard delivered 95% of baseline speed vs OpenVPN's 34% on the same server. The only reason to use OpenVPN in 2026: you are on a network that blocks WireGuard UDP traffic. If you are not sure which protocol you are using, check: ProtonVPN app → Settings → Connection → Protocol.
+
+**Mistake 2: Not enabling the kill switch for sensitive work.** The kill switch blocks all internet traffic if the VPN connection drops. It is off by default. If you are using a VPN specifically to protect sensitive activity (journalism, corporate access, anything with real stakes), the kill switch is non-optional. Enable it: Settings → Connection → Kill Switch → Always-on.
+
+**Mistake 3: Using the free tier for anything requiring streaming or downloads.** Free tier servers average 42 Mbps in my tests vs 878+ Mbps on Plus servers. This is not a speed throttle so much as a congestion issue — free servers handle many more users per server. Free tier works well for browsing, email, and secure-public-WiFi use cases. For streaming 4K video or large downloads, Plus is needed.
+
+**Mistake 4: Using Secure Core for everyday browsing.** Secure Core's dual-hop routing (through Switzerland/Iceland/Sweden first) reduces speeds by approximately 50% in my tests. This tradeoff is worth it for high-sensitivity activities. It is unnecessary for daily browsing, streaming, or casual VPN use. Keep Secure Core off as your default; enable it only when you need the additional protection.
+
+**Mistake 5: Forgetting to enable NetShield.** NetShield (ad and malware domain blocking) is available on Plus plans but disabled by default. It is one of the most useful features ProtonVPN offers — blocking ads before they load reduces bandwidth consumption and cuts ad tracking at the DNS level. Enable it: ProtonVPN app → NetShield → Block malware, ads, and trackers.
+
+**Mistake 6: Not adding ProtonVPN to your router for whole-network coverage.** ProtonVPN supports router-level configuration (OpenVPN, WireGuard). If you have a VPN-capable router (Asus, Netgear Nighthawk, or any flashed with DD-WRT/OpenWRT), you can route your entire home network through ProtonVPN without needing to run the client on each device. This covers smart TVs, game consoles, and IoT devices that cannot run VPN software natively.
+
+## Threat Model: When ProtonVPN's Specific Features Matter
+
+Not every VPN feature matters to every user. Here is when ProtonVPN's distinctive capabilities are worth the price premium over competitors.
+
+**Swiss jurisdiction is meaningful for:**
+Users whose threat model includes government surveillance or law enforcement requests. Switzerland is not a Five Eyes, Nine Eyes, or Fourteen Eyes member. Swiss courts set a higher legal bar for law enforcement requests than most jurisdictions. Proton has documented two cases where they received law enforcement requests and had nothing to hand over (connection logs are not kept). For a journalist in a country with aggressive press surveillance, this matters.
+
+Swiss jurisdiction is less meaningful for: users worried primarily about corporate ad tracking or ISP monitoring. For those threats, any reputable no-logs VPN with WireGuard works equally well.
+
+**Open-source audited apps are meaningful for:**
+Security researchers, high-risk users who need to verify the software themselves, and institutional users who require audited software for compliance. Proton's iOS, Android, macOS, Windows, and Linux apps are all open source on GitHub. You can build them from source if you trust your build environment more than the App Store or Google Play.
+
+Open-source is less meaningful for: average users who will not review the source code. The audit results (no critical vulnerabilities found in SEC Consult 2024) matter more than the open-source designation itself.
+
+**Secure Core is meaningful for:**
+Users who face the threat of a compromised VPN exit node — for example, journalists in countries where ISP-level exit node monitoring is plausible. Secure Core ensures that even if your exit node's IP is traced, the traffic origin is Switzerland/Iceland/Sweden, not your actual location.
+
+Secure Core is less meaningful for: the majority of users whose threat model is ISP monitoring, public WiFi, or geo-restriction. A standard Plus server handles all three effectively.
+
+**Tor over VPN is meaningful for:**
+Security researchers, journalists with sensitive sources, and activists who need both VPN protection and Tor anonymity without switching between separate tools. Proton's Tor servers are the only major VPN feature that provides Tor routing without requiring the separate Tor Browser install.
+
+## Regulatory Context: Swiss Privacy Law and Your Rights
+
+### Swiss Federal Act on Data Protection (FADP)
+
+Switzerland's revised FADP (fully effective September 2023) is broadly equivalent to GDPR in data subject rights. ProtonVPN users in any country benefit from:
+
+- **Right to information:** You can request what data ProtonVPN holds about you
+- **Right to deletion:** Request deletion of your account data
+- **Data minimization:** ProtonVPN collects account creation data (email or anonymous token) and payment data. Connection logs (timestamps, IP addresses, session duration) are not retained.
+
+### What Proton Retains
+
+Proton's actual data retention (from their transparency report):
+- Account creation timestamp
+- Email address used for account (or none if you used an anonymous token + cryptocurrency payment)
+- Payment method (but not payment card details — processed by third parties)
+- **Not retained:** Connection timestamps, IP addresses, session duration, DNS queries, traffic data
+
+This retention profile has been validated by two real-world law enforcement requests where Proton had nothing to hand over beyond account creation data. Both requests came from Swiss authorities following proper legal process.
+
+### EU GDPR Applicability
+
+EU users interact with ProtonVPN under the EU-Switzerland data transfer framework (adequacy decision). Switzerland has been deemed adequate for EU data transfers, meaning your data protection rights as an EU resident apply when ProtonVPN processes your data, even though Proton is not an EU company.
+
+### US Users: No Federal Privacy Law
+
+US federal privacy law does not provide equivalent protections to GDPR or Swiss FADP. ProtonVPN's Swiss jurisdiction means US law enforcement requests go through Swiss courts, which sets a higher bar than a US-based VPN would face under ECPA and CLOUD Act requests. For privacy-focused US users, this jurisdictional gap is a meaningful reason to choose a Swiss VPN over a US-based one.
+
 ## Who Should Use ProtonVPN?
 
 **Good fit:**
