@@ -95,6 +95,36 @@
   }
   </script>
   {{ end }}
+  {{ if and .Params.products (or (in .Title "review") (in .Title "Review") (in .Title "vs")) }}
+  {{ with index .Params.products 0 }}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Review",
+    "itemReviewed": {
+      "@type": "Product",
+      "name": "{{ .name }}",
+      "description": "{{ $.Description }}"
+    },
+    "author": {
+      "@type": "Person",
+      "name": "{{ $.Params.author | default $.Site.Params.author }}"
+    },
+    "datePublished": "{{ $.Date.Format "2006-01-02" }}",
+    "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "{{ .rating_value | default "4.5" }}",
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "{{ $.Site.Title }}"
+    }
+  }
+  </script>
+  {{ end }}
+  {{ end }}
   {{ end }}
 
   <!-- Google Analytics with Consent Mode v2 -->
