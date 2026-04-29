@@ -1,5 +1,5 @@
 ---
-title: "Facebook and Instagram Privacy Settings 2026: The Complete Lockdown Guide"
+title: "Facebook & Instagram Privacy 2026: Lockdown Guide"
 date: 2026-06-10
 lastmod: 2026-06-10T09:00:00+01:00
 description: "Step-by-step guide to locking down your Facebook and Instagram privacy settings in 2026. I walked through every menu so you don't have to guess."
@@ -10,7 +10,13 @@ affiliate: true
 author: "James Mitchell"
 author_bio: "Cybersecurity researcher and writer. Tests privacy tools and security software hands-on."
 featured_image: "https://images.unsplash.com/photo-1563013544-824ae1b704d3?auto=format&fit=crop&w=1600&q=80"
-products: []
+products:
+  - name: "NordVPN"
+    url: "/go/nordvpn"
+    price: "3.49"
+  - name: "Incogni"
+    url: "/go/incogni"
+    price: "6.49"
 faq:
   - q: "Does changing Facebook privacy settings stop Meta from collecting my data?"
     a: "No. Privacy settings control who can see your content and some ad targeting preferences, but Meta continues collecting data about your behavior for internal purposes regardless of public privacy settings. Limiting what you post and using Facebook less are the most effective data-reduction strategies."
@@ -294,3 +300,6 @@ The most effective privacy protections are behavioral:
 - Regularly audit and remove connected apps
 
 Privacy settings are worth configuring fully — this guide helps you do that. But approach them as one layer of a strategy rather than a complete solution. Regular audits every three to six months, combined with conscious decisions about what you post, create the most durable privacy posture on these platforms.
+
+
+<a href="/go/incogni" class="cta-affiliate" rel="sponsored noopener">View →</a>
