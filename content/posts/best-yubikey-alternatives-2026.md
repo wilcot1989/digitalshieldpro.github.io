@@ -1,5 +1,5 @@
 ---
-title: "Best YubiKey Alternatives in 2026: Token2, SoloKey, and OnlyKey Reviewed"
+title: "Best YubiKey Alternatives 2026: Token2, SoloKey"
 date: 2026-06-08
 lastmod: 2026-06-08T09:00:00+01:00
 description: "Looking for a YubiKey alternative? I tested Token2, SoloKey, and OnlyKey hands-on. Here's which hardware security key actually delivers in 2026."
