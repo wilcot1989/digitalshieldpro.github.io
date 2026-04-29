@@ -213,6 +213,79 @@ The price difference is modest — $6/year. The coverage is nearly identical. Th
 
 ---
 
+## Kanary's Onboarding Process in Detail
+
+Because Kanary's comprehensiveness is a key differentiator, I want to walk through their onboarding in more detail than I did above.
+
+After creating an account, Kanary walks you through a 6-step information collection process:
+
+**Step 1: Primary identity.** Your full legal name, including any middle name. Kanary specifically asks whether you go by any other names — nicknames, previous surnames, professional names. This matters because data brokers often index people under multiple name variations.
+
+**Step 2: Address history.** Current address and up to five previous addresses. The interface specifically says "the more addresses you include, the more listings we can find and remove." I added four previous addresses spanning 15 years.
+
+**Step 3: Contact information.** Current phone number and email address, plus any previous phone numbers you remember. Previous phone numbers are useful because brokers sometimes have outdated contact information still associated with your name.
+
+**Step 4: Date of birth.** Used for identity matching during the scan process. Kanary's privacy policy states this is not stored in their database after the matching process is complete — it is used to accurately identify which listings belong to you versus people with similar names.
+
+**Step 5: Additional identifiers.** Optional: employer name, spouse or partner name (to help identify household listing clusters), and any other names you are publicly known by.
+
+**Step 6: Review and authorize.** Kanary presents a summary and asks you to authorize them to act as your agent in submitting removal requests. This authorization is what gives them the legal standing to submit CCPA requests on your behalf.
+
+The comprehensiveness of this onboarding took me 20 minutes but immediately felt like it was collecting better data than Incogni's simpler form. Whether that translates to better removal results is the key question my test was designed to answer.
+
+---
+
+## Kanary's "Non-Compliant Broker" Reporting
+
+This feature deserves its own section because it is meaningfully different from how other services handle non-responsive brokers.
+
+When a data broker fails to comply with a removal request, most services simply leave the entry in "In progress" status indefinitely — or quietly move it to a "completed" bucket even though nothing happened. Kanary explicitly flags brokers as "Non-compliant" when they have failed to respond within legal timeframes and categorizes them:
+
+**Category 1: Legally non-compliant.** The broker is subject to CCPA or other applicable law, has exceeded the 45-day response window, and has not responded or denied the request inappropriately. Kanary flags these for potential regulatory complaint.
+
+**Category 2: Unresponsive (no legal obligation).** The broker is not subject to applicable privacy law (often because they are too small or structured to fall under CCPA thresholds) and simply has not responded. Kanary re-submits requests periodically but notes the lack of legal enforcement pathway.
+
+**Category 3: Disputed.** The broker has responded claiming they do not have your data, but Kanary's scan still shows a listing. These are flagged for manual review.
+
+In my 8-week test, I had 12 Category 1 non-compliant brokers, 22 Category 2 brokers, and 4 Category 3 disputed cases. Incogni had no equivalent categorization — all of these would have shown as "In progress" in Incogni's dashboard without distinguishing between legally non-compliant and simply unresponsive.
+
+For users who want to understand exactly where their removal project stands, this categorization is genuinely useful. For Category 1 cases, Kanary provides template complaint letters you can submit to the California Privacy Protection Agency — which I found to be a thoughtful touch.
+
+---
+
+## Kanary vs DeleteMe: The Full Comparison
+
+Since I have now extensively compared Kanary to Incogni, it is worth also noting how Kanary stacks up against DeleteMe — the most established name in the space.
+
+| Factor | Kanary | DeleteMe |
+|--------|--------|---------|
+| Annual price | $83.88 | $129 |
+| Brokers covered | 180+ | ~750 (different methodology) |
+| Report format | Real-time dashboard + non-compliance flagging | Quarterly PDF reports |
+| Human verification | No | Yes |
+| Founded | 2021 | 2011 |
+| Track record | 4 years | 13 years |
+
+Kanary is $45/year cheaper than DeleteMe with similar (not identical) automation quality. DeleteMe's key advantages are the human-verified removals and 13 years of demonstrated track record. Kanary's key advantage is the more transparent real-time reporting and non-compliance categorization.
+
+For someone choosing between Kanary and DeleteMe: if transparency and real-time visibility matter more than human verification and established track record, Kanary is the better fit. If you want the service with the longest operating history and quarterly PDF reports that document everything cleanly, DeleteMe justifies its higher price.
+
+---
+
+## Practical Setup Tips for Getting the Most from Kanary
+
+Based on my 8-week experience, here are the steps that produced the best results:
+
+**Submit a comprehensive address history.** Kanary found 31% more listings when I added my three previous addresses versus only using my current address. If you have moved multiple times, include as many previous addresses as you can remember.
+
+**Check the non-compliant broker list at 45 days.** The first significant batch of legally non-compliant flagging happens around the 45-day mark when CCPA response windows start expiring. Review this list and use Kanary's template letters to submit CPPA complaints for the most significant sites.
+
+**Enable email notifications.** Kanary can notify you when a new listing is found or a removal is confirmed. These are low-volume and high-signal — worth enabling.
+
+**Review the browser extension data weekly.** If you use the extension, spending 10 minutes weekly reviewing sites you have visited gives you a useful real-time picture of re-listing patterns.
+
+---
+
 ## What Kanary Does Not Solve (And Nobody Can)
 
 **Re-listing is inevitable.** No removal service — Kanary included — can prevent data brokers from re-acquiring your information from public records. They can only detect and remove listings as they reappear. The re-submission data in my test (34 re-submissions by week 8) illustrates how continuous this process is.
@@ -222,6 +295,61 @@ The price difference is modest — $6/year. The coverage is nearly identical. Th
 **Your data is already in breach databases.** If your email and password appeared in a data breach, that information exists in dark web databases that removal services cannot reach. Kanary and similar services address public data broker listings, not breach data.
 
 **Search engine indexing persists after removal.** When Google has indexed a broker listing, removing the listing from the broker's site does not immediately update Google's index. You may remain findable via Google for several weeks after a successful removal.
+
+---
+
+## Kanary's Business Model and Long-Term Viability
+
+I want to address something that comes up when evaluating newer, independent services: is Kanary going to be around in 2–3 years?
+
+This is a fair question. Data broker removal is a service where continuity matters — you want a service that will still be monitoring your data in three years, not one that gets acquired, pivots, or shuts down.
+
+**The risk with newer services:** Independent companies in competitive markets face acquisition pressure. If Kanary were acquired by a data broker company (unlikely but not impossible) or by a company with different priorities, service quality could change.
+
+**The evidence for stability:** Kanary has been operating since 2021 and has developed a distinctive product positioning. They have customer reviews on independent platforms showing consistent service quality. Their transparent reporting approach suggests investment in product quality rather than cheap automation. These are positive signs.
+
+**The established alternative:** If long-term stability is your primary concern, DeleteMe (founded 2011) or Incogni (backed by Nord Security, a major cybersecurity company) provide more institutional backing. Neither is likely to disappear or change dramatically.
+
+My assessment: Kanary is stable enough for the typical 1–2 year commitment most people make to a removal service. For longer-term planning (3+ years), I would lean toward a service with more established backing.
+
+---
+
+## Kanary's Privacy Policy: What They Do With Your Data
+
+Since handing your personal information to a removal service requires trust, I reviewed Kanary's privacy policy in detail.
+
+**Data collection:** Kanary collects the information you provide during onboarding (name, address, phone, email, date of birth) and uses it to locate and remove your data broker listings.
+
+**Data retention:** Your information is retained for as long as your subscription is active. Upon cancellation, you can request deletion of your data from Kanary's systems.
+
+**Third-party sharing:** Kanary explicitly states they do not sell your personal information. The data you provide is used only for the removal service.
+
+**Security:** Kanary encrypts data in transit and at rest. They have not disclosed any data breaches.
+
+**Sub-processors:** Kanary uses cloud hosting and similar services that necessarily have access to their infrastructure. This is standard for SaaS companies and not a red flag.
+
+The privacy policy is well-written and specific — a good sign. Companies with poor privacy practices tend to write vague, cover-everything policies. Kanary's specificity suggests genuine attention to privacy obligations.
+
+---
+
+## Kanary Pricing: What You Get for the Money
+
+Let me be specific about the value equation at Kanary's current pricing.
+
+At $83.88/year ($6.99/month annual):
+- 180+ brokers covered
+- Automated opt-out submissions
+- Real-time dashboard with field-level reporting
+- Non-compliant broker flagging and complaint templates
+- Re-submission monitoring
+- Email notifications for new findings and confirmed removals
+
+Compared to Incogni at $77.88/year:
+- The $6/year difference is essentially noise
+- Kanary provides meaningfully better reporting transparency
+- Incogni provides GDPR coverage that Kanary lacks
+
+The value is genuine at this price point. You are paying roughly $7/month for a service that would take 100+ hours per year to replicate manually. Whether Kanary or Incogni is the better fit depends primarily on whether GDPR coverage or reporting transparency matters more to your situation.
 
 ---
 

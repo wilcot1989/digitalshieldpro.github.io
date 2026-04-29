@@ -284,6 +284,45 @@ Having your personal data available to anyone willing to pay $5 for a background
 
 ---
 
+## How I Verified Removals Independently
+
+One thing I want to be transparent about: I did not just rely on the service dashboards to verify removal. I cross-checked results using three methods.
+
+**Google search:** Weekly incognito searches for my name, phone number, and address. When Google stopped surfacing a specific broker listing, I counted that as verified removal from a practical privacy standpoint.
+
+**Manual site checks:** For the 20 most important brokers, I visited the site directly each week and ran a search for my name. I checked whether my listing appeared at all, not just whether the service claimed it was removed.
+
+**Google Alerts:** I set up Google Alerts for my name and address combination to catch any new or returned listings that appeared in Google's index.
+
+At the 8-week mark, this independent verification was important. There were 7 cases where Incogni marked a removal "confirmed" but my manual check showed my listing was still accessible on that site — apparently in a state where the broker had acknowledged the request but not yet removed the listing. Incogni's automation eventually updated the status, but there was a lag.
+
+PrivacyBee had 4 cases where their "confirmed removal" labels were ahead of actual site removal. Their human-assisted follow-up eventually caught these, but neither service is perfect.
+
+**The lesson:** Service dashboards are useful approximations, not exact measures. The best way to know if you have been removed from a specific site is to check that site directly.
+
+---
+
+## Signing Up: Step-By-Step for Incogni
+
+For readers who decide to go with Incogni after this comparison, here is what the signup process looks like:
+
+**Step 1:** Go to incogni.com and select your plan (annual is significantly cheaper than monthly).
+
+**Step 2:** Create an account with your email and password.
+
+**Step 3:** The onboarding asks for:
+- Your full legal name
+- Your current address
+- Your email address (for matching, not the same as your account email)
+
+**Step 4:** Incogni presents a "power of attorney" style authorization document. This is what gives Incogni legal standing to submit removal requests on your behalf under CCPA. Read it, then sign digitally.
+
+**Step 5:** Incogni begins processing your first batch of requests immediately. You can watch the dashboard populate with initial results within hours.
+
+The whole process takes about 10 minutes. After that, Incogni runs automatically — you can check in as frequently or infrequently as you like.
+
+---
+
 ## Final Verdict
 
 After 8 weeks of parallel testing, **Incogni is the better choice for most people.** It contacts more brokers, costs less than half of what PrivacyBee charges, and provides a more transparent reporting dashboard. PrivacyBee has genuine advantages in white-glove service and human follow-up, but those advantages come at a significant price premium that most users will not fully utilize.

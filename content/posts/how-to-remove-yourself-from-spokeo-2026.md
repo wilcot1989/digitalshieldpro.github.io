@@ -345,6 +345,46 @@ For the most critical sites — Spokeo, Whitepages, BeenVerified — manual remo
 
 ---
 
+## Verifying Your Removals: How to Check That It Actually Worked
+
+After completing opt-outs, you should verify that your listings have actually been removed. This is an important step that most guides skip.
+
+**Wait the right amount of time.** Do not check immediately after submitting an opt-out. Most brokers need 24–72 hours to process removals. For some brokers, the timeline is longer — MyLife can take up to two weeks.
+
+**Use an incognito browser.** When checking whether your data is still visible, always use incognito or private browsing mode. Your regular browser may have cached the page with your old listing, or your browsing history may affect what search results you see.
+
+**Search multiple ways.** Do not just type your name into the site's search box. Also try:
+- Your full name + city
+- Your phone number
+- Your email address
+- Your old address
+
+Some brokers maintain multiple records indexed by different data points. You may have removed the listing under your name but still have a listing under your old phone number that links back to you.
+
+**Check associated profiles.** Even after your main profile is removed, check whether you appear in other people's "Associated Persons" sections. If your spouse's Spokeo profile lists you as an associated person, your name and partial information is still accessible even without a direct listing under your name.
+
+**Document before and after.** Screenshot your listings before submitting opt-outs, and screenshot the "not found" result after successful removal. This documentation is useful if the broker's data reappears and you need to demonstrate a pattern of re-listing.
+
+---
+
+## The Automation Argument: When Paying Makes More Sense Than DIY
+
+There is a version of this guide that just tells you to pay for a service and skip the manual work. I have deliberately not done that, because manual removal is genuinely viable for many people and the DIY option being available is important context.
+
+But let me be direct about when the automation argument becomes overwhelming:
+
+**You have a complicated address history.** If you have lived at 5 or more addresses in the past 10 years, each address has its own set of broker listings. Manual removal means finding and removing listings under each address at each broker. This multiplies your workload significantly.
+
+**You are already data broker-free and want to stay that way.** The ongoing maintenance burden — quarterly re-checks across 20+ brokers — is much more time-consuming than the initial removal round. If you have already done the initial clean-up and want to maintain it, automation is usually the right economic decision.
+
+**You have elevated security concerns.** If you are being stalked, have left an abusive relationship, receive harassment, are a public figure, or have any reason to be particularly concerned about your location being accessible, the delay and gaps in manual removal are a security risk that automation's continuous coverage addresses more effectively.
+
+**Your time is highly valuable.** The math on DIY versus $6.49/month for Incogni only works in favor of DIY if you genuinely value your time at near-zero. Most people who do honest time accounting decide automation is the right choice.
+
+[**Let Incogni Handle the Removals Automatically**](/go/incogni)
+
+---
+
 ## After You Opt Out: What To Do Next
 
 **Check Google's Results About You:** Google now has a tool (google.com/search/about-me/) that lets you request removal of personal contact information from Google search results. This is separate from removing your data from broker sites but important for controlling what appears when someone Googles you.

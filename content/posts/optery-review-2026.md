@@ -185,6 +185,49 @@ My recommendation: if you want maximum transparency and modern UX, go with Opter
 
 ---
 
+## Testing Optery's Free-to-Paid Upgrade Path
+
+One thing I want to address specifically: Optery's upgrade path from free to paid is well-designed in a way I appreciate. They do not lock you out of seeing your data after the free scan — the listings and screenshots you found on the free tier are still visible when you upgrade.
+
+This matters because the scan data is what motivates the upgrade decision. When I saw that 47 brokers had my information and that 19 of them had my phone number, the case for automated removal was self-evident. Optery is essentially letting you see the problem clearly before asking you to pay for the solution.
+
+Contrast this with services that are opaque about coverage until you pay. Incogni gives you a clean dashboard after you subscribe, but you cannot see your specific exposure before signing up. DeleteMe provides no scan before purchase. Optery's transparency-first approach is genuinely better for informed decision-making.
+
+**When to start with free:**
+- You want to understand your specific broker exposure before committing
+- You are motivated to do some manual opt-outs yourself
+- You are comparing services and want to see Optery's UI before paying
+
+**When to skip free and go paid:**
+- You already know you want automated removal
+- You do not want to spend time on manual opt-outs
+- You want coverage to start immediately across all brokers
+
+---
+
+## Optery's Response to Difficult Brokers
+
+During my 10-week test, I tracked which brokers Optery had the most difficulty getting compliance from. Some patterns emerged:
+
+**Brokers that complied quickly (under 10 days average):**
+- Spokeo (responsive opt-out portal)
+- BeenVerified (clean automated process)
+- TruthFinder (same parent company as Instant Checkmate, both handled together)
+- PeopleFinder
+
+**Brokers with significant delays (30–60 days):**
+- MyLife (consistently the worst actor)
+- Radaris (European-based, different compliance timeline)
+- FamilyTreeNow (slow but eventual compliance)
+- Several smaller regional brokers
+
+**Brokers Optery flagged as non-responsive:**
+- About 15 small brokers that had not responded at the 8-week mark. Optery was explicit that some of these are known non-responders and that they continue attempting contact.
+
+For the non-responsive brokers, Optery provides the opt-out page link directly so you can try manual submission yourself. This is more helpful than services that just show a status label and leave you wondering.
+
+---
+
 ## My Honest Recommendation
 
 After 10 weeks of testing, here is my honest take on Optery:
