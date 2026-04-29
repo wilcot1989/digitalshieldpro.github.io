@@ -1,34 +1,45 @@
 ---
-title: "Cyber Insurance Guide 2026: What Every Business Needs to"
-date: 2026-04-02T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Cyber insurance protects your business from the financial fallout of data breaches, ransomware, and cyberattacks. Here's everything you need to know in 2026."
-categories: ["security"]
-tags: ["cyber insurance", "business security", "data breach", "ransomware", "risk management"]
-keywords: ["cyber insurance", "cyber liability insurance", "business cyber insurance", "cyber insurance guide"]
+title: 'Cyber Insurance Guide 2026: What Every Business Needs to'
+date: 2026-04-02 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Cyber insurance protects your business from the financial fallout of data breaches, ransomware, and cyberattacks. Here's everything you need to know in 2026.
+categories:
+- security
+tags:
+- cyber insurance
+- business security
+- data breach
+- ransomware
+- risk management
+keywords:
+- cyber insurance
+- cyber liability insurance
+- business cyber insurance
+- cyber insurance guide
 affiliate: true
-author: "James Mitchell"
-author_bio: "Cybersecurity analyst with 8 years of hands-on experience testing VPNs, antivirus software, and privacy tools."
-featured_image: "/images/categories/security.svg"
+author: James Mitchell
+author_bio: Cybersecurity analyst with 8 years of hands-on experience testing VPNs, antivirus software, and privacy tools.
+featured_image: /images/categories/security.svg
 faq:
-  - q: "How much does cyber insurance cost?"
-    a: "Cyber insurance typically costs between $1,000 and $7,500 per year for small businesses with $1 million in coverage. The exact price depends on your industry, revenue, number of records you handle, and your existing security posture."
-  - q: "Does cyber insurance cover ransomware payments?"
-    a: "Most cyber insurance policies do cover ransomware payments, but this is changing. Some insurers are excluding ransomware or capping payouts. Always check your policy's specific language around extortion payments and whether they require you to attempt recovery before paying."
-  - q: "What is not covered by cyber insurance?"
-    a: "Common exclusions include losses from unpatched known vulnerabilities, acts of war or state-sponsored attacks, prior breaches discovered after the policy starts, social engineering fraud (sometimes), and intentional acts by employees. Infrastructure failures and power outages are usually excluded too."
-  - q: "Do small businesses need cyber insurance?"
-    a: "Yes. In 2025, 43% of cyberattacks targeted small businesses, and the average cost of a data breach for companies with fewer than 500 employees was $3.31 million. A single incident without insurance could bankrupt a small business."
-  - q: "What security measures do insurers require?"
-    a: "Most insurers now require multi-factor authentication, endpoint detection and response, regular backups, an incident response plan, employee security training, and encryption of sensitive data. Missing any of these can result in denial of coverage or higher premiums."
-  - q: "Can I get cyber insurance if I've already had a breach?"
-    a: "Yes, but it will be more expensive and may come with exclusions related to the previous incident. You will need to demonstrate what remediation steps you took after the breach. Some insurers specialize in higher-risk applicants."
-  - q: "What is the difference between first-party and third-party cyber coverage?"
-    a: "First-party coverage pays for your own losses like data recovery, business interruption, and ransom payments. Third-party coverage pays for claims against you from customers, partners, or regulators, including legal defense costs, settlements, and regulatory fines."
+- q: How much does cyber insurance cost?
+  a: Cyber insurance typically costs between $1,000 and $7,500 per year for small businesses with $1 million in coverage. The exact price depends on your industry, revenue, number of records you handle, and your existing security posture.
+- q: Does cyber insurance cover ransomware payments?
+  a: Most cyber insurance policies do cover ransomware payments, but this is changing. Some insurers are excluding ransomware or capping payouts. Always check your policy's specific language around extortion payments and whether they require you to attempt recovery before paying.
+- q: What is not covered by cyber insurance?
+  a: Common exclusions include losses from unpatched known vulnerabilities, acts of war or state-sponsored attacks, prior breaches discovered after the policy starts, social engineering fraud (sometimes), and intentional acts by employees. Infrastructure failures and power outages are usually excluded too.
+- q: Do small businesses need cyber insurance?
+  a: Yes. In 2025, 43% of cyberattacks targeted small businesses, and the average cost of a data breach for companies with fewer than 500 employees was $3.31 million. A single incident without insurance could bankrupt a small business.
+- q: What security measures do insurers require?
+  a: Most insurers now require multi-factor authentication, endpoint detection and response, regular backups, an incident response plan, employee security training, and encryption of sensitive data. Missing any of these can result in denial of coverage or higher premiums.
+- q: Can I get cyber insurance if I've already had a breach?
+  a: Yes, but it will be more expensive and may come with exclusions related to the previous incident. You will need to demonstrate what remediation steps you took after the breach. Some insurers specialize in higher-risk applicants.
+- q: What is the difference between first-party and third-party cyber coverage?
+  a: First-party coverage pays for your own losses like data recovery, business interruption, and ransom payments. Third-party coverage pays for claims against you from customers, partners, or regulators, including legal defense costs, settlements, and regulatory fines.
 products:
-  - name: "NordVPN"
-    url: "https://go.digitalshieldpro.com/nordvpn"
-    price: ""
+- name: NordVPN
+  url: https://go.digitalshieldpro.com/nordvpn
+  price: ''
+schema_type: Article
 ---
 
 *This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*

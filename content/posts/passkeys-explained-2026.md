@@ -1,42 +1,56 @@
 ---
-title: "Passkeys explained 2026: the password replacement that's"
-date: 2026-05-02T08:00:00+02:00
-lastmod: 2026-05-02T08:00:00+02:00
-description: "Passkeys are replacing passwords across major sites. Plain-English guide to what they are, why they're more secure, and how to start using them today."
-categories: ["passwords", "authentication"]
-tags: ["passkeys", "passwordless", "FIDO2", "WebAuthn", "phishing-resistant"]
-keywords: ["what are passkeys", "passkeys explained", "passkeys vs passwords", "how to use passkeys", "passkeys 2026", "passkey adoption"]
+title: 'Passkeys explained 2026: the password replacement that''s'
+date: 2026-05-02 08:00:00+02:00
+lastmod: 2026-05-02 08:00:00+02:00
+description: Passkeys are replacing passwords across major sites. Plain-English guide to what they are, why they're more secure, and how to start using them today.
+categories:
+- passwords
+- authentication
+tags:
+- passkeys
+- passwordless
+- FIDO2
+- WebAuthn
+- phishing-resistant
+keywords:
+- what are passkeys
+- passkeys explained
+- passkeys vs passwords
+- how to use passkeys
+- passkeys 2026
+- passkey adoption
 affiliate: true
-author: "James Mitchell"
-author_bio: "Cybersecurity analyst with 10+ years of hands-on experience testing VPNs, antivirus software, and privacy tools."
-featured_image: "/images/categories/password-managers.svg"
+author: James Mitchell
+author_bio: Cybersecurity analyst with 10+ years of hands-on experience testing VPNs, antivirus software, and privacy tools.
+featured_image: /images/categories/password-managers.svg
 faq:
-  - q: "What is a passkey, in plain English?"
-    a: "A passkey is a cryptographic key pair stored on your device (or in your password manager) that replaces passwords. Instead of typing 'P@ssw0rd123' on a website, your device proves it's you using a private key. Phishing-proof, breach-proof, and you don't have to remember anything."
-  - q: "How are passkeys different from 2FA?"
-    a: "Passkeys replace BOTH the password and the second factor. With 2FA you have password + code from authenticator. With passkeys you have one key on your device that does both jobs in one step. Less friction, more security."
-  - q: "Why are passkeys more secure than passwords?"
-    a: "Three reasons: (1) phishing-resistant — the cryptographic key won't work on a fake site, (2) breach-resistant — there's no password file on the server to steal, (3) replay-proof — each authentication is unique. Even if someone records your authentication, they can't reuse it."
-  - q: "Do I need a special device for passkeys?"
-    a: "No. Modern smartphones (iPhone since iOS 16, Android since version 9), Mac since macOS Ventura, and Windows since 11 22H2 all support passkeys natively. Your password manager (1Password, Bitwarden, NordPass) can also store passkeys with sync across devices."
-  - q: "Can I use passkeys on every site?"
-    a: "Not yet, but adoption is accelerating. Major sites with passkey support in 2026: Google, Apple, Microsoft, Amazon, Meta, GitHub, Adobe, PayPal, eBay, Best Buy, Target, Robinhood, Nintendo. Banks are slower. Check passkeys.directory for current adoption status."
-  - q: "What if I lose my device?"
-    a: "If passkeys are stored in your password manager (1Password/Bitwarden), they sync across devices. Lose your phone? Use your laptop or another device. If passkeys are device-only (not backed up), you'll need account recovery — usually email + identity verification."
-  - q: "Are passkeys really phishing-proof?"
-    a: "Yes — when implemented correctly. Passkeys are cryptographically tied to the website's domain. A fake 'g00gle.com' site won't be able to use your real Google passkey because the domain doesn't match. This is the killer feature: passwords are easy to phish, passkeys aren't."
-  - q: "Should I delete my password after enabling passkey?"
-    a: "Not yet — most sites still keep your password as a fallback for users without passkey support. After 6+ months of working passkeys with no issues, you can disable the password fallback for highest security. But many sites force you to keep at least one fallback method."
+- q: What is a passkey, in plain English?
+  a: A passkey is a cryptographic key pair stored on your device (or in your password manager) that replaces passwords. Instead of typing 'P@ssw0rd123' on a website, your device proves it's you using a private key. Phishing-proof, breach-proof, and you don't have to remember anything.
+- q: How are passkeys different from 2FA?
+  a: Passkeys replace BOTH the password and the second factor. With 2FA you have password + code from authenticator. With passkeys you have one key on your device that does both jobs in one step. Less friction, more security.
+- q: Why are passkeys more secure than passwords?
+  a: 'Three reasons: (1) phishing-resistant — the cryptographic key won''t work on a fake site, (2) breach-resistant — there''s no password file on the server to steal, (3) replay-proof — each authentication is unique. Even if someone records your authentication, they can''t reuse it.'
+- q: Do I need a special device for passkeys?
+  a: No. Modern smartphones (iPhone since iOS 16, Android since version 9), Mac since macOS Ventura, and Windows since 11 22H2 all support passkeys natively. Your password manager (1Password, Bitwarden, NordPass) can also store passkeys with sync across devices.
+- q: Can I use passkeys on every site?
+  a: 'Not yet, but adoption is accelerating. Major sites with passkey support in 2026: Google, Apple, Microsoft, Amazon, Meta, GitHub, Adobe, PayPal, eBay, Best Buy, Target, Robinhood, Nintendo. Banks are slower. Check passkeys.directory for current adoption status.'
+- q: What if I lose my device?
+  a: If passkeys are stored in your password manager (1Password/Bitwarden), they sync across devices. Lose your phone? Use your laptop or another device. If passkeys are device-only (not backed up), you'll need account recovery — usually email + identity verification.
+- q: Are passkeys really phishing-proof?
+  a: 'Yes — when implemented correctly. Passkeys are cryptographically tied to the website''s domain. A fake ''g00gle.com'' site won''t be able to use your real Google passkey because the domain doesn''t match. This is the killer feature: passwords are easy to phish, passkeys aren''t.'
+- q: Should I delete my password after enabling passkey?
+  a: Not yet — most sites still keep your password as a fallback for users without passkey support. After 6+ months of working passkeys with no issues, you can disable the password fallback for highest security. But many sites force you to keep at least one fallback method.
 products:
-  - name: "1Password (passkey support)"
-    url: "https://1password.com/"
-    price: "2.99"
-  - name: "Bitwarden Premium (passkey support)"
-    url: "https://bitwarden.com/"
-    price: "0.83"
-  - name: "NordPass (passkey support)"
-    url: "https://nordpass.com/"
-    price: "1.79"
+- name: 1Password (passkey support)
+  url: https://1password.com/
+  price: '2.99'
+- name: Bitwarden Premium (passkey support)
+  url: https://bitwarden.com/
+  price: '0.83'
+- name: NordPass (passkey support)
+  url: https://nordpass.com/
+  price: '1.79'
+schema_type: Article
 ---
 
 Last week my mother — 67 years old, not technical — set up a passkey on her Apple ID. It took her 30 seconds. She doesn't know what cryptography is. She doesn't need to.

@@ -1,42 +1,59 @@
 ---
-title: "Signal vs Threema vs SimpleX: Which Private Messenger"
-date: 2026-07-13T09:00:00-05:00
-lastmod: 2026-07-13T09:00:00-05:00
-description: "Deep technical comparison of Signal, Threema, and SimpleX after 4 weeks testing each. Encryption protocols, metadata exposure, anonymity trade-offs."
-categories: ["messaging", "encrypted-messaging"]
-tags: ["signal", "threema", "simplex", "encrypted messaging", "private messenger", "privacy tools", "secure messaging"]
-keywords: ["signal vs threema vs simplex", "most private messenger 2026", "signal threema comparison", "simplex chat review", "encrypted messenger comparison", "private messaging app", "anonymous messenger"]
+title: 'Signal vs Threema vs SimpleX: Which Private Messenger'
+date: 2026-07-13 09:00:00-05:00
+lastmod: 2026-07-13 09:00:00-05:00
+description: Deep technical comparison of Signal, Threema, and SimpleX after 4 weeks testing each. Encryption protocols, metadata exposure, anonymity trade-offs.
+categories:
+- messaging
+- encrypted-messaging
+tags:
+- signal
+- threema
+- simplex
+- encrypted messaging
+- private messenger
+- privacy tools
+- secure messaging
+keywords:
+- signal vs threema vs simplex
+- most private messenger 2026
+- signal threema comparison
+- simplex chat review
+- encrypted messenger comparison
+- private messaging app
+- anonymous messenger
 affiliate: true
-author: "James Mitchell"
-author_bio: "Cybersecurity researcher and writer. Tests privacy tools and security software hands-on."
-featured_image: "/images/categories/messaging.svg"
+author: James Mitchell
+author_bio: Cybersecurity researcher and writer. Tests privacy tools and security software hands-on.
+featured_image: /images/categories/messaging.svg
 faq:
-  - q: "Is Signal still the best private messenger in 2026?"
-    a: "Signal is the best private messenger for most people — strong encryption, large network, free, and now supports usernames so a phone number doesn't have to be shared. But 'best' depends on threat model. Signal is best for mainstream. Threema is best if you want zero identity linkage and will pay €5 for it. SimpleX is best for journalists and activists who need maximum anonymity and don't mind a rougher UX."
-  - q: "Does Signal require a phone number?"
-    a: "Yes, Signal requires a phone number to register. However, since the username update (2024), you can create a username and share that instead of your number. Your number remains hidden from contacts who only know your username. The number is still on Signal's servers — it's just not exposed to other users."
-  - q: "Is Threema actually anonymous?"
-    a: "Threema is the most anonymous of mainstream messengers. You receive a random Threema ID (8-character alphanumeric) at install with no registration required — no email, no phone number. You can pay with cash or crypto. If you never link your account to a phone or email, there is no identity chain connecting you to the app. That said, your IP address is still visible to Threema's servers unless you route traffic through Tor or a VPN."
-  - q: "What makes SimpleX different from Signal and Threema?"
-    a: "SimpleX has no user identifiers at all — no username, no phone number, no email, no persistent ID. Instead, it uses pairwise queue addresses: each conversation gets its own disposable messaging queue on a SimpleX relay server. There is no global account to subpoena, no user database to breach. This is technically superior privacy, but it creates real UX friction — you can't be 'found' by anyone without first sharing a link or QR code."
-  - q: "Which messenger has the strongest encryption?"
-    a: "All three use strong, audited encryption. Signal Protocol (used by Signal) is the industry standard — XEdDSA signatures, X3DH key agreement, Curve25519 ECDH, double-ratchet for forward secrecy. Threema uses NaCl (libsodium), which is solid. SimpleX uses Signal Protocol for messaging plus its own layered design for transport anonymity. Technically, SimpleX's threat model is strongest because even the protocol design eliminates the user-identifier layer."
-  - q: "Can I use SimpleX on a desktop?"
-    a: "Yes. SimpleX has desktop clients for Linux, macOS, and Windows. The apps are functional but less polished than Signal Desktop. There is no web client. Multi-device sync works but requires manual device linking via QR code."
-  - q: "Does Threema work without a smartphone?"
-    a: "Yes. Threema has desktop apps and a web client. You can also buy a Threema license without a smartphone — the Threema Work edition for businesses supports this explicitly. The standard consumer app requires an Android or iOS device for initial setup."
-  - q: "Which messenger should journalists use?"
-    a: "SimpleX for maximum source protection — no user identifiers, no metadata at server level, pairwise queues that can be rotated. Signal as a fallback for everyday contact (the Press contact feature is Signal-native for most newsrooms). Threema is a reasonable middle ground. Avoid WhatsApp entirely for source communications regardless of its encryption claims."
+- q: Is Signal still the best private messenger in 2026?
+  a: Signal is the best private messenger for most people — strong encryption, large network, free, and now supports usernames so a phone number doesn't have to be shared. But 'best' depends on threat model. Signal is best for mainstream. Threema is best if you want zero identity linkage and will pay €5 for it. SimpleX is best for journalists and activists who need maximum anonymity and don't mind a rougher UX.
+- q: Does Signal require a phone number?
+  a: Yes, Signal requires a phone number to register. However, since the username update (2024), you can create a username and share that instead of your number. Your number remains hidden from contacts who only know your username. The number is still on Signal's servers — it's just not exposed to other users.
+- q: Is Threema actually anonymous?
+  a: Threema is the most anonymous of mainstream messengers. You receive a random Threema ID (8-character alphanumeric) at install with no registration required — no email, no phone number. You can pay with cash or crypto. If you never link your account to a phone or email, there is no identity chain connecting you to the app. That said, your IP address is still visible to Threema's servers unless you route traffic through Tor or a VPN.
+- q: What makes SimpleX different from Signal and Threema?
+  a: 'SimpleX has no user identifiers at all — no username, no phone number, no email, no persistent ID. Instead, it uses pairwise queue addresses: each conversation gets its own disposable messaging queue on a SimpleX relay server. There is no global account to subpoena, no user database to breach. This is technically superior privacy, but it creates real UX friction — you can''t be ''found'' by anyone without first sharing a link or QR code.'
+- q: Which messenger has the strongest encryption?
+  a: All three use strong, audited encryption. Signal Protocol (used by Signal) is the industry standard — XEdDSA signatures, X3DH key agreement, Curve25519 ECDH, double-ratchet for forward secrecy. Threema uses NaCl (libsodium), which is solid. SimpleX uses Signal Protocol for messaging plus its own layered design for transport anonymity. Technically, SimpleX's threat model is strongest because even the protocol design eliminates the user-identifier layer.
+- q: Can I use SimpleX on a desktop?
+  a: Yes. SimpleX has desktop clients for Linux, macOS, and Windows. The apps are functional but less polished than Signal Desktop. There is no web client. Multi-device sync works but requires manual device linking via QR code.
+- q: Does Threema work without a smartphone?
+  a: Yes. Threema has desktop apps and a web client. You can also buy a Threema license without a smartphone — the Threema Work edition for businesses supports this explicitly. The standard consumer app requires an Android or iOS device for initial setup.
+- q: Which messenger should journalists use?
+  a: SimpleX for maximum source protection — no user identifiers, no metadata at server level, pairwise queues that can be rotated. Signal as a fallback for everyday contact (the Press contact feature is Signal-native for most newsrooms). Threema is a reasonable middle ground. Avoid WhatsApp entirely for source communications regardless of its encryption claims.
 products:
-  - name: "Threema"
-    url: "https://threema.ch"
-    price: "5.00 (one-time)"
-  - name: "Signal"
-    url: "https://signal.org"
-    price: "Free"
-  - name: "SimpleX Chat"
-    url: "https://simplex.chat"
-    price: "Free"
+- name: Threema
+  url: https://threema.ch
+  price: 5.00 (one-time)
+- name: Signal
+  url: https://signal.org
+  price: Free
+- name: SimpleX Chat
+  url: https://simplex.chat
+  price: Free
+schema_type: Article
 ---
 
 I spent four weeks running Signal, Threema, and SimpleX as my primary messengers — rotating between them, stress-testing group chats, timing file transfers, logging battery drain, and reading through the source code where questions needed answering from first principles. This is what I found.

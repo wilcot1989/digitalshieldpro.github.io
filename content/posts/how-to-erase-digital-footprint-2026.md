@@ -1,37 +1,50 @@
 ---
-title: "How to Erase Your Digital Footprint in 2026"
-date: 2026-06-01T10:00:00+01:00
-lastmod: 2026-06-01T10:00:00+01:00
-description: "Step-by-step removal of your data from major sites, brokers, and search engines. Realistic outcomes after 12 weeks of cleanup."
-categories: ["privacy"]
-tags: ["digital footprint", "data brokers", "privacy", "opt out", "personal data removal", "incogni"]
-keywords: ["how to erase digital footprint 2026", "remove personal data from internet", "data broker opt out", "digital privacy guide", "incogni review"]
+title: How to Erase Your Digital Footprint in 2026
+date: 2026-06-01 10:00:00+01:00
+lastmod: 2026-06-01 10:00:00+01:00
+description: Step-by-step removal of your data from major sites, brokers, and search engines. Realistic outcomes after 12 weeks of cleanup.
+categories:
+- privacy
+tags:
+- digital footprint
+- data brokers
+- privacy
+- opt out
+- personal data removal
+- incogni
+keywords:
+- how to erase digital footprint 2026
+- remove personal data from internet
+- data broker opt out
+- digital privacy guide
+- incogni review
 affiliate: true
-author: "James Mitchell"
-author_bio: "Cybersecurity researcher and writer. Tests privacy tools and security software hands-on."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1563013544-824ae1b704d3&w=1200&output=webp&q=70"
+author: James Mitchell
+author_bio: Cybersecurity researcher and writer. Tests privacy tools and security software hands-on.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1563013544-824ae1b704d3&w=1200&output=webp&q=70
 faq:
-  - q: "Can you completely erase your digital footprint?"
-    a: "Complete erasure is not realistic for most people — old social media posts, news articles, court records, and cached pages are difficult or impossible to fully remove. However, you can dramatically reduce your exposure by opting out of data brokers, removing social media profiles, and using privacy-respecting services going forward. Aim for significant reduction, not perfection."
-  - q: "How long does it take to remove data from data broker sites?"
-    a: "Manual opt-outs typically take 2-4 weeks to process per site, and most data broker sites have hundreds of companies to contact. Using a service like Incogni, which handles requests automatically, typically sees most results within 30-60 days. Data re-aggregation means opt-outs need to be repeated every few months."
-  - q: "Is Incogni worth paying for?"
-    a: "For most people who value their time, yes. Incogni contacts over 200 data brokers on your behalf and monitors for re-listing. Doing this manually would take 40-80 hours per year. At roughly $7/month on annual billing, it is cost-effective if you value your time at any reasonable rate."
-  - q: "Does Google remove personal information?"
-    a: "Yes. Google has a removal request tool for specific types of content including doxxing information, explicit images shared without consent, financial account details, and medical records. Standard personal information on third-party sites (your address, phone number) is harder to remove from Google's index — you need to opt out from the source site."
-  - q: "What is a data broker and why do they have my information?"
-    a: "Data brokers are companies that collect personal information from public records, social media, purchase histories, loyalty programs, and other sources, then sell that information to advertisers, employers, landlords, and anyone who pays. They are largely unregulated in the US, though California, Virginia, and other states have introduced data privacy laws."
-  - q: "What should I do after removing my data to prevent future accumulation?"
-    a: "Use a VPN, enable browser privacy settings, use a privacy-focused email provider, pay with cash or privacy.com virtual cards where possible, opt out of data sharing in apps during setup, and use a different email alias for each service you sign up for. These habits significantly reduce the rate of future data accumulation."
-  - q: "Can removing my data affect my credit score or background checks?"
-    a: "Legitimate credit bureau data (Equifax, Experian, TransUnion) is not the same as data broker data and cannot be removed via opt-out requests. Your credit report remains intact. Background check databases are a mix — some overlap with data brokers and can be opted out of, others are based on court records which are public and cannot be removed."
+- q: Can you completely erase your digital footprint?
+  a: Complete erasure is not realistic for most people — old social media posts, news articles, court records, and cached pages are difficult or impossible to fully remove. However, you can dramatically reduce your exposure by opting out of data brokers, removing social media profiles, and using privacy-respecting services going forward. Aim for significant reduction, not perfection.
+- q: How long does it take to remove data from data broker sites?
+  a: Manual opt-outs typically take 2-4 weeks to process per site, and most data broker sites have hundreds of companies to contact. Using a service like Incogni, which handles requests automatically, typically sees most results within 30-60 days. Data re-aggregation means opt-outs need to be repeated every few months.
+- q: Is Incogni worth paying for?
+  a: For most people who value their time, yes. Incogni contacts over 200 data brokers on your behalf and monitors for re-listing. Doing this manually would take 40-80 hours per year. At roughly $7/month on annual billing, it is cost-effective if you value your time at any reasonable rate.
+- q: Does Google remove personal information?
+  a: Yes. Google has a removal request tool for specific types of content including doxxing information, explicit images shared without consent, financial account details, and medical records. Standard personal information on third-party sites (your address, phone number) is harder to remove from Google's index — you need to opt out from the source site.
+- q: What is a data broker and why do they have my information?
+  a: Data brokers are companies that collect personal information from public records, social media, purchase histories, loyalty programs, and other sources, then sell that information to advertisers, employers, landlords, and anyone who pays. They are largely unregulated in the US, though California, Virginia, and other states have introduced data privacy laws.
+- q: What should I do after removing my data to prevent future accumulation?
+  a: Use a VPN, enable browser privacy settings, use a privacy-focused email provider, pay with cash or privacy.com virtual cards where possible, opt out of data sharing in apps during setup, and use a different email alias for each service you sign up for. These habits significantly reduce the rate of future data accumulation.
+- q: Can removing my data affect my credit score or background checks?
+  a: Legitimate credit bureau data (Equifax, Experian, TransUnion) is not the same as data broker data and cannot be removed via opt-out requests. Your credit report remains intact. Background check databases are a mix — some overlap with data brokers and can be opted out of, others are based on court records which are public and cannot be removed.
 products:
-  - name: "Incogni"
-    url: "https://go.digitalshieldpro.com/incogni"
-    price: ""
-  - name: "NordVPN"
-    url: "https://go.digitalshieldpro.com/nordvpn"
-    price: ""
+- name: Incogni
+  url: https://go.digitalshieldpro.com/incogni
+  price: ''
+- name: NordVPN
+  url: https://go.digitalshieldpro.com/nordvpn
+  price: ''
+schema_type: Article
 ---
 
 A few years ago I searched my own name on a people-search site on a whim. What I found surprised me: my home address, phone number, the names of family members, my approximate age, and a list of previous addresses going back over a decade. All of this was publicly accessible to anyone willing to pay $1.99 for a "background report."

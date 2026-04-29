@@ -1,36 +1,48 @@
 ---
-title: "How to Spot a Phishing Email in 2026"
-date: 2026-05-05T09:00:00+01:00
-lastmod: 2026-05-05T09:00:00+01:00
-description: "I analyzed 8 real phishing emails from 2025–2026 and broke down exactly what makes them convincing — and how to spot them before you click."
-categories: ["email-security"]
-tags: ["phishing", "email security", "social engineering", "scams", "ProtonMail", "email protection"]
-keywords: ["how to spot phishing email", "phishing email examples", "identify phishing 2026", "phishing protection"]
+title: How to Spot a Phishing Email in 2026
+date: 2026-05-05 09:00:00+01:00
+lastmod: 2026-05-05 09:00:00+01:00
+description: I analyzed 8 real phishing emails from 2025–2026 and broke down exactly what makes them convincing — and how to spot them before you click.
+categories:
+- email-security
+tags:
+- phishing
+- email security
+- social engineering
+- scams
+- ProtonMail
+- email protection
+keywords:
+- how to spot phishing email
+- phishing email examples
+- identify phishing 2026
+- phishing protection
 affiliate: true
-author: "James Mitchell"
-author_bio: "Cybersecurity analyst with 8 years of hands-on experience testing VPNs, antivirus software, and privacy tools."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1556761175-5973dc0f32e7&w=1200&output=webp&q=70"
+author: James Mitchell
+author_bio: Cybersecurity analyst with 8 years of hands-on experience testing VPNs, antivirus software, and privacy tools.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1556761175-5973dc0f32e7&w=1200&output=webp&q=70
 faq:
-  - q: "What is phishing and why does it still work in 2026?"
-    a: "Phishing is the practice of impersonating a trusted entity — a bank, employer, government agency, or major tech company — to trick you into revealing credentials, financial information, or installing malware. It still works because attackers have gotten much better at personalization (spear phishing), use of legitimate-looking infrastructure, and exploiting time pressure and emotional triggers. Even technically sophisticated people get caught."
-  - q: "How can I check if an email link is safe before clicking?"
-    a: "Hover over the link (don't click) and look at the URL that appears in your browser's status bar or the tooltip. Check that the domain matches the legitimate sender — phishers often use domains like 'paypa1.com' or 'amazon-support.net'. You can also right-click and copy the link, then paste it into a URL scanner like VirusTotal or URLVoid before visiting."
-  - q: "What is spear phishing and how is it different from regular phishing?"
-    a: "Regular phishing casts a wide net — the same generic email to millions of recipients. Spear phishing is targeted: the attacker researches your name, employer, role, and recent activity (often from LinkedIn or social media) and crafts a personalized email that references real details. It's far more convincing because it doesn't trigger the generic-email pattern we've learned to distrust."
-  - q: "Can phishing emails bypass spam filters?"
-    a: "Yes. Attackers use legitimate email infrastructure (compromised business accounts, trusted email providers), pass SPF/DKIM/DMARC checks, and send in low volumes to avoid triggering volume-based filters. Many sophisticated phishing emails land in your inbox because they technically originate from trusted servers."
-  - q: "What should I do if I accidentally clicked a phishing link?"
-    a: "Don't panic, but act quickly. If you entered credentials: change your password immediately and enable two-factor authentication on the affected account. If you downloaded something: disconnect from the internet and run a full antivirus scan. Contact your IT department if on a work device. If financial information was involved, contact your bank and consider placing a fraud alert on your credit."
-  - q: "Is it safe to open a phishing email without clicking anything?"
-    a: "Usually yes — most phishing damage comes from clicking links or downloading attachments, not from opening the email itself. However, some sophisticated phishing emails use tracking pixels to confirm your address is active (useful data for attackers), and rare zero-click exploits have targeted email clients. Deleting suspicious emails without opening them is the safest approach."
-  - q: "How do I report a phishing email?"
-    a: "Forward the email to reportphishing@apwg.org (Anti-Phishing Working Group) and to the impersonated company's official abuse address (e.g., phishing@paypal.com, abuse@amazon.com). In the US, you can report to the FTC at reportfraud.ftc.gov. In the UK, forward suspicious emails to report@phishing.gov.uk."
-  - q: "Does using an encrypted email like ProtonMail protect against phishing?"
-    a: "Encrypted email protects the contents of your emails from interception — it doesn't prevent phishing emails from being sent to you. However, ProtonMail and Tutanota include phishing detection features and their spam filters are generally effective. More importantly, using an encrypted email provider reduces the risk of your email credentials being harvested in data breaches that target large commercial email providers."
+- q: What is phishing and why does it still work in 2026?
+  a: Phishing is the practice of impersonating a trusted entity — a bank, employer, government agency, or major tech company — to trick you into revealing credentials, financial information, or installing malware. It still works because attackers have gotten much better at personalization (spear phishing), use of legitimate-looking infrastructure, and exploiting time pressure and emotional triggers. Even technically sophisticated people get caught.
+- q: How can I check if an email link is safe before clicking?
+  a: Hover over the link (don't click) and look at the URL that appears in your browser's status bar or the tooltip. Check that the domain matches the legitimate sender — phishers often use domains like 'paypa1.com' or 'amazon-support.net'. You can also right-click and copy the link, then paste it into a URL scanner like VirusTotal or URLVoid before visiting.
+- q: What is spear phishing and how is it different from regular phishing?
+  a: 'Regular phishing casts a wide net — the same generic email to millions of recipients. Spear phishing is targeted: the attacker researches your name, employer, role, and recent activity (often from LinkedIn or social media) and crafts a personalized email that references real details. It''s far more convincing because it doesn''t trigger the generic-email pattern we''ve learned to distrust.'
+- q: Can phishing emails bypass spam filters?
+  a: Yes. Attackers use legitimate email infrastructure (compromised business accounts, trusted email providers), pass SPF/DKIM/DMARC checks, and send in low volumes to avoid triggering volume-based filters. Many sophisticated phishing emails land in your inbox because they technically originate from trusted servers.
+- q: What should I do if I accidentally clicked a phishing link?
+  a: 'Don''t panic, but act quickly. If you entered credentials: change your password immediately and enable two-factor authentication on the affected account. If you downloaded something: disconnect from the internet and run a full antivirus scan. Contact your IT department if on a work device. If financial information was involved, contact your bank and consider placing a fraud alert on your credit.'
+- q: Is it safe to open a phishing email without clicking anything?
+  a: Usually yes — most phishing damage comes from clicking links or downloading attachments, not from opening the email itself. However, some sophisticated phishing emails use tracking pixels to confirm your address is active (useful data for attackers), and rare zero-click exploits have targeted email clients. Deleting suspicious emails without opening them is the safest approach.
+- q: How do I report a phishing email?
+  a: Forward the email to reportphishing@apwg.org (Anti-Phishing Working Group) and to the impersonated company's official abuse address (e.g., phishing@paypal.com, abuse@amazon.com). In the US, you can report to the FTC at reportfraud.ftc.gov. In the UK, forward suspicious emails to report@phishing.gov.uk.
+- q: Does using an encrypted email like ProtonMail protect against phishing?
+  a: Encrypted email protects the contents of your emails from interception — it doesn't prevent phishing emails from being sent to you. However, ProtonMail and Tutanota include phishing detection features and their spam filters are generally effective. More importantly, using an encrypted email provider reduces the risk of your email credentials being harvested in data breaches that target large commercial email providers.
 products:
-  - name: "ProtonMail"
-    url: "https://go.digitalshieldpro.com/protonmail"
-    price: "Free / From $3.99/month"
+- name: ProtonMail
+  url: https://go.digitalshieldpro.com/protonmail
+  price: Free / From $3.99/month
+schema_type: Article
 ---
 
 In 2025, the FBI's Internet Crime Complaint Center received 298,878 phishing complaints — more than any other cybercrime category — with reported losses exceeding $70 million. Those numbers only cover cases that were reported, and most aren't.

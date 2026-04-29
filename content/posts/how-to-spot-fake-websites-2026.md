@@ -1,34 +1,46 @@
 ---
-title: "How to Spot Fake Websites 2026: 12 Red Flags"
+title: 'How to Spot Fake Websites 2026: 12 Red Flags'
 date: 2026-06-15
-lastmod: 2026-06-15T09:00:00+01:00
-description: "URL inspection, certificate checks, scam-pattern recognition. Real fake-store examples plus tools that catch them automatically."
-categories: ["scam-protection"]
-tags: ["fake websites", "phishing", "scam websites", "online fraud", "URL security"]
-keywords: ["how to spot fake websites 2026", "fake website checker", "phishing website detection", "scam website signs", "URL safety check"]
+lastmod: 2026-06-15 09:00:00+01:00
+description: URL inspection, certificate checks, scam-pattern recognition. Real fake-store examples plus tools that catch them automatically.
+categories:
+- scam-protection
+tags:
+- fake websites
+- phishing
+- scam websites
+- online fraud
+- URL security
+keywords:
+- how to spot fake websites 2026
+- fake website checker
+- phishing website detection
+- scam website signs
+- URL safety check
 affiliate: true
-author: "James Mitchell"
-author_bio: "Cybersecurity researcher and writer. Tests privacy tools and security software hands-on."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1517336714731-489689fd1ca8&w=1200&output=webp&q=70"
+author: James Mitchell
+author_bio: Cybersecurity researcher and writer. Tests privacy tools and security software hands-on.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1517336714731-489689fd1ca8&w=1200&output=webp&q=70
 products:
-  - name: "Bitdefender"
-    url: "https://go.digitalshieldpro.com/bitdefender"
-    price: ""
+- name: Bitdefender
+  url: https://go.digitalshieldpro.com/bitdefender
+  price: ''
 faq:
-  - q: "Does HTTPS mean a website is safe?"
-    a: "No. HTTPS means the connection between your browser and the website is encrypted — it says nothing about whether the website itself is legitimate. Attackers routinely obtain SSL certificates for fake websites. The padlock icon does not mean the site is trustworthy."
-  - q: "What is the most reliable way to check if a website is fake?"
-    a: "Multiple independent signals together are most reliable: check WHOIS registration date (new domains are higher risk), verify the exact URL character by character, search for reviews or reports of the site, and use a reputation checker like VirusTotal or URLVoid. No single check is definitive."
-  - q: "Can a fake website steal my information if I just visit it?"
-    a: "Visiting a malicious site can expose you to drive-by download attacks if your browser or plugins are vulnerable. However, most credential theft requires you to actively enter information. Keeping your browser and OS updated patches most drive-by download vulnerabilities."
-  - q: "How do scammers make fake websites that look exactly like real ones?"
-    a: "Website cloning tools can copy any webpage's HTML, CSS, and images in minutes. Attackers then host this clone on a similar-looking domain and modify the login form to send credentials to their server. The visual appearance is often perfect — the only tells are in the URL and technical details."
-  - q: "What is typosquatting?"
-    a: "Typosquatting is registering domains that are common misspellings or visual lookalikes of legitimate sites: paypa1.com (with a 1), arnazon.com, g00gle.com. These domains catch users who mistype URLs or fail to read carefully. Always verify the URL before entering credentials."
-  - q: "Should I trust websites that display trust badges (Norton Secured, McAfee Secure)?"
-    a: "No. Trust badges (padlock icons, security vendor logos, 'Verified' stamps) can be copied and pasted onto any website. They are graphics, not live verification. To verify if a site has a genuine relationship with a security vendor, you would need to click the badge and confirm it links to verified data — which fake sites do not implement correctly."
-  - q: "What should I do if I entered information on a fake website?"
-    a: "Act immediately. Change the password for the relevant service and any other accounts where you use that password. If you entered financial information, contact your bank immediately. If you entered Social Security or government ID numbers, consider a credit freeze. Report the site to Google Safe Browsing at safebrowsing.google.com/safebrowsing/report_phish/."
+- q: Does HTTPS mean a website is safe?
+  a: No. HTTPS means the connection between your browser and the website is encrypted — it says nothing about whether the website itself is legitimate. Attackers routinely obtain SSL certificates for fake websites. The padlock icon does not mean the site is trustworthy.
+- q: What is the most reliable way to check if a website is fake?
+  a: 'Multiple independent signals together are most reliable: check WHOIS registration date (new domains are higher risk), verify the exact URL character by character, search for reviews or reports of the site, and use a reputation checker like VirusTotal or URLVoid. No single check is definitive.'
+- q: Can a fake website steal my information if I just visit it?
+  a: Visiting a malicious site can expose you to drive-by download attacks if your browser or plugins are vulnerable. However, most credential theft requires you to actively enter information. Keeping your browser and OS updated patches most drive-by download vulnerabilities.
+- q: How do scammers make fake websites that look exactly like real ones?
+  a: Website cloning tools can copy any webpage's HTML, CSS, and images in minutes. Attackers then host this clone on a similar-looking domain and modify the login form to send credentials to their server. The visual appearance is often perfect — the only tells are in the URL and technical details.
+- q: What is typosquatting?
+  a: 'Typosquatting is registering domains that are common misspellings or visual lookalikes of legitimate sites: paypa1.com (with a 1), arnazon.com, g00gle.com. These domains catch users who mistype URLs or fail to read carefully. Always verify the URL before entering credentials.'
+- q: Should I trust websites that display trust badges (Norton Secured, McAfee Secure)?
+  a: No. Trust badges (padlock icons, security vendor logos, 'Verified' stamps) can be copied and pasted onto any website. They are graphics, not live verification. To verify if a site has a genuine relationship with a security vendor, you would need to click the badge and confirm it links to verified data — which fake sites do not implement correctly.
+- q: What should I do if I entered information on a fake website?
+  a: Act immediately. Change the password for the relevant service and any other accounts where you use that password. If you entered financial information, contact your bank immediately. If you entered Social Security or government ID numbers, consider a credit freeze. Report the site to Google Safe Browsing at safebrowsing.google.com/safebrowsing/report_phish/.
+schema_type: Article
 ---
 
 Last month I received what appeared to be an email from DHL about a delayed package. The design was perfect — DHL logo, correct color scheme, plausible tracking number. The link in the email went to dh1-tracking.com. 

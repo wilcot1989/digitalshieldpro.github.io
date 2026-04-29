@@ -1,36 +1,49 @@
 ---
-title: "Windows 11 Privacy Settings 2026: The Complete Lockdown"
-date: 2026-06-19T09:00:00+01:00
-lastmod: 2026-06-19T09:00:00+01:00
-description: "Microsoft's telemetry, Recall AI, and advertising features send your data by default. Here's exactly how to lock down Windows 11 for maximum privacy in 2026."
-categories: ["device-security"]
-tags: ["Windows 11", "privacy", "telemetry", "Microsoft Recall", "data collection", "privacy settings", "Windows security"]
-keywords: ["Windows 11 privacy settings", "disable Windows 11 telemetry", "Windows Recall privacy", "Windows 11 lock down guide 2026"]
+title: 'Windows 11 Privacy Settings 2026: The Complete Lockdown'
+date: 2026-06-19 09:00:00+01:00
+lastmod: 2026-06-19 09:00:00+01:00
+description: Microsoft's telemetry, Recall AI, and advertising features send your data by default. Here's exactly how to lock down Windows 11 for maximum privacy in 2026.
+categories:
+- device-security
+tags:
+- Windows 11
+- privacy
+- telemetry
+- Microsoft Recall
+- data collection
+- privacy settings
+- Windows security
+keywords:
+- Windows 11 privacy settings
+- disable Windows 11 telemetry
+- Windows Recall privacy
+- Windows 11 lock down guide 2026
 affiliate: true
-author: "James Mitchell"
-author_bio: "Cybersecurity researcher and writer. Tests privacy tools and security software hands-on."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1517336714731-489689fd1ca8&w=1200&output=webp&q=70"
+author: James Mitchell
+author_bio: Cybersecurity researcher and writer. Tests privacy tools and security software hands-on.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1517336714731-489689fd1ca8&w=1200&output=webp&q=70
 faq:
-  - q: "Does Windows 11 really send my data to Microsoft by default?"
-    a: "Yes. A freshly installed Windows 11 Home or Pro system enables diagnostic data collection, advertising IDs, location access, app activity tracking, and personalized ad delivery by default. The telemetry settings alone can transmit hardware identifiers, crash reports, typed text samples, app usage patterns, and browsing behavior from Edge. Optional components like Recall and Cortana collect even more. Disabling these features takes about 30 minutes but significantly reduces what Microsoft collects."
-  - q: "What is Windows Recall and should I disable it?"
-    a: "Windows Recall is an AI feature that takes periodic screenshots of your screen, runs OCR on them, and stores a searchable timeline of everything you have done on your PC. Microsoft stores this data locally on Copilot+ PCs using an encrypted SQLite database. However, security researchers in 2024 demonstrated that the database could be extracted by malware running with standard user privileges. For most users, the privacy risk of having every email, banking screen, document, and browser tab recorded outweighs the convenience. I disable it on all my machines."
-  - q: "What is a Windows 11 advertising ID and how do I turn it off?"
-    a: "Windows 11 assigns each user account a unique advertising identifier used by apps and Microsoft to track behavior across sessions and deliver targeted ads. You can disable it in Settings > Privacy & Security > General, where you toggle off 'Let apps show me personalized ads by using my advertising ID.' This does not prevent all ads but stops cross-app behavior tracking tied to that identifier."
-  - q: "Will disabling telemetry break Windows Update?"
-    a: "No. Setting diagnostic data to the minimum 'Required' level does not affect Windows Update, Windows Defender definitions, or any core functionality. The 'Required' level only sends crash reports and basic hardware information needed for Microsoft to fix critical bugs. Optional telemetry — the kind used for advertising and product improvement — can be disabled entirely without affecting system stability."
-  - q: "Does a VPN or antivirus help with Windows privacy?"
-    a: "A VPN hides your network traffic from your ISP and prevents IP-based tracking but does not stop Windows itself from sending telemetry to Microsoft. For that, you need the privacy settings changes described in this guide. Antivirus software like Bitdefender includes optional privacy features and firewall controls that can block outbound connections to tracking domains, adding a second layer of protection."
-  - q: "Are third-party Windows privacy tools like O&O ShutUp10 safe to use?"
-    a: "O&O ShutUp10++ and similar tools are widely used and generally safe, but apply changes with one click that may have unintended side effects — for example, disabling SmartScreen or Windows Update delivery optimization alongside the privacy features you actually want to disable. I prefer making changes manually so I understand exactly what each setting does. That said, ShutUp10 is a reasonable starting point if you review its recommendations item by item before applying."
-  - q: "How often do I need to re-check Windows 11 privacy settings?"
-    a: "After every major Windows 11 feature update. Microsoft has a documented history of re-enabling telemetry and adding new data collection features during major updates. The Windows 11 23H2 and 24H2 updates both introduced new defaults that required privacy-conscious users to re-apply their settings. Schedule a 20-minute review after each feature update, or check after each Patch Tuesday for significant changes."
-  - q: "Does disabling location services affect apps like maps?"
-    a: "Yes, partially. Disabling system-wide location access in Settings > Privacy & Security > Location prevents apps from accessing your precise GPS position. However, apps can still estimate your rough location from your IP address unless you use a VPN. If you use a maps or weather app you trust, you can allow location access for that specific app while blocking all others using per-app location permissions."
+- q: Does Windows 11 really send my data to Microsoft by default?
+  a: Yes. A freshly installed Windows 11 Home or Pro system enables diagnostic data collection, advertising IDs, location access, app activity tracking, and personalized ad delivery by default. The telemetry settings alone can transmit hardware identifiers, crash reports, typed text samples, app usage patterns, and browsing behavior from Edge. Optional components like Recall and Cortana collect even more. Disabling these features takes about 30 minutes but significantly reduces what Microsoft collects.
+- q: What is Windows Recall and should I disable it?
+  a: Windows Recall is an AI feature that takes periodic screenshots of your screen, runs OCR on them, and stores a searchable timeline of everything you have done on your PC. Microsoft stores this data locally on Copilot+ PCs using an encrypted SQLite database. However, security researchers in 2024 demonstrated that the database could be extracted by malware running with standard user privileges. For most users, the privacy risk of having every email, banking screen, document, and browser tab recorded outweighs the convenience. I disable it on all my machines.
+- q: What is a Windows 11 advertising ID and how do I turn it off?
+  a: Windows 11 assigns each user account a unique advertising identifier used by apps and Microsoft to track behavior across sessions and deliver targeted ads. You can disable it in Settings > Privacy & Security > General, where you toggle off 'Let apps show me personalized ads by using my advertising ID.' This does not prevent all ads but stops cross-app behavior tracking tied to that identifier.
+- q: Will disabling telemetry break Windows Update?
+  a: No. Setting diagnostic data to the minimum 'Required' level does not affect Windows Update, Windows Defender definitions, or any core functionality. The 'Required' level only sends crash reports and basic hardware information needed for Microsoft to fix critical bugs. Optional telemetry — the kind used for advertising and product improvement — can be disabled entirely without affecting system stability.
+- q: Does a VPN or antivirus help with Windows privacy?
+  a: A VPN hides your network traffic from your ISP and prevents IP-based tracking but does not stop Windows itself from sending telemetry to Microsoft. For that, you need the privacy settings changes described in this guide. Antivirus software like Bitdefender includes optional privacy features and firewall controls that can block outbound connections to tracking domains, adding a second layer of protection.
+- q: Are third-party Windows privacy tools like O&O ShutUp10 safe to use?
+  a: O&O ShutUp10++ and similar tools are widely used and generally safe, but apply changes with one click that may have unintended side effects — for example, disabling SmartScreen or Windows Update delivery optimization alongside the privacy features you actually want to disable. I prefer making changes manually so I understand exactly what each setting does. That said, ShutUp10 is a reasonable starting point if you review its recommendations item by item before applying.
+- q: How often do I need to re-check Windows 11 privacy settings?
+  a: After every major Windows 11 feature update. Microsoft has a documented history of re-enabling telemetry and adding new data collection features during major updates. The Windows 11 23H2 and 24H2 updates both introduced new defaults that required privacy-conscious users to re-apply their settings. Schedule a 20-minute review after each feature update, or check after each Patch Tuesday for significant changes.
+- q: Does disabling location services affect apps like maps?
+  a: Yes, partially. Disabling system-wide location access in Settings > Privacy & Security > Location prevents apps from accessing your precise GPS position. However, apps can still estimate your rough location from your IP address unless you use a VPN. If you use a maps or weather app you trust, you can allow location access for that specific app while blocking all others using per-app location permissions.
 products:
-  - name: "Bitdefender"
-    url: "https://go.digitalshieldpro.com/bitdefender"
-    price: ""
+- name: Bitdefender
+  url: https://go.digitalshieldpro.com/bitdefender
+  price: ''
+schema_type: Article
 ---
 
 I set up a fresh Windows 11 Home install last month and ran Wireshark for the first hour. The telemetry traffic was constant — connection attempts to `settings-win.data.microsoft.com`, `vortex.data.microsoft.com`, `watson.telemetry.microsoft.com`, and a dozen more Microsoft endpoints. Before I had even opened a single app or typed a search query, Windows had already sent several megabytes of data home.

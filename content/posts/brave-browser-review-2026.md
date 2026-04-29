@@ -1,32 +1,48 @@
 ---
-title: "Brave Browser Review 2026: Four Weeks of Real-World Testing"
-date: 2026-07-18T09:00:00-05:00
-lastmod: 2026-07-18T09:00:00-05:00
-description: "Brave Browser reviewed after four weeks on Windows and iOS. Real speed measurements, tracker counts, honest takes on the BAT controversy."
-categories: ["privacy-browsers"]
-tags: ["brave browser", "privacy", "ad blocking", "chromium", "brave shields", "tor", "browser security"]
-keywords: ["brave browser review 2026", "brave browser privacy", "brave shields", "brave vs firefox", "brave browser test", "brave browser safe", "chromium privacy browser"]
+title: 'Brave Browser Review 2026: Four Weeks of Real-World Testing'
+date: 2026-07-18 09:00:00-05:00
+lastmod: 2026-07-18 09:00:00-05:00
+description: Brave Browser reviewed after four weeks on Windows and iOS. Real speed measurements, tracker counts, honest takes on the BAT controversy.
+categories:
+- privacy-browsers
+tags:
+- brave browser
+- privacy
+- ad blocking
+- chromium
+- brave shields
+- tor
+- browser security
+keywords:
+- brave browser review 2026
+- brave browser privacy
+- brave shields
+- brave vs firefox
+- brave browser test
+- brave browser safe
+- chromium privacy browser
 affiliate: true
-author: "James Mitchell"
-author_bio: "Cybersecurity researcher and writer. Tests privacy tools and security software hands-on."
-featured_image: "/images/categories/privacy-browsers.svg"
+author: James Mitchell
+author_bio: Cybersecurity researcher and writer. Tests privacy tools and security software hands-on.
+featured_image: /images/categories/privacy-browsers.svg
 faq:
-  - q: "Is Brave Browser actually private?"
-    a: "Yes, more so than Chrome by default -- and without installing any extensions. Brave Shields blocks third-party trackers, cross-site cookies, and fingerprinting attempts out of the box. In four weeks of testing I averaged 1,247 blocked trackers per day. That said, 'private' does not mean anonymous. Your ISP still sees your traffic, and Brave is still a Chromium browser subject to Google's upstream decisions."
-  - q: "What is the BAT reward system and do I have to use it?"
-    a: "BAT stands for Basic Attention Token -- Brave's cryptocurrency reward for viewing opt-in ads. You can completely ignore it. There is no toggle you need to find; the rewards system only activates if you opt in to Brave Ads in the settings. Most users never touch it."
-  - q: "Does Brave support Chrome extensions?"
-    a: "Yes. Brave is Chromium-based, so it installs Chrome Web Store extensions directly. Every extension I tested worked without modification. However, Manifest V3 will eventually limit uBlock Origin on Chromium, including Brave -- though Brave has committed to maintaining extension APIs beyond what Chrome allows."
-  - q: "Is Brave better than Firefox for privacy?"
-    a: "Out of the box, yes. Fresh Firefox blocks fewer trackers than Brave Shields does without any configuration. With Firefox plus uBlock Origin plus privacy settings tuned, the gap closes significantly. The practical question is how much you want to configure: Brave gives you strong defaults immediately, Firefox gives you more control if you put in the work."
-  - q: "What was the Brave affiliate link controversy?"
-    a: "In 2020, Brave was caught automatically replacing website URLs typed into the address bar with affiliate tracking links -- specifically for Binance and other crypto services -- without user consent. Brave CEO Brendan Eich apologized and the behavior was removed. The incident raised legitimate questions about trust that I address in this review."
-  - q: "Can Brave replace a VPN?"
-    a: "No. Brave's Tor mode in private windows routes traffic through the Tor network for .onion sites and adds an extra anonymity layer, but it is not a VPN and Brave themselves say not to use it for anything requiring strong anonymity. It is slow, not all sites work, and Brave itself warns against relying on it for protection against determined adversaries."
+- q: Is Brave Browser actually private?
+  a: Yes, more so than Chrome by default -- and without installing any extensions. Brave Shields blocks third-party trackers, cross-site cookies, and fingerprinting attempts out of the box. In four weeks of testing I averaged 1,247 blocked trackers per day. That said, 'private' does not mean anonymous. Your ISP still sees your traffic, and Brave is still a Chromium browser subject to Google's upstream decisions.
+- q: What is the BAT reward system and do I have to use it?
+  a: BAT stands for Basic Attention Token -- Brave's cryptocurrency reward for viewing opt-in ads. You can completely ignore it. There is no toggle you need to find; the rewards system only activates if you opt in to Brave Ads in the settings. Most users never touch it.
+- q: Does Brave support Chrome extensions?
+  a: Yes. Brave is Chromium-based, so it installs Chrome Web Store extensions directly. Every extension I tested worked without modification. However, Manifest V3 will eventually limit uBlock Origin on Chromium, including Brave -- though Brave has committed to maintaining extension APIs beyond what Chrome allows.
+- q: Is Brave better than Firefox for privacy?
+  a: 'Out of the box, yes. Fresh Firefox blocks fewer trackers than Brave Shields does without any configuration. With Firefox plus uBlock Origin plus privacy settings tuned, the gap closes significantly. The practical question is how much you want to configure: Brave gives you strong defaults immediately, Firefox gives you more control if you put in the work.'
+- q: What was the Brave affiliate link controversy?
+  a: In 2020, Brave was caught automatically replacing website URLs typed into the address bar with affiliate tracking links -- specifically for Binance and other crypto services -- without user consent. Brave CEO Brendan Eich apologized and the behavior was removed. The incident raised legitimate questions about trust that I address in this review.
+- q: Can Brave replace a VPN?
+  a: No. Brave's Tor mode in private windows routes traffic through the Tor network for .onion sites and adds an extra anonymity layer, but it is not a VPN and Brave themselves say not to use it for anything requiring strong anonymity. It is slow, not all sites work, and Brave itself warns against relying on it for protection against determined adversaries.
 products:
-  - name: "Brave Browser"
-    url: "https://brave.com"
-    price: "Free"
+- name: Brave Browser
+  url: https://brave.com
+  price: Free
+schema_type: Review
 ---
 
 Four weeks ago I uninstalled Chrome on my main Windows machine and switched to Brave as my daily driver. I did the same on my iPhone. I kept notes, measured load times, counted blocked trackers, and tested every privacy feature I could think of.

@@ -1,36 +1,48 @@
 ---
-title: "How to Disable Google Tracking in 2026"
-date: 2026-05-26T10:00:00+01:00
-lastmod: 2026-05-26T10:00:00+01:00
-description: "Complete step-by-step guide to disabling Google tracking in 2026. Ad personalisation, location history, YouTube history, and third-party tracking — all covered."
-categories: ["privacy"]
-tags: ["Google tracking", "disable Google tracking", "Google privacy settings", "ad personalization", "Google account privacy", "data minimization"]
-keywords: ["how to disable Google tracking 2026", "turn off Google tracking", "Google privacy settings guide", "stop Google collecting data", "Google ad personalization off"]
+title: How to Disable Google Tracking in 2026
+date: 2026-05-26 10:00:00+01:00
+lastmod: 2026-05-26 10:00:00+01:00
+description: Complete step-by-step guide to disabling Google tracking in 2026. Ad personalisation, location history, YouTube history, and third-party tracking — all covered.
+categories:
+- privacy
+tags:
+- Google tracking
+- disable Google tracking
+- Google privacy settings
+- ad personalization
+- Google account privacy
+- data minimization
+keywords:
+- how to disable Google tracking 2026
+- turn off Google tracking
+- Google privacy settings guide
+- stop Google collecting data
+- Google ad personalization off
 affiliate: true
-author: "James Mitchell"
-author_bio: "Cybersecurity researcher and writer. Tests privacy tools and security software hands-on."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1563013544-824ae1b704d3&w=1200&output=webp&q=70"
+author: James Mitchell
+author_bio: Cybersecurity researcher and writer. Tests privacy tools and security software hands-on.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1563013544-824ae1b704d3&w=1200&output=webp&q=70
 faq:
-  - q: "Does disabling Google tracking actually stop Google from collecting data?"
-    a: "Disabling tracking controls reduces Google's collection significantly but does not eliminate it. Google can still collect data from third parties (sites with Google Analytics, Google Ads), from your Android device at a system level, and certain technical data required for service operation. The settings described in this guide represent the maximum reduction achievable within the Google ecosystem. To eliminate Google tracking entirely, you need to stop using Google services."
-  - q: "What happens if I turn off ad personalisation?"
-    a: "You will still see ads on Google properties and partner sites, but they will be generic rather than targeted to your profile. Google will still show ads — it just cannot target them based on your detailed interest profile. Some people find this actually an improvement, as generic ads are less psychologically manipulative than highly targeted ones."
-  - q: "Can I use a Google account without Google tracking me?"
-    a: "You can significantly reduce tracking by disabling all activity controls, turning off personalisation, and using privacy-protective apps. However, some baseline data collection is required for Google services to function and is disclosed in their privacy policy. For a truly tracking-free experience, alternatives to Google services are necessary (Proton Mail, Brave Search, etc.)."
-  - q: "Does Incognito mode stop Google tracking?"
-    a: "No. Incognito mode only prevents your browser from saving local history, cookies, and form data. If you are logged into a Google account in Incognito, Google still sees your searches, clicks, and activity. Even logged out, Google can track you via your IP address, device fingerprint, and third-party tracking on sites you visit. Incognito is widely misunderstood as a privacy tool — it is a local browser hygiene tool."
-  - q: "How do I stop Google Analytics from tracking me across the web?"
-    a: "Google Analytics is embedded on millions of websites and tracks your behaviour regardless of whether you have a Google account. To block it: use uBlock Origin browser extension (blocks Google Analytics by default in its standard filter lists), use a privacy browser like Firefox or Brave, and consider a VPN to mask your IP address from analytics systems."
-  - q: "What is the most important Google tracking setting to disable?"
-    a: "Web & App Activity is the most significant. Disabling it stops Google from creating a detailed record of every search query, Chrome page visit, and Google service interaction. Combined with turning off Location History, this removes the two most comprehensive tracking systems Google maintains on individuals."
-products: []
+- q: Does disabling Google tracking actually stop Google from collecting data?
+  a: Disabling tracking controls reduces Google's collection significantly but does not eliminate it. Google can still collect data from third parties (sites with Google Analytics, Google Ads), from your Android device at a system level, and certain technical data required for service operation. The settings described in this guide represent the maximum reduction achievable within the Google ecosystem. To eliminate Google tracking entirely, you need to stop using Google services.
+- q: What happens if I turn off ad personalisation?
+  a: You will still see ads on Google properties and partner sites, but they will be generic rather than targeted to your profile. Google will still show ads — it just cannot target them based on your detailed interest profile. Some people find this actually an improvement, as generic ads are less psychologically manipulative than highly targeted ones.
+- q: Can I use a Google account without Google tracking me?
+  a: You can significantly reduce tracking by disabling all activity controls, turning off personalisation, and using privacy-protective apps. However, some baseline data collection is required for Google services to function and is disclosed in their privacy policy. For a truly tracking-free experience, alternatives to Google services are necessary (Proton Mail, Brave Search, etc.).
+- q: Does Incognito mode stop Google tracking?
+  a: No. Incognito mode only prevents your browser from saving local history, cookies, and form data. If you are logged into a Google account in Incognito, Google still sees your searches, clicks, and activity. Even logged out, Google can track you via your IP address, device fingerprint, and third-party tracking on sites you visit. Incognito is widely misunderstood as a privacy tool — it is a local browser hygiene tool.
+- q: How do I stop Google Analytics from tracking me across the web?
+  a: 'Google Analytics is embedded on millions of websites and tracks your behaviour regardless of whether you have a Google account. To block it: use uBlock Origin browser extension (blocks Google Analytics by default in its standard filter lists), use a privacy browser like Firefox or Brave, and consider a VPN to mask your IP address from analytics systems.'
+- q: What is the most important Google tracking setting to disable?
+  a: Web & App Activity is the most significant. Disabling it stops Google from creating a detailed record of every search query, Chrome page visit, and Google service interaction. Combined with turning off Location History, this removes the two most comprehensive tracking systems Google maintains on individuals.
 products:
-  - name: "ProtonMail Plus"
-    url: "https://go.digitalshieldpro.com/protonmail"
-    price: "3.99"
-  - name: "NordVPN"
-    url: "https://go.digitalshieldpro.com/nordvpn"
-    price: "3.49"
+- name: ProtonMail Plus
+  url: https://go.digitalshieldpro.com/protonmail
+  price: '3.99'
+- name: NordVPN
+  url: https://go.digitalshieldpro.com/nordvpn
+  price: '3.49'
+schema_type: Article
 ---
 
 I spent an afternoon in March 2026 going through every Google account privacy setting systematically, screenshotting before and after states, and auditing what each change actually does. This guide documents that process in sequence — every setting, what it does, and why it matters.

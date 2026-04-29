@@ -1,34 +1,46 @@
 ---
-title: "How to Migrate From Gmail to ProtonMail in 2026"
-date: 2026-05-04T09:00:00-05:00
-lastmod: 2026-05-04T09:00:00-05:00
-description: "I migrated my Gmail account to ProtonMail — 8 years of email, 40,000 messages, contacts and calendar."
-categories: ["encrypted-email"]
-tags: ["protonmail", "gmail migration", "encrypted email", "email privacy", "proton mail import"]
-keywords: ["how to migrate from gmail to protonmail 2026", "gmail to protonmail migration", "protonmail import gmail", "switch from gmail to protonmail", "protonmail setup guide"]
+title: How to Migrate From Gmail to ProtonMail in 2026
+date: 2026-05-04 09:00:00-05:00
+lastmod: 2026-05-04 09:00:00-05:00
+description: I migrated my Gmail account to ProtonMail — 8 years of email, 40,000 messages, contacts and calendar.
+categories:
+- encrypted-email
+tags:
+- protonmail
+- gmail migration
+- encrypted email
+- email privacy
+- proton mail import
+keywords:
+- how to migrate from gmail to protonmail 2026
+- gmail to protonmail migration
+- protonmail import gmail
+- switch from gmail to protonmail
+- protonmail setup guide
 affiliate: true
-author: "James Mitchell"
-author_bio: "Cybersecurity researcher and writer. Tests privacy tools and security software hands-on."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1556761175-5973dc0f32e7&w=1200&output=webp&q=70"
+author: James Mitchell
+author_bio: Cybersecurity researcher and writer. Tests privacy tools and security software hands-on.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1556761175-5973dc0f32e7&w=1200&output=webp&q=70
 faq:
-  - q: "How long does it take to migrate from Gmail to ProtonMail?"
-    a: "The technical migration takes 1–4 hours depending on your mailbox size. ProtonMail's Easy Switch tool imports at roughly 2,000–5,000 messages per hour. A 20,000-message inbox typically completes overnight. The full transition — updating your address with every service, routing important mail, notifying contacts — realistically takes 2–4 weeks."
-  - q: "Will I lose my Gmail emails if I migrate to ProtonMail?"
-    a: "No. Migrating to ProtonMail does not delete your Gmail account or emails. Gmail is copied into ProtonMail — your original inbox stays intact. You can keep Gmail active indefinitely as a forwarding address or backup. Only delete your Google account when you are fully confident everything has moved over."
-  - q: "Can I import Gmail contacts and calendar into Proton?"
-    a: "Yes. ProtonMail (Proton) supports importing Google Contacts via a VCF file export, and Google Calendar via an ICS file. Both imports work from within the Proton web interface. The process takes about 10 minutes for each. Labels and most calendar event details carry over correctly."
-  - q: "What happens to Gmail emails sent to my old address after I switch?"
-    a: "Emails sent to your Gmail address keep arriving in your Gmail inbox — not ProtonMail. To receive them in ProtonMail you need to either (a) enable Gmail forwarding to your new ProtonMail address, or (b) set up a custom domain in ProtonMail and update your MX records. Option (b) is the clean long-term solution."
-  - q: "Does ProtonMail support custom domains?"
-    a: "Yes, but only on paid plans (Proton Mail Plus and above, starting at $3.99/month). You can add up to 3 custom domains on Mail Plus, 10 on Proton Unlimited. This lets you use your own domain (e.g., you@yourname.com) while Proton handles encryption and hosting."
-  - q: "Is ProtonMail free?"
-    a: "ProtonMail has a free plan with 1 GB storage, 1 address, and 150 messages per day. For migration purposes, you almost certainly need a paid plan (starting at $3.99/month) to import large mailboxes, add custom domains, and remove the sending cap. Most people try the free plan first, then upgrade to complete the migration."
-  - q: "Can I still use Gmail after switching to ProtonMail?"
-    a: "Yes. Nothing forces you to close Gmail. Many people run both in parallel — ProtonMail for sensitive and future communications, Gmail for legacy newsletter subscriptions and low-priority mail. The most common approach is to gradually migrate services over 30–90 days, then close Gmail once you are confident."
+- q: How long does it take to migrate from Gmail to ProtonMail?
+  a: The technical migration takes 1–4 hours depending on your mailbox size. ProtonMail's Easy Switch tool imports at roughly 2,000–5,000 messages per hour. A 20,000-message inbox typically completes overnight. The full transition — updating your address with every service, routing important mail, notifying contacts — realistically takes 2–4 weeks.
+- q: Will I lose my Gmail emails if I migrate to ProtonMail?
+  a: No. Migrating to ProtonMail does not delete your Gmail account or emails. Gmail is copied into ProtonMail — your original inbox stays intact. You can keep Gmail active indefinitely as a forwarding address or backup. Only delete your Google account when you are fully confident everything has moved over.
+- q: Can I import Gmail contacts and calendar into Proton?
+  a: Yes. ProtonMail (Proton) supports importing Google Contacts via a VCF file export, and Google Calendar via an ICS file. Both imports work from within the Proton web interface. The process takes about 10 minutes for each. Labels and most calendar event details carry over correctly.
+- q: What happens to Gmail emails sent to my old address after I switch?
+  a: Emails sent to your Gmail address keep arriving in your Gmail inbox — not ProtonMail. To receive them in ProtonMail you need to either (a) enable Gmail forwarding to your new ProtonMail address, or (b) set up a custom domain in ProtonMail and update your MX records. Option (b) is the clean long-term solution.
+- q: Does ProtonMail support custom domains?
+  a: Yes, but only on paid plans (Proton Mail Plus and above, starting at $3.99/month). You can add up to 3 custom domains on Mail Plus, 10 on Proton Unlimited. This lets you use your own domain (e.g., you@yourname.com) while Proton handles encryption and hosting.
+- q: Is ProtonMail free?
+  a: ProtonMail has a free plan with 1 GB storage, 1 address, and 150 messages per day. For migration purposes, you almost certainly need a paid plan (starting at $3.99/month) to import large mailboxes, add custom domains, and remove the sending cap. Most people try the free plan first, then upgrade to complete the migration.
+- q: Can I still use Gmail after switching to ProtonMail?
+  a: Yes. Nothing forces you to close Gmail. Many people run both in parallel — ProtonMail for sensitive and future communications, Gmail for legacy newsletter subscriptions and low-priority mail. The most common approach is to gradually migrate services over 30–90 days, then close Gmail once you are confident.
 products:
-  - name: "ProtonMail"
-    url: "/go/protonmail"
-    price: "Free / from $3.99/month"
+- name: ProtonMail
+  url: /go/protonmail
+  price: Free / from $3.99/month
+schema_type: Article
 ---
 
 I spent eight years building a Gmail inbox. By the time I decided to migrate, I had over 40,000 messages, 1,200 contacts, and 14 calendars synced across every device I own. The idea of moving all of it felt paralyzing.

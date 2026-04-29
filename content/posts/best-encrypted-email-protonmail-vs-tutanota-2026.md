@@ -1,37 +1,51 @@
 ---
-title: "ProtonMail vs Tuta (Tutanota) 2026"
-date: 2026-04-29T08:00:00+02:00
-lastmod: 2026-04-29T08:00:00+02:00
-description: "I switched to ProtonMail and Tuta as my primary email providers for 6 months each. This is an honest comparison of features, privacy, limitations."
-categories: ["encrypted-email"]
-tags: ["protonmail", "tutanota", "tuta", "encrypted email", "protonmail vs tutanota", "private email 2026"]
-keywords: ["protonmail vs tutanota 2026", "protonmail review 2026", "tutanota review 2026", "best encrypted email", "protonmail tuta comparison", "private email provider"]
+title: ProtonMail vs Tuta (Tutanota) 2026
+date: 2026-04-29 08:00:00+02:00
+lastmod: 2026-04-29 08:00:00+02:00
+description: I switched to ProtonMail and Tuta as my primary email providers for 6 months each. This is an honest comparison of features, privacy, limitations.
+categories:
+- encrypted-email
+tags:
+- protonmail
+- tutanota
+- tuta
+- encrypted email
+- protonmail vs tutanota
+- private email 2026
+keywords:
+- protonmail vs tutanota 2026
+- protonmail review 2026
+- tutanota review 2026
+- best encrypted email
+- protonmail tuta comparison
+- private email provider
 affiliate: true
-author: "James Mitchell"
-author_bio: "Cybersecurity analyst with 10+ years of hands-on experience testing VPNs, antivirus software, and privacy tools."
-featured_image: "/images/categories/privacy.svg"
+author: James Mitchell
+author_bio: Cybersecurity analyst with 10+ years of hands-on experience testing VPNs, antivirus software, and privacy tools.
+featured_image: /images/categories/privacy.svg
 faq:
-  - q: "Is ProtonMail really private?"
-    a: "Yes, with caveats. ProtonMail uses end-to-end encryption (E2EE) between ProtonMail users and strong server-side encryption for emails from non-Proton senders. However, when you receive an email from a Gmail address, the subject line and sender metadata are not E2EE. In 2021, ProtonMail complied with a Swiss court order to log the IP address of a French activist — this is a legal risk that exists regardless of encryption."
-  - q: "What is the difference between ProtonMail and Tuta?"
-    a: "Both offer end-to-end encrypted email for messages between account holders. The key differences: ProtonMail uses OpenPGP (industry standard, interoperable), while Tuta uses a proprietary encryption protocol. ProtonMail integrates with the broader Proton ecosystem (VPN, Drive, Calendar). Tuta is simpler, slightly cheaper, and has a zero-knowledge calendar included."
-  - q: "Can I use ProtonMail with my own domain?"
-    a: "Yes, on paid plans. You can connect your own domain (e.g., yourname@yourcompany.com) and use ProtonMail as the backend. This requires a Proton Mail Plus or Business plan. Tuta also supports custom domains on paid plans."
-  - q: "Is Tutanota (Tuta) safe in 2026?"
-    a: "Yes. Tuta (rebranded from Tutanota in 2024) uses end-to-end encryption by default for all messages between Tuta users. For emails to non-Tuta users, they can send a password-protected link. They are based in Germany (GDPR), open source, and have never suffered a breach. Their encryption protocol is proprietary but has been independently reviewed."
-  - q: "Can I import my Gmail history to ProtonMail?"
-    a: "Yes. Proton's Easy Switch tool imports your Gmail, Google Drive, and Google Contacts history. The import runs in the background and can take hours to days depending on your email volume. Tuta does not have an official import tool — migration is manual."
-  - q: "Does ProtonMail work with Outlook or Apple Mail?"
-    a: "Yes, via the Proton Mail Bridge (desktop application). It connects ProtonMail to any IMAP/SMTP client, including Outlook and Apple Mail. This is a paid feature. Tuta does not support third-party IMAP clients — you must use their app."
-  - q: "What happens when I email someone who doesn't use encrypted email?"
-    a: "ProtonMail encrypts the content on their servers but the email is sent as standard SMTP to the recipient's provider (with TLS in transit). Tuta offers an alternative: you can set a password for the email, and the recipient receives a link to a secure Tuta page where they enter the password to read it. Both approaches have tradeoffs."
+- q: Is ProtonMail really private?
+  a: Yes, with caveats. ProtonMail uses end-to-end encryption (E2EE) between ProtonMail users and strong server-side encryption for emails from non-Proton senders. However, when you receive an email from a Gmail address, the subject line and sender metadata are not E2EE. In 2021, ProtonMail complied with a Swiss court order to log the IP address of a French activist — this is a legal risk that exists regardless of encryption.
+- q: What is the difference between ProtonMail and Tuta?
+  a: 'Both offer end-to-end encrypted email for messages between account holders. The key differences: ProtonMail uses OpenPGP (industry standard, interoperable), while Tuta uses a proprietary encryption protocol. ProtonMail integrates with the broader Proton ecosystem (VPN, Drive, Calendar). Tuta is simpler, slightly cheaper, and has a zero-knowledge calendar included.'
+- q: Can I use ProtonMail with my own domain?
+  a: Yes, on paid plans. You can connect your own domain (e.g., yourname@yourcompany.com) and use ProtonMail as the backend. This requires a Proton Mail Plus or Business plan. Tuta also supports custom domains on paid plans.
+- q: Is Tutanota (Tuta) safe in 2026?
+  a: Yes. Tuta (rebranded from Tutanota in 2024) uses end-to-end encryption by default for all messages between Tuta users. For emails to non-Tuta users, they can send a password-protected link. They are based in Germany (GDPR), open source, and have never suffered a breach. Their encryption protocol is proprietary but has been independently reviewed.
+- q: Can I import my Gmail history to ProtonMail?
+  a: Yes. Proton's Easy Switch tool imports your Gmail, Google Drive, and Google Contacts history. The import runs in the background and can take hours to days depending on your email volume. Tuta does not have an official import tool — migration is manual.
+- q: Does ProtonMail work with Outlook or Apple Mail?
+  a: Yes, via the Proton Mail Bridge (desktop application). It connects ProtonMail to any IMAP/SMTP client, including Outlook and Apple Mail. This is a paid feature. Tuta does not support third-party IMAP clients — you must use their app.
+- q: What happens when I email someone who doesn't use encrypted email?
+  a: 'ProtonMail encrypts the content on their servers but the email is sent as standard SMTP to the recipient''s provider (with TLS in transit). Tuta offers an alternative: you can set a password for the email, and the recipient receives a link to a secure Tuta page where they enter the password to read it. Both approaches have tradeoffs.'
 products:
-  - name: "ProtonMail"
-    url: "https://go.digitalshieldpro.com/protonmail"
-    price: ""
-  - name: "Tuta (Tutanota)"
-    url: "https://go.digitalshieldpro.com/tutanota"
-    price: ""
+- name: ProtonMail
+  url: https://go.digitalshieldpro.com/protonmail
+  price: ''
+- name: Tuta (Tutanota)
+  url: https://go.digitalshieldpro.com/tutanota
+  price: ''
+schema_type: Article
 ---
 
 I moved off Gmail in January 2025. Not because something bad happened — because I had spent three months investigating what Google actually does with email metadata, and I did not like the answer.

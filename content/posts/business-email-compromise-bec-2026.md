@@ -1,34 +1,46 @@
 ---
-title: "Business Email Compromise (BEC) in 2026"
-date: 2026-05-22T12:00:00+01:00
-lastmod: 2026-05-22T12:00:00+01:00
-description: "BEC fraud cost businesses $2.9 billion in 2023. I break down the real tactics criminals use to impersonate executives."
-categories: ["business-security"]
-tags: ["business email compromise", "BEC fraud", "CEO fraud", "email security", "phishing"]
-keywords: ["business email compromise 2026", "BEC fraud prevention", "CEO fraud email", "whaling attack", "email security business"]
+title: Business Email Compromise (BEC) in 2026
+date: 2026-05-22 12:00:00+01:00
+lastmod: 2026-05-22 12:00:00+01:00
+description: BEC fraud cost businesses $2.9 billion in 2023. I break down the real tactics criminals use to impersonate executives.
+categories:
+- business-security
+tags:
+- business email compromise
+- BEC fraud
+- CEO fraud
+- email security
+- phishing
+keywords:
+- business email compromise 2026
+- BEC fraud prevention
+- CEO fraud email
+- whaling attack
+- email security business
 affiliate: true
-author: "James Mitchell"
-author_bio: "Cybersecurity analyst with 10+ years of hands-on experience testing VPNs, antivirus software, and privacy tools."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1556761175-5973dc0f32e7&w=1200&output=webp&q=70"
+author: James Mitchell
+author_bio: Cybersecurity analyst with 10+ years of hands-on experience testing VPNs, antivirus software, and privacy tools.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1556761175-5973dc0f32e7&w=1200&output=webp&q=70
 faq:
-  - q: "What is Business Email Compromise (BEC)?"
-    a: "BEC is a type of fraud where attackers impersonate executives, vendors, or trusted colleagues via email to trick employees into transferring money, sharing sensitive data, or providing account credentials. Unlike mass phishing, BEC attacks are targeted and highly researched, making them far more convincing."
-  - q: "How much does BEC fraud cost businesses?"
-    a: "The FBI's IC3 reported $2.9 billion in BEC losses in 2023 alone, making it the single most costly cybercrime category. The actual figure is likely higher because many incidents go unreported due to reputational concerns."
-  - q: "What is the difference between BEC and regular phishing?"
-    a: "Standard phishing casts a wide net with generic lures. BEC is surgical — attackers research your company, learn your org chart, study the CEO's email style, and craft a single convincing message. BEC emails often contain no malware and no suspicious links, which is why security filters miss them."
-  - q: "Can BEC attacks be stopped by antivirus software?"
-    a: "Not reliably, because most BEC emails contain no malicious attachments or links. The attack is purely social engineering. Effective defense requires email authentication (DMARC/DKIM/SPF), employee training, verification procedures for financial transfers, and endpoint security that monitors for account compromise."
-  - q: "What should I do if my company receives a BEC email?"
-    a: "Do not respond or transfer any funds. Report the email to your IT/security team immediately. Contact your financial institution if a transfer has already been initiated — wire transfers can sometimes be reversed within hours. File a report with the FBI's IC3 at ic3.gov."
-  - q: "Does enabling multi-factor authentication prevent BEC?"
-    a: "MFA prevents attackers from accessing email accounts with stolen credentials, which stops one common BEC vector. However, sophisticated attackers can bypass MFA through real-time phishing kits. MFA is necessary but not sufficient — it must be combined with email authentication protocols and staff training."
-  - q: "What industries are most targeted by BEC attacks?"
-    a: "The FBI data shows real estate, manufacturing, retail, healthcare, and financial services as the most targeted sectors. However, no industry is immune. Small businesses are increasingly targeted because they often lack the security infrastructure of large enterprises while still handling significant financial transactions."
+- q: What is Business Email Compromise (BEC)?
+  a: BEC is a type of fraud where attackers impersonate executives, vendors, or trusted colleagues via email to trick employees into transferring money, sharing sensitive data, or providing account credentials. Unlike mass phishing, BEC attacks are targeted and highly researched, making them far more convincing.
+- q: How much does BEC fraud cost businesses?
+  a: The FBI's IC3 reported $2.9 billion in BEC losses in 2023 alone, making it the single most costly cybercrime category. The actual figure is likely higher because many incidents go unreported due to reputational concerns.
+- q: What is the difference between BEC and regular phishing?
+  a: Standard phishing casts a wide net with generic lures. BEC is surgical — attackers research your company, learn your org chart, study the CEO's email style, and craft a single convincing message. BEC emails often contain no malware and no suspicious links, which is why security filters miss them.
+- q: Can BEC attacks be stopped by antivirus software?
+  a: Not reliably, because most BEC emails contain no malicious attachments or links. The attack is purely social engineering. Effective defense requires email authentication (DMARC/DKIM/SPF), employee training, verification procedures for financial transfers, and endpoint security that monitors for account compromise.
+- q: What should I do if my company receives a BEC email?
+  a: Do not respond or transfer any funds. Report the email to your IT/security team immediately. Contact your financial institution if a transfer has already been initiated — wire transfers can sometimes be reversed within hours. File a report with the FBI's IC3 at ic3.gov.
+- q: Does enabling multi-factor authentication prevent BEC?
+  a: MFA prevents attackers from accessing email accounts with stolen credentials, which stops one common BEC vector. However, sophisticated attackers can bypass MFA through real-time phishing kits. MFA is necessary but not sufficient — it must be combined with email authentication protocols and staff training.
+- q: What industries are most targeted by BEC attacks?
+  a: The FBI data shows real estate, manufacturing, retail, healthcare, and financial services as the most targeted sectors. However, no industry is immune. Small businesses are increasingly targeted because they often lack the security infrastructure of large enterprises while still handling significant financial transactions.
 products:
-  - name: "Bitdefender"
-    url: "https://go.digitalshieldpro.com/bitdefender"
-    price: ""
+- name: Bitdefender
+  url: https://go.digitalshieldpro.com/bitdefender
+  price: ''
+schema_type: Article
 ---
 
 I spent three weeks reviewing FBI IC3 reports, interviewing a finance director who nearly wired $340,000 to fraudsters, and working through dozens of real BEC email samples. What I found is that these attacks succeed not because they are technically sophisticated, but because they are socially brilliant. The criminals do their homework. They learn when your CEO is traveling. They know the name of your CFO. They understand your payment approval process. And then they send one email at exactly the right moment.

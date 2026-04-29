@@ -1,37 +1,53 @@
 ---
-title: "How to Detect Spyware 2026: Pegasus, NSO, Stalkerware"
-date: 2026-06-03T10:00:00+01:00
-lastmod: 2026-06-03T10:00:00+01:00
-description: "Detection tools and behavioral signs for state-grade and consumer spyware. Real cases plus what scanners actually catch in 2026."
-categories: ["mobile-security"]
-tags: ["spyware", "pegasus", "stalkerware", "mobile security", "phone surveillance", "nso group", "android security", "ios security"]
-keywords: ["how to detect spyware 2026", "pegasus spyware detection", "stalkerware removal", "phone surveillance detection", "mobile spyware check", "bitdefender review"]
+title: 'How to Detect Spyware 2026: Pegasus, NSO, Stalkerware'
+date: 2026-06-03 10:00:00+01:00
+lastmod: 2026-06-03 10:00:00+01:00
+description: Detection tools and behavioral signs for state-grade and consumer spyware. Real cases plus what scanners actually catch in 2026.
+categories:
+- mobile-security
+tags:
+- spyware
+- pegasus
+- stalkerware
+- mobile security
+- phone surveillance
+- nso group
+- android security
+- ios security
+keywords:
+- how to detect spyware 2026
+- pegasus spyware detection
+- stalkerware removal
+- phone surveillance detection
+- mobile spyware check
+- bitdefender review
 affiliate: true
-author: "James Mitchell"
-author_bio: "Cybersecurity researcher and writer. Tests privacy tools and security software hands-on."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1555421689-491a97ff2040&w=1200&output=webp&q=70"
+author: James Mitchell
+author_bio: Cybersecurity researcher and writer. Tests privacy tools and security software hands-on.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1555421689-491a97ff2040&w=1200&output=webp&q=70
 faq:
-  - q: "Can Pegasus spyware infect iPhones?"
-    a: "Yes. Pegasus has successfully exploited iOS using zero-click vulnerabilities — meaning it can infect a device without the victim clicking anything. Apple has issued emergency patches for multiple Pegasus-related vulnerabilities. The best defense is keeping iOS updated immediately when security patches release. The Lockdown Mode feature introduced in iOS 16 provides additional protection for high-risk individuals."
-  - q: "How do I know if my phone has spyware?"
-    a: "Common signs include unusual battery drain, unexplained data usage spikes, the phone running hot when idle, unfamiliar apps in the app list, and strange SMS messages containing code-like strings. However, sophisticated spyware like Pegasus leaves very few traces. Use Amnesty International's MVT (Mobile Verification Toolkit) for Pegasus-level detection, or a commercial tool like Bitdefender for consumer-grade spyware."
-  - q: "What is the difference between Pegasus and consumer stalkerware?"
-    a: "Pegasus is developed by NSO Group for nation-state intelligence agencies and law enforcement. It uses zero-day exploits, costs hundreds of thousands of dollars per deployment, and primarily targets journalists, activists, and politicians. Consumer stalkerware is cheap or free software marketed as parental controls or employee monitoring — typically installed manually by someone with physical access to your device."
-  - q: "Can antivirus software detect spyware on phones?"
-    a: "Consumer antivirus apps like Bitdefender Mobile Security detect most commercial stalkerware and many adware/spyware variants. They cannot reliably detect nation-state tools like Pegasus, which use zero-day exploits and advanced evasion techniques. For Pegasus-level threats, use Amnesty Tech's MVT or seek professional forensics assistance."
-  - q: "Does a factory reset remove spyware?"
-    a: "A factory reset removes almost all consumer spyware and stalkerware — it wipes the device and all installed software. However, extremely sophisticated persistent malware (rare) can survive in firmware. For Pegasus, a factory reset combined with a new device is the safest response. After resetting, restore from a pre-infection backup if you can identify when infection occurred."
-  - q: "Is it illegal to install spyware on someone's phone?"
-    a: "In most jurisdictions, installing spyware on someone's device without their knowledge and consent is illegal, regardless of your relationship to them. This includes spouses, partners, and employers monitoring employee devices without disclosure. Check your local laws, but covert surveillance is generally criminal."
-  - q: "What is Lockdown Mode on iPhone and should I use it?"
-    a: "Lockdown Mode is an extreme protection option introduced in iOS 16 that disables many attack surfaces — it blocks most message attachment types, disables link previews, turns off JIT compilation, restricts incoming FaceTime calls, and limits connectivity. It significantly impacts usability. It is designed for high-risk individuals like journalists, activists, and human rights workers — not needed for typical users."
+- q: Can Pegasus spyware infect iPhones?
+  a: Yes. Pegasus has successfully exploited iOS using zero-click vulnerabilities — meaning it can infect a device without the victim clicking anything. Apple has issued emergency patches for multiple Pegasus-related vulnerabilities. The best defense is keeping iOS updated immediately when security patches release. The Lockdown Mode feature introduced in iOS 16 provides additional protection for high-risk individuals.
+- q: How do I know if my phone has spyware?
+  a: Common signs include unusual battery drain, unexplained data usage spikes, the phone running hot when idle, unfamiliar apps in the app list, and strange SMS messages containing code-like strings. However, sophisticated spyware like Pegasus leaves very few traces. Use Amnesty International's MVT (Mobile Verification Toolkit) for Pegasus-level detection, or a commercial tool like Bitdefender for consumer-grade spyware.
+- q: What is the difference between Pegasus and consumer stalkerware?
+  a: Pegasus is developed by NSO Group for nation-state intelligence agencies and law enforcement. It uses zero-day exploits, costs hundreds of thousands of dollars per deployment, and primarily targets journalists, activists, and politicians. Consumer stalkerware is cheap or free software marketed as parental controls or employee monitoring — typically installed manually by someone with physical access to your device.
+- q: Can antivirus software detect spyware on phones?
+  a: Consumer antivirus apps like Bitdefender Mobile Security detect most commercial stalkerware and many adware/spyware variants. They cannot reliably detect nation-state tools like Pegasus, which use zero-day exploits and advanced evasion techniques. For Pegasus-level threats, use Amnesty Tech's MVT or seek professional forensics assistance.
+- q: Does a factory reset remove spyware?
+  a: A factory reset removes almost all consumer spyware and stalkerware — it wipes the device and all installed software. However, extremely sophisticated persistent malware (rare) can survive in firmware. For Pegasus, a factory reset combined with a new device is the safest response. After resetting, restore from a pre-infection backup if you can identify when infection occurred.
+- q: Is it illegal to install spyware on someone's phone?
+  a: In most jurisdictions, installing spyware on someone's device without their knowledge and consent is illegal, regardless of your relationship to them. This includes spouses, partners, and employers monitoring employee devices without disclosure. Check your local laws, but covert surveillance is generally criminal.
+- q: What is Lockdown Mode on iPhone and should I use it?
+  a: Lockdown Mode is an extreme protection option introduced in iOS 16 that disables many attack surfaces — it blocks most message attachment types, disables link previews, turns off JIT compilation, restricts incoming FaceTime calls, and limits connectivity. It significantly impacts usability. It is designed for high-risk individuals like journalists, activists, and human rights workers — not needed for typical users.
 products:
-  - name: "Bitdefender"
-    url: "https://go.digitalshieldpro.com/bitdefender"
-    price: ""
-  - name: "NordVPN"
-    url: "https://go.digitalshieldpro.com/nordvpn"
-    price: ""
+- name: Bitdefender
+  url: https://go.digitalshieldpro.com/bitdefender
+  price: ''
+- name: NordVPN
+  url: https://go.digitalshieldpro.com/nordvpn
+  price: ''
+schema_type: Article
 ---
 
 In 2021, a consortium of 17 news organizations published the Pegasus Project — a detailed investigation showing that NSO Group's Pegasus spyware had been used to infect the phones of journalists, human rights lawyers, and heads of state across multiple countries. The targets included people in France, India, Mexico, Saudi Arabia, and dozens of other nations.

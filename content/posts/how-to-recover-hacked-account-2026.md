@@ -1,37 +1,49 @@
 ---
-title: "How to Recover a Hacked Account 2026: Step-by-Step"
+title: 'How to Recover a Hacked Account 2026: Step-by-Step'
 date: 2026-06-13
-lastmod: 2026-06-13T09:00:00+01:00
-description: "Got hacked? This step-by-step guide covers account recovery for Google, Facebook, Instagram, Microsoft, and more."
-categories: ["accounts"]
-tags: ["account recovery", "hacked account", "account security", "data breach", "identity theft"]
-keywords: ["how to recover hacked account 2026", "account recovery Google", "hacked Facebook account", "account compromised what to do", "recover Instagram account 2026"]
+lastmod: 2026-06-13 09:00:00+01:00
+description: Got hacked? This step-by-step guide covers account recovery for Google, Facebook, Instagram, Microsoft, and more.
+categories:
+- accounts
+tags:
+- account recovery
+- hacked account
+- account security
+- data breach
+- identity theft
+keywords:
+- how to recover hacked account 2026
+- account recovery Google
+- hacked Facebook account
+- account compromised what to do
+- recover Instagram account 2026
 affiliate: true
-author: "James Mitchell"
-author_bio: "Cybersecurity researcher and writer. Tests privacy tools and security software hands-on."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1614064641938-3bbee52942c7&w=1200&output=webp&q=70"
+author: James Mitchell
+author_bio: Cybersecurity researcher and writer. Tests privacy tools and security software hands-on.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1614064641938-3bbee52942c7&w=1200&output=webp&q=70
 products:
-  - name: "NordPass Premium"
-    url: "https://go.digitalshieldpro.com/nordpass"
-    price: "1.49"
-  - name: "1Password Family"
-    url: "https://go.digitalshieldpro.com/1password"
-    price: "4.99"
+- name: NordPass Premium
+  url: https://go.digitalshieldpro.com/nordpass
+  price: '1.49'
+- name: 1Password Family
+  url: https://go.digitalshieldpro.com/1password
+  price: '4.99'
 faq:
-  - q: "How do I know if my account has been hacked?"
-    a: "Signs include: login notifications you did not generate, emails in your sent folder you did not send, password reset emails you did not request, contacts receiving messages from you that you did not send, unrecognized devices in your account's active sessions list, and changed profile information."
-  - q: "What is the first thing to do if I suspect my account is hacked?"
-    a: "If you can still log in, go immediately to your account's active sessions and log out all other devices. Then change your password. If you cannot log in, go directly to the platform's account recovery page — do not delay."
-  - q: "How long does account recovery take?"
-    a: "Automated recovery (via backup codes, verified phone/email, or authenticator) typically takes minutes. Manual identity verification with a platform's support team takes 1-7 business days typically, though some platforms like Facebook can take longer for complex cases."
-  - q: "Can I recover an account if I no longer have access to my recovery email or phone?"
-    a: "Yes, but it is significantly harder. Most platforms have identity verification processes involving photo ID or trusted contacts. Google has a 'Google Account Help' form for this scenario. Facebook uses 'Trusted Contacts' and identity verification. Response times can be several days to weeks."
-  - q: "Should I contact police if my account is hacked?"
-    a: "For most individual account compromises, police involvement is unlikely to help unless financial fraud occurred or you can identify the attacker. File a report if money was stolen, if someone is using your account to commit crimes, or if a minor is involved. The report creates a record that may be useful for identity theft claims."
-  - q: "What do I do about damage caused by a hacker while they had my account?"
-    a: "For financial transactions: contact your bank immediately and dispute charges. For sent messages/posts: notify contacts immediately that your account was compromised and those communications were not from you. For deleted files: check if cloud backup/trash has recoverable copies."
-  - q: "How do I prevent getting hacked again after recovery?"
-    a: "Enable 2FA with an authenticator app on every account. Use unique passwords stored in a password manager. Never reuse passwords. Regularly review active sessions and remove old devices. Check haveibeenpwned.com periodically to learn if your email appears in new data breaches."
+- q: How do I know if my account has been hacked?
+  a: 'Signs include: login notifications you did not generate, emails in your sent folder you did not send, password reset emails you did not request, contacts receiving messages from you that you did not send, unrecognized devices in your account''s active sessions list, and changed profile information.'
+- q: What is the first thing to do if I suspect my account is hacked?
+  a: If you can still log in, go immediately to your account's active sessions and log out all other devices. Then change your password. If you cannot log in, go directly to the platform's account recovery page — do not delay.
+- q: How long does account recovery take?
+  a: Automated recovery (via backup codes, verified phone/email, or authenticator) typically takes minutes. Manual identity verification with a platform's support team takes 1-7 business days typically, though some platforms like Facebook can take longer for complex cases.
+- q: Can I recover an account if I no longer have access to my recovery email or phone?
+  a: Yes, but it is significantly harder. Most platforms have identity verification processes involving photo ID or trusted contacts. Google has a 'Google Account Help' form for this scenario. Facebook uses 'Trusted Contacts' and identity verification. Response times can be several days to weeks.
+- q: Should I contact police if my account is hacked?
+  a: For most individual account compromises, police involvement is unlikely to help unless financial fraud occurred or you can identify the attacker. File a report if money was stolen, if someone is using your account to commit crimes, or if a minor is involved. The report creates a record that may be useful for identity theft claims.
+- q: What do I do about damage caused by a hacker while they had my account?
+  a: 'For financial transactions: contact your bank immediately and dispute charges. For sent messages/posts: notify contacts immediately that your account was compromised and those communications were not from you. For deleted files: check if cloud backup/trash has recoverable copies.'
+- q: How do I prevent getting hacked again after recovery?
+  a: Enable 2FA with an authenticator app on every account. Use unique passwords stored in a password manager. Never reuse passwords. Regularly review active sessions and remove old devices. Check haveibeenpwned.com periodically to learn if your email appears in new data breaches.
+schema_type: Article
 ---
 
 My phone rang at 11 PM on a Tuesday last year. It was my cousin: "Someone is posting from my Instagram account and I can't log in. What do I do?"

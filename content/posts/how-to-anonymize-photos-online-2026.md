@@ -1,34 +1,48 @@
 ---
-title: "How to Anonymize Photos Online 2026: EXIF Strip"
-date: 2026-06-05T10:00:00+01:00
-lastmod: 2026-06-05T10:00:00+01:00
-description: "Strip EXIF metadata, blur faces, and remove geolocation data from photos before sharing online. Tools tested for desktop and mobile."
-categories: ["privacy"]
-tags: ["photo privacy", "exif data", "metadata removal", "face blur", "photo anonymization", "location data"]
-keywords: ["how to anonymize photos online 2026", "remove exif data", "strip photo metadata", "face blur tool", "photo location data removal", "image privacy"]
+title: 'How to Anonymize Photos Online 2026: EXIF Strip'
+date: 2026-06-05 10:00:00+01:00
+lastmod: 2026-06-05 10:00:00+01:00
+description: Strip EXIF metadata, blur faces, and remove geolocation data from photos before sharing online. Tools tested for desktop and mobile.
+categories:
+- privacy
+tags:
+- photo privacy
+- exif data
+- metadata removal
+- face blur
+- photo anonymization
+- location data
+keywords:
+- how to anonymize photos online 2026
+- remove exif data
+- strip photo metadata
+- face blur tool
+- photo location data removal
+- image privacy
 affiliate: true
-author: "James Mitchell"
-author_bio: "Cybersecurity researcher and writer. Tests privacy tools and security software hands-on."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1563013544-824ae1b704d3&w=1200&output=webp&q=70"
+author: James Mitchell
+author_bio: Cybersecurity researcher and writer. Tests privacy tools and security software hands-on.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1563013544-824ae1b704d3&w=1200&output=webp&q=70
 faq:
-  - q: "What is EXIF data and why is it a privacy risk?"
-    a: "EXIF (Exchangeable Image File Format) data is metadata embedded in image files by cameras and phones. It can include the exact GPS coordinates where the photo was taken, the device model, software version, date and time, and camera settings. If you share a photo with GPS data intact, anyone who views the file metadata can see precisely where you were when you took it."
-  - q: "Does Instagram remove EXIF data from uploaded photos?"
-    a: "Yes. Instagram, Facebook, and most major social media platforms strip EXIF data during the upload process. However, not all platforms do this — some forums, image hosting sites, and direct file sharing (email, messaging apps) preserve all metadata. Do not rely on the platform to remove metadata; strip it before uploading."
-  - q: "Can face recognition identify blurred faces?"
-    a: "It depends on the blurring method. Simple Gaussian blur can sometimes be reversed with deblurring algorithms if not applied strongly enough. Pixelation is more resistant to reversal than blur. For highest security, use redaction (a solid color rectangle covering the face) rather than blur or pixelation — this is irreversible and used by professional journalists."
-  - q: "What is the best free tool to remove photo metadata?"
-    a: "ExifTool is the most comprehensive free command-line tool for removing all metadata. For a graphical interface on Windows, ExifPurge is simple and effective. On macOS, Preview can remove location data from the information panel. On Android and iOS, apps like Scrambled Exif handle this automatically before sharing."
-  - q: "Does removing EXIF data affect image quality?"
-    a: "No. EXIF data is stored separately from the image pixel data. Removing it does not change the visible image in any way — the photo looks identical with or without metadata."
-  - q: "How do I check what metadata is in my photo before sharing?"
-    a: "On Windows: right-click the file → Properties → Details tab. On macOS: open in Preview → Tools → Show Inspector → GPS tab. On Linux: use exiftool [filename] in terminal. Online: Jeffrey's Exif Viewer (exifdata.com) or Exifinfo.org — paste or upload the file to see all embedded data."
-  - q: "Can I batch remove metadata from hundreds of photos at once?"
-    a: "Yes. ExifTool handles batch processing extremely well. The command exiftool -all= /path/to/folder/ removes all metadata from every image file in the specified folder. ExifPurge (Windows GUI) and similar tools also support batch processing."
+- q: What is EXIF data and why is it a privacy risk?
+  a: EXIF (Exchangeable Image File Format) data is metadata embedded in image files by cameras and phones. It can include the exact GPS coordinates where the photo was taken, the device model, software version, date and time, and camera settings. If you share a photo with GPS data intact, anyone who views the file metadata can see precisely where you were when you took it.
+- q: Does Instagram remove EXIF data from uploaded photos?
+  a: Yes. Instagram, Facebook, and most major social media platforms strip EXIF data during the upload process. However, not all platforms do this — some forums, image hosting sites, and direct file sharing (email, messaging apps) preserve all metadata. Do not rely on the platform to remove metadata; strip it before uploading.
+- q: Can face recognition identify blurred faces?
+  a: It depends on the blurring method. Simple Gaussian blur can sometimes be reversed with deblurring algorithms if not applied strongly enough. Pixelation is more resistant to reversal than blur. For highest security, use redaction (a solid color rectangle covering the face) rather than blur or pixelation — this is irreversible and used by professional journalists.
+- q: What is the best free tool to remove photo metadata?
+  a: ExifTool is the most comprehensive free command-line tool for removing all metadata. For a graphical interface on Windows, ExifPurge is simple and effective. On macOS, Preview can remove location data from the information panel. On Android and iOS, apps like Scrambled Exif handle this automatically before sharing.
+- q: Does removing EXIF data affect image quality?
+  a: No. EXIF data is stored separately from the image pixel data. Removing it does not change the visible image in any way — the photo looks identical with or without metadata.
+- q: How do I check what metadata is in my photo before sharing?
+  a: 'On Windows: right-click the file → Properties → Details tab. On macOS: open in Preview → Tools → Show Inspector → GPS tab. On Linux: use exiftool [filename] in terminal. Online: Jeffrey''s Exif Viewer (exifdata.com) or Exifinfo.org — paste or upload the file to see all embedded data.'
+- q: Can I batch remove metadata from hundreds of photos at once?
+  a: Yes. ExifTool handles batch processing extremely well. The command exiftool -all= /path/to/folder/ removes all metadata from every image file in the specified folder. ExifPurge (Windows GUI) and similar tools also support batch processing.
 products:
-  - name: "NordVPN"
-    url: "https://go.digitalshieldpro.com/nordvpn"
-    price: ""
+- name: NordVPN
+  url: https://go.digitalshieldpro.com/nordvpn
+  price: ''
+schema_type: Article
 ---
 
 I have a habit of checking EXIF data on photos people send me — not for any invasive reason, just because it is genuinely illuminating how much information is hidden in a typical photo. The ones that get me are the innocuous ones: a photo of a home-cooked meal with precise GPS coordinates showing the home address, a "just landed" photo with the exact departure and arrival locations logged.

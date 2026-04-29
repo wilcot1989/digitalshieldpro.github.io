@@ -1,42 +1,55 @@
 ---
-title: "ProtonMail review 2026: 12 months testing the privacy-first"
-date: 2026-04-29T08:00:00+02:00
-lastmod: 2026-04-29T08:00:00+02:00
-description: "ProtonMail has been my primary email for a year. Honest review of features, encryption, deliverability, and whether the paid plans are worth it."
-categories: ["encrypted-email"]
-tags: ["protonmail", "encrypted email", "email security", "privacy", "review"]
-keywords: ["protonmail review", "protonmail review 2026", "protonmail vs gmail", "is protonmail safe", "protonmail free vs paid", "proton mail features"]
+title: 'ProtonMail review 2026: 12 months testing the privacy-first'
+date: 2026-04-29 08:00:00+02:00
+lastmod: 2026-04-29 08:00:00+02:00
+description: ProtonMail has been my primary email for a year. Honest review of features, encryption, deliverability, and whether the paid plans are worth it.
+categories:
+- encrypted-email
+tags:
+- protonmail
+- encrypted email
+- email security
+- privacy
+- review
+keywords:
+- protonmail review
+- protonmail review 2026
+- protonmail vs gmail
+- is protonmail safe
+- protonmail free vs paid
+- proton mail features
 affiliate: true
-author: "James Mitchell"
-author_bio: "Cybersecurity analyst with 10+ years of hands-on experience testing VPNs, antivirus software, and privacy tools."
-featured_image: "/images/categories/email-security.svg"
+author: James Mitchell
+author_bio: Cybersecurity analyst with 10+ years of hands-on experience testing VPNs, antivirus software, and privacy tools.
+featured_image: /images/categories/email-security.svg
 faq:
-  - q: "Is ProtonMail really secure?"
-    a: "Yes — for what it claims. ProtonMail uses end-to-end encryption between Proton users, and zero-access encryption (Proton can't read your inbox even if subpoenaed) for messages stored on their servers. However, when you email a non-Proton user, that message is only encrypted in transit (TLS), not end-to-end. The recipient's provider can read it."
-  - q: "Is ProtonMail free?"
-    a: "ProtonMail Free includes 1 GB storage, 150 messages/day, one address, and basic features. Paid plans start at €4.99/month for Proton Mail Plus (15 GB, custom domain) and €9.99/month for Unlimited (500 GB plus VPN, Drive, Calendar, Pass)."
-  - q: "Can ProtonMail be subpoenaed?"
-    a: "Yes — Proton complies with Swiss legal orders. They can hand over IP logs (after a court order) and metadata like login times and recipients. They cannot hand over message content because they don't have access. In 2021 they handed IP info on a French climate activist after a Swiss legal request, which sparked debate."
-  - q: "How is ProtonMail different from Tutanota?"
-    a: "ProtonMail uses PGP-based encryption and integrates with the standard email ecosystem (you can use any email client via Proton Bridge for paid users). Tutanota uses its own encryption protocol, hides subject lines (ProtonMail does not), and only works through their app. Tutanota is cheaper; ProtonMail has a richer ecosystem (VPN, Drive, Calendar)."
-  - q: "Will my emails actually arrive (deliverability)?"
-    a: "Mostly yes. ProtonMail has solid deliverability to Gmail, Outlook, and major providers. Some smaller business inboxes occasionally flag Proton senders as spam — Proton Plus on a custom domain reduces this significantly. In my 12 months of use, deliverability issues were rare."
-  - q: "Can I migrate my Gmail to ProtonMail?"
-    a: "Yes. Proton's Easy Switch tool imports emails, contacts, and calendar from Gmail (and other providers). Migration takes hours to days depending on inbox size. After migration, set up mail forwarding from Gmail to keep receiving messages during the transition."
-  - q: "Is ProtonMail Plus worth €4.99/month?"
-    a: "For privacy-conscious users with custom domain needs: yes. The 15 GB storage, custom domain support, and unlimited folders/labels alone justify the cost. For casual users who only need basic email privacy: the free plan is enough."
-  - q: "Does ProtonMail work with mobile apps and email clients?"
-    a: "ProtonMail apps (iOS, Android) work great. Desktop email clients like Thunderbird, Apple Mail, and Outlook require Proton Bridge — a small app that translates IMAP/SMTP to Proton's encrypted protocol. Bridge is paid-only (Plus and above). Without Bridge, you must use the web app or mobile apps."
+- q: Is ProtonMail really secure?
+  a: Yes — for what it claims. ProtonMail uses end-to-end encryption between Proton users, and zero-access encryption (Proton can't read your inbox even if subpoenaed) for messages stored on their servers. However, when you email a non-Proton user, that message is only encrypted in transit (TLS), not end-to-end. The recipient's provider can read it.
+- q: Is ProtonMail free?
+  a: ProtonMail Free includes 1 GB storage, 150 messages/day, one address, and basic features. Paid plans start at €4.99/month for Proton Mail Plus (15 GB, custom domain) and €9.99/month for Unlimited (500 GB plus VPN, Drive, Calendar, Pass).
+- q: Can ProtonMail be subpoenaed?
+  a: Yes — Proton complies with Swiss legal orders. They can hand over IP logs (after a court order) and metadata like login times and recipients. They cannot hand over message content because they don't have access. In 2021 they handed IP info on a French climate activist after a Swiss legal request, which sparked debate.
+- q: How is ProtonMail different from Tutanota?
+  a: ProtonMail uses PGP-based encryption and integrates with the standard email ecosystem (you can use any email client via Proton Bridge for paid users). Tutanota uses its own encryption protocol, hides subject lines (ProtonMail does not), and only works through their app. Tutanota is cheaper; ProtonMail has a richer ecosystem (VPN, Drive, Calendar).
+- q: Will my emails actually arrive (deliverability)?
+  a: Mostly yes. ProtonMail has solid deliverability to Gmail, Outlook, and major providers. Some smaller business inboxes occasionally flag Proton senders as spam — Proton Plus on a custom domain reduces this significantly. In my 12 months of use, deliverability issues were rare.
+- q: Can I migrate my Gmail to ProtonMail?
+  a: Yes. Proton's Easy Switch tool imports emails, contacts, and calendar from Gmail (and other providers). Migration takes hours to days depending on inbox size. After migration, set up mail forwarding from Gmail to keep receiving messages during the transition.
+- q: Is ProtonMail Plus worth €4.99/month?
+  a: 'For privacy-conscious users with custom domain needs: yes. The 15 GB storage, custom domain support, and unlimited folders/labels alone justify the cost. For casual users who only need basic email privacy: the free plan is enough.'
+- q: Does ProtonMail work with mobile apps and email clients?
+  a: ProtonMail apps (iOS, Android) work great. Desktop email clients like Thunderbird, Apple Mail, and Outlook require Proton Bridge — a small app that translates IMAP/SMTP to Proton's encrypted protocol. Bridge is paid-only (Plus and above). Without Bridge, you must use the web app or mobile apps.
 products:
-  - name: "Proton Mail Plus"
-    url: "https://proton.me/mail/pricing"
-    price: "4.99"
-  - name: "Proton Unlimited"
-    url: "https://proton.me/mail/pricing"
-    price: "9.99"
-  - name: "Tutanota Premium (alternative)"
-    url: "https://tuta.com/pricing"
-    price: "3.00"
+- name: Proton Mail Plus
+  url: https://proton.me/mail/pricing
+  price: '4.99'
+- name: Proton Unlimited
+  url: https://proton.me/mail/pricing
+  price: '9.99'
+- name: Tutanota Premium (alternative)
+  url: https://tuta.com/pricing
+  price: '3.00'
+schema_type: Review
 ---
 
 I switched my primary email from Gmail to ProtonMail in May 2025. Twelve months later, I've sent over 8,000 emails through it, integrated it into my password manager, my phone, my work laptop, and my homelab. This is my honest review — what works, what doesn't, and whether the privacy story actually holds up.

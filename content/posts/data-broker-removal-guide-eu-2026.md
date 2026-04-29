@@ -1,36 +1,49 @@
 ---
-title: "Data Broker Removal Guide for EU Residents 2026"
-date: 2026-05-24T10:00:00+01:00
-lastmod: 2026-05-24T10:00:00+01:00
-description: "How EU residents can remove personal data from data brokers using GDPR rights in 2026. Step-by-step opt-out guide plus Incogni for automated removal."
-categories: ["data-broker-removal"]
-tags: ["data broker removal", "GDPR", "right to erasure", "data privacy EU", "Incogni", "personal data"]
-keywords: ["data broker removal EU 2026", "GDPR right to erasure", "remove personal data brokers", "opt out data brokers UK", "Incogni review"]
+title: Data Broker Removal Guide for EU Residents 2026
+date: 2026-05-24 10:00:00+01:00
+lastmod: 2026-05-24 10:00:00+01:00
+description: How EU residents can remove personal data from data brokers using GDPR rights in 2026. Step-by-step opt-out guide plus Incogni for automated removal.
+categories:
+- data-broker-removal
+tags:
+- data broker removal
+- GDPR
+- right to erasure
+- data privacy EU
+- Incogni
+- personal data
+keywords:
+- data broker removal EU 2026
+- GDPR right to erasure
+- remove personal data brokers
+- opt out data brokers UK
+- Incogni review
 affiliate: true
-author: "James Mitchell"
-author_bio: "Cybersecurity researcher and writer. Tests privacy tools and security software hands-on."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1563013544-824ae1b704d3&w=1200&output=webp&q=70"
+author: James Mitchell
+author_bio: Cybersecurity researcher and writer. Tests privacy tools and security software hands-on.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1563013544-824ae1b704d3&w=1200&output=webp&q=70
 faq:
-  - q: "What is a data broker and how did they get my information?"
-    a: "Data brokers are companies that collect, aggregate, and sell personal information. They gather data from public records (electoral roll, property registrations, court records), social media, loyalty card programmes, survey responses, app permissions, and purchases from other data brokers. They did not ask your permission — in the EU, processing personal data requires a legal basis, and many brokers incorrectly claim legitimate interest. GDPR gives you the right to challenge this."
-  - q: "What GDPR rights can I use to remove my data from brokers?"
-    a: "The primary right is Article 17 — the Right to Erasure (also called the Right to Be Forgotten). You can also use Article 21 — the Right to Object to Processing — particularly effective against brokers claiming legitimate interest. Additionally, Article 15 (Right of Access) lets you first confirm what data they hold. Under UK GDPR (post-Brexit UK equivalent), the same rights apply."
-  - q: "How long do data brokers have to respond under GDPR?"
-    a: "Data brokers must respond within one month of receiving a valid GDPR request. They can extend this by two additional months if the request is complex or numerous, but they must notify you of the extension within the first month. Failure to respond within the timeframe is itself a GDPR violation that you can report to your national supervisory authority."
-  - q: "Is Incogni worth it for EU residents?"
-    a: "Yes. Incogni handles automated GDPR removal requests to hundreds of data brokers on your behalf and monitors for re-listing. It saves considerable time — submitting manual requests to even 50 brokers takes 10-20 hours, and they re-list within months. Incogni costs approximately £6/month and handles ongoing suppression. For most people, the time saving alone makes it worthwhile."
-  - q: "Can data brokers refuse to delete my data?"
-    a: "They can only refuse if they have a legitimate legal basis that overrides your rights — for example, compliance with a legal obligation, or if the data is necessary for the exercise of legal claims. 'Legitimate interest' as a basis is difficult to sustain for commercial data brokering activities under GDPR interpretation. If a broker refuses without compelling justification, you can escalate to your national data protection authority."
-  - q: "Will removing my data from brokers affect my credit score?"
-    a: "No. Credit reference agencies (Experian, Equifax, TransUnion) are separate from commercial data brokers and operate under specific financial regulations. Your credit file is not affected by removing yourself from data broker databases."
-  - q: "How quickly will I notice results after requesting removal?"
-    a: "Legally within one month, but practically often sooner — many brokers delete records within 1-2 weeks of a valid request. You will notice fewer spam calls, emails, and targeted ads over the following weeks. Incogni users typically see significant reduction in marketing calls within 6-8 weeks of starting their subscription."
-  - q: "Do I need to repeat the removal process?"
-    a: "Yes. Data brokers regularly re-acquire your information from new sources and re-list you. Without ongoing suppression, you will typically be re-listed within 3-6 months. This is why automated services like Incogni are valuable — they monitor and re-submit removal requests continuously."
+- q: What is a data broker and how did they get my information?
+  a: Data brokers are companies that collect, aggregate, and sell personal information. They gather data from public records (electoral roll, property registrations, court records), social media, loyalty card programmes, survey responses, app permissions, and purchases from other data brokers. They did not ask your permission — in the EU, processing personal data requires a legal basis, and many brokers incorrectly claim legitimate interest. GDPR gives you the right to challenge this.
+- q: What GDPR rights can I use to remove my data from brokers?
+  a: The primary right is Article 17 — the Right to Erasure (also called the Right to Be Forgotten). You can also use Article 21 — the Right to Object to Processing — particularly effective against brokers claiming legitimate interest. Additionally, Article 15 (Right of Access) lets you first confirm what data they hold. Under UK GDPR (post-Brexit UK equivalent), the same rights apply.
+- q: How long do data brokers have to respond under GDPR?
+  a: Data brokers must respond within one month of receiving a valid GDPR request. They can extend this by two additional months if the request is complex or numerous, but they must notify you of the extension within the first month. Failure to respond within the timeframe is itself a GDPR violation that you can report to your national supervisory authority.
+- q: Is Incogni worth it for EU residents?
+  a: Yes. Incogni handles automated GDPR removal requests to hundreds of data brokers on your behalf and monitors for re-listing. It saves considerable time — submitting manual requests to even 50 brokers takes 10-20 hours, and they re-list within months. Incogni costs approximately £6/month and handles ongoing suppression. For most people, the time saving alone makes it worthwhile.
+- q: Can data brokers refuse to delete my data?
+  a: They can only refuse if they have a legitimate legal basis that overrides your rights — for example, compliance with a legal obligation, or if the data is necessary for the exercise of legal claims. 'Legitimate interest' as a basis is difficult to sustain for commercial data brokering activities under GDPR interpretation. If a broker refuses without compelling justification, you can escalate to your national data protection authority.
+- q: Will removing my data from brokers affect my credit score?
+  a: No. Credit reference agencies (Experian, Equifax, TransUnion) are separate from commercial data brokers and operate under specific financial regulations. Your credit file is not affected by removing yourself from data broker databases.
+- q: How quickly will I notice results after requesting removal?
+  a: Legally within one month, but practically often sooner — many brokers delete records within 1-2 weeks of a valid request. You will notice fewer spam calls, emails, and targeted ads over the following weeks. Incogni users typically see significant reduction in marketing calls within 6-8 weeks of starting their subscription.
+- q: Do I need to repeat the removal process?
+  a: Yes. Data brokers regularly re-acquire your information from new sources and re-list you. Without ongoing suppression, you will typically be re-listed within 3-6 months. This is why automated services like Incogni are valuable — they monitor and re-submit removal requests continuously.
 products:
-  - name: "Incogni"
-    url: "https://go.digitalshieldpro.com/incogni"
-    price: ""
+- name: Incogni
+  url: https://go.digitalshieldpro.com/incogni
+  price: ''
+schema_type: Article
 ---
 
 I ran a data broker audit on myself in January 2026. I searched for my name across 40 major data broker sites. I found my full name, home address (including floor), approximate age, family members' names, employer history, and in three cases, an estimated income range. None of this was information I had consciously shared with these companies.

@@ -1,36 +1,48 @@
 ---
-title: "Online Shopping Security in 2026: How to Spot Fake Stores"
-date: 2026-05-16T09:00:00+01:00
-lastmod: 2026-05-16T09:00:00+01:00
-description: "Fake stores, card-skimming malware, and return scams cost consumers $8.8 billion in 2025."
-categories: ["security"]
-tags: ["online shopping security", "fake stores", "card skimming", "phishing", "e-commerce fraud"]
-keywords: ["online shopping security 2026", "how to spot fake online stores", "card skimming protection", "safe online shopping tips", "e-commerce fraud protection"]
+title: 'Online Shopping Security in 2026: How to Spot Fake Stores'
+date: 2026-05-16 09:00:00+01:00
+lastmod: 2026-05-16 09:00:00+01:00
+description: Fake stores, card-skimming malware, and return scams cost consumers $8.8 billion in 2025.
+categories:
+- security
+tags:
+- online shopping security
+- fake stores
+- card skimming
+- phishing
+- e-commerce fraud
+keywords:
+- online shopping security 2026
+- how to spot fake online stores
+- card skimming protection
+- safe online shopping tips
+- e-commerce fraud protection
 affiliate: true
-author: "James Mitchell"
-author_bio: "Cybersecurity analyst with 8 years of hands-on experience testing VPNs, antivirus software, and privacy tools."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1563013544-824ae1b704d3&w=1200&output=webp&q=70"
+author: James Mitchell
+author_bio: Cybersecurity analyst with 8 years of hands-on experience testing VPNs, antivirus software, and privacy tools.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1563013544-824ae1b704d3&w=1200&output=webp&q=70
 faq:
-  - q: "How can I tell if an online store is fake?"
-    a: "Look for four specific red flags: a domain registered within the last 90 days (check via who.is), prices more than 40% below retail for brand-name products, no physical address or a fake one on Google Maps, and customer reviews that are suspiciously uniform in tone and date. Legitimate stores also have reachable customer service — try calling the number before ordering. Fake stores either have no phone number or it rings out."
-  - q: "What is card skimming on legitimate websites?"
-    a: "Card skimming (also called Magecart attacks) involves attackers injecting malicious JavaScript into legitimate e-commerce websites. When you enter your payment card details, the skimming script silently copies them and sends them to an attacker's server — all while the real store processes your payment normally. You receive your order, but attackers have your card number. These attacks affected over 4,200 websites in 2025. Paying via PayPal or Apple Pay prevents this attack entirely."
-  - q: "What are the most common return scams in 2026?"
-    a: "There are two primary patterns. Seller return scams involve a fake listing where the 'seller' requests a return of a different, cheaper item and keeps your refund. Buyer return fraud involves consumers ordering expensive items, returning empty boxes or knockoffs, and keeping the real product. If you are shopping on marketplaces like Amazon, check the seller's feedback recency — scam sellers often have positive feedback from years ago and recent negative feedback about returns."
-  - q: "Is it safe to save my credit card details on shopping websites?"
-    a: "It adds risk without equivalent convenience. When you save card details, they are stored in that retailer's systems — and retailers get breached regularly. In 2025, six major retailer breaches exposed over 42 million stored payment records. Use a password manager like 1Password to autofill card details without storing them in retailer accounts, or use virtual card numbers from your bank or a service like Privacy.com."
-  - q: "Which payment method is safest for online shopping?"
-    a: "In order of safety: Apple Pay/Google Pay (tokenised payment, merchant never sees real card number) → PayPal (additional fraud protection layer, card number not shared with merchant) → credit card (better fraud protection than debit, disputes are easier) → debit card (limited dispute rights in some countries) → bank transfer (almost no fraud protection, avoid for unknown sellers). Never pay via bank transfer, cryptocurrency, or gift cards to unknown sellers."
-  - q: "Can antivirus software protect me from shopping scams?"
-    a: "Yes, in meaningful ways. Antivirus web protection blocks known scam and phishing URLs before you enter your payment details. Real-time transaction monitoring (available in some security suites) flags suspicious card activity. Browser protection identifies when a shopping site has been compromised by Magecart skimming scripts. Bitdefender's web protection blocked 94% of known shopping scam URLs in our testing, making it a useful layer of defence alongside your own vigilance."
-  - q: "What should I do if I think I have been scammed on a fake shopping site?"
-    a: "Act within the first 24 hours for the best outcome. Call your bank or card issuer immediately to dispute the charge and request a new card number. File a report with your national fraud reporting agency (FTC in the US, Action Fraud in the UK, ACCC in Australia). Report the fake store to Google Safe Browsing via their report page — this gets it flagged for other users quickly. Check your email for any other accounts using the same password as the one you created on the fake site and change those passwords."
-  - q: "Are luxury goods sold at steep discounts on unfamiliar websites ever legitimate?"
-    a: "Rarely. When a site offers a $400 pair of Nike trainers for $89 or a $1,200 designer handbag for $180, the most likely explanations are: the products are counterfeits, the store is a scam and will ship nothing, or the products are stolen (rare). Occasionally, legitimate liquidation sales and clearance events offer genuine discounts of 30-40%, but 60-80% off on branded luxury goods from an unfamiliar site is almost always a fraud signal. Stick to the brand's official website or authorised retailers."
+- q: How can I tell if an online store is fake?
+  a: 'Look for four specific red flags: a domain registered within the last 90 days (check via who.is), prices more than 40% below retail for brand-name products, no physical address or a fake one on Google Maps, and customer reviews that are suspiciously uniform in tone and date. Legitimate stores also have reachable customer service — try calling the number before ordering. Fake stores either have no phone number or it rings out.'
+- q: What is card skimming on legitimate websites?
+  a: Card skimming (also called Magecart attacks) involves attackers injecting malicious JavaScript into legitimate e-commerce websites. When you enter your payment card details, the skimming script silently copies them and sends them to an attacker's server — all while the real store processes your payment normally. You receive your order, but attackers have your card number. These attacks affected over 4,200 websites in 2025. Paying via PayPal or Apple Pay prevents this attack entirely.
+- q: What are the most common return scams in 2026?
+  a: There are two primary patterns. Seller return scams involve a fake listing where the 'seller' requests a return of a different, cheaper item and keeps your refund. Buyer return fraud involves consumers ordering expensive items, returning empty boxes or knockoffs, and keeping the real product. If you are shopping on marketplaces like Amazon, check the seller's feedback recency — scam sellers often have positive feedback from years ago and recent negative feedback about returns.
+- q: Is it safe to save my credit card details on shopping websites?
+  a: It adds risk without equivalent convenience. When you save card details, they are stored in that retailer's systems — and retailers get breached regularly. In 2025, six major retailer breaches exposed over 42 million stored payment records. Use a password manager like 1Password to autofill card details without storing them in retailer accounts, or use virtual card numbers from your bank or a service like Privacy.com.
+- q: Which payment method is safest for online shopping?
+  a: 'In order of safety: Apple Pay/Google Pay (tokenised payment, merchant never sees real card number) → PayPal (additional fraud protection layer, card number not shared with merchant) → credit card (better fraud protection than debit, disputes are easier) → debit card (limited dispute rights in some countries) → bank transfer (almost no fraud protection, avoid for unknown sellers). Never pay via bank transfer, cryptocurrency, or gift cards to unknown sellers.'
+- q: Can antivirus software protect me from shopping scams?
+  a: Yes, in meaningful ways. Antivirus web protection blocks known scam and phishing URLs before you enter your payment details. Real-time transaction monitoring (available in some security suites) flags suspicious card activity. Browser protection identifies when a shopping site has been compromised by Magecart skimming scripts. Bitdefender's web protection blocked 94% of known shopping scam URLs in our testing, making it a useful layer of defence alongside your own vigilance.
+- q: What should I do if I think I have been scammed on a fake shopping site?
+  a: Act within the first 24 hours for the best outcome. Call your bank or card issuer immediately to dispute the charge and request a new card number. File a report with your national fraud reporting agency (FTC in the US, Action Fraud in the UK, ACCC in Australia). Report the fake store to Google Safe Browsing via their report page — this gets it flagged for other users quickly. Check your email for any other accounts using the same password as the one you created on the fake site and change those passwords.
+- q: Are luxury goods sold at steep discounts on unfamiliar websites ever legitimate?
+  a: 'Rarely. When a site offers a $400 pair of Nike trainers for $89 or a $1,200 designer handbag for $180, the most likely explanations are: the products are counterfeits, the store is a scam and will ship nothing, or the products are stolen (rare). Occasionally, legitimate liquidation sales and clearance events offer genuine discounts of 30-40%, but 60-80% off on branded luxury goods from an unfamiliar site is almost always a fraud signal. Stick to the brand''s official website or authorised retailers.'
 products:
-  - name: "Bitdefender"
-    url: "https://go.digitalshieldpro.com/bitdefender"
-    price: ""
+- name: Bitdefender
+  url: https://go.digitalshieldpro.com/bitdefender
+  price: ''
+schema_type: Article
 ---
 
 Last November I bought a pair of running shoes from a site that looked identical to the brand's official store. Same logo, same product photos, same colour scheme. The domain was six characters off from the real one. I noticed the discrepancy three days after placing the order, when my card was charged twice — once for the shoes, once for a $340 "subscription" I had never signed up for.

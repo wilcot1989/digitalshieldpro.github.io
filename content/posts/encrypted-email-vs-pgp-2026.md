@@ -1,37 +1,50 @@
 ---
-title: "Encrypted Email vs PGP in 2026: Which One Actually Protects"
-date: 2026-05-09T09:00:00-05:00
-lastmod: 2026-05-09T09:00:00-05:00
-description: "End-to-end encrypted email (ProtonMail, Tutanota) vs PGP on top of Gmail — I tested both models across real threat scenarios to find out which actually."
-categories: ["encrypted-email"]
-tags: ["encrypted email", "pgp", "protonmail", "tutanota", "end-to-end encryption", "email security"]
-keywords: ["encrypted email vs pgp 2026", "protonmail vs pgp", "end-to-end email encryption", "pgp email security", "best email encryption method"]
+title: 'Encrypted Email vs PGP in 2026: Which One Actually Protects'
+date: 2026-05-09 09:00:00-05:00
+lastmod: 2026-05-09 09:00:00-05:00
+description: End-to-end encrypted email (ProtonMail, Tutanota) vs PGP on top of Gmail — I tested both models across real threat scenarios to find out which actually.
+categories:
+- encrypted-email
+tags:
+- encrypted email
+- pgp
+- protonmail
+- tutanota
+- end-to-end encryption
+- email security
+keywords:
+- encrypted email vs pgp 2026
+- protonmail vs pgp
+- end-to-end email encryption
+- pgp email security
+- best email encryption method
 affiliate: true
-author: "James Mitchell"
-author_bio: "Cybersecurity researcher and writer. Tests privacy tools and security software hands-on."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1556761175-5973dc0f32e7&w=1200&output=webp&q=70"
+author: James Mitchell
+author_bio: Cybersecurity researcher and writer. Tests privacy tools and security software hands-on.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1556761175-5973dc0f32e7&w=1200&output=webp&q=70
 faq:
-  - q: "Is ProtonMail more secure than PGP on Gmail?"
-    a: "For most users, yes. ProtonMail's end-to-end encryption is automatic and transparent — no key management required. PGP on Gmail requires both parties to manage keys correctly, and Gmail itself still stores metadata and unencrypted headers even when message bodies are PGP-encrypted. ProtonMail encrypts message bodies and attachments automatically between ProtonMail users, with no configuration needed."
-  - q: "Does ProtonMail use PGP?"
-    a: "Yes. ProtonMail is built on OpenPGP standards under the hood, but abstracts away key management for users. ProtonMail users exchange public keys automatically. You can also manually import external PGP keys to encrypt messages to non-ProtonMail recipients."
-  - q: "Can I use PGP with Gmail?"
-    a: "Yes, using browser extensions like Mailvelope or FlowCrypt, or desktop clients like Thunderbird with the built-in OpenPGP implementation. However, you and your recipients both need PGP set up, and Gmail still sees your metadata, subject lines, and unencrypted headers."
-  - q: "What is the main disadvantage of PGP encryption?"
-    a: "Key management complexity and lack of forward secrecy. If your private key is ever compromised, all past messages encrypted with your public key can potentially be decrypted. PGP also does not encrypt metadata — subject lines, sender, recipient, and timing are visible. And getting contacts to also use PGP correctly is extremely difficult in practice."
-  - q: "Which is better for journalists or high-risk users?"
-    a: "Journalists and high-risk users typically need both: a dedicated encrypted email provider (ProtonMail, Tutanota) for operational security baseline, plus PGP knowledge for communicating with sources who cannot or will not switch providers. SecureDrop, used by major news organizations, combines Tor with onion services rather than relying solely on email encryption."
-  - q: "Does encrypted email protect my metadata?"
-    a: "Partially. ProtonMail encrypts the message body and attachments but not all metadata — your IP address, recipient, and timestamp are logged (and subject to Swiss court orders). Tutanota encrypts subject lines as well, which ProtonMail does not. Neither provider encrypts who you are emailing or when, because this information is needed to route messages."
-  - q: "Can the recipient read an encrypted email without special software?"
-    a: "With ProtonMail and Tutanota, yes — recipients without accounts can receive encrypted emails via a one-time password mechanism. The sender sets a password, and the recipient opens a web link and enters it. With PGP, the recipient must have PGP software installed and must have shared their public key in advance."
+- q: Is ProtonMail more secure than PGP on Gmail?
+  a: For most users, yes. ProtonMail's end-to-end encryption is automatic and transparent — no key management required. PGP on Gmail requires both parties to manage keys correctly, and Gmail itself still stores metadata and unencrypted headers even when message bodies are PGP-encrypted. ProtonMail encrypts message bodies and attachments automatically between ProtonMail users, with no configuration needed.
+- q: Does ProtonMail use PGP?
+  a: Yes. ProtonMail is built on OpenPGP standards under the hood, but abstracts away key management for users. ProtonMail users exchange public keys automatically. You can also manually import external PGP keys to encrypt messages to non-ProtonMail recipients.
+- q: Can I use PGP with Gmail?
+  a: Yes, using browser extensions like Mailvelope or FlowCrypt, or desktop clients like Thunderbird with the built-in OpenPGP implementation. However, you and your recipients both need PGP set up, and Gmail still sees your metadata, subject lines, and unencrypted headers.
+- q: What is the main disadvantage of PGP encryption?
+  a: Key management complexity and lack of forward secrecy. If your private key is ever compromised, all past messages encrypted with your public key can potentially be decrypted. PGP also does not encrypt metadata — subject lines, sender, recipient, and timing are visible. And getting contacts to also use PGP correctly is extremely difficult in practice.
+- q: Which is better for journalists or high-risk users?
+  a: 'Journalists and high-risk users typically need both: a dedicated encrypted email provider (ProtonMail, Tutanota) for operational security baseline, plus PGP knowledge for communicating with sources who cannot or will not switch providers. SecureDrop, used by major news organizations, combines Tor with onion services rather than relying solely on email encryption.'
+- q: Does encrypted email protect my metadata?
+  a: Partially. ProtonMail encrypts the message body and attachments but not all metadata — your IP address, recipient, and timestamp are logged (and subject to Swiss court orders). Tutanota encrypts subject lines as well, which ProtonMail does not. Neither provider encrypts who you are emailing or when, because this information is needed to route messages.
+- q: Can the recipient read an encrypted email without special software?
+  a: With ProtonMail and Tutanota, yes — recipients without accounts can receive encrypted emails via a one-time password mechanism. The sender sets a password, and the recipient opens a web link and enters it. With PGP, the recipient must have PGP software installed and must have shared their public key in advance.
 products:
-  - name: "ProtonMail"
-    url: "/go/protonmail"
-    price: "Free / from $3.99/month"
-  - name: "Tutanota"
-    url: "/go/tutanota"
-    price: "Free / from €3/month"
+- name: ProtonMail
+  url: /go/protonmail
+  price: Free / from $3.99/month
+- name: Tutanota
+  url: /go/tutanota
+  price: Free / from €3/month
+schema_type: Article
 ---
 
 When people ask me how to secure their email, they usually expect a simple answer. Use ProtonMail. Use PGP. Done.

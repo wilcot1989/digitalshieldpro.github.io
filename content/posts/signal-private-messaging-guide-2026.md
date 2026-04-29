@@ -1,38 +1,51 @@
 ---
-title: "How to Use Signal Properly in 2026"
-date: 2026-05-12T10:00:00+01:00
-lastmod: 2026-05-12T10:00:00+01:00
-description: "The complete Signal private messaging guide for 2026. Disappearing messages, Signal usernames, group privacy settings, and advanced features tested hands-on."
-categories: ["messaging"]
-tags: ["Signal", "private messaging", "encrypted messaging", "Signal usernames", "disappearing messages", "secure chat"]
-keywords: ["Signal guide 2026", "how to use Signal", "Signal disappearing messages", "Signal usernames privacy", "Signal group privacy", "secure messaging app"]
+title: How to Use Signal Properly in 2026
+date: 2026-05-12 10:00:00+01:00
+lastmod: 2026-05-12 10:00:00+01:00
+description: The complete Signal private messaging guide for 2026. Disappearing messages, Signal usernames, group privacy settings, and advanced features tested hands-on.
+categories:
+- messaging
+tags:
+- Signal
+- private messaging
+- encrypted messaging
+- Signal usernames
+- disappearing messages
+- secure chat
+keywords:
+- Signal guide 2026
+- how to use Signal
+- Signal disappearing messages
+- Signal usernames privacy
+- Signal group privacy
+- secure messaging app
 affiliate: true
-author: "James Mitchell"
-author_bio: "Cybersecurity researcher and writer. Tests privacy tools and security software hands-on."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1555421689-491a97ff2040&w=1200&output=webp&q=70"
+author: James Mitchell
+author_bio: Cybersecurity researcher and writer. Tests privacy tools and security software hands-on.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1555421689-491a97ff2040&w=1200&output=webp&q=70
 faq:
-  - q: "Is Signal really private — can the company see my messages?"
-    a: "No. Signal uses end-to-end encryption (the Signal Protocol) for all messages and calls. Not even Signal's own servers can decrypt your messages. Signal stores minimal metadata — it cannot see who you talk to, what you say, or when you communicated. A 2022 subpoena to Signal by US law enforcement resulted in Signal providing only two data points: the date your account was created and the date you last connected."
-  - q: "What are Signal usernames and why do they matter?"
-    a: "Signal usernames (introduced in 2024) allow you to share a username instead of your phone number with contacts. This is significant because your phone number is typically tied to your real identity through your carrier. With a username, you can use Signal without revealing your number — protecting your identity from new contacts."
-  - q: "How long should I set disappearing messages?"
-    a: "It depends on your use case. For sensitive communications (health, legal, financial), 24 hours or 1 week is appropriate. For general private conversations, 1-4 weeks balances privacy with the convenience of having message history. Note that disappearing messages only delete from your and the recipient's Signal app — screenshots and screen recordings are still possible."
-  - q: "Is Signal safe for group chats?"
-    a: "Yes. Signal group messages are fully end-to-end encrypted — Signal's servers cannot read them. Groups also have administrative features including the ability to require admin approval for new members, preventing someone from adding unknown contacts to sensitive group chats. Group metadata (member list) is encrypted on-device, not held by Signal's servers."
-  - q: "Can I use Signal without giving my phone number to contacts?"
-    a: "Yes, since the username feature launched. Set a username in Signal Settings > Account > Username. You can share your username (username.XX format) instead of your phone number. You can also hide your phone number from contacts who have not already connected with you via number."
-  - q: "What is Signal's Note to Self feature useful for?"
-    a: "Note to Self is effectively a private encrypted notepad synchronized across your Signal devices. I use it for storing sensitive information temporarily — 2FA backup codes before moving them to a password manager, temporary passwords, sensitive documents I need to access from multiple devices. Because it is end-to-end encrypted and stays within Signal's infrastructure, it is more private than cloud note-taking apps."
-  - q: "Does Signal support two-factor authentication?"
-    a: "Signal has a Registration Lock (PIN-based 2FA) that prevents someone from re-registering your phone number as a Signal account without your PIN. Enable it at Settings > Account > Registration Lock. This prevents SIM-swapping attacks where an attacker takes over your phone number and tries to register your Signal account."
-products: []
+- q: Is Signal really private — can the company see my messages?
+  a: 'No. Signal uses end-to-end encryption (the Signal Protocol) for all messages and calls. Not even Signal''s own servers can decrypt your messages. Signal stores minimal metadata — it cannot see who you talk to, what you say, or when you communicated. A 2022 subpoena to Signal by US law enforcement resulted in Signal providing only two data points: the date your account was created and the date you last connected.'
+- q: What are Signal usernames and why do they matter?
+  a: Signal usernames (introduced in 2024) allow you to share a username instead of your phone number with contacts. This is significant because your phone number is typically tied to your real identity through your carrier. With a username, you can use Signal without revealing your number — protecting your identity from new contacts.
+- q: How long should I set disappearing messages?
+  a: It depends on your use case. For sensitive communications (health, legal, financial), 24 hours or 1 week is appropriate. For general private conversations, 1-4 weeks balances privacy with the convenience of having message history. Note that disappearing messages only delete from your and the recipient's Signal app — screenshots and screen recordings are still possible.
+- q: Is Signal safe for group chats?
+  a: Yes. Signal group messages are fully end-to-end encrypted — Signal's servers cannot read them. Groups also have administrative features including the ability to require admin approval for new members, preventing someone from adding unknown contacts to sensitive group chats. Group metadata (member list) is encrypted on-device, not held by Signal's servers.
+- q: Can I use Signal without giving my phone number to contacts?
+  a: Yes, since the username feature launched. Set a username in Signal Settings > Account > Username. You can share your username (username.XX format) instead of your phone number. You can also hide your phone number from contacts who have not already connected with you via number.
+- q: What is Signal's Note to Self feature useful for?
+  a: Note to Self is effectively a private encrypted notepad synchronized across your Signal devices. I use it for storing sensitive information temporarily — 2FA backup codes before moving them to a password manager, temporary passwords, sensitive documents I need to access from multiple devices. Because it is end-to-end encrypted and stays within Signal's infrastructure, it is more private than cloud note-taking apps.
+- q: Does Signal support two-factor authentication?
+  a: Signal has a Registration Lock (PIN-based 2FA) that prevents someone from re-registering your phone number as a Signal account without your PIN. Enable it at Settings > Account > Registration Lock. This prevents SIM-swapping attacks where an attacker takes over your phone number and tries to register your Signal account.
 products:
-  - name: "ProtonMail Plus"
-    url: "https://go.digitalshieldpro.com/protonmail"
-    price: "3.99"
-  - name: "Tutanota Revolutionary"
-    url: "https://go.digitalshieldpro.com/tutanota"
-    price: "3.00"
+- name: ProtonMail Plus
+  url: https://go.digitalshieldpro.com/protonmail
+  price: '3.99'
+- name: Tutanota Revolutionary
+  url: https://go.digitalshieldpro.com/tutanota
+  price: '3.00'
+schema_type: Article
 ---
 
 I switched from WhatsApp to Signal in January 2021 following WhatsApp's privacy policy update that made data sharing with Meta more explicit. I have been using Signal as my primary messaging app since then, testing every new feature as it ships and occasionally running it alongside Wireshark to verify the metadata claims. This guide reflects three years of daily use and hands-on testing.

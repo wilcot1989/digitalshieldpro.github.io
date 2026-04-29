@@ -1,31 +1,43 @@
 ---
-title: "Data Broker Laws By State 2026: What CCPA, Texas"
-date: 2026-08-06T09:00:00-05:00
-lastmod: 2026-08-06T09:00:00-05:00
-description: "Your data broker opt-out rights depend entirely on where you live. I map out what California CCPA, Texas TDPSA, Vermont, Virginia."
-categories: ["data-broker-removal"]
-tags: ["data broker laws", "CCPA", "state privacy laws", "data broker rights", "privacy law 2026"]
-keywords: ["data broker laws by state 2026", "CCPA data broker rights", "state privacy law opt-out", "Texas data broker law", "Vermont data broker registry"]
+title: 'Data Broker Laws By State 2026: What CCPA, Texas'
+date: 2026-08-06 09:00:00-05:00
+lastmod: 2026-08-06 09:00:00-05:00
+description: Your data broker opt-out rights depend entirely on where you live. I map out what California CCPA, Texas TDPSA, Vermont, Virginia.
+categories:
+- data-broker-removal
+tags:
+- data broker laws
+- CCPA
+- state privacy laws
+- data broker rights
+- privacy law 2026
+keywords:
+- data broker laws by state 2026
+- CCPA data broker rights
+- state privacy law opt-out
+- Texas data broker law
+- Vermont data broker registry
 affiliate: true
-author: "James Mitchell"
-author_bio: "Cybersecurity researcher and writer. Tests privacy tools and security software hands-on."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1563013544-824ae1b704d3&w=1200&output=webp&q=70"
+author: James Mitchell
+author_bio: Cybersecurity researcher and writer. Tests privacy tools and security software hands-on.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1563013544-824ae1b704d3&w=1200&output=webp&q=70
 faq:
-  - q: "Which state has the strongest data broker privacy law?"
-    a: "California's CCPA (California Consumer Privacy Act) and its amendment CPRA (California Privacy Rights Act) remain the strongest comprehensive consumer privacy laws in the US. They give California residents the right to know what data is collected, the right to delete it, the right to opt out of sale, and the right to non-discrimination for exercising these rights. Vermont's data broker registry law is uniquely specific to the data broker industry but gives consumers fewer direct rights."
-  - q: "Do I have data deletion rights if I live in Texas?"
-    a: "Yes. Texas's Texas Data Privacy and Security Act (TDPSA), effective July 2024, gives Texas residents the right to access their personal data, request correction, request deletion, and opt out of the sale of their data. The law applies to businesses that process personal data of Texas residents above certain thresholds. Data brokers operating in Texas must comply with deletion requests from Texas residents."
-  - q: "Does the state where the data broker is located matter, or the state where I live?"
-    a: "What matters is where you (the consumer) are located. State privacy laws are structured around giving rights to state residents, regardless of where the data broker is incorporated. A data broker based in Delaware must comply with California privacy law when processing data of California residents."
-  - q: "What is Vermont's data broker registry and does it help consumers?"
-    a: "Vermont's H.764 (passed 2018) requires data brokers that do business in Vermont to register annually with the Vermont Secretary of State and pay a $100 fee. The registry is publicly searchable and lists which companies are operating as data brokers. However, the law gives Vermont consumers limited direct opt-out rights compared to California CCPA. Its main value is transparency — you can see which companies are operating as data brokers."
-  - q: "If I live in a state without privacy law, do I have any data broker rights?"
-    a: "Yes, some. Federal laws still apply: FCRA (Fair Credit Reporting Act) governs data brokers that produce consumer reports used for employment, credit, or housing decisions. HIPAA protects health information. COPPA protects children's data. The FTC has enforcement authority over unfair or deceptive trade practices. But for general personal data held by data brokers, residents of states without comprehensive privacy laws have few enforceable deletion rights."
-  - q: "Can I use California CCPA rights if I do not live in California?"
-    a: "No. CCPA rights apply only to California residents. However, because complying with CCPA is complex, many data brokers have made their deletion request processes available to all users rather than verifying residency — meaning you may be able to submit a CCPA-style deletion request even without California residency, and many brokers will process it anyway."
-  - q: "Which states have passed data broker-specific registration laws?"
-    a: "As of 2026, states with data broker-specific registration requirements include Vermont (2018), California (data broker registry under CPRA, effective 2024), and Texas. Oregon, Montana, and several other states have passed comprehensive privacy laws with data broker provisions. The legislative landscape is evolving rapidly."
+- q: Which state has the strongest data broker privacy law?
+  a: California's CCPA (California Consumer Privacy Act) and its amendment CPRA (California Privacy Rights Act) remain the strongest comprehensive consumer privacy laws in the US. They give California residents the right to know what data is collected, the right to delete it, the right to opt out of sale, and the right to non-discrimination for exercising these rights. Vermont's data broker registry law is uniquely specific to the data broker industry but gives consumers fewer direct rights.
+- q: Do I have data deletion rights if I live in Texas?
+  a: Yes. Texas's Texas Data Privacy and Security Act (TDPSA), effective July 2024, gives Texas residents the right to access their personal data, request correction, request deletion, and opt out of the sale of their data. The law applies to businesses that process personal data of Texas residents above certain thresholds. Data brokers operating in Texas must comply with deletion requests from Texas residents.
+- q: Does the state where the data broker is located matter, or the state where I live?
+  a: What matters is where you (the consumer) are located. State privacy laws are structured around giving rights to state residents, regardless of where the data broker is incorporated. A data broker based in Delaware must comply with California privacy law when processing data of California residents.
+- q: What is Vermont's data broker registry and does it help consumers?
+  a: Vermont's H.764 (passed 2018) requires data brokers that do business in Vermont to register annually with the Vermont Secretary of State and pay a $100 fee. The registry is publicly searchable and lists which companies are operating as data brokers. However, the law gives Vermont consumers limited direct opt-out rights compared to California CCPA. Its main value is transparency — you can see which companies are operating as data brokers.
+- q: If I live in a state without privacy law, do I have any data broker rights?
+  a: 'Yes, some. Federal laws still apply: FCRA (Fair Credit Reporting Act) governs data brokers that produce consumer reports used for employment, credit, or housing decisions. HIPAA protects health information. COPPA protects children''s data. The FTC has enforcement authority over unfair or deceptive trade practices. But for general personal data held by data brokers, residents of states without comprehensive privacy laws have few enforceable deletion rights.'
+- q: Can I use California CCPA rights if I do not live in California?
+  a: No. CCPA rights apply only to California residents. However, because complying with CCPA is complex, many data brokers have made their deletion request processes available to all users rather than verifying residency — meaning you may be able to submit a CCPA-style deletion request even without California residency, and many brokers will process it anyway.
+- q: Which states have passed data broker-specific registration laws?
+  a: As of 2026, states with data broker-specific registration requirements include Vermont (2018), California (data broker registry under CPRA, effective 2024), and Texas. Oregon, Montana, and several other states have passed comprehensive privacy laws with data broker provisions. The legislative landscape is evolving rapidly.
 products: []
+schema_type: Article
 ---
 
 I have spent more time than I am comfortable admitting reading state privacy legislation. The punchwork of laws across US states is genuinely complex — and the rights you have to demand data broker deletion depend entirely on where you live. This guide maps out what each state's law actually lets you do, with practical steps for exercising your rights in each jurisdiction.
@@ -403,3 +415,11 @@ The state privacy law landscape is changing quickly. Watch for:
 The underlying message for consumers: your rights today depend on where you live, and those rights are expanding year by year. Taking action to exercise those rights — either directly or through an authorized agent — is more valuable than waiting for perfect federal legislation.
 
 [**Start protecting your privacy with Incogni**](https://go.digitalshieldpro.com/incogni)
+
+## Related guides
+
+- [Incogni vs DeleteMe EU 2026: Best Data Broker Removal for](/posts/best-data-broker-removal-incogni-vs-deleteme-eu/)
+- [Data Broker Removal Cost Comparison 2026](/posts/data-broker-removal-cost-comparison-2026/)
+- [Data Broker Removal Family Plans 2026](/posts/data-broker-removal-family-plan-2026/)
+- [Data Broker Removal Guide for EU Residents 2026](/posts/data-broker-removal-guide-eu-2026/)
+- [How Data Brokers Collect Your Data: The Complete 2026 Guide](/posts/how-data-brokers-collect-your-data-2026/)

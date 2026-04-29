@@ -1,32 +1,43 @@
 ---
-title: "How to Secure Your Social Media Accounts in 2026"
-date: 2026-06-04T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Step-by-step guide to securing your social media accounts. Protect Facebook, Instagram, X, LinkedIn, and TikTok from hackers, scams, and data theft."
-categories: ["privacy"]
-tags: ["social media security", "account security", "2FA", "privacy settings", "hacking prevention"]
-keywords: ["secure social media accounts", "social media hacking prevention", "protect Instagram account", "social media privacy 2026"]
+title: How to Secure Your Social Media Accounts in 2026
+date: 2026-06-04 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Step-by-step guide to securing your social media accounts. Protect Facebook, Instagram, X, LinkedIn, and TikTok from hackers, scams, and data theft.
+categories:
+- privacy
+tags:
+- social media security
+- account security
+- 2FA
+- privacy settings
+- hacking prevention
+keywords:
+- secure social media accounts
+- social media hacking prevention
+- protect Instagram account
+- social media privacy 2026
 affiliate: true
-author: "James Mitchell"
-author_bio: "Cybersecurity analyst with 8 years of hands-on experience testing VPNs, antivirus software, and privacy tools."
-featured_image: "/images/categories/privacy.svg"
+author: James Mitchell
+author_bio: Cybersecurity analyst with 8 years of hands-on experience testing VPNs, antivirus software, and privacy tools.
+featured_image: /images/categories/privacy.svg
 faq:
-  - q: "How do social media accounts get hacked?"
-    a: "The most common methods: phishing (fake login pages sent via DM or email), credential stuffing (using leaked passwords from other breaches), SIM swapping (taking over your phone number for 2FA), malicious apps (third-party apps with excessive permissions), and social engineering (tricking support staff into resetting your account)."
-  - q: "What should I do if my social media account is hacked?"
-    a: "Immediately: (1) Try to reset your password via email. (2) Revoke access from all devices via the platform's security settings. (3) Enable 2FA if not already active. (4) Check and remove unknown connected apps. (5) Report the hack to the platform. (6) Alert your contacts about potential scam messages sent from your account."
-  - q: "Is two-factor authentication enough to protect my accounts?"
-    a: "2FA significantly reduces risk but isn't foolproof. SMS-based 2FA can be bypassed via SIM swapping. Use authenticator apps (Google Authenticator, Authy) or hardware keys (YubiKey) for stronger protection. Combine 2FA with unique passwords, login alerts, and regular security checkups."
-  - q: "Should I use a password manager for social media?"
-    a: "Absolutely. A password manager generates and stores unique, complex passwords for each platform. Since credential stuffing (using leaked passwords across sites) is the #1 attack vector, unique passwords per site eliminate this risk entirely. NordPass or 1Password are excellent choices."
-  - q: "How can I check if my social media data has been leaked?"
-    a: "Check haveibeenpwned.com — enter your email to see if it appears in known data breaches. Also check your platform's security settings for unrecognized login attempts. Most platforms (Facebook, Google, Instagram) have a 'Security Checkup' feature that reviews your account security."
-  - q: "What privacy settings should I change on social media?"
-    a: "Essential changes: set your profile to private (or friends-only), disable location sharing, limit who can see your friends list, turn off facial recognition, review and remove third-party app connections, disable search engine indexing of your profile, and restrict who can send you DMs/friend requests."
+- q: How do social media accounts get hacked?
+  a: 'The most common methods: phishing (fake login pages sent via DM or email), credential stuffing (using leaked passwords from other breaches), SIM swapping (taking over your phone number for 2FA), malicious apps (third-party apps with excessive permissions), and social engineering (tricking support staff into resetting your account).'
+- q: What should I do if my social media account is hacked?
+  a: 'Immediately: (1) Try to reset your password via email. (2) Revoke access from all devices via the platform''s security settings. (3) Enable 2FA if not already active. (4) Check and remove unknown connected apps. (5) Report the hack to the platform. (6) Alert your contacts about potential scam messages sent from your account.'
+- q: Is two-factor authentication enough to protect my accounts?
+  a: 2FA significantly reduces risk but isn't foolproof. SMS-based 2FA can be bypassed via SIM swapping. Use authenticator apps (Google Authenticator, Authy) or hardware keys (YubiKey) for stronger protection. Combine 2FA with unique passwords, login alerts, and regular security checkups.
+- q: Should I use a password manager for social media?
+  a: 'Absolutely. A password manager generates and stores unique, complex passwords for each platform. Since credential stuffing (using leaked passwords across sites) is the #1 attack vector, unique passwords per site eliminate this risk entirely. NordPass or 1Password are excellent choices.'
+- q: How can I check if my social media data has been leaked?
+  a: Check haveibeenpwned.com — enter your email to see if it appears in known data breaches. Also check your platform's security settings for unrecognized login attempts. Most platforms (Facebook, Google, Instagram) have a 'Security Checkup' feature that reviews your account security.
+- q: What privacy settings should I change on social media?
+  a: 'Essential changes: set your profile to private (or friends-only), disable location sharing, limit who can see your friends list, turn off facial recognition, review and remove third-party app connections, disable search engine indexing of your profile, and restrict who can send you DMs/friend requests.'
 products:
-  - name: "NordVPN"
-    url: "https://go.digitalshieldpro.com/nordvpn"
-    price: ""
+- name: NordVPN
+  url: https://go.digitalshieldpro.com/nordvpn
+  price: ''
+schema_type: Article
 ---
 
 A friend of mine had their Instagram hacked last year, and within hours the attacker was DMing everyone in their contact list with a crypto scam. The damage was not just personal -- it burned trust with dozens of people. Your social media accounts hold more data than you think, and a compromised account turns you into a weapon against everyone you know. Here is how I lock down every platform, and you can do it in under 30 minutes.

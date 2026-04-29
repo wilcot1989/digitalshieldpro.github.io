@@ -1,39 +1,53 @@
 ---
-title: "How to Protect Yourself From AI Scams 2026"
-date: 2026-06-20T09:00:00+01:00
-lastmod: 2026-06-20T09:00:00+01:00
-description: "AI voice cloning and deepfake video calls are being used to scam people out of thousands of dollars. Here's how to recognize them and protect yourself."
-categories: ["scam-protection"]
-tags: ["AI scams", "voice cloning", "deepfakes", "social engineering", "fraud prevention", "AI fraud", "scam protection"]
-keywords: ["AI scams 2026", "voice cloning scam", "deepfake video call scam", "how to detect AI voice cloning", "protect yourself from AI fraud"]
+title: How to Protect Yourself From AI Scams 2026
+date: 2026-06-20 09:00:00+01:00
+lastmod: 2026-06-20 09:00:00+01:00
+description: AI voice cloning and deepfake video calls are being used to scam people out of thousands of dollars. Here's how to recognize them and protect yourself.
+categories:
+- scam-protection
+tags:
+- AI scams
+- voice cloning
+- deepfakes
+- social engineering
+- fraud prevention
+- AI fraud
+- scam protection
+keywords:
+- AI scams 2026
+- voice cloning scam
+- deepfake video call scam
+- how to detect AI voice cloning
+- protect yourself from AI fraud
 affiliate: true
-author: "James Mitchell"
-author_bio: "Cybersecurity researcher and writer. Tests privacy tools and security software hands-on."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1555421689-491a97ff2040&w=1200&output=webp&q=70"
+author: James Mitchell
+author_bio: Cybersecurity researcher and writer. Tests privacy tools and security software hands-on.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1555421689-491a97ff2040&w=1200&output=webp&q=70
 faq:
-  - q: "How do AI voice cloning scams work?"
-    a: "Scammers use publicly available AI voice synthesis tools — ElevenLabs clones are common — to replicate someone's voice from as little as 3 to 30 seconds of audio. They scrape audio from YouTube videos, TikToks, voicemails, or social media. Then they call victims impersonating a family member or colleague, claiming an emergency requiring an immediate money transfer. The voice is often convincing enough that victims do not question it. The FBI reported voice cloning fraud losses exceeding $25 million in 2025."
-  - q: "What is a deepfake video call scam?"
-    a: "Deepfake video call scams use real-time AI face and voice synthesis to impersonate executives, family members, or authority figures during live video calls. The attacker streams a convincing likeness of the target person, often with synchronized lip movement and voice. In 2024, a Hong Kong finance worker was deceived into transferring $25 million to fraudsters who appeared on a video call as multiple company executives — all AI-generated. The technology has only improved since then."
-  - q: "How can I tell if a voice call is AI-generated?"
-    a: "Current AI voice clones have several tells: slight audio artifacts or compression artifacts during pauses, unnatural rhythm in emotionally intense sentences, limited vocabulary variation (they struggle with made-up words or unusual proper nouns), and inability to answer questions only the real person would know. Ask for something specific — a memory only you and the alleged caller would share, a family code word, or something from a recent private conversation. AI cannot fake episodic memory."
-  - q: "What is a family safe word and how do I set one up?"
-    a: "A family safe word is a pre-agreed word or phrase that only your family members know, used to verify identity in suspicious phone calls or messages. Choose something memorable but not guessable from your social media — not a pet name or family vacation location. Share it in person or via an encrypted messaging app. Agree in advance that anyone can request it, no questions asked, and that refusal to provide it is automatic grounds for suspicion."
-  - q: "Can scammers deepfake a video call in real time?"
-    a: "Yes. Real-time deepfake tools can run on consumer hardware as of 2025. Tools like DeepFaceLive have been weaponized for fraud. Detection is difficult because traditional tells — poor lip sync, skin texture artifacts — are less reliable in 2026 than they were two years ago. The best approach is not to rely on visual verification alone but to combine it with out-of-band verification (calling back on a known number) and the safe word protocol."
-  - q: "Are there apps that detect AI voice or deepfake video?"
-    a: "Detection tools exist but are not reliable enough to use as your primary defense. Microsoft's Video Authenticator, Intel's FakeCatcher, and various academic tools show promise in controlled conditions but have significant false negative rates in real-world conditions. Scammers also actively test their content against detection tools before using it. Behavioral verification — safe words, callback verification, out-of-band confirmation — is more reliable than technical detection."
-  - q: "What should I do if I think I was targeted by an AI voice scam?"
-    a: "If you sent money, contact your bank immediately to initiate a recall or dispute. Report to the FTC at reportfraud.ftc.gov and to your local FBI field office if losses are significant. Document everything — save any messages, note the number called from, and write down what was said while it is fresh. Even if you did not lose money, reporting helps law enforcement track scam operations. Warn family members so they are aware the pattern is being used."
-  - q: "How do I reduce my voice and face data available to scammers?"
-    a: "Audit your public social media profiles and remove or restrict video content containing your voice or face. Set Instagram, TikTok, and Facebook profiles to private or friends-only. Avoid posting extended video monologues publicly. Be aware that voicemail greetings are also a source of voice data — consider a generic automated greeting instead of a personal recording. These steps raise the cost of targeting you specifically, though they do not eliminate risk entirely."
+- q: How do AI voice cloning scams work?
+  a: Scammers use publicly available AI voice synthesis tools — ElevenLabs clones are common — to replicate someone's voice from as little as 3 to 30 seconds of audio. They scrape audio from YouTube videos, TikToks, voicemails, or social media. Then they call victims impersonating a family member or colleague, claiming an emergency requiring an immediate money transfer. The voice is often convincing enough that victims do not question it. The FBI reported voice cloning fraud losses exceeding $25 million in 2025.
+- q: What is a deepfake video call scam?
+  a: Deepfake video call scams use real-time AI face and voice synthesis to impersonate executives, family members, or authority figures during live video calls. The attacker streams a convincing likeness of the target person, often with synchronized lip movement and voice. In 2024, a Hong Kong finance worker was deceived into transferring $25 million to fraudsters who appeared on a video call as multiple company executives — all AI-generated. The technology has only improved since then.
+- q: How can I tell if a voice call is AI-generated?
+  a: 'Current AI voice clones have several tells: slight audio artifacts or compression artifacts during pauses, unnatural rhythm in emotionally intense sentences, limited vocabulary variation (they struggle with made-up words or unusual proper nouns), and inability to answer questions only the real person would know. Ask for something specific — a memory only you and the alleged caller would share, a family code word, or something from a recent private conversation. AI cannot fake episodic memory.'
+- q: What is a family safe word and how do I set one up?
+  a: A family safe word is a pre-agreed word or phrase that only your family members know, used to verify identity in suspicious phone calls or messages. Choose something memorable but not guessable from your social media — not a pet name or family vacation location. Share it in person or via an encrypted messaging app. Agree in advance that anyone can request it, no questions asked, and that refusal to provide it is automatic grounds for suspicion.
+- q: Can scammers deepfake a video call in real time?
+  a: Yes. Real-time deepfake tools can run on consumer hardware as of 2025. Tools like DeepFaceLive have been weaponized for fraud. Detection is difficult because traditional tells — poor lip sync, skin texture artifacts — are less reliable in 2026 than they were two years ago. The best approach is not to rely on visual verification alone but to combine it with out-of-band verification (calling back on a known number) and the safe word protocol.
+- q: Are there apps that detect AI voice or deepfake video?
+  a: Detection tools exist but are not reliable enough to use as your primary defense. Microsoft's Video Authenticator, Intel's FakeCatcher, and various academic tools show promise in controlled conditions but have significant false negative rates in real-world conditions. Scammers also actively test their content against detection tools before using it. Behavioral verification — safe words, callback verification, out-of-band confirmation — is more reliable than technical detection.
+- q: What should I do if I think I was targeted by an AI voice scam?
+  a: If you sent money, contact your bank immediately to initiate a recall or dispute. Report to the FTC at reportfraud.ftc.gov and to your local FBI field office if losses are significant. Document everything — save any messages, note the number called from, and write down what was said while it is fresh. Even if you did not lose money, reporting helps law enforcement track scam operations. Warn family members so they are aware the pattern is being used.
+- q: How do I reduce my voice and face data available to scammers?
+  a: Audit your public social media profiles and remove or restrict video content containing your voice or face. Set Instagram, TikTok, and Facebook profiles to private or friends-only. Avoid posting extended video monologues publicly. Be aware that voicemail greetings are also a source of voice data — consider a generic automated greeting instead of a personal recording. These steps raise the cost of targeting you specifically, though they do not eliminate risk entirely.
 products:
-  - name: "Bitdefender Total Security"
-    url: "https://go.digitalshieldpro.com/bitdefender"
-    price: "49"
-  - name: "NordPass Premium"
-    url: "https://go.digitalshieldpro.com/nordpass"
-    price: "1.49"
+- name: Bitdefender Total Security
+  url: https://go.digitalshieldpro.com/bitdefender
+  price: '49'
+- name: NordPass Premium
+  url: https://go.digitalshieldpro.com/nordpass
+  price: '1.49'
+schema_type: Article
 ---
 
 Last year a friend of mine — a careful, technically literate person — nearly wired $4,200 to scammers pretending to be his adult son. The voice was his son's voice. The accent, the speech patterns, the way he said "Dad" — all accurate. The "son" claimed to have been in a minor car accident, needed bail posted that night, and asked not to tell mom yet. My friend had his hand on the send button before something made him pause and call his son directly.

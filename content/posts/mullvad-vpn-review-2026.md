@@ -1,42 +1,57 @@
 ---
-title: "Mullvad VPN Review 2026: The Best Privacy VPN That Won't"
-date: 2026-07-08T09:00:00-05:00
-lastmod: 2026-07-08T09:00:00-05:00
-description: "Honest Mullvad VPN review after 6 weeks testing. Anonymous account numbers, RAM-only servers, WireGuard speeds."
-categories: ["vpn"]
-tags: ["mullvad vpn", "vpn review", "privacy vpn", "wireguard vpn", "anonymous vpn", "vpn 2026"]
-keywords: ["mullvad vpn review", "mullvad vpn review 2026", "mullvad vs nordvpn", "mullvad vs protonvpn", "best privacy vpn", "mullvad anonymous account", "mullvad wireguard speed"]
+title: 'Mullvad VPN Review 2026: The Best Privacy VPN That Won''t'
+date: 2026-07-08 09:00:00-05:00
+lastmod: 2026-07-08 09:00:00-05:00
+description: Honest Mullvad VPN review after 6 weeks testing. Anonymous account numbers, RAM-only servers, WireGuard speeds.
+categories:
+- vpn
+tags:
+- mullvad vpn
+- vpn review
+- privacy vpn
+- wireguard vpn
+- anonymous vpn
+- vpn 2026
+keywords:
+- mullvad vpn review
+- mullvad vpn review 2026
+- mullvad vs nordvpn
+- mullvad vs protonvpn
+- best privacy vpn
+- mullvad anonymous account
+- mullvad wireguard speed
 affiliate: true
-author: "James Mitchell"
-author_bio: "Cybersecurity researcher and writer. Tests privacy tools and security software hands-on."
-featured_image: "/images/categories/vpn.svg"
+author: James Mitchell
+author_bio: Cybersecurity researcher and writer. Tests privacy tools and security software hands-on.
+featured_image: /images/categories/vpn.svg
 faq:
-  - q: "Does Mullvad work with Netflix?"
-    a: "Reliably, no. Mullvad does not optimize servers for streaming and makes no claims about unblocking Netflix, Hulu, Disney+, or other geo-restricted services. Some servers may work some of the time, but Mullvad actively resists the IP farming arms race that streaming-optimized VPNs play. If streaming access is a primary use case, NordVPN or ExpressVPN are better fits."
-  - q: "How does Mullvad's anonymous account work?"
-    a: "When you sign up, Mullvad generates a random 16-digit account number. No email address, no username, no name, no payment method stored after the transaction. You top up the account with time (€5 per month) using cash sent to their office, Bitcoin, Monero, or card. If you pay with cash or crypto, Mullvad has no payment record linking to your identity — they only know that account number X has Y months of time remaining."
-  - q: "Is Mullvad RAM-only? What does that mean?"
-    a: "Yes, since 2022 all Mullvad servers are RAM-only (diskless). This means no data is ever written to permanent storage — everything in memory is gone the instant power is cut. If a server is physically seized, there is nothing to forensically recover. Several other VPNs have made RAM-only claims; Mullvad's implementation has been independently audited and verified."
-  - q: "What happened to Mullvad's port forwarding?"
-    a: "Mullvad removed port forwarding in May 2023. The stated reason was that the feature was being exploited to host malicious services (torrents serving malware, phishing infrastructure). Legitimate use cases like hosting game servers or self-hosted services through Mullvad are no longer possible. If you need VPN + port forwarding, ProtonVPN still offers it (on paid plans)."
-  - q: "What protocols does Mullvad support?"
-    a: "WireGuard and OpenVPN. WireGuard is the default and recommended — modern, fast, lean codebase (~4000 lines vs OpenVPN's ~70,000), audited multiple times. OpenVPN support is retained for networks that block WireGuard's UDP traffic. Mullvad also supports WireGuard over TCP as a workaround for restrictive networks."
-  - q: "Has Mullvad ever been audited?"
-    a: "Yes, multiple times. Cure53 audited the client and infrastructure in 2022. Assured AB (independent Swedish firm) audited the no-logs policy and server infrastructure in 2023. Radically Open Security conducted a penetration test in 2024. All audits are published in full on Mullvad's website — including the findings, not just the pass/fail verdict."
-  - q: "How many servers does Mullvad have?"
-    a: "Approximately 700 servers in 40+ countries as of mid-2026. Smaller than NordVPN (6,000+ servers) or ExpressVPN (3,000+ servers). Mullvad compensates with high server quality and consistent speeds, but if you need servers in a specific country with multiple location options, NordVPN has broader coverage."
-  - q: "Does Mullvad keep logs?"
-    a: "Mullvad's no-logs policy has been audited and their servers store nothing identifiable. In 2023, Swedish police raided a Mullvad data center and left without any useful data — the RAM-only servers had nothing to seize. This is the real-world validation of a no-logs claim that most VPN providers only assert in marketing copy."
+- q: Does Mullvad work with Netflix?
+  a: Reliably, no. Mullvad does not optimize servers for streaming and makes no claims about unblocking Netflix, Hulu, Disney+, or other geo-restricted services. Some servers may work some of the time, but Mullvad actively resists the IP farming arms race that streaming-optimized VPNs play. If streaming access is a primary use case, NordVPN or ExpressVPN are better fits.
+- q: How does Mullvad's anonymous account work?
+  a: When you sign up, Mullvad generates a random 16-digit account number. No email address, no username, no name, no payment method stored after the transaction. You top up the account with time (€5 per month) using cash sent to their office, Bitcoin, Monero, or card. If you pay with cash or crypto, Mullvad has no payment record linking to your identity — they only know that account number X has Y months of time remaining.
+- q: Is Mullvad RAM-only? What does that mean?
+  a: Yes, since 2022 all Mullvad servers are RAM-only (diskless). This means no data is ever written to permanent storage — everything in memory is gone the instant power is cut. If a server is physically seized, there is nothing to forensically recover. Several other VPNs have made RAM-only claims; Mullvad's implementation has been independently audited and verified.
+- q: What happened to Mullvad's port forwarding?
+  a: Mullvad removed port forwarding in May 2023. The stated reason was that the feature was being exploited to host malicious services (torrents serving malware, phishing infrastructure). Legitimate use cases like hosting game servers or self-hosted services through Mullvad are no longer possible. If you need VPN + port forwarding, ProtonVPN still offers it (on paid plans).
+- q: What protocols does Mullvad support?
+  a: WireGuard and OpenVPN. WireGuard is the default and recommended — modern, fast, lean codebase (~4000 lines vs OpenVPN's ~70,000), audited multiple times. OpenVPN support is retained for networks that block WireGuard's UDP traffic. Mullvad also supports WireGuard over TCP as a workaround for restrictive networks.
+- q: Has Mullvad ever been audited?
+  a: Yes, multiple times. Cure53 audited the client and infrastructure in 2022. Assured AB (independent Swedish firm) audited the no-logs policy and server infrastructure in 2023. Radically Open Security conducted a penetration test in 2024. All audits are published in full on Mullvad's website — including the findings, not just the pass/fail verdict.
+- q: How many servers does Mullvad have?
+  a: Approximately 700 servers in 40+ countries as of mid-2026. Smaller than NordVPN (6,000+ servers) or ExpressVPN (3,000+ servers). Mullvad compensates with high server quality and consistent speeds, but if you need servers in a specific country with multiple location options, NordVPN has broader coverage.
+- q: Does Mullvad keep logs?
+  a: Mullvad's no-logs policy has been audited and their servers store nothing identifiable. In 2023, Swedish police raided a Mullvad data center and left without any useful data — the RAM-only servers had nothing to seize. This is the real-world validation of a no-logs claim that most VPN providers only assert in marketing copy.
 products:
-  - name: "Mullvad VPN"
-    url: "https://mullvad.net"
-    price: "5.00/month"
-  - name: "NordVPN"
-    url: "https://go.digitalshieldpro.com/nordvpn"
-    price: "from 3.49/month"
-  - name: "ProtonVPN"
-    url: "https://go.digitalshieldpro.com/protonvpn"
-    price: "from 4.99/month"
+- name: Mullvad VPN
+  url: https://mullvad.net
+  price: 5.00/month
+- name: NordVPN
+  url: https://go.digitalshieldpro.com/nordvpn
+  price: from 3.49/month
+- name: ProtonVPN
+  url: https://go.digitalshieldpro.com/protonvpn
+  price: from 4.99/month
+schema_type: Review
 ---
 
 **Disclosure**: Mullvad does not have an affiliate program. I receive no commission for recommending Mullvad — they have made a deliberate choice not to participate in affiliate marketing, which I think is worth noting upfront because it's unusual and says something about their business model. This review is based on six weeks of testing on my own subscription.

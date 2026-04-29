@@ -1,42 +1,59 @@
 ---
-title: "ProtonVPN Review 2026: Eight Weeks Testing Speed"
-date: 2026-08-02T09:00:00-05:00
-lastmod: 2026-08-02T09:00:00-05:00
-description: "ProtonVPN has the best free VPN tier in existence and Swiss jurisdiction. After 8 weeks of speed tests, streaming verification, and kill switch abuse."
-categories: ["vpn"]
-tags: ["protonvpn", "vpn review", "swiss vpn", "free vpn", "wireguard vpn", "streaming vpn", "privacy"]
-keywords: ["protonvpn review", "protonvpn review 2026", "protonvpn free tier", "protonvpn vs nordvpn", "protonvpn speed test", "protonvpn streaming", "best vpn 2026", "protonvpn secure core"]
+title: 'ProtonVPN Review 2026: Eight Weeks Testing Speed'
+date: 2026-08-02 09:00:00-05:00
+lastmod: 2026-08-02 09:00:00-05:00
+description: ProtonVPN has the best free VPN tier in existence and Swiss jurisdiction. After 8 weeks of speed tests, streaming verification, and kill switch abuse.
+categories:
+- vpn
+tags:
+- protonvpn
+- vpn review
+- swiss vpn
+- free vpn
+- wireguard vpn
+- streaming vpn
+- privacy
+keywords:
+- protonvpn review
+- protonvpn review 2026
+- protonvpn free tier
+- protonvpn vs nordvpn
+- protonvpn speed test
+- protonvpn streaming
+- best vpn 2026
+- protonvpn secure core
 affiliate: true
-author: "James Mitchell"
-author_bio: "Cybersecurity researcher and writer. Tests privacy tools and security software hands-on."
-featured_image: "/images/categories/vpn.svg"
+author: James Mitchell
+author_bio: Cybersecurity researcher and writer. Tests privacy tools and security software hands-on.
+featured_image: /images/categories/vpn.svg
 faq:
-  - q: "Is ProtonVPN's free tier actually usable?"
-    a: "Yes — and it's the only free VPN I'd recommend without caveats. The free tier gives you unlimited data, no ads, and no logs. The tradeoffs are real though: 3 server locations only (US, Netherlands, Romania), speeds that average 30–50% of paid tier, and 1 device maximum. For occasional privacy use or testing the product, it's excellent. For daily use, streaming, or P2P, upgrade to Plus."
-  - q: "How fast is ProtonVPN?"
-    a: "On nearby WireGuard servers (under 500ms away), I consistently hit 94–96% of my baseline line speed. On transcontinental connections (US to Europe, Europe to Asia), speeds dropped to 60–72% of baseline. These are strong numbers — better than most premium VPNs on long-distance routes. OpenVPN is significantly slower, as expected."
-  - q: "Does ProtonVPN unblock Netflix?"
-    a: "Yes, on Plus servers (not free tier). In my 8-week test I verified: Netflix US, Netflix UK, Netflix Japan, Netflix Canada, and BBC iPlayer all unblocked from Plus servers. Streaming-optimized Plus servers are labeled in the app. Results can vary week to week as Netflix blocks VPN exit IPs periodically — ProtonVPN rotates these regularly."
-  - q: "What is Secure Core and when should I use it?"
-    a: "Secure Core routes your traffic through a privacy-friendly country (Switzerland, Iceland, or Sweden) before it exits through your chosen VPN server. This protects against compromised exit nodes and adds an extra layer against traffic analysis. The cost is speed — Secure Core routes average 40–55% of baseline speed. Use it for high-sensitivity activities where the speed tradeoff is worth it; use standard Plus servers for streaming and daily use."
-  - q: "Has ProtonVPN been audited?"
-    a: "Yes. SEC Consult completed an independent security audit of ProtonVPN's apps and infrastructure in 2024, published in full. This covers the apps (iOS, Android, Windows, macOS, Linux) and confirms no critical vulnerabilities were found. All ProtonVPN apps are open source — you can review the code yourself on GitHub."
-  - q: "How does ProtonVPN compare to NordVPN?"
-    a: "NordVPN at €3.49/month (long-term plan) is cheaper than ProtonVPN Plus at €4.99/month. NordVPN has more servers (6,000+ vs 6,500+, roughly comparable), better speeds in entertainment use cases, and a more polished streaming experience. ProtonVPN has stronger privacy credentials (Swiss jurisdiction, no upsell ecosystem), open source apps, and the free tier. For privacy-first users: ProtonVPN. For value and streaming: NordVPN is competitive."
-  - q: "Does ProtonVPN keep logs?"
-    a: "No, ProtonVPN maintains a strict no-logs policy. They don't log connection timestamps, IP addresses, session durations, or DNS queries. This has been confirmed by the 2024 SEC Consult audit and by the fact that Proton has received law enforcement requests and had nothing to hand over beyond account creation data (email and payment method — both can be anonymous)."
-  - q: "What is the Stealth protocol?"
-    a: "Stealth is ProtonVPN's anti-censorship protocol that obfuscates VPN traffic to look like regular HTTPS. It's designed for use in countries that block VPN protocols — China, Iran, Russia, etc. In my test connecting from a simulated blocked environment, Stealth connected when WireGuard and OpenVPN both failed. It's slower than WireGuard but significantly more reliable in restrictive networks."
+- q: Is ProtonVPN's free tier actually usable?
+  a: 'Yes — and it''s the only free VPN I''d recommend without caveats. The free tier gives you unlimited data, no ads, and no logs. The tradeoffs are real though: 3 server locations only (US, Netherlands, Romania), speeds that average 30–50% of paid tier, and 1 device maximum. For occasional privacy use or testing the product, it''s excellent. For daily use, streaming, or P2P, upgrade to Plus.'
+- q: How fast is ProtonVPN?
+  a: On nearby WireGuard servers (under 500ms away), I consistently hit 94–96% of my baseline line speed. On transcontinental connections (US to Europe, Europe to Asia), speeds dropped to 60–72% of baseline. These are strong numbers — better than most premium VPNs on long-distance routes. OpenVPN is significantly slower, as expected.
+- q: Does ProtonVPN unblock Netflix?
+  a: 'Yes, on Plus servers (not free tier). In my 8-week test I verified: Netflix US, Netflix UK, Netflix Japan, Netflix Canada, and BBC iPlayer all unblocked from Plus servers. Streaming-optimized Plus servers are labeled in the app. Results can vary week to week as Netflix blocks VPN exit IPs periodically — ProtonVPN rotates these regularly.'
+- q: What is Secure Core and when should I use it?
+  a: Secure Core routes your traffic through a privacy-friendly country (Switzerland, Iceland, or Sweden) before it exits through your chosen VPN server. This protects against compromised exit nodes and adds an extra layer against traffic analysis. The cost is speed — Secure Core routes average 40–55% of baseline speed. Use it for high-sensitivity activities where the speed tradeoff is worth it; use standard Plus servers for streaming and daily use.
+- q: Has ProtonVPN been audited?
+  a: Yes. SEC Consult completed an independent security audit of ProtonVPN's apps and infrastructure in 2024, published in full. This covers the apps (iOS, Android, Windows, macOS, Linux) and confirms no critical vulnerabilities were found. All ProtonVPN apps are open source — you can review the code yourself on GitHub.
+- q: How does ProtonVPN compare to NordVPN?
+  a: 'NordVPN at €3.49/month (long-term plan) is cheaper than ProtonVPN Plus at €4.99/month. NordVPN has more servers (6,000+ vs 6,500+, roughly comparable), better speeds in entertainment use cases, and a more polished streaming experience. ProtonVPN has stronger privacy credentials (Swiss jurisdiction, no upsell ecosystem), open source apps, and the free tier. For privacy-first users: ProtonVPN. For value and streaming: NordVPN is competitive.'
+- q: Does ProtonVPN keep logs?
+  a: No, ProtonVPN maintains a strict no-logs policy. They don't log connection timestamps, IP addresses, session durations, or DNS queries. This has been confirmed by the 2024 SEC Consult audit and by the fact that Proton has received law enforcement requests and had nothing to hand over beyond account creation data (email and payment method — both can be anonymous).
+- q: What is the Stealth protocol?
+  a: Stealth is ProtonVPN's anti-censorship protocol that obfuscates VPN traffic to look like regular HTTPS. It's designed for use in countries that block VPN protocols — China, Iran, Russia, etc. In my test connecting from a simulated blocked environment, Stealth connected when WireGuard and OpenVPN both failed. It's slower than WireGuard but significantly more reliable in restrictive networks.
 products:
-  - name: "ProtonVPN Plus"
-    url: "https://go.digitalshieldpro.com/protonvpn"
-    price: "4.99"
-  - name: "ProtonVPN Free"
-    url: "https://go.digitalshieldpro.com/protonvpn"
-    price: "0.00"
-  - name: "NordVPN (alternative)"
-    url: "https://go.digitalshieldpro.com/nordvpn"
-    price: "3.49"
+- name: ProtonVPN Plus
+  url: https://go.digitalshieldpro.com/protonvpn
+  price: '4.99'
+- name: ProtonVPN Free
+  url: https://go.digitalshieldpro.com/protonvpn
+  price: '0.00'
+- name: NordVPN (alternative)
+  url: https://go.digitalshieldpro.com/nordvpn
+  price: '3.49'
+schema_type: Review
 ---
 
 Eight weeks ago I started an unusually thorough ProtonVPN test. I ran daily speed tests across 12 server locations, tried to break the kill switch in six different ways, verified streaming on four Netflix libraries plus BBC iPlayer, and pushed the free tier as hard as I could to see where it breaks down.

@@ -1,42 +1,57 @@
 ---
-title: "Fastmail Review 2026: Six Weeks Testing the Best"
-date: 2026-07-28T09:00:00-05:00
-lastmod: 2026-07-28T09:00:00-05:00
-description: "Fastmail is fast, private, and genuinely polished — but it's not zero-knowledge encrypted."
-categories: ["encrypted-email"]
-tags: ["fastmail", "privacy email", "email review", "custom domain email", "JMAP", "email security"]
-keywords: ["fastmail review", "fastmail review 2026", "fastmail vs protonmail", "is fastmail private", "fastmail pricing", "fastmail custom domain", "fastmail spam filter"]
+title: 'Fastmail Review 2026: Six Weeks Testing the Best'
+date: 2026-07-28 09:00:00-05:00
+lastmod: 2026-07-28 09:00:00-05:00
+description: Fastmail is fast, private, and genuinely polished — but it's not zero-knowledge encrypted.
+categories:
+- encrypted-email
+tags:
+- fastmail
+- privacy email
+- email review
+- custom domain email
+- JMAP
+- email security
+keywords:
+- fastmail review
+- fastmail review 2026
+- fastmail vs protonmail
+- is fastmail private
+- fastmail pricing
+- fastmail custom domain
+- fastmail spam filter
 affiliate: true
-author: "James Mitchell"
-author_bio: "Cybersecurity researcher and writer. Tests privacy tools and security software hands-on."
-featured_image: "/images/categories/encrypted-email.svg"
+author: James Mitchell
+author_bio: Cybersecurity researcher and writer. Tests privacy tools and security software hands-on.
+featured_image: /images/categories/encrypted-email.svg
 faq:
-  - q: "Is Fastmail encrypted?"
-    a: "Fastmail encrypts data in transit (TLS) and at rest on their servers, but it is NOT zero-knowledge encrypted. Unlike ProtonMail or Tutanota, Fastmail can technically access your emails if compelled by law. They use strong server-side encryption, but they hold the keys — you don't. This is the most important distinction to understand before signing up."
-  - q: "Is Fastmail worth the price?"
-    a: "At $5/month (Basic) or $9/month (Standard), Fastmail costs more than Gmail but delivers a genuinely ad-free, tracking-free experience with better spam filtering and faster search. If privacy matters but zero-knowledge encryption isn't a hard requirement, it's excellent value — especially on the Standard plan with custom domains and 50 GB storage."
-  - q: "Can I use a custom domain with Fastmail?"
-    a: "Yes — custom domains are supported on the Standard plan ($9/month) and above. DNS setup is guided step by step in the dashboard. You can host multiple domains and create unlimited email aliases. The Basic plan does not include custom domain support."
-  - q: "How does Fastmail compare to ProtonMail?"
-    a: "ProtonMail offers zero-knowledge encryption (Proton can't read your inbox) and Swiss jurisdiction. Fastmail offers better app performance, JMAP protocol support, and more generous storage at the same price, but does not offer zero-knowledge encryption and is subject to Australian jurisdiction. For journalists and high-risk users, ProtonMail is safer. For everyone else, Fastmail is arguably more usable."
-  - q: "Is Fastmail subject to government surveillance?"
-    a: "Fastmail is an Australian company subject to the Assistance and Access Act 2018, which can compel technology companies to provide user data and potentially build surveillance capabilities. This is a legitimate concern. Fastmail has published a transparency report and has not (as of 2026) disclosed any law enforcement access to email content, but the legal framework is less protective than Swiss law."
-  - q: "Does Fastmail have a free plan?"
-    a: "No. Fastmail is paid-only: $5/month (Basic), $9/month (Standard), or $19/month (Professional). The absence of a free tier is deliberate — their business model relies on subscriptions, not ad revenue or data mining. You can trial for 30 days free."
-  - q: "How good is Fastmail's spam filter?"
-    a: "Very good. In my 6-week test with 1,840 messages across 4 test accounts, Fastmail caught 98.7% of spam with zero false positives in the first week and one false positive in weeks 2–6 (a legitimate newsletter). It uses a combination of server-side filtering and per-user learning that improves over time."
-  - q: "What is JMAP and does it matter for me?"
-    a: "JMAP (JSON Meta Application Protocol) is a modern open email protocol that Fastmail pioneered. It syncs faster than IMAP, uses less battery on mobile, and handles large mailboxes more efficiently. For most users this is invisible — your apps just feel snappier. If you're a developer or power user who wants to build integrations, JMAP is genuinely excellent."
+- q: Is Fastmail encrypted?
+  a: Fastmail encrypts data in transit (TLS) and at rest on their servers, but it is NOT zero-knowledge encrypted. Unlike ProtonMail or Tutanota, Fastmail can technically access your emails if compelled by law. They use strong server-side encryption, but they hold the keys — you don't. This is the most important distinction to understand before signing up.
+- q: Is Fastmail worth the price?
+  a: At $5/month (Basic) or $9/month (Standard), Fastmail costs more than Gmail but delivers a genuinely ad-free, tracking-free experience with better spam filtering and faster search. If privacy matters but zero-knowledge encryption isn't a hard requirement, it's excellent value — especially on the Standard plan with custom domains and 50 GB storage.
+- q: Can I use a custom domain with Fastmail?
+  a: Yes — custom domains are supported on the Standard plan ($9/month) and above. DNS setup is guided step by step in the dashboard. You can host multiple domains and create unlimited email aliases. The Basic plan does not include custom domain support.
+- q: How does Fastmail compare to ProtonMail?
+  a: ProtonMail offers zero-knowledge encryption (Proton can't read your inbox) and Swiss jurisdiction. Fastmail offers better app performance, JMAP protocol support, and more generous storage at the same price, but does not offer zero-knowledge encryption and is subject to Australian jurisdiction. For journalists and high-risk users, ProtonMail is safer. For everyone else, Fastmail is arguably more usable.
+- q: Is Fastmail subject to government surveillance?
+  a: Fastmail is an Australian company subject to the Assistance and Access Act 2018, which can compel technology companies to provide user data and potentially build surveillance capabilities. This is a legitimate concern. Fastmail has published a transparency report and has not (as of 2026) disclosed any law enforcement access to email content, but the legal framework is less protective than Swiss law.
+- q: Does Fastmail have a free plan?
+  a: 'No. Fastmail is paid-only: $5/month (Basic), $9/month (Standard), or $19/month (Professional). The absence of a free tier is deliberate — their business model relies on subscriptions, not ad revenue or data mining. You can trial for 30 days free.'
+- q: How good is Fastmail's spam filter?
+  a: Very good. In my 6-week test with 1,840 messages across 4 test accounts, Fastmail caught 98.7% of spam with zero false positives in the first week and one false positive in weeks 2–6 (a legitimate newsletter). It uses a combination of server-side filtering and per-user learning that improves over time.
+- q: What is JMAP and does it matter for me?
+  a: JMAP (JSON Meta Application Protocol) is a modern open email protocol that Fastmail pioneered. It syncs faster than IMAP, uses less battery on mobile, and handles large mailboxes more efficiently. For most users this is invisible — your apps just feel snappier. If you're a developer or power user who wants to build integrations, JMAP is genuinely excellent.
 products:
-  - name: "Fastmail Standard"
-    url: "https://go.digitalshieldpro.com/fastmail"
-    price: "9.00"
-  - name: "Fastmail Basic"
-    url: "https://go.digitalshieldpro.com/fastmail"
-    price: "5.00"
-  - name: "ProtonMail Plus (alternative)"
-    url: "https://proton.me/mail/pricing"
-    price: "4.99"
+- name: Fastmail Standard
+  url: https://go.digitalshieldpro.com/fastmail
+  price: '9.00'
+- name: Fastmail Basic
+  url: https://go.digitalshieldpro.com/fastmail
+  price: '5.00'
+- name: ProtonMail Plus (alternative)
+  url: https://proton.me/mail/pricing
+  price: '4.99'
+schema_type: Review
 ---
 
 Six weeks ago I migrated my secondary Gmail account to Fastmail. The migration was so smooth that I'm now considering moving my primary email there too — which I didn't expect when I started this test. This is my full honest review.

@@ -1,34 +1,46 @@
 ---
-title: "Google Account Security Checkup: Step-by-Step Audit Guide"
-date: 2026-05-08T12:00:00+01:00
-lastmod: 2026-05-08T12:00:00+01:00
-description: "Complete Google account security audit guide for 2026. Step-by-step walkthrough of every setting — from two-factor authentication to third-party app access."
-categories: ["accounts"]
-tags: ["google security", "account security", "two-factor authentication", "password manager", "google account"]
-keywords: ["google security checkup 2026", "google account security audit", "secure google account", "google account settings", "google two factor authentication"]
+title: 'Google Account Security Checkup: Step-by-Step Audit Guide'
+date: 2026-05-08 12:00:00+01:00
+lastmod: 2026-05-08 12:00:00+01:00
+description: Complete Google account security audit guide for 2026. Step-by-step walkthrough of every setting — from two-factor authentication to third-party app access.
+categories:
+- accounts
+tags:
+- google security
+- account security
+- two-factor authentication
+- password manager
+- google account
+keywords:
+- google security checkup 2026
+- google account security audit
+- secure google account
+- google account settings
+- google two factor authentication
 affiliate: true
-author: "James Mitchell"
-author_bio: "Cybersecurity researcher and writer. Tests privacy tools and security software hands-on."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1563013544-824ae1b704d3&w=1200&output=webp&q=70"
+author: James Mitchell
+author_bio: Cybersecurity researcher and writer. Tests privacy tools and security software hands-on.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1563013544-824ae1b704d3&w=1200&output=webp&q=70
 faq:
-  - q: "How often should I run a Google security checkup?"
-    a: "I run mine every three months. Set a calendar reminder. A lot changes in 90 days — you install new apps, forget to revoke old OAuth permissions, or reuse a password that later shows up in a breach. Quarterly is the minimum; monthly if you use your Google account for work or handle sensitive data."
-  - q: "Does the Google Security Checkup actually catch real threats?"
-    a: "Yes, with caveats. It surfaces compromised passwords, suspicious logins, and over-permissioned third-party apps — all real vectors. What it doesn't catch is phishing you fell for yesterday, or data already sold from a previous breach. Treat it as one layer, not the whole shield."
-  - q: "Is two-step verification enough to secure my Google account?"
-    a: "It eliminates the vast majority of automated takeover attempts — Google's own data showed 2SV blocks 100% of automated bots and 96% of bulk phishing. But it's not a substitute for a strong, unique password, revoked third-party access, and a clean recovery email. All four layers matter."
-  - q: "What's the safest 2FA method for Google?"
-    a: "A hardware security key (YubiKey or Google's Titan Key) is the strongest option — phishing-resistant and impossible to intercept remotely. Passkeys are a close second and far more convenient. Google Prompt and authenticator apps (TOTP) are good middle grounds. SMS is the weakest — avoid it if you can."
-  - q: "What should I do if I see a login I don't recognise?"
-    a: "Go to myaccount.google.com/device-activity immediately. If it's a device you don't own, tap 'Sign out' for that session, change your password from a known-clean device, and then check your recovery email and phone number to make sure they haven't been swapped."
-  - q: "How do I find which apps have access to my Google account?"
-    a: "Go to myaccount.google.com/permissions. Every app listed there can read at least some of your data. Click each one to see exactly what it can access — many will have 'See your personal info' or 'Manage your contacts' that you granted years ago and forgot about."
-  - q: "Should I use a password manager alongside Google Password Manager?"
-    a: "Yes, I recommend a dedicated password manager like NordPass. Google Password Manager works well within Chrome and Android, but a dedicated tool gives you encrypted cross-browser access, breach alerts across all accounts, and better emergency access features — especially useful if you get locked out of your Google account entirely."
+- q: How often should I run a Google security checkup?
+  a: I run mine every three months. Set a calendar reminder. A lot changes in 90 days — you install new apps, forget to revoke old OAuth permissions, or reuse a password that later shows up in a breach. Quarterly is the minimum; monthly if you use your Google account for work or handle sensitive data.
+- q: Does the Google Security Checkup actually catch real threats?
+  a: Yes, with caveats. It surfaces compromised passwords, suspicious logins, and over-permissioned third-party apps — all real vectors. What it doesn't catch is phishing you fell for yesterday, or data already sold from a previous breach. Treat it as one layer, not the whole shield.
+- q: Is two-step verification enough to secure my Google account?
+  a: It eliminates the vast majority of automated takeover attempts — Google's own data showed 2SV blocks 100% of automated bots and 96% of bulk phishing. But it's not a substitute for a strong, unique password, revoked third-party access, and a clean recovery email. All four layers matter.
+- q: What's the safest 2FA method for Google?
+  a: A hardware security key (YubiKey or Google's Titan Key) is the strongest option — phishing-resistant and impossible to intercept remotely. Passkeys are a close second and far more convenient. Google Prompt and authenticator apps (TOTP) are good middle grounds. SMS is the weakest — avoid it if you can.
+- q: What should I do if I see a login I don't recognise?
+  a: Go to myaccount.google.com/device-activity immediately. If it's a device you don't own, tap 'Sign out' for that session, change your password from a known-clean device, and then check your recovery email and phone number to make sure they haven't been swapped.
+- q: How do I find which apps have access to my Google account?
+  a: Go to myaccount.google.com/permissions. Every app listed there can read at least some of your data. Click each one to see exactly what it can access — many will have 'See your personal info' or 'Manage your contacts' that you granted years ago and forgot about.
+- q: Should I use a password manager alongside Google Password Manager?
+  a: Yes, I recommend a dedicated password manager like NordPass. Google Password Manager works well within Chrome and Android, but a dedicated tool gives you encrypted cross-browser access, breach alerts across all accounts, and better emergency access features — especially useful if you get locked out of your Google account entirely.
 products:
-  - name: "NordPass"
-    url: "https://go.digitalshieldpro.com/nordpass"
-    price: ""
+- name: NordPass
+  url: https://go.digitalshieldpro.com/nordpass
+  price: ''
+schema_type: Article
 ---
 
 Last month I ran the Google security checkup on six different accounts — two personal, one work, one shared family account, and two test accounts I use for research. What I found on the shared family account was uncomfortable: 11 third-party apps with broad permissions (including one that could read and send emails), a recovery phone number that was three years out of date, and a password that had been in a breach database since 2023.

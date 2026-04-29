@@ -1,42 +1,56 @@
 ---
-title: "Incogni review 2026: 12 weeks of data broker removal tested"
-date: 2026-05-01T08:00:00+02:00
-lastmod: 2026-05-01T08:00:00+02:00
-description: "I tested Incogni for 12 weeks tracking data broker removals. Real results, removal counts, and whether €7.49/month is worth it."
-categories: ["data-broker-removal", "privacy"]
-tags: ["incogni", "data broker", "privacy", "review", "data removal"]
-keywords: ["incogni review", "incogni vs deleteme", "is incogni worth it", "data broker removal", "incogni results", "data privacy service"]
+title: 'Incogni review 2026: 12 weeks of data broker removal tested'
+date: 2026-05-01 08:00:00+02:00
+lastmod: 2026-05-01 08:00:00+02:00
+description: I tested Incogni for 12 weeks tracking data broker removals. Real results, removal counts, and whether €7.49/month is worth it.
+categories:
+- data-broker-removal
+- privacy
+tags:
+- incogni
+- data broker
+- privacy
+- review
+- data removal
+keywords:
+- incogni review
+- incogni vs deleteme
+- is incogni worth it
+- data broker removal
+- incogni results
+- data privacy service
 affiliate: true
-author: "James Mitchell"
-author_bio: "Cybersecurity analyst with 10+ years of hands-on experience testing VPNs, antivirus software, and privacy tools."
-featured_image: "/images/categories/privacy.svg"
+author: James Mitchell
+author_bio: Cybersecurity analyst with 10+ years of hands-on experience testing VPNs, antivirus software, and privacy tools.
+featured_image: /images/categories/privacy.svg
 faq:
-  - q: "What is Incogni?"
-    a: "Incogni is a data broker removal service from Surfshark (the VPN company). They send opt-out requests to 200+ data brokers on your behalf, monthly. Cost: €7.49/month annually, or €15.79/month month-to-month. Family plans available."
-  - q: "Does Incogni actually work?"
-    a: "Yes — partially. In my 12-week test they confirmed 47 successful removals out of 73 broker sites attempted. The 26 'in progress' or 'rejected' brokers required manual follow-up. Removal speed: 4-12 weeks per broker. Significantly less effort than doing it yourself."
-  - q: "How is Incogni different from DeleteMe?"
-    a: "DeleteMe is older (founded 2010), more established, but pricier at $129/year. Incogni covers more EU brokers (better for European users), is cheaper, but has slightly less manual oversight. Both work — Incogni is the better choice for European privacy laws (GDPR), DeleteMe for US users with complex broker landscapes."
-  - q: "Is data on broker sites really a problem?"
-    a: "Yes. Brokers sell your name, address, phone, email, family relations, employer, income estimates, even political views to anyone — including spammers, debt collectors, ad networks, and stalkers. Your address is typically findable on 30-50 broker sites without your knowledge."
-  - q: "Can I just remove myself manually for free?"
-    a: "Yes — but it's exhausting. Each broker has its own opt-out form, often requires email verification, sometimes wants a copy of your ID. Estimated time: 15-25 hours initial removal, plus 5-10 hours/year monitoring (since they relist you). For most people, paying €90/year is rational."
-  - q: "Does Incogni protect against EU GDPR brokers?"
-    a: "Yes. Under GDPR, EU users have a right to erasure. Incogni issues GDPR-compliant requests with stronger legal weight than US opt-outs. EU users typically see faster removal completion (avg 6 weeks vs 9 weeks for US)."
-  - q: "What happens if I cancel Incogni?"
-    a: "Brokers will start re-listing you over time as they refresh their data sources. Most brokers re-add identities every 6-12 months. To stay removed long-term, you need ongoing monitoring (paid service or DIY)."
-  - q: "Are there free alternatives?"
-    a: "Privacy Bee has a free tier (limited to 8 brokers). Optery has a free tier (limited but useful). Both are US-focused. For EU users, paid Incogni is the most thorough option in 2026."
+- q: What is Incogni?
+  a: 'Incogni is a data broker removal service from Surfshark (the VPN company). They send opt-out requests to 200+ data brokers on your behalf, monthly. Cost: €7.49/month annually, or €15.79/month month-to-month. Family plans available.'
+- q: Does Incogni actually work?
+  a: 'Yes — partially. In my 12-week test they confirmed 47 successful removals out of 73 broker sites attempted. The 26 ''in progress'' or ''rejected'' brokers required manual follow-up. Removal speed: 4-12 weeks per broker. Significantly less effort than doing it yourself.'
+- q: How is Incogni different from DeleteMe?
+  a: DeleteMe is older (founded 2010), more established, but pricier at $129/year. Incogni covers more EU brokers (better for European users), is cheaper, but has slightly less manual oversight. Both work — Incogni is the better choice for European privacy laws (GDPR), DeleteMe for US users with complex broker landscapes.
+- q: Is data on broker sites really a problem?
+  a: Yes. Brokers sell your name, address, phone, email, family relations, employer, income estimates, even political views to anyone — including spammers, debt collectors, ad networks, and stalkers. Your address is typically findable on 30-50 broker sites without your knowledge.
+- q: Can I just remove myself manually for free?
+  a: 'Yes — but it''s exhausting. Each broker has its own opt-out form, often requires email verification, sometimes wants a copy of your ID. Estimated time: 15-25 hours initial removal, plus 5-10 hours/year monitoring (since they relist you). For most people, paying €90/year is rational.'
+- q: Does Incogni protect against EU GDPR brokers?
+  a: Yes. Under GDPR, EU users have a right to erasure. Incogni issues GDPR-compliant requests with stronger legal weight than US opt-outs. EU users typically see faster removal completion (avg 6 weeks vs 9 weeks for US).
+- q: What happens if I cancel Incogni?
+  a: Brokers will start re-listing you over time as they refresh their data sources. Most brokers re-add identities every 6-12 months. To stay removed long-term, you need ongoing monitoring (paid service or DIY).
+- q: Are there free alternatives?
+  a: Privacy Bee has a free tier (limited to 8 brokers). Optery has a free tier (limited but useful). Both are US-focused. For EU users, paid Incogni is the most thorough option in 2026.
 products:
-  - name: "Incogni Annual"
-    url: "https://incogni.com/"
-    price: "7.49"
-  - name: "Incogni Family"
-    url: "https://incogni.com/family"
-    price: "12.99"
-  - name: "DeleteMe (alternative)"
-    url: "https://joindeleteme.com/"
-    price: "10.75"
+- name: Incogni Annual
+  url: https://incogni.com/
+  price: '7.49'
+- name: Incogni Family
+  url: https://incogni.com/family
+  price: '12.99'
+- name: DeleteMe (alternative)
+  url: https://joindeleteme.com/
+  price: '10.75'
+schema_type: Review
 ---
 
 In January 2026 I signed up for Incogni and started a 12-week tracking experiment. The goal: independently verify whether the €7.49/month subscription actually removes my data from broker sites — and how much.

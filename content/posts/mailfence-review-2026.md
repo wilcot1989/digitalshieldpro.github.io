@@ -1,34 +1,46 @@
 ---
-title: "Mailfence Review 2026: Belgium-Based Encrypted Email With"
-date: 2026-06-12T09:00:00-05:00
-lastmod: 2026-06-12T09:00:00-05:00
-description: "I tested Mailfence for 5 weeks — Belgium-based encrypted email with built-in PGP, CalDAV calendar, and document storage."
-categories: ["encrypted-email"]
-tags: ["mailfence", "mailfence review", "belgium encrypted email", "pgp email", "encrypted email comparison"]
-keywords: ["mailfence review 2026", "mailfence vs protonmail", "mailfence encrypted email", "belgium email privacy", "best pgp email service"]
+title: 'Mailfence Review 2026: Belgium-Based Encrypted Email With'
+date: 2026-06-12 09:00:00-05:00
+lastmod: 2026-06-12 09:00:00-05:00
+description: I tested Mailfence for 5 weeks — Belgium-based encrypted email with built-in PGP, CalDAV calendar, and document storage.
+categories:
+- encrypted-email
+tags:
+- mailfence
+- mailfence review
+- belgium encrypted email
+- pgp email
+- encrypted email comparison
+keywords:
+- mailfence review 2026
+- mailfence vs protonmail
+- mailfence encrypted email
+- belgium email privacy
+- best pgp email service
 affiliate: true
-author: "James Mitchell"
-author_bio: "Cybersecurity researcher and writer. Tests privacy tools and security software hands-on."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1556761175-5973dc0f32e7&w=1200&output=webp&q=70"
+author: James Mitchell
+author_bio: Cybersecurity researcher and writer. Tests privacy tools and security software hands-on.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1556761175-5973dc0f32e7&w=1200&output=webp&q=70
 faq:
-  - q: "Is Mailfence end-to-end encrypted?"
-    a: "Yes, between Mailfence users using OpenPGP encryption. Mailfence has a built-in key store where you manage your PGP keys and the public keys of your contacts. Messages to external PGP users are also end-to-end encrypted if you have their public key. Messages to non-PGP recipients are sent via TLS in transit. Mailfence is not zero-knowledge — they can access your data under Belgian legal process."
-  - q: "What makes Mailfence's Belgian jurisdiction significant?"
-    a: "Belgium is subject to the European Convention on Human Rights and strict EU GDPR requirements. Belgian law does not permit mass surveillance and has no equivalent to the US CLOUD Act. Law enforcement requests require Belgian court orders, which are subject to EU legal standards. This is stronger protection than US or UK jurisdiction, comparable to German or Dutch standards."
-  - q: "Does Mailfence have a free plan?"
-    a: "Yes. Mailfence offers a free plan with 500 MB email storage, 500 MB document storage, and 1 email address. The free plan includes OpenPGP encryption. Paid plans start at €2.50/month (Entry) with 5 GB email storage and custom domain support."
-  - q: "Does Mailfence support CalDAV calendar sync?"
-    a: "Yes. Mailfence includes a built-in calendar that supports CalDAV sync with iOS Calendar, Android Calendar, Thunderbird, and other CalDAV-compatible clients. This is a genuine feature advantage over StartMail, which has no calendar, and is comparable to Proton Calendar."
-  - q: "Can I use Mailfence with Outlook or other email clients?"
-    a: "Yes. Mailfence supports IMAP and SMTP for standard email client access, plus CalDAV for calendar sync and CardDAV for contact sync. This standard protocol support means it works with Outlook, Apple Mail, Thunderbird, and other clients without special software."
-  - q: "Who runs Mailfence?"
-    a: "Mailfence is operated by ContactOffice Group, a Belgian company founded in 2013. They do not have VC backing and operate as an independent privacy-focused company. Part of their revenue supports two Belgian digital rights organizations: IFF (Internet Freedom Foundation) and EDRi (European Digital Rights)."
-  - q: "How does Mailfence compare to ProtonMail on encryption?"
-    a: "Mailfence uses OpenPGP encryption with a built-in key management interface. ProtonMail also uses OpenPGP under the hood but with automatic key management and zero-knowledge architecture. ProtonMail's architecture is more secure (cannot be accessed even by Proton under court order). Mailfence's key management is more transparent and configurable for advanced users. For most users, ProtonMail's stronger automatic encryption is preferable."
+- q: Is Mailfence end-to-end encrypted?
+  a: Yes, between Mailfence users using OpenPGP encryption. Mailfence has a built-in key store where you manage your PGP keys and the public keys of your contacts. Messages to external PGP users are also end-to-end encrypted if you have their public key. Messages to non-PGP recipients are sent via TLS in transit. Mailfence is not zero-knowledge — they can access your data under Belgian legal process.
+- q: What makes Mailfence's Belgian jurisdiction significant?
+  a: Belgium is subject to the European Convention on Human Rights and strict EU GDPR requirements. Belgian law does not permit mass surveillance and has no equivalent to the US CLOUD Act. Law enforcement requests require Belgian court orders, which are subject to EU legal standards. This is stronger protection than US or UK jurisdiction, comparable to German or Dutch standards.
+- q: Does Mailfence have a free plan?
+  a: Yes. Mailfence offers a free plan with 500 MB email storage, 500 MB document storage, and 1 email address. The free plan includes OpenPGP encryption. Paid plans start at €2.50/month (Entry) with 5 GB email storage and custom domain support.
+- q: Does Mailfence support CalDAV calendar sync?
+  a: Yes. Mailfence includes a built-in calendar that supports CalDAV sync with iOS Calendar, Android Calendar, Thunderbird, and other CalDAV-compatible clients. This is a genuine feature advantage over StartMail, which has no calendar, and is comparable to Proton Calendar.
+- q: Can I use Mailfence with Outlook or other email clients?
+  a: Yes. Mailfence supports IMAP and SMTP for standard email client access, plus CalDAV for calendar sync and CardDAV for contact sync. This standard protocol support means it works with Outlook, Apple Mail, Thunderbird, and other clients without special software.
+- q: Who runs Mailfence?
+  a: 'Mailfence is operated by ContactOffice Group, a Belgian company founded in 2013. They do not have VC backing and operate as an independent privacy-focused company. Part of their revenue supports two Belgian digital rights organizations: IFF (Internet Freedom Foundation) and EDRi (European Digital Rights).'
+- q: How does Mailfence compare to ProtonMail on encryption?
+  a: Mailfence uses OpenPGP encryption with a built-in key management interface. ProtonMail also uses OpenPGP under the hood but with automatic key management and zero-knowledge architecture. ProtonMail's architecture is more secure (cannot be accessed even by Proton under court order). Mailfence's key management is more transparent and configurable for advanced users. For most users, ProtonMail's stronger automatic encryption is preferable.
 products:
-  - name: "Mailfence"
-    url: "https://mailfence.com"
-    price: "Free / from €2.50/month"
+- name: Mailfence
+  url: https://mailfence.com
+  price: Free / from €2.50/month
+schema_type: Review
 ---
 
 Mailfence is the kind of privacy email service that attracts technically curious users: transparent PGP key management, Belgian jurisdiction, a full productivity suite (calendar, contacts, documents), and an independent company with a genuine privacy-first mission rather than VC pressure to monetize data.

@@ -1,37 +1,49 @@
 ---
-title: "Facebook & Instagram Privacy 2026: Lockdown Guide"
+title: 'Facebook & Instagram Privacy 2026: Lockdown Guide'
 date: 2026-06-10
-lastmod: 2026-06-10T09:00:00+01:00
-description: "Step-by-step guide to locking down your Facebook and Instagram privacy settings in 2026. I walked through every menu so you don't have to guess."
-categories: ["social-privacy"]
-tags: ["Facebook privacy", "Instagram privacy", "social media privacy", "Meta privacy", "privacy settings"]
-keywords: ["Facebook privacy settings 2026", "Instagram privacy settings 2026", "how to lock down Facebook", "Meta privacy guide", "social media privacy 2026"]
+lastmod: 2026-06-10 09:00:00+01:00
+description: Step-by-step guide to locking down your Facebook and Instagram privacy settings in 2026. I walked through every menu so you don't have to guess.
+categories:
+- social-privacy
+tags:
+- Facebook privacy
+- Instagram privacy
+- social media privacy
+- Meta privacy
+- privacy settings
+keywords:
+- Facebook privacy settings 2026
+- Instagram privacy settings 2026
+- how to lock down Facebook
+- Meta privacy guide
+- social media privacy 2026
 affiliate: true
-author: "James Mitchell"
-author_bio: "Cybersecurity researcher and writer. Tests privacy tools and security software hands-on."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1563013544-824ae1b704d3&w=1200&output=webp&q=70"
+author: James Mitchell
+author_bio: Cybersecurity researcher and writer. Tests privacy tools and security software hands-on.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1563013544-824ae1b704d3&w=1200&output=webp&q=70
 products:
-  - name: "NordVPN"
-    url: "https://go.digitalshieldpro.com/nordvpn"
-    price: "3.49"
-  - name: "Incogni"
-    url: "https://go.digitalshieldpro.com/incogni"
-    price: "6.49"
+- name: NordVPN
+  url: https://go.digitalshieldpro.com/nordvpn
+  price: '3.49'
+- name: Incogni
+  url: https://go.digitalshieldpro.com/incogni
+  price: '6.49'
 faq:
-  - q: "Does changing Facebook privacy settings stop Meta from collecting my data?"
-    a: "No. Privacy settings control who can see your content and some ad targeting preferences, but Meta continues collecting data about your behavior for internal purposes regardless of public privacy settings. Limiting what you post and using Facebook less are the most effective data-reduction strategies."
-  - q: "Can people find me on Facebook if I set everything to private?"
-    a: "Yes, in some ways. Your name, profile picture, and cover photo remain visible to everyone by default. You can limit this further, but truly hiding your existence on Facebook while maintaining an account is not fully possible."
-  - q: "What does 'Friends of Friends' mean on Facebook?"
-    a: "If your post is set to Friends of Friends, your 400 friends each have 400 friends, meaning your post can theoretically reach 160,000 people — most of whom you have never met. Use 'Friends' rather than 'Friends of Friends' for any personal content."
-  - q: "Should I use Facebook Login to sign into other apps?"
-    a: "No. 'Login with Facebook' gives those apps access to your Facebook profile data, and any breach of those apps potentially exposes your Facebook credentials and data. Use separate email and password (stored in a password manager) for each service."
-  - q: "How do I stop Instagram from using my photos to train AI?"
-    a: "In Instagram: Settings and Activity → Account → Data usage and permissions → AI data use → toggle off 'Allow AI training'. Note this setting may be region-locked; EU users have additional GDPR rights."
-  - q: "Can employers see my private Facebook posts?"
-    a: "Employers cannot see posts set to Friends Only if they are not your Facebook friend. However, mutual connections can screenshot and share private posts. Anything you would not want your employer to see should not be posted online regardless of privacy settings."
-  - q: "How often should I review my Facebook privacy settings?"
-    a: "Meta changes privacy settings and introduces new features regularly. Review your settings every 3-6 months, or any time you hear news about Meta changing its privacy policy. Your settings from 2023 do not cover features introduced in 2025."
+- q: Does changing Facebook privacy settings stop Meta from collecting my data?
+  a: No. Privacy settings control who can see your content and some ad targeting preferences, but Meta continues collecting data about your behavior for internal purposes regardless of public privacy settings. Limiting what you post and using Facebook less are the most effective data-reduction strategies.
+- q: Can people find me on Facebook if I set everything to private?
+  a: Yes, in some ways. Your name, profile picture, and cover photo remain visible to everyone by default. You can limit this further, but truly hiding your existence on Facebook while maintaining an account is not fully possible.
+- q: What does 'Friends of Friends' mean on Facebook?
+  a: If your post is set to Friends of Friends, your 400 friends each have 400 friends, meaning your post can theoretically reach 160,000 people — most of whom you have never met. Use 'Friends' rather than 'Friends of Friends' for any personal content.
+- q: Should I use Facebook Login to sign into other apps?
+  a: No. 'Login with Facebook' gives those apps access to your Facebook profile data, and any breach of those apps potentially exposes your Facebook credentials and data. Use separate email and password (stored in a password manager) for each service.
+- q: How do I stop Instagram from using my photos to train AI?
+  a: 'In Instagram: Settings and Activity → Account → Data usage and permissions → AI data use → toggle off ''Allow AI training''. Note this setting may be region-locked; EU users have additional GDPR rights.'
+- q: Can employers see my private Facebook posts?
+  a: Employers cannot see posts set to Friends Only if they are not your Facebook friend. However, mutual connections can screenshot and share private posts. Anything you would not want your employer to see should not be posted online regardless of privacy settings.
+- q: How often should I review my Facebook privacy settings?
+  a: Meta changes privacy settings and introduces new features regularly. Review your settings every 3-6 months, or any time you hear news about Meta changing its privacy policy. Your settings from 2023 do not cover features introduced in 2025.
+schema_type: Article
 ---
 
 I do this audit every six months, and every single time I find a new setting I had not configured. Meta has added more privacy controls over the years — partly from regulatory pressure, partly from the ongoing PR work of appearing privacy-conscious — but they have also added more ways to share data in the same updates. The interface buries the most protective settings while surfacing the ones that benefit Meta's advertising business.

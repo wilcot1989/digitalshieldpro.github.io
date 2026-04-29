@@ -1,34 +1,47 @@
 ---
-title: "Hushmail Review 2026: HIPAA-Compliant Encrypted Email for"
-date: 2026-05-17T09:00:00-05:00
-lastmod: 2026-05-17T09:00:00-05:00
-description: "I tested Hushmail's healthcare and legal plans hands-on. Here is who it is actually for, what HIPAA compliance means in practice."
-categories: ["encrypted-email"]
-tags: ["hushmail", "hipaa email", "encrypted email healthcare", "encrypted email legal", "hushmail review", "hipaa compliant email"]
-keywords: ["hushmail review 2026", "hushmail hipaa email", "best hipaa compliant email", "hushmail for healthcare", "hushmail for lawyers"]
+title: 'Hushmail Review 2026: HIPAA-Compliant Encrypted Email for'
+date: 2026-05-17 09:00:00-05:00
+lastmod: 2026-05-17 09:00:00-05:00
+description: I tested Hushmail's healthcare and legal plans hands-on. Here is who it is actually for, what HIPAA compliance means in practice.
+categories:
+- encrypted-email
+tags:
+- hushmail
+- hipaa email
+- encrypted email healthcare
+- encrypted email legal
+- hushmail review
+- hipaa compliant email
+keywords:
+- hushmail review 2026
+- hushmail hipaa email
+- best hipaa compliant email
+- hushmail for healthcare
+- hushmail for lawyers
 affiliate: true
-author: "James Mitchell"
-author_bio: "Cybersecurity researcher and writer. Tests privacy tools and security software hands-on."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1556761175-5973dc0f32e7&w=1200&output=webp&q=70"
+author: James Mitchell
+author_bio: Cybersecurity researcher and writer. Tests privacy tools and security software hands-on.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1556761175-5973dc0f32e7&w=1200&output=webp&q=70
 faq:
-  - q: "Is Hushmail HIPAA compliant?"
-    a: "Yes. Hushmail offers HIPAA-compliant plans specifically designed for healthcare providers and signs a Business Associate Agreement (BAA) with covered entities. The HIPAA-compliant plan includes encrypted email, encrypted web forms for patient intake, audit logs, and the legal documentation required for HIPAA compliance. This is one of the very few email providers that formally supports HIPAA BAA requirements."
-  - q: "How much does Hushmail cost for healthcare providers?"
-    a: "Hushmail for Healthcare starts at approximately $9.99/month for a single user (billed annually). The price scales with the number of users. This is higher than ProtonMail ($3.99/month individual) but includes HIPAA BAA documentation and healthcare-specific features like encrypted web forms. Custom pricing is available for practices with 5+ users."
-  - q: "Does Hushmail work on mobile devices?"
-    a: "Yes. Hushmail provides iOS and Android apps plus IMAP/SMTP access so you can use Hushmail with any email client including Outlook and Apple Mail. This IMAP support is a meaningful advantage over Tutanota, which requires Tuta's proprietary apps."
-  - q: "Can lawyers use Hushmail for client communications?"
-    a: "Yes. Hushmail for Law provides encrypted email, encrypted web forms for client intake, and signing capabilities. However, for attorney-client privilege, the encryption model matters: Hushmail uses TLS in transit and AES-256 at rest, but it is not zero-knowledge like ProtonMail — Hushmail can technically access your email content. Whether this affects privilege varies by jurisdiction and use case."
-  - q: "What is the difference between Hushmail and ProtonMail for healthcare?"
-    a: "Hushmail provides a formal HIPAA BAA, healthcare-specific web forms, and dedicated compliance documentation — things ProtonMail does not currently offer. ProtonMail offers stronger encryption (zero-knowledge architecture) but does not sign HIPAA BAAs. For healthcare organizations that need formal HIPAA compliance documentation, Hushmail is the practical choice."
-  - q: "Is Hushmail end-to-end encrypted?"
-    a: "Partially. Hushmail messages between Hushmail users are encrypted end-to-end. Messages to non-Hushmail recipients are sent via TLS (encrypted in transit) but not end-to-end encrypted. Hushmail can decrypt your stored messages — it is not a zero-knowledge service like ProtonMail. This is the main security limitation compared to ProtonMail."
-  - q: "Can Hushmail be used with a custom domain?"
-    a: "Yes. All Hushmail for Business plans support custom domains. You can set up email@yourpractice.com or attorney@yourfirm.com. MX record configuration is guided through the Hushmail admin panel."
+- q: Is Hushmail HIPAA compliant?
+  a: Yes. Hushmail offers HIPAA-compliant plans specifically designed for healthcare providers and signs a Business Associate Agreement (BAA) with covered entities. The HIPAA-compliant plan includes encrypted email, encrypted web forms for patient intake, audit logs, and the legal documentation required for HIPAA compliance. This is one of the very few email providers that formally supports HIPAA BAA requirements.
+- q: How much does Hushmail cost for healthcare providers?
+  a: Hushmail for Healthcare starts at approximately $9.99/month for a single user (billed annually). The price scales with the number of users. This is higher than ProtonMail ($3.99/month individual) but includes HIPAA BAA documentation and healthcare-specific features like encrypted web forms. Custom pricing is available for practices with 5+ users.
+- q: Does Hushmail work on mobile devices?
+  a: Yes. Hushmail provides iOS and Android apps plus IMAP/SMTP access so you can use Hushmail with any email client including Outlook and Apple Mail. This IMAP support is a meaningful advantage over Tutanota, which requires Tuta's proprietary apps.
+- q: Can lawyers use Hushmail for client communications?
+  a: 'Yes. Hushmail for Law provides encrypted email, encrypted web forms for client intake, and signing capabilities. However, for attorney-client privilege, the encryption model matters: Hushmail uses TLS in transit and AES-256 at rest, but it is not zero-knowledge like ProtonMail — Hushmail can technically access your email content. Whether this affects privilege varies by jurisdiction and use case.'
+- q: What is the difference between Hushmail and ProtonMail for healthcare?
+  a: Hushmail provides a formal HIPAA BAA, healthcare-specific web forms, and dedicated compliance documentation — things ProtonMail does not currently offer. ProtonMail offers stronger encryption (zero-knowledge architecture) but does not sign HIPAA BAAs. For healthcare organizations that need formal HIPAA compliance documentation, Hushmail is the practical choice.
+- q: Is Hushmail end-to-end encrypted?
+  a: Partially. Hushmail messages between Hushmail users are encrypted end-to-end. Messages to non-Hushmail recipients are sent via TLS (encrypted in transit) but not end-to-end encrypted. Hushmail can decrypt your stored messages — it is not a zero-knowledge service like ProtonMail. This is the main security limitation compared to ProtonMail.
+- q: Can Hushmail be used with a custom domain?
+  a: Yes. All Hushmail for Business plans support custom domains. You can set up email@yourpractice.com or attorney@yourfirm.com. MX record configuration is guided through the Hushmail admin panel.
 products:
-  - name: "ProtonMail"
-    url: "/go/protonmail"
-    price: "Free / from $3.99/month"
+- name: ProtonMail
+  url: /go/protonmail
+  price: Free / from $3.99/month
+schema_type: Review
 ---
 
 I have reviewed dozens of encrypted email services over the years. Hushmail is one of the oldest — founded in 1999 — and it serves a niche that most privacy-focused email providers have not bothered to serve properly: healthcare providers, therapists, lawyers, and other professionals who need both encryption AND formal compliance documentation.
@@ -340,3 +353,11 @@ Yes, on all business plans.
 ---
 
 *Hushmail pricing and feature set verified August 2026.*
+
+## Related guides
+
+- [Bitdefender Total Security Review 2026](/posts/bitdefender-review-2026/)
+- [Brave Browser Review 2026: Four Weeks of Real-World Testing](/posts/brave-browser-review-2026/)
+- [DeleteMe Review 2026: 8-Week Test Results, Pricing](/posts/deleteme-review-2026/)
+- [ESET Review 2026: Lightweight Antivirus for Power Users](/posts/eset-review-2026/)
+- [Fastmail Review 2026: Six Weeks Testing the Best](/posts/fastmail-review-2026/)
