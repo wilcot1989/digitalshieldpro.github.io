@@ -9,7 +9,7 @@ keywords: ["online shopping security 2026", "how to spot fake online stores", "c
 affiliate: true
 author: "James Mitchell"
 author_bio: "Cybersecurity analyst with 8 years of hands-on experience testing VPNs, antivirus software, and privacy tools."
-featured_image: "https://images.unsplash.com/photo-1563013544-824ae1b704d3?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1563013544-824ae1b704d3&w=1200&output=webp&q=70"
 faq:
   - q: "How can I tell if an online store is fake?"
     a: "Look for four specific red flags: a domain registered within the last 90 days (check via who.is), prices more than 40% below retail for brand-name products, no physical address or a fake one on Google Maps, and customer reviews that are suspiciously uniform in tone and date. Legitimate stores also have reachable customer service — try calling the number before ordering. Fake stores either have no phone number or it rings out."

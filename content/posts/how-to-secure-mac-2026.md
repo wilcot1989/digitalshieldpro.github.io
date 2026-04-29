@@ -9,7 +9,7 @@ keywords: ["how to secure Mac 2026", "macOS security guide", "FileVault setup", 
 affiliate: true
 author: "James Mitchell"
 author_bio: "Cybersecurity researcher and writer. Tests privacy tools and security software hands-on."
-featured_image: "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1517336714731-489689fd1ca8&w=1200&output=webp&q=70"
 faq:
   - q: "Does macOS need antivirus software?"
     a: "Yes, despite the myth that Macs cannot get viruses. macOS has excellent built-in defences (XProtect, Gatekeeper, SIP), but they are reactive and signature-based. Third-party antivirus like Bitdefender adds behavioural detection, phishing protection, and real-time web filtering that Apple's built-in tools do not provide. Mac malware has increased substantially — Atomic Stealer, AMOS, and XLoader are all active Mac threats in 2026."

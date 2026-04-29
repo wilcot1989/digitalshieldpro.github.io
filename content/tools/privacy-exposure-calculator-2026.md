@@ -9,7 +9,7 @@ keywords: ["privacy exposure calculator", "how exposed am i online", "digital fo
 affiliate: true
 author: "James Mitchell"
 author_bio: "Cybersecurity researcher and writer. Tests privacy tools and security software hands-on."
-featured_image: "https://images.unsplash.com/photo-1563013544-824ae1b704d3?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1563013544-824ae1b704d3&w=1200&output=webp&q=70"
 faq:
   - q: "How accurate is this score?"
     a: "The score is based on 12 weighted privacy factors derived from real-world data broker mechanics, breach databases, and tracking research. It's directional — useful for prioritizing fixes — not a precise risk score."

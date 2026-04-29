@@ -9,7 +9,7 @@ keywords: ["how to spot phishing email", "phishing email examples", "identify ph
 affiliate: true
 author: "James Mitchell"
 author_bio: "Cybersecurity analyst with 8 years of hands-on experience testing VPNs, antivirus software, and privacy tools."
-featured_image: "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1556761175-5973dc0f32e7&w=1200&output=webp&q=70"
 faq:
   - q: "What is phishing and why does it still work in 2026?"
     a: "Phishing is the practice of impersonating a trusted entity — a bank, employer, government agency, or major tech company — to trick you into revealing credentials, financial information, or installing malware. It still works because attackers have gotten much better at personalization (spear phishing), use of legitimate-looking infrastructure, and exploiting time pressure and emotional triggers. Even technically sophisticated people get caught."

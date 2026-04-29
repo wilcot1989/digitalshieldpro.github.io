@@ -9,7 +9,7 @@ keywords: ["chromebook security guide 2026", "chromebook privacy settings", "fam
 affiliate: true
 author: "James Mitchell"
 author_bio: "Cybersecurity researcher and writer. Tests privacy tools and security software hands-on."
-featured_image: "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1517336714731-489689fd1ca8&w=1200&output=webp&q=70"
 faq:
   - q: "Are Chromebooks more secure than Windows laptops?"
     a: "In several meaningful ways, yes. ChromeOS uses verified boot (the OS verifies its own integrity every startup), automatic updates, sandboxed browser tabs, and no legacy file execution. Malware that runs as executables (.exe) simply doesn't run on ChromeOS. However, Chromebooks are deeply tied to Google's ecosystem, so Google account security is your primary risk surface — not traditional malware."

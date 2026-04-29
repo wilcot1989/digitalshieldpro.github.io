@@ -9,7 +9,7 @@ keywords: ["encrypted cloud photo storage 2026", "Google Photos alternative priv
 affiliate: true
 author: "James Mitchell"
 author_bio: "Cybersecurity researcher and writer. Tests privacy tools and security software hands-on."
-featured_image: "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1556761175-5973dc0f32e7&w=1200&output=webp&q=70"
 faq:
   - q: "Is Google Photos private?"
     a: "No. Google Photos scans all uploaded photos using machine learning to extract metadata: people's faces, locations, objects, events, and text in photos. This data is used to build your interest profile for advertising. Google's terms allow using your photos to improve their AI systems. If you store sensitive photos (medical, financial, personal) in Google Photos, Google's systems have processed them."

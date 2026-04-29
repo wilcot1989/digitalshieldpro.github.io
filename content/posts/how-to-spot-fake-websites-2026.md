@@ -9,7 +9,7 @@ keywords: ["how to spot fake websites 2026", "fake website checker", "phishing w
 affiliate: true
 author: "James Mitchell"
 author_bio: "Cybersecurity researcher and writer. Tests privacy tools and security software hands-on."
-featured_image: "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1517336714731-489689fd1ca8&w=1200&output=webp&q=70"
 products:
   - name: "Bitdefender"
     url: "/go/bitdefender"

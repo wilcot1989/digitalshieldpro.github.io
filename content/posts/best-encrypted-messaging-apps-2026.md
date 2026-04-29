@@ -9,7 +9,7 @@ keywords: ["best encrypted messaging apps 2026", "briar messenger review", "sess
 affiliate: true
 author: "James Mitchell"
 author_bio: "Cybersecurity researcher and writer. Tests privacy tools and security software hands-on."
-featured_image: "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1556761175-5973dc0f32e7&w=1200&output=webp&q=70"
 faq:
   - q: "Is Signal still the best encrypted messaging app in 2026?"
     a: "Signal remains the best choice for the majority of users because of its strong encryption, open-source code, and large user base. Its weaknesses — requiring a phone number, centralised server infrastructure, and phone number exposure to contacts — matter for specific threat models. For those cases, Briar, Session, or Wire offer meaningful alternatives."

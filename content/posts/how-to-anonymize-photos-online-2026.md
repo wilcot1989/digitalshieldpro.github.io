@@ -9,7 +9,7 @@ keywords: ["how to anonymize photos online 2026", "remove exif data", "strip pho
 affiliate: true
 author: "James Mitchell"
 author_bio: "Cybersecurity researcher and writer. Tests privacy tools and security software hands-on."
-featured_image: "https://images.unsplash.com/photo-1563013544-824ae1b704d3?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1563013544-824ae1b704d3&w=1200&output=webp&q=70"
 faq:
   - q: "What is EXIF data and why is it a privacy risk?"
     a: "EXIF (Exchangeable Image File Format) data is metadata embedded in image files by cameras and phones. It can include the exact GPS coordinates where the photo was taken, the device model, software version, date and time, and camera settings. If you share a photo with GPS data intact, anyone who views the file metadata can see precisely where you were when you took it."

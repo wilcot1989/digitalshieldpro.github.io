@@ -9,7 +9,7 @@ keywords: ["smart home security 2026", "ring doorbell security vulnerabilities",
 affiliate: true
 author: "James Mitchell"
 author_bio: "Cybersecurity analyst with 10+ years of hands-on experience testing VPNs, antivirus software, and privacy tools."
-featured_image: "https://images.unsplash.com/photo-1555421689-491a97ff2040?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1555421689-491a97ff2040&w=1200&output=webp&q=70"
 faq:
   - q: "Are Ring doorbells secure?"
     a: "Ring's security has improved dramatically since its 2019-2020 period of high-profile hacks. Amazon, which owns Ring, has since made end-to-end encryption opt-in (and should be enabled), added two-factor authentication requirements, implemented video verification for support staff access, and introduced more granular data sharing controls. Ring is now a reasonable choice for most consumers if properly configured — E2EE enabled, strong unique password, 2FA on, and Police Request settings reviewed."

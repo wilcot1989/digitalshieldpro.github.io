@@ -9,7 +9,7 @@ keywords: ["best secure routers 2026", "ASUS router security", "Synology router 
 affiliate: true
 author: "James Mitchell"
 author_bio: "Cybersecurity researcher and writer. Tests privacy tools and security software hands-on."
-featured_image: "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1614064641938-3bbee52942c7&w=1200&output=webp&q=70"
 faq:
   - q: "What makes a router 'secure' compared to a standard router?"
     a: "A secure router differs from a standard consumer router in several ways: automatic firmware updates (instead of requiring manual action), a built-in firewall with stateful inspection, intrusion detection or prevention (IDS/IPS), network segmentation features like guest VLANs and IoT isolation, encrypted DNS support (DNS-over-HTTPS or DNS-over-TLS), and regular security audits by the manufacturer. Most ISP-provided routers and budget consumer routers lack several of these features, particularly automatic updates and IDS/IPS."

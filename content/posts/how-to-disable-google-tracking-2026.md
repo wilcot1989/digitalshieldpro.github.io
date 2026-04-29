@@ -9,7 +9,7 @@ keywords: ["how to disable Google tracking 2026", "turn off Google tracking", "G
 affiliate: true
 author: "James Mitchell"
 author_bio: "Cybersecurity researcher and writer. Tests privacy tools and security software hands-on."
-featured_image: "https://images.unsplash.com/photo-1563013544-824ae1b704d3?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1563013544-824ae1b704d3&w=1200&output=webp&q=70"
 faq:
   - q: "Does disabling Google tracking actually stop Google from collecting data?"
     a: "Disabling tracking controls reduces Google's collection significantly but does not eliminate it. Google can still collect data from third parties (sites with Google Analytics, Google Ads), from your Android device at a system level, and certain technical data required for service operation. The settings described in this guide represent the maximum reduction achievable within the Google ecosystem. To eliminate Google tracking entirely, you need to stop using Google services."

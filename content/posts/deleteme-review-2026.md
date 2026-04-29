@@ -47,6 +47,9 @@ What follows is 8 weeks of tracked results — not DeleteMe's marketing numbers,
 
 ---
 
+
+🌍 *Moving to the EU? See also [EU banking privacy guide](https://expatnetherlandshub.com/blog/best-banking-expats-netherlands-2026/).*
+
 ## What DeleteMe Does
 
 DeleteMe is a data broker removal service run by Abine, a Boston-based privacy company founded in 2010. That's older than most of its competitors — Incogni launched in 2021, Privacy Bee in 2019. The premise is straightforward:

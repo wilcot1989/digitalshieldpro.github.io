@@ -9,7 +9,7 @@ keywords: ["passkeys vs two-factor authentication", "are passkeys more secure th
 affiliate: true
 author: "James Mitchell"
 author_bio: "Cybersecurity analyst with 8 years of hands-on experience testing VPNs, antivirus software, and privacy tools."
-featured_image: "https://images.unsplash.com/photo-1563013544-824ae1b704d3?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1563013544-824ae1b704d3&w=1200&output=webp&q=70"
 faq:
   - q: "What is a passkey and how does it work?"
     a: "A passkey is a cryptographic key pair: one private key stored on your device, one public key stored on the website's server. When you log in, the site sends a challenge that only your device can sign using the private key — and your device only does this after you verify with biometrics or PIN. Your private key never leaves your device, and the public key on the server is useless to attackers on its own."

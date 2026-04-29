@@ -9,7 +9,7 @@ keywords: ["how to detect keylogger 2026", "hardware keylogger detection", "soft
 affiliate: true
 author: "James Mitchell"
 author_bio: "Cybersecurity researcher and writer. Tests privacy tools and security software hands-on."
-featured_image: "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1517336714731-489689fd1ca8&w=1200&output=webp&q=70"
 faq:
   - q: "What is a keylogger and how does it work?"
     a: "A keylogger is a type of surveillance software or hardware that records every key pressed on a keyboard. Software keyloggers run as processes in the operating system, hooking into keyboard input APIs to capture keystrokes before they reach the intended application. They log typed text to a file or transmit it to a remote server. Hardware keyloggers are physical devices plugged between the keyboard and computer that intercept electrical signals, requiring no software installation and leaving no trace in the OS. Both types can capture passwords, messages, banking credentials, and anything else you type."

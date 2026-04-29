@@ -9,7 +9,7 @@ keywords: ["how to protect children online 2026", "parental controls 2026", "kid
 affiliate: true
 author: "James Mitchell"
 author_bio: "Cybersecurity researcher and writer. Tests privacy tools and security software hands-on."
-featured_image: "https://images.unsplash.com/photo-1555421689-491a97ff2040?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1555421689-491a97ff2040&w=1200&output=webp&q=70"
 products:
   - name: "NordPass"
     url: "/go/nordpass"

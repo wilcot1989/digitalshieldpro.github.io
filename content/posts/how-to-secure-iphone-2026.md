@@ -9,7 +9,7 @@ keywords: ["how to secure iphone 2026", "iphone security settings", "ios 17 secu
 affiliate: true
 author: "James Mitchell"
 author_bio: "Cybersecurity researcher and writer. Tests privacy tools and security software hands-on."
-featured_image: "https://images.unsplash.com/photo-1555421689-491a97ff2040?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1555421689-491a97ff2040&w=1200&output=webp&q=70"
 faq:
   - q: "Is iPhone more secure than Android?"
     a: "Generally yes, for most users. Apple's closed ecosystem, mandatory App Store review, consistent OS updates across devices, and features like Lockdown Mode give iPhones meaningful security advantages. Android's fragmented update delivery means many devices run outdated OS versions with known vulnerabilities. That said, a well-configured Pixel running GrapheneOS beats a poorly configured iPhone."

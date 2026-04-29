@@ -9,7 +9,7 @@ keywords: ["google security checkup 2026", "google account security audit", "sec
 affiliate: true
 author: "James Mitchell"
 author_bio: "Cybersecurity researcher and writer. Tests privacy tools and security software hands-on."
-featured_image: "https://images.unsplash.com/photo-1563013544-824ae1b704d3?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1563013544-824ae1b704d3&w=1200&output=webp&q=70"
 faq:
   - q: "How often should I run a Google security checkup?"
     a: "I run mine every three months. Set a calendar reminder. A lot changes in 90 days — you install new apps, forget to revoke old OAuth permissions, or reuse a password that later shows up in a breach. Quarterly is the minimum; monthly if you use your Google account for work or handle sensitive data."

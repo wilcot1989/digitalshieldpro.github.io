@@ -9,7 +9,7 @@ keywords: ["best secure mobile browser 2026", "Brave browser vs DuckDuckGo", "Fi
 affiliate: true
 author: "James Mitchell"
 author_bio: "Cybersecurity researcher and writer. Tests privacy tools and security software hands-on."
-featured_image: "https://images.unsplash.com/photo-1555421689-491a97ff2040?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1555421689-491a97ff2040&w=1200&output=webp&q=70"
 faq:
   - q: "Is Brave browser actually private?"
     a: "Brave provides strong privacy protections: it blocks third-party trackers and ads by default, prevents fingerprinting through randomization, blocks cross-site cookies, and includes an optional Tor mode for anonymous browsing. However, Brave is not perfectly private. It is a Chromium-based browser, and Chromium has privacy implications in its underlying code. Brave has also had a few controversies, including a 2020 incident where it was auto-completing affiliate referral links. Since then, Brave has been transparent and responsive to criticism. For everyday mobile browsing, Brave is one of the strongest options available."

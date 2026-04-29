@@ -9,7 +9,7 @@ keywords: ["how to detect spyware 2026", "pegasus spyware detection", "stalkerwa
 affiliate: true
 author: "James Mitchell"
 author_bio: "Cybersecurity researcher and writer. Tests privacy tools and security software hands-on."
-featured_image: "https://images.unsplash.com/photo-1555421689-491a97ff2040?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1555421689-491a97ff2040&w=1200&output=webp&q=70"
 faq:
   - q: "Can Pegasus spyware infect iPhones?"
     a: "Yes. Pegasus has successfully exploited iOS using zero-click vulnerabilities — meaning it can infect a device without the victim clicking anything. Apple has issued emergency patches for multiple Pegasus-related vulnerabilities. The best defense is keeping iOS updated immediately when security patches release. The Lockdown Mode feature introduced in iOS 16 provides additional protection for high-risk individuals."

@@ -9,7 +9,7 @@ keywords: ["how to secure google account 2026", "google account security setting
 affiliate: true
 author: "James Mitchell"
 author_bio: "Cybersecurity researcher and writer. Tests privacy tools and security software hands-on."
-featured_image: "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1517336714731-489689fd1ca8&w=1200&output=webp&q=70"
 faq:
   - q: "Is enabling 2FA enough to secure a Google account?"
     a: "2FA is essential but not sufficient on its own. Google accounts can still be compromised through session cookie theft (bypasses 2FA entirely), phishing attacks that relay 2FA codes in real time, insecure recovery options, and app passwords that bypass 2FA. A fully secured Google account requires addressing all of these attack vectors, not just enabling two-factor authentication."

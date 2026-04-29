@@ -9,7 +9,7 @@ keywords: ["how to stay anonymous online 2026", "Tor VPN combination", "online a
 affiliate: true
 author: "James Mitchell"
 author_bio: "Cybersecurity researcher and writer. Tests privacy tools and security software hands-on."
-featured_image: "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1614064641938-3bbee52942c7&w=1200&output=webp&q=70"
 faq:
   - q: "Does using Tor make you completely anonymous?"
     a: "No. Tor provides strong anonymity against most adversaries but has documented weaknesses. Timing correlation attacks — where an adversary controlling both the entry and exit nodes can statistically correlate traffic patterns — can de-anonymize Tor users. The FBI and other law enforcement agencies have successfully de-anonymized Tor users in documented cases, primarily through traffic analysis, exploiting browser vulnerabilities (which is why you should never run Tor on a regular browser), and by compromising exit nodes or the services users connect to. Tor is a powerful tool but not a magic anonymity shield."

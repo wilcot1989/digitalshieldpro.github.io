@@ -33,6 +33,9 @@ Four weeks ago I uninstalled Chrome on my main Windows machine and switched to B
 
 Here is what actually happened.
 
+
+🌍 *Moving to the EU? See also [EU banking privacy guide](https://expatnetherlandshub.com/blog/best-banking-expats-netherlands-2026/).*
+
 ## Why I Tested Brave
 
 I get asked about Brave more than almost any other browser. The pitch is compelling: drop Chrome, keep the same extension ecosystem you already know, and get real ad and tracker blocking without installing anything. No configuration required.

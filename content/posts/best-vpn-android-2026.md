@@ -9,7 +9,7 @@ keywords: ["best VPN for Android 2026", "Android VPN app", "VPN kill switch Andr
 affiliate: true
 author: "James Mitchell"
 author_bio: "Cybersecurity analyst with 8 years of hands-on experience testing VPNs, antivirus software, and privacy tools."
-featured_image: "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1614064641938-3bbee52942c7&w=1200&output=webp&q=70"
 faq:
   - q: "Does using a VPN on Android drain the battery significantly?"
     a: "It depends on the protocol and the app quality. In our four-week test, NordVPN using NordLynx averaged 6.2% extra battery drain per day — barely noticeable. Older apps using OpenVPN over TCP drained up to 18% more. Modern WireGuard-based protocols are the most efficient. If battery life is a priority, choose an app that defaults to WireGuard or a proprietary equivalent like NordLynx or Lightway."

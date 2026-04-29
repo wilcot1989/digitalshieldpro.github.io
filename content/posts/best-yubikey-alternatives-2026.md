@@ -9,7 +9,7 @@ keywords: ["best YubiKey alternatives 2026", "Token2 review", "SoloKey review", 
 affiliate: true
 author: "James Mitchell"
 author_bio: "Cybersecurity researcher and writer. Tests privacy tools and security software hands-on."
-featured_image: "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1614064641938-3bbee52942c7&w=1200&output=webp&q=70"
 products:
   - name: "YubiKey"
     url: "/go/yubikey"

@@ -9,7 +9,7 @@ keywords: ["Signal guide 2026", "how to use Signal", "Signal disappearing messag
 affiliate: true
 author: "James Mitchell"
 author_bio: "Cybersecurity researcher and writer. Tests privacy tools and security software hands-on."
-featured_image: "https://images.unsplash.com/photo-1555421689-491a97ff2040?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1555421689-491a97ff2040&w=1200&output=webp&q=70"
 faq:
   - q: "Is Signal really private — can the company see my messages?"
     a: "No. Signal uses end-to-end encryption (the Signal Protocol) for all messages and calls. Not even Signal's own servers can decrypt your messages. Signal stores minimal metadata — it cannot see who you talk to, what you say, or when you communicated. A 2022 subpoena to Signal by US law enforcement resulted in Signal providing only two data points: the date your account was created and the date you last connected."

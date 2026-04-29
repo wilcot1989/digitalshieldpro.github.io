@@ -44,6 +44,9 @@ I spent four months testing Incogni and DeleteMe from the Netherlands. I want to
 
 ---
 
+
+🌍 *Moving to the EU? See also [EU banking privacy guide](https://expatnetherlandshub.com/blog/best-banking-expats-netherlands-2026/).*
+
 ## Why Data Broker Removal Matters More in 2026
 
 Three trends have converged to make data broker exposure riskier than five years ago:

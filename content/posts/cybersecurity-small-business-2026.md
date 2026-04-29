@@ -35,6 +35,9 @@ I consult with small businesses on security, and the pattern is always the same:
 
 Already have basic protection? Level up with our [endpoint security comparison](/posts/best-endpoint-security-2026/).
 
+
+🌍 *Moving to the EU? See also [EU banking privacy guide](https://expatnetherlandshub.com/blog/best-banking-expats-netherlands-2026/).*
+
 ## The Small Business Security Stack
 
 | Layer | Tool | Cost/month | Protects Against |

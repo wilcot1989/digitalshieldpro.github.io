@@ -9,7 +9,7 @@ keywords: ["data broker removal EU 2026", "GDPR right to erasure", "remove perso
 affiliate: true
 author: "James Mitchell"
 author_bio: "Cybersecurity researcher and writer. Tests privacy tools and security software hands-on."
-featured_image: "https://images.unsplash.com/photo-1563013544-824ae1b704d3?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1563013544-824ae1b704d3&w=1200&output=webp&q=70"
 faq:
   - q: "What is a data broker and how did they get my information?"
     a: "Data brokers are companies that collect, aggregate, and sell personal information. They gather data from public records (electoral roll, property registrations, court records), social media, loyalty card programmes, survey responses, app permissions, and purchases from other data brokers. They did not ask your permission — in the EU, processing personal data requires a legal basis, and many brokers incorrectly claim legitimate interest. GDPR gives you the right to challenge this."

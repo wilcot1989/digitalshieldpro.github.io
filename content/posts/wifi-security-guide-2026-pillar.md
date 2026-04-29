@@ -9,7 +9,7 @@ keywords: ["wifi security guide 2026", "WPA3 setup", "mesh network security", "I
 affiliate: true
 author: "James Mitchell"
 author_bio: "Cybersecurity researcher and writer. Tests privacy tools and security software hands-on."
-featured_image: "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1614064641938-3bbee52942c7&w=1200&output=webp&q=70"
 faq:
   - q: "Is WPA3 really more secure than WPA2?"
     a: "Yes, significantly. WPA3 replaces the PSK handshake with SAE (Simultaneous Authentication of Equals), which makes offline dictionary attacks impossible. Even if an attacker captures your handshake, they cannot brute-force your password offline. WPA3 also provides forward secrecy, meaning past sessions cannot be decrypted if your password is later compromised."

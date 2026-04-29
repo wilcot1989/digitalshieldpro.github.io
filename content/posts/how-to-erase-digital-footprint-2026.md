@@ -9,7 +9,7 @@ keywords: ["how to erase digital footprint 2026", "remove personal data from int
 affiliate: true
 author: "James Mitchell"
 author_bio: "Cybersecurity researcher and writer. Tests privacy tools and security software hands-on."
-featured_image: "https://images.unsplash.com/photo-1563013544-824ae1b704d3?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1563013544-824ae1b704d3&w=1200&output=webp&q=70"
 faq:
   - q: "Can you completely erase your digital footprint?"
     a: "Complete erasure is not realistic for most people — old social media posts, news articles, court records, and cached pages are difficult or impossible to fully remove. However, you can dramatically reduce your exposure by opting out of data brokers, removing social media profiles, and using privacy-respecting services going forward. Aim for significant reduction, not perfection."

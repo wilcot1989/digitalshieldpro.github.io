@@ -9,7 +9,7 @@ keywords: ["passkeys vs passwords 2026", "passkey adoption 2026", "should I use 
 affiliate: true
 author: "James Mitchell"
 author_bio: "Cybersecurity researcher and writer. Tests privacy tools and security software hands-on."
-featured_image: "https://images.unsplash.com/photo-1563013544-824ae1b704d3?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1563013544-824ae1b704d3&w=1200&output=webp&q=70"
 faq:
   - q: "What is a passkey and how is it different from a password?"
     a: "A passkey is a cryptographic credential based on the FIDO2/WebAuthn standard. Instead of a password that exists as a string of characters, a passkey is a public-private key pair. Your device holds the private key securely; the website holds the corresponding public key. To authenticate, your device cryptographically proves it holds the private key without transmitting it. This means passkeys cannot be phished (there is no password to steal), cannot be stuffed from breach databases (the private key never leaves your device), and cannot be guessed. Authentication typically requires biometrics or a device PIN."

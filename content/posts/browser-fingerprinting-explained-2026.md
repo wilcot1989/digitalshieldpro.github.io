@@ -9,7 +9,7 @@ keywords: ["browser fingerprinting 2026", "how websites track you", "browser fin
 affiliate: true
 author: "James Mitchell"
 author_bio: "Cybersecurity researcher and writer. Tests privacy tools and security software hands-on."
-featured_image: "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1517336714731-489689fd1ca8&w=1200&output=webp&q=70"
 faq:
   - q: "What is browser fingerprinting?"
     a: "Browser fingerprinting is a tracking method that identifies you by collecting a combination of technical characteristics about your browser and device — screen resolution, fonts, plugins, GPU, time zone, language settings, and dozens more. These properties are combined into a unique 'fingerprint' that identifies you across websites without storing anything on your device."

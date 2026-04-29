@@ -9,7 +9,7 @@ keywords: ["AI scams 2026", "voice cloning scam", "deepfake video call scam", "h
 affiliate: true
 author: "James Mitchell"
 author_bio: "Cybersecurity researcher and writer. Tests privacy tools and security software hands-on."
-featured_image: "https://images.unsplash.com/photo-1555421689-491a97ff2040?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1555421689-491a97ff2040&w=1200&output=webp&q=70"
 faq:
   - q: "How do AI voice cloning scams work?"
     a: "Scammers use publicly available AI voice synthesis tools — ElevenLabs clones are common — to replicate someone's voice from as little as 3 to 30 seconds of audio. They scrape audio from YouTube videos, TikToks, voicemails, or social media. Then they call victims impersonating a family member or colleague, claiming an emergency requiring an immediate money transfer. The voice is often convincing enough that victims do not question it. The FBI reported voice cloning fraud losses exceeding $25 million in 2025."

@@ -37,6 +37,9 @@ products:
 
 Netflix killed most VPNs in 2025. Their new detection tech knocked out dozens of providers overnight, and Disney+ and BBC iPlayer followed with their own crackdowns. I know this because I tested 23 VPN services over six weeks, cycling through eight Netflix libraries, Disney+, Hulu, BBC iPlayer, Amazon Prime, and DAZN. Most of them failed. Here are the ones that still work -- and that I keep retesting to make sure they stay that way.
 
+
+🌍 *Moving to the EU? See also [EU banking privacy guide](https://expatnetherlandshub.com/blog/best-banking-expats-netherlands-2026/).*
+
 ## Quick Comparison: Best VPNs for Streaming
 
 | VPN | Streaming Score | Platforms Unblocked | Speed (4K?) | Price | Best For |

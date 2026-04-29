@@ -9,7 +9,7 @@ keywords: ["business email compromise 2026", "BEC fraud prevention", "CEO fraud 
 affiliate: true
 author: "James Mitchell"
 author_bio: "Cybersecurity analyst with 10+ years of hands-on experience testing VPNs, antivirus software, and privacy tools."
-featured_image: "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1556761175-5973dc0f32e7&w=1200&output=webp&q=70"
 faq:
   - q: "What is Business Email Compromise (BEC)?"
     a: "BEC is a type of fraud where attackers impersonate executives, vendors, or trusted colleagues via email to trick employees into transferring money, sharing sensitive data, or providing account credentials. Unlike mass phishing, BEC attacks are targeted and highly researched, making them far more convincing."
@@ -40,6 +40,9 @@ This is not a problem you can solve by telling employees to "be careful." You ne
 *This article contains affiliate links. I earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ---
+
+
+🌍 *Moving to the EU? See also [EU banking privacy guide](https://expatnetherlandshub.com/blog/best-banking-expats-netherlands-2026/).*
 
 ## What BEC Actually Looks Like in 2026
 

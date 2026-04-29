@@ -9,7 +9,7 @@ keywords: ["public wifi security 2026", "is public wifi safe", "how to stay safe
 affiliate: true
 author: "James Mitchell"
 author_bio: "Cybersecurity analyst with 10+ years of hands-on experience testing VPNs, antivirus software, and privacy tools."
-featured_image: "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1614064641938-3bbee52942c7&w=1200&output=webp&q=70"
 faq:
   - q: "Is public Wi-Fi actually dangerous in 2026?"
     a: "The risk has changed significantly over the past decade. Most web traffic is now encrypted via HTTPS, which means passive eavesdropping on properly configured websites is far less dangerous than it was in 2015. The real risks today are rogue access points (evil twin attacks), network-level monitoring by the operator, and DNS manipulation. Using a VPN addresses all of these effectively."

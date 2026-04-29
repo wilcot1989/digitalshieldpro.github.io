@@ -9,7 +9,7 @@ keywords: ["protect elderly online 2026", "senior internet safety", "how to help
 affiliate: true
 author: "James Mitchell"
 author_bio: "Cybersecurity researcher and writer. Tests privacy tools and security software hands-on."
-featured_image: "https://images.unsplash.com/photo-1555421689-491a97ff2040?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1555421689-491a97ff2040&w=1200&output=webp&q=70"
 faq:
   - q: "What are the most common scams targeting elderly people in 2026?"
     a: "The top scams targeting seniors in 2026 include: tech support scams (fake Microsoft/Apple alerts), grandparent scams (impersonating grandchildren in distress), romance scams via social media, fake parcel delivery texts (smishing), Medicare/insurance fraud calls, investment scams on Facebook, and AI voice cloning calls impersonating family members. AI voice cloning is a significant new threat — attackers clone a family member's voice using social media recordings and call to request emergency money."

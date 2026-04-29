@@ -9,7 +9,7 @@ keywords: ["how to encrypt files 2026", "veracrypt tutorial", "cryptomator revie
 affiliate: true
 author: "James Mitchell"
 author_bio: "Cybersecurity researcher and writer. Tests privacy tools and security software hands-on."
-featured_image: "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1614064641938-3bbee52942c7&w=1200&output=webp&q=70"
 faq:
   - q: "Is VeraCrypt safe to use in 2026?"
     a: "Yes. VeraCrypt has been independently audited multiple times — most recently with findings addressed in the 1.25 release cycle. It uses AES-256, Twofish, and Serpent ciphers and remains the gold standard for free open-source disk encryption. No backdoors have ever been found."

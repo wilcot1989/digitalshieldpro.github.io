@@ -35,6 +35,9 @@ I recently received a phone call that sounded exactly like a colleague asking me
 
 For broader online safety, see our [complete privacy protection guide](/posts/protect-online-privacy-2026/) and [phishing protection guide](/posts/how-to-report-phishing-2026/).
 
+
+🌍 *Moving to the EU? See also [EU banking privacy guide](https://expatnetherlandshub.com/blog/best-banking-expats-netherlands-2026/).*
+
 ## How Deepfake Scams Work
 
 ### Types of Deepfake Scams

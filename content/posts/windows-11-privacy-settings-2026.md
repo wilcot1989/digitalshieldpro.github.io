@@ -9,7 +9,7 @@ keywords: ["Windows 11 privacy settings", "disable Windows 11 telemetry", "Windo
 affiliate: true
 author: "James Mitchell"
 author_bio: "Cybersecurity researcher and writer. Tests privacy tools and security software hands-on."
-featured_image: "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1517336714731-489689fd1ca8&w=1200&output=webp&q=70"
 faq:
   - q: "Does Windows 11 really send my data to Microsoft by default?"
     a: "Yes. A freshly installed Windows 11 Home or Pro system enables diagnostic data collection, advertising IDs, location access, app activity tracking, and personalized ad delivery by default. The telemetry settings alone can transmit hardware identifiers, crash reports, typed text samples, app usage patterns, and browsing behavior from Edge. Optional components like Recall and Cortana collect even more. Disabling these features takes about 30 minutes but significantly reduces what Microsoft collects."
