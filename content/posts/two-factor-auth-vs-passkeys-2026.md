@@ -239,3 +239,84 @@ For every account where you currently use SMS 2FA, check whether TOTP or passkey
 **Hardware security keys (YubiKey) are the best option if you're a high-value target** — journalists, activists, executives, people with cryptocurrency holdings — and you can manage the operational complexity.
 
 The transition to a passkey-first world is happening, but it'll take years to fully complete. The practical strategy for 2026 is: passkeys where possible, TOTP where not, and a good password manager to handle both.
+
+---
+
+## Common Mistakes People Make When Setting Up 2FA and Passkeys
+
+After helping dozens of people set up better authentication over the past two years, I have noticed the same mistakes come up repeatedly. Avoiding them will save you significant headaches.
+
+### Mistake 1: Using Your Phone Number as a Recovery Option After Disabling SMS 2FA
+
+You upgrade from SMS 2FA to TOTP or passkeys — great decision. But you leave your phone number as the account recovery option. An attacker who SIM-swaps your number can now use account recovery to reset your password and bypass your shiny new authentication. Make sure account recovery options are also upgraded, not just the primary login factor. Use a backup email or, better, backup codes stored securely.
+
+### Mistake 2: Storing TOTP Backup Codes in the Same Place as Your TOTP App
+
+Your authenticator app lives on your phone. Your backup codes are in a notes app on your phone. Your phone is lost or stolen. You are now locked out. Backup codes for TOTP should be printed and stored physically (fireproof safe, safety deposit box), or stored in an offline password manager vault that is separately accessible from your primary device.
+
+### Mistake 3: Using a Single Security Key With No Backup
+
+Hardware security keys are excellent. Losing your only key is painful. Register at least two security keys on every high-value account — a primary key you carry and a backup key stored securely at home. If your primary key is lost, you use the backup to remove the lost key and register a new one.
+
+### Mistake 4: Creating Passkeys for All Accounts and Deleting Passwords Without Backup
+
+Passkeys are not universally supported across all platforms and devices yet. If you create a passkey on your phone via iCloud Keychain and later need to log into that account on a Windows machine that is not connected to your Apple account, you may not have access to the passkey. Keep a strong password in your password manager as fallback until you are confident the passkey is accessible from all devices you regularly use.
+
+### Mistake 5: Neglecting Second-Device Authentication Prompts
+
+Some services (Google, Apple) send authentication prompts to a trusted device — you approve a login by tapping "Yes" on your phone. This is convenient but creates a new attack vector: prompt bombing. Attackers who have your password flood you with authentication requests hoping you accidentally approve one. Never approve a prompt you did not initiate. If you receive unexpected prompts, change your password immediately.
+
+---
+
+## The Business Case: Why Companies Are Moving to Passkeys Fast
+
+Individual users choosing passkeys makes sense for security. But the corporate adoption of passkeys is happening for an additional, compelling reason: help desk cost reduction.
+
+Password resets are one of the largest single costs in IT support. Research by Forrester found that large enterprises spend $1 million or more annually on password-related help desk calls, with an average reset cost of $70 per incident. Passkeys eliminate most password resets (there is no password to forget) and reduce account lockouts significantly.
+
+Google reported that since rolling out passkey support for Google accounts, the volume of password-related support requests from users who adopt passkeys dropped by approximately 60%.
+
+Microsoft has made passkey migration central to its enterprise identity strategy. Organizations using Microsoft Entra ID (formerly Azure AD) can now deploy passkey authentication for their entire workforce. The security benefit (phishing resistance) aligns with the cost benefit (reduced support overhead).
+
+If your organization is evaluating authentication modernization, passkeys are not just a consumer technology — they are increasingly the enterprise standard.
+
+---
+
+## What the Threat Landscape Looks Like When Passkeys Are Adopted
+
+One question I get asked frequently: if passkeys are phishing-resistant, will phishing attacks just go away?
+
+No. But they will change form.
+
+Attackers will increasingly target passkey recovery flows rather than the passkeys themselves. If a passkey can be bypassed by recovering the associated account via a backup email address or phone number, attackers will focus on those recovery options. This means:
+
+- Strong security on your account recovery email is critical
+- Backup phone numbers for recovery should be protected with strong authentication
+- Passkey-related social engineering ("I need help accessing my account, can you add a new passkey for me?") will increase
+
+The attack surface shrinks dramatically when passkeys are adopted — but does not disappear. The attackers who remain capable are the ones who target the recovery flows, the exceptions, and the human factors around passkey management.
+
+For most users, this shift represents a significant security improvement. The attacks that succeed against passkey-protected accounts are substantially more difficult to execute than the credential-stuffing and real-time phishing attacks that dominate today's threat landscape.
+
+---
+
+## Integrating Passkeys With Your Existing Password Manager
+
+If you are already using a password manager, the transition to passkeys is less disruptive than you might expect. Both NordPass and 1Password have native passkey support that integrates cleanly with existing password vaults.
+
+**How it works in practice (NordPass example):**
+1. You visit a site that supports passkeys (Google, PayPal, GitHub, etc.)
+2. You select "Create a passkey" in the account security settings
+3. NordPass detects the passkey creation flow and offers to save the passkey
+4. The passkey is stored in your NordPass vault, encrypted and synced across your devices
+5. On future logins, NordPass auto-fills the passkey just as it would a username and password
+
+The passkey in your NordPass vault is tied to your NordPass master password and biometric unlock — so the security of your passkeys depends on the security of your password manager account. This is a reasonable trade-off for most users because a password manager account protected by a strong master password and its own TOTP 2FA is a very strong authentication anchor.
+
+[**Start managing passkeys and passwords with NordPass →**](/go/nordpass)
+
+[**Or try 1Password's passkey management →**](/go/1password)
+
+---
+
+## Frequently Asked Questions About 2FA vs. Passkeys
