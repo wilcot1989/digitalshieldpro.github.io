@@ -24,6 +24,13 @@ faq:
   - q: "What is the most important Google tracking setting to disable?"
     a: "Web & App Activity is the most significant. Disabling it stops Google from creating a detailed record of every search query, Chrome page visit, and Google service interaction. Combined with turning off Location History, this removes the two most comprehensive tracking systems Google maintains on individuals."
 products: []
+products:
+  - name: "ProtonMail Plus"
+    url: "/go/protonmail"
+    price: "3.99"
+  - name: "NordVPN"
+    url: "/go/nordvpn"
+    price: "3.49"
 ---
 
 I spent an afternoon in March 2026 going through every Google account privacy setting systematically, screenshotting before and after states, and auditing what each change actually does. This guide documents that process in sequence — every setting, what it does, and why it matters.

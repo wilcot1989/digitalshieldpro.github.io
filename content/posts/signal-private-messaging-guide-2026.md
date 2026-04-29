@@ -26,6 +26,13 @@ faq:
   - q: "Does Signal support two-factor authentication?"
     a: "Signal has a Registration Lock (PIN-based 2FA) that prevents someone from re-registering your phone number as a Signal account without your PIN. Enable it at Settings > Account > Registration Lock. This prevents SIM-swapping attacks where an attacker takes over your phone number and tries to register your Signal account."
 products: []
+products:
+  - name: "ProtonMail Plus"
+    url: "/go/protonmail"
+    price: "3.99"
+  - name: "Tutanota Revolutionary"
+    url: "/go/tutanota"
+    price: "3.00"
 ---
 
 I switched from WhatsApp to Signal in January 2021 following WhatsApp's privacy policy update that made data sharing with Meta more explicit. I have been using Signal as my primary messaging app since then, testing every new feature as it ships and occasionally running it alongside Wireshark to verify the metadata claims. This guide reflects three years of daily use and hands-on testing.
