@@ -294,3 +294,11 @@ I want to end with honesty rather than false completeness. Two years into this p
 The goal was never to eliminate Google entirely — it was to stop Google from being the single company that processes every aspect of my digital life. Diversifying across Proton (email, drive, VPN), DuckDuckGo (search), Firefox (browser), and OsmAnd (maps) means no single company has the combined profile that Google accumulated when I used all their services together.
 
 That fragmentation is the privacy gain. Not ideological purity — practical reduction of a single-company surveillance profile into multiple less-comprehensive ones.
+
+## Related guides
+
+- [How to Stay Anonymous Online 2026: Tor + VPN Stack](/posts/how-to-stay-anonymous-online-2026/)
+- [Best Encrypted Email Services in 2026: Protect Your Inbox](/posts/best-encrypted-email-services-2026/)
+- [Best Privacy Browsers in 2026: Top 7 for Maximum Security](/posts/best-privacy-browsers-2026/)
+- [Build Your Complete Digital Privacy Stack 2026](/posts/best-privacy-stack-2026/)
+- [How to Disable Google Tracking in 2026](/posts/how-to-disable-google-tracking-2026/)

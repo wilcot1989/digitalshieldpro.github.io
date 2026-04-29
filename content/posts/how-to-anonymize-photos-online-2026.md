@@ -417,3 +417,11 @@ For non-sensitive verification purposes, exifdata.com or Jeffrey's Exif Viewer (
 JPEG is the most common format for photos and has well-established EXIF handling — ExifTool handles it reliably. PNG stores metadata differently (in tEXt and iTXt chunks) — ExifTool handles this too, but be aware that some tools designed for JPEG may not properly clean PNG files. HEIC (Apple's format) contains EXIF and often additional Apple-proprietary metadata — ExifTool 12+ handles HEIC well, but always verify.
 
 For maximum cleanliness, consider converting HEIC to JPEG after metadata removal. The conversion itself through a tool like ImageMagick can produce a clean output with no metadata carried over, though this involves a compression step that marginally reduces quality.
+
+## Related guides
+
+- [How to Protect Yourself Online: The Complete Digital](/posts/how-to-protect-yourself-online-2026/)
+- [How to Stay Anonymous Online 2026: Tor + VPN Stack](/posts/how-to-stay-anonymous-online-2026/)
+- [Best Dark Web Monitoring Services 2026](/posts/best-dark-web-monitoring-2026/)
+- [Best Encrypted Email Services in 2026: Protect Your Inbox](/posts/best-encrypted-email-services-2026/)
+- [Best Identity Theft Protection 2026: Tested & Compared](/posts/best-identity-theft-protection-2026/)

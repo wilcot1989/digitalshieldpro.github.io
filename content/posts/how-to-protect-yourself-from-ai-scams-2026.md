@@ -269,3 +269,11 @@ The verification protocols — safe words, callback rules, out-of-band confirmat
 
 
 <a href="/go/bitdefender" class="cta-affiliate" rel="sponsored noopener">View →</a>
+
+## Related guides
+
+- [Deepfake Scams 2026: How to Spot and Protect Yourself](/posts/deepfake-scams-protection-2026/)
+- [How to Spot Fake Websites 2026: 12 Red Flags](/posts/how-to-spot-fake-websites-2026/)
+- [How to Protect Elderly Family Members Online in 2026](/posts/how-to-protect-elderly-online-2026/)
+- [How to Protect Yourself from Phishing in 2026](/posts/how-to-protect-yourself-from-phishing-2026/)
+- [How to Protect Yourself Online: The Complete Digital](/posts/how-to-protect-yourself-online-2026/)

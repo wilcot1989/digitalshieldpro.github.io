@@ -262,3 +262,11 @@ None of the 8 examples above were stopped by user vigilance alone — the people
 Build verification into your processes: any request for credentials, payment, or software installation gets confirmed through a channel you already trust. That one habit stops most phishing attacks, even sophisticated ones.
 
 The QR code attacks are the fastest-growing category I'm seeing in 2026. Treat QR codes with the same skepticism you apply to email links — they're the same attack with a different delivery mechanism.
+
+## Related guides
+
+- [How to Protect Yourself from Phishing in 2026](/posts/how-to-protect-yourself-from-phishing-2026/)
+- [Business Email Compromise (BEC) in 2026](/posts/business-email-compromise-bec-2026/)
+- [ProtonMail review 2026: 12 months testing the privacy-first](/posts/protonmail-review-2026/)
+- [Best Email Security Solutions 2026: Protect Your Inbox](/posts/best-email-security-2026/)
+- [Best Encrypted Email Services in 2026: Protect Your Inbox](/posts/best-encrypted-email-services-2026/)

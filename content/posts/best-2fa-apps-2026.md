@@ -312,3 +312,11 @@ This seems paranoid, but it is the correct security posture for any account wher
 **1Password subscribers:** Use 1Password's built-in TOTP for everyday accounts and Aegis/Authy for your highest-value accounts.
 
 Whatever you choose, use it. The best 2FA app is the one you will actually enable across your accounts. Even SMS 2FA is significantly better than no 2FA — so if you are looking for a reason to start, the app choice should not be what stops you.
+
+## Related guides
+
+- [Two-Factor Auth vs Passkeys in 2026: Which Is More Secure?](/posts/two-factor-auth-vs-passkeys-2026/)
+- [Passkeys vs Passwords 2026: The Future of Login](/posts/passkeys-vs-passwords-2026-future/)
+- [Passkeys explained 2026: the password replacement that's](/posts/passkeys-explained-2026/)
+- [Best Hardware Security Keys in 2026](/posts/best-hardware-security-keys-2026/)
+- [Best Password Managers in 2026: Tested & Compared](/posts/best-password-managers-2026/)

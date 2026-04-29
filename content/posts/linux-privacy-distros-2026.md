@@ -370,3 +370,11 @@ For people with high security requirements, hardware running Coreboot/Libreboot 
 **WebCam and Microphone:** Physical covers for webcams are inexpensive and effective. For microphones, software muting is less reliable than a hardware switch — Purism Librem laptops include hardware kill switches for camera and microphone.
 
 **Trusted Platform Module (TPM):** TPMs are used for disk encryption key storage in Windows BitLocker and can be used in Linux setups. A TPM ties disk encryption to specific hardware, which can be useful or limiting depending on your threat model. If you use LUKS with only a passphrase (not TPM-backed), your encrypted drive is portable and usable on different hardware — relevant if you need to access data after hardware failure.
+
+## Related guides
+
+- [Best Privacy Browsers in 2026: Top 7 for Maximum Security](/posts/best-privacy-browsers-2026/)
+- [Build Your Complete Digital Privacy Stack 2026](/posts/best-privacy-stack-2026/)
+- [Privacy Alternatives to Google Services 2026](/posts/privacy-respecting-alternatives-google-services-2026/)
+- [Best Dark Web Monitoring Services 2026](/posts/best-dark-web-monitoring-2026/)
+- [Best Encrypted Email Services in 2026: Protect Your Inbox](/posts/best-encrypted-email-services-2026/)

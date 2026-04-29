@@ -299,3 +299,11 @@ A fresh Windows 11 install in 2026 is not private by default — it is a telemet
 The 30 minutes you spend working through this checklist meaningfully reduces that collection. You will not achieve perfect privacy on a Windows machine — the OS is closed source and Microsoft can change behavior in updates — but you can substantially limit what gets sent and ensure you are not opted into the most aggressive collection features by default.
 
 Re-check these settings after every major Windows feature update. And for the threats that come from outside Windows itself — phishing, malware, browser exploits — a well-configured security suite like [Bitdefender](/go/bitdefender) adds protection that privacy settings alone cannot provide.
+
+## Related guides
+
+- [Chromebook Security Guide 2026: Family Link, Extensions](/posts/chromebook-security-guide-2026/)
+- [How to Secure Your Mac in 2026: FileVault, Lockdown Mode](/posts/how-to-secure-mac-2026/)
+- [Facebook & Instagram Privacy 2026: Lockdown Guide](/posts/facebook-instagram-privacy-settings-2026/)
+- [Best Antivirus for Windows 11 in 2026](/posts/best-antivirus-for-windows-11-2026/)
+- [Build Your Complete Digital Privacy Stack 2026](/posts/best-privacy-stack-2026/)

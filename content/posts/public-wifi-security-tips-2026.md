@@ -265,3 +265,11 @@ I use VPN on every public Wi-Fi connection without exception. Not because I am c
 ---
 
 ## Frequently Asked Questions About Public Wi-Fi Security
+
+## Related guides
+
+- [Complete WiFi Security Guide 2026: WPA3, Mesh Systems](/posts/wifi-security-guide-2026-pillar/)
+- [Online Banking Security Tips 2026: 12 Habits](/posts/online-banking-security-tips-2026/)
+- [Online Shopping Security in 2026: How to Spot Fake Stores](/posts/online-shopping-security-tips-2026/)
+- [WiFi Security Guide 2026: How to Protect Your Wireless](/posts/wifi-security-guide-2026/)
+- [Best AI Security Tools in 2026: Protect Yourself with AI](/posts/best-ai-security-tools-2026/)

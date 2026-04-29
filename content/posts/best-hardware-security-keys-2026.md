@@ -366,3 +366,11 @@ For most people reading this: buy a YubiKey 5C NFC and a Token2 as backup. Regis
 ---
 
 *Testing conducted February-March 2026. All six keys purchased at retail price. NFC tap counts represent 50 attempts per key per device under normal use conditions. Setup difficulty reflects average across Google Workspace, Microsoft 365, GitHub, AWS IAM, and Bitwarden. Prices at time of testing.*
+
+## Related guides
+
+- [Best YubiKey Alternatives 2026: Token2, SoloKey](/posts/best-yubikey-alternatives-2026/)
+- [Passkeys explained 2026: the password replacement that's](/posts/passkeys-explained-2026/)
+- [Passkeys vs Passwords 2026: The Future of Login](/posts/passkeys-vs-passwords-2026-future/)
+- [Two-Factor Auth vs Passkeys in 2026: Which Is More Secure?](/posts/two-factor-auth-vs-passkeys-2026/)
+- [Best 2FA Apps 2026: Authy, Aegis, 1Password Tested](/posts/best-2fa-apps-2026/)

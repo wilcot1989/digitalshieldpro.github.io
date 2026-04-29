@@ -331,3 +331,11 @@ When you identify a scam website, reporting it takes about 30 seconds and remove
 These reports are genuinely impactful. Most fake domains are active for days to weeks before takedown. Early reporting shortens that window. The 30 seconds it takes can prevent others from being defrauded.
 
 [Protect yourself with automatic phishing detection →](/go/bitdefender)
+
+## Related guides
+
+- [How to Protect Yourself From AI Scams 2026](/posts/how-to-protect-yourself-from-ai-scams-2026/)
+- [How to Spot a Phishing Email in 2026](/posts/how-to-spot-phishing-email-2026/)
+- [Business Email Compromise (BEC) in 2026](/posts/business-email-compromise-bec-2026/)
+- [How to Protect Elderly Family Members Online in 2026](/posts/how-to-protect-elderly-online-2026/)
+- [How to Protect Yourself from Phishing in 2026](/posts/how-to-protect-yourself-from-phishing-2026/)

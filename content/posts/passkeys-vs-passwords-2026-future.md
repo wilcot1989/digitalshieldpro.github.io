@@ -238,3 +238,11 @@ For your highest-value accounts — email, financial services, work tools — en
 For the rest of your accounts, keep using a password manager with strong unique passwords and authenticator-based 2FA. The transition will come to those services. Until it does, good password hygiene remains essential.
 
 Passwords are not dead. They are on a very long, slow fade. Passkeys are earning their replacement, service by service.
+
+## Related guides
+
+- [Two-Factor Auth vs Passkeys in 2026: Which Is More Secure?](/posts/two-factor-auth-vs-passkeys-2026/)
+- [Passkeys explained 2026: the password replacement that's](/posts/passkeys-explained-2026/)
+- [Best 2FA Apps 2026: Authy, Aegis, 1Password Tested](/posts/best-2fa-apps-2026/)
+- [Best Password Managers in 2026: Tested & Compared](/posts/best-password-managers-2026/)
+- [NordPass Review 2026: Simple Password Manager from the](/posts/nordpass-review-2026/)

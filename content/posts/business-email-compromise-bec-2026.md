@@ -268,3 +268,11 @@ The criminals doing this will move to easier targets. Make sure that is not you.
 ---
 
 ## Frequently Asked Questions About Business Email Compromise
+
+## Related guides
+
+- [How to Spot a Phishing Email in 2026](/posts/how-to-spot-phishing-email-2026/)
+- [How to Protect Yourself from Phishing in 2026](/posts/how-to-protect-yourself-from-phishing-2026/)
+- [Best Email Security Solutions 2026: Protect Your Inbox](/posts/best-email-security-2026/)
+- [Fastmail Review 2026: Six Weeks Testing the Best](/posts/fastmail-review-2026/)
+- [How to Protect Yourself Online: The Complete Digital](/posts/how-to-protect-yourself-online-2026/)

@@ -328,3 +328,11 @@ Work through the checklist above and your Chromebook will be well-secured agains
 
 
 <a href="/go/incogni" class="cta-affiliate" rel="sponsored noopener">View Incogni</a>
+
+## Related guides
+
+- [How to Secure Your Mac in 2026: FileVault, Lockdown Mode](/posts/how-to-secure-mac-2026/)
+- [Windows 11 Privacy Settings 2026: The Complete Lockdown Guide](/posts/windows-11-privacy-settings-2026/)
+- [Google Account Security Checkup: Step-by-Step Audit Guide](/posts/google-security-checkup-guide-2026/)
+- [Remote Work Security Guide 2026: Protect Your Home Office](/posts/remote-work-security-guide-2026/)
+- [How to Secure Your Social Media Accounts in 2026](/posts/social-media-security-guide-2026/)

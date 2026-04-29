@@ -338,3 +338,11 @@ Starting with Facebook and Instagram is reasonable — they are the largest plat
 
 
 <a href="/go/incogni" class="cta-affiliate" rel="sponsored noopener">View →</a>
+
+## Related guides
+
+- [Windows 11 Privacy Settings 2026: The Complete Lockdown Guide](/posts/windows-11-privacy-settings-2026/)
+- [How to Secure Your Social Media Accounts in 2026](/posts/social-media-security-guide-2026/)
+- [Best Privacy Browsers in 2026: Top 7 for Maximum Security](/posts/best-privacy-browsers-2026/)
+- [Best Privacy Search Engines 2026: DuckDuckGo, Startpage](/posts/best-privacy-search-engines-2026/)
+- [Build Your Complete Digital Privacy Stack 2026](/posts/best-privacy-stack-2026/)

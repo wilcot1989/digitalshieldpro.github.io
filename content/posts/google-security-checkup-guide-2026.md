@@ -396,3 +396,11 @@ If you decide to add a dedicated password manager to your security stack, here's
 [Get NordPass — cross-browser, cross-device password management](/go/nordpass)
 
 The combination of a Google security audit (done quarterly) and a dedicated password manager (used daily) covers the two highest-impact vectors for Google account compromise: weak/reused credentials and over-granted third-party access.
+
+## Related guides
+
+- [How to Recover a Hacked Account 2026: Step-by-Step](/posts/how-to-recover-hacked-account-2026/)
+- [How to Secure Google Account 2026: Hardware 2FA](/posts/how-to-secure-google-account-2026/)
+- [How to Secure Your Social Media Accounts in 2026](/posts/social-media-security-guide-2026/)
+- [Best Internet Security Suites in 2026](/posts/best-internet-security-suite-2026/)
+- [Best 2FA Apps 2026: Authy, Aegis, 1Password Tested](/posts/best-2fa-apps-2026/)

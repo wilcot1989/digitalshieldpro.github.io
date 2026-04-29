@@ -245,3 +245,11 @@ Banking security feels like it should be the bank's job. In many ways it is. But
 The strategies here — account isolation, dedicated devices, strong 2FA, SIM locking — are not heroic measures. They are an afternoon's worth of work that substantially hardens the one area of your digital life where a security failure has direct, immediate financial consequences.
 
 Start with the dedicated banking email and unique passwords. Add strong 2FA. Call your carrier about SIM locking. Each of these steps closes a real, documented attack vector. Together, they make you a significantly harder target than the average banking customer, which is where you want to be.
+
+## Related guides
+
+- [Online Shopping Security in 2026: How to Spot Fake Stores](/posts/online-shopping-security-tips-2026/)
+- [Public Wi-Fi Security in 2026: Coffee Shop, Airport](/posts/public-wifi-security-tips-2026/)
+- [Best AI Security Tools in 2026: Protect Yourself with AI](/posts/best-ai-security-tools-2026/)
+- [Best Email Security Solutions 2026: Protect Your Inbox](/posts/best-email-security-2026/)
+- [Best Endpoint Security Software 2026: Protect Every Device](/posts/best-endpoint-security-2026/)

@@ -310,3 +310,11 @@ If you suspect your messages are being read, the steps depend on whether the thr
 - Enable disappearing messages so that past conversations on a compromised device have limited value
 
 The strongest security configuration is one you maintain consistently — setting up an ideal encrypted messaging setup and then reverting to unencrypted channels for convenience undermines everything. Pick an approach that fits your actual workflow and stick with it.
+
+## Related guides
+
+- [How to Use Signal Properly in 2026](/posts/signal-private-messaging-guide-2026/)
+- [Signal vs Threema vs SimpleX: Which Private Messenger](/posts/signal-vs-threema-vs-simplex/)
+- [Best Secure Messaging Apps in 2026](/posts/best-secure-messaging-apps-2026/)
+- [Best 2FA Apps 2026: Authy, Aegis, 1Password Tested](/posts/best-2fa-apps-2026/)
+- [Best Encrypted Email Services in 2026: Protect Your Inbox](/posts/best-encrypted-email-services-2026/)

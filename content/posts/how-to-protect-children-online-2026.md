@@ -287,3 +287,11 @@ The parent-child trust relationship is the most durable safety net that exists. 
 Invest in the conversations. Keep the promises you make about non-punitive response. Be genuinely curious about what your children are doing online — not in a surveillance way, but in the way you would ask about their day. The combination of reasonable technical controls and genuine education creates children who are genuinely safer, not just more restricted.
 
 For the account security layer, [NordPass Family](/go/nordpass) gives every family member strong, unique passwords managed in one place. It is one of the few technical measures that creates safety habits rather than just safety restrictions — habits that will serve your children long after they leave home.
+
+## Related guides
+
+- [How to Protect Elderly Family Members Online in 2026](/posts/how-to-protect-elderly-online-2026/)
+- [Best Parental Control Apps 2026: Keep Your Kids Safe Online](/posts/best-parental-control-apps-2026/)
+- [How to Protect Yourself Online: The Complete Digital](/posts/how-to-protect-yourself-online-2026/)
+- [How to Anonymize Photos Online 2026: EXIF Strip](/posts/how-to-anonymize-photos-online-2026/)
+- [How to Protect Yourself From AI Scams 2026](/posts/how-to-protect-yourself-from-ai-scams-2026/)

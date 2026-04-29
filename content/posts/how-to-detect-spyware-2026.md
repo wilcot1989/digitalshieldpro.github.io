@@ -297,3 +297,11 @@ If you believe you may have been targeted by nation-state spyware:
 If you are in a domestic abuse situation involving stalkerware, contact the National Domestic Violence Hotline (US: 1-800-799-7233) or your country's equivalent before taking technical action.
 
 Spyware, at every tier, is a serious threat. Consumer stalkerware is a tool of control and abuse. Nation-state spyware has been used to target people who were subsequently imprisoned or killed. Take it seriously, use the right detection tools for your threat model, and seek professional help when your situation warrants it.
+
+## Related guides
+
+- [How to Secure Your iPhone in 2026: Complete Apple Security](/posts/how-to-secure-iphone-2026/)
+- [Best Secure Mobile Browsers 2026: Brave, Firefox](/posts/best-secure-browsers-mobile-2026/)
+- [Best Antivirus for Android in 2026: Top Mobile Security Apps](/posts/best-antivirus-for-android-2026/)
+- [How to Detect Keyloggers in 2026: Hardware and Software Methods](/posts/how-to-detect-keyloggers-2026/)
+- [Best Anti-Malware Software 2026: Top 5 Tools Compared](/posts/best-anti-malware-software-2026/)
