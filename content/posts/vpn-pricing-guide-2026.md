@@ -1,7 +1,7 @@
 ---
 title: "VPN Pricing Guide 2026: Why Some Cost $3/Month and Others"
-date: 2026-05-29T12:00:00+01:00
-lastmod: 2026-05-29T12:00:00+01:00
+date: 2026-08-22T09:00:00-05:00
+lastmod: 2026-08-22T09:00:00-05:00
 description: "VPN prices range from $2 to $13 per month. I break down exactly what drives the price difference, which features are worth paying for."
 categories: ["vpn"]
 tags: ["vpn pricing", "vpn cost", "best vpn 2026", "nordvpn pricing", "surfshark pricing"]

@@ -1,7 +1,7 @@
 ---
 title: "Best VPN for Android in 2026: Tested for Battery, Speed"
-date: 2026-05-15T09:00:00+01:00
-lastmod: 2026-05-15T09:00:00+01:00
+date: 2026-08-15T09:00:00-05:00
+lastmod: 2026-08-15T09:00:00-05:00
 description: "I tested 8 Android VPN apps for 4 weeks across battery impact, speed, kill switch reliability, and real-world privacy. Here is what actually held up."
 categories: ["vpn"]
 tags: ["android vpn", "mobile vpn", "vpn for android", "android privacy", "kill switch vpn"]
