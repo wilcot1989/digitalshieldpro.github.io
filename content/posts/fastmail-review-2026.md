@@ -365,7 +365,7 @@ The caveat I keep coming back to: this is not ProtonMail. Fastmail is not trying
 
 I'm switching my primary email to Fastmail Standard. The $5/month annual pricing for the basic plan is reasonable, but the Standard tier at $60/year is where the value sits for anyone with a custom domain.
 
-<a href="https://go.digitalshieldpro.com/fastmail" class="cta-affiliate">Try Fastmail free for 30 days →</a>
+<a href="https://go.digitalshieldpro.com/fastmail" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Try Fastmail free for 30 days →</a>
 
 [Compare Fastmail vs ProtonMail →](/posts/fastmail-vs-protonmail-2026/) · [Best encrypted email services 2026 →](/posts/best-encrypted-email-services-2026/)
 

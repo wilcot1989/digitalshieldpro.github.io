@@ -270,7 +270,7 @@ For security professionals or enthusiasts who want full network visibility: **Fi
 Your router is the single piece of hardware that all of your network traffic passes through. It is worth spending the time to configure it correctly and the money to get one that is actively maintained.
 
 
-<a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate" rel="sponsored noopener">View →</a>
+<a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View →</a>
 
 
 <a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>

@@ -327,7 +327,7 @@ The real risk surfaces are:
 Work through the checklist above and your Chromebook will be well-secured against the threats that actually affect these devices.
 
 
-<a href="https://go.digitalshieldpro.com/incogni" class="cta-affiliate" rel="sponsored noopener">View Incogni</a>
+<a href="https://go.digitalshieldpro.com/incogni" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Incogni</a>
 
 
 <a href="/go/incogni" class="cta-affiliate" rel="sponsored noopener">View Incogni</a>

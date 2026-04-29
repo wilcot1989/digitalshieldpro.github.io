@@ -374,7 +374,7 @@ For personal data protection against the most common threats — theft, unauthor
 ---
 
 
-<a href="https://go.digitalshieldpro.com/nordpass" class="cta-affiliate" rel="sponsored noopener">View Nordpass →</a>
+<a href="https://go.digitalshieldpro.com/nordpass" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Nordpass →</a>
 
 ## Conclusion
 

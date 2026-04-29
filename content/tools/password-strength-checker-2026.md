@@ -304,7 +304,7 @@ products:
     <div style="color:#f1f5f9;font-weight:700;font-size:1.05rem;">Stop using bad passwords — get NordPass</div>
     <div style="color:#94a3b8;font-size:0.85rem;margin-top:3px;">Generates, stores, and autofills secure passwords across all your devices.</div>
   </div>
-  <a href="https://go.digitalshieldpro.com/nordpass" rel="nofollow sponsored" style="background:#2563eb;color:#fff;padding:11px 22px;border-radius:7px;font-weight:600;text-decoration:none;white-space:nowrap;font-size:0.9rem;">Try NordPass Free →</a>
+  <a href="https://go.digitalshieldpro.com/nordpass" rel="nofollow noopener sponsored" style="background:#2563eb;color:#fff;padding:11px 22px;border-radius:7px;font-weight:600;text-decoration:none;white-space:nowrap;font-size:0.9rem;" target="_blank">Try NordPass Free →</a>
 </div>
 
 ## Why Your Password Probably Is Not as Strong as You Think
@@ -431,7 +431,7 @@ Both are dramatically better than the alternative — which for most people is a
     <div style="color:#f1f5f9;font-weight:700;font-size:1.05rem;">Stop using bad passwords — get NordPass</div>
     <div style="color:#94a3b8;font-size:0.85rem;margin-top:3px;">Generates 20-character random passwords for every site. Free tier available.</div>
   </div>
-  <a href="https://go.digitalshieldpro.com/nordpass" rel="nofollow sponsored" style="background:#2563eb;color:#fff;padding:11px 22px;border-radius:7px;font-weight:600;text-decoration:none;white-space:nowrap;font-size:0.9rem;">Try NordPass Free →</a>
+  <a href="https://go.digitalshieldpro.com/nordpass" rel="nofollow noopener sponsored" style="background:#2563eb;color:#fff;padding:11px 22px;border-radius:7px;font-weight:600;text-decoration:none;white-space:nowrap;font-size:0.9rem;" target="_blank">Try NordPass Free →</a>
 </div>
 
 Or if you want the best team and family solution: [try 1Password](https://go.digitalshieldpro.com/1password) — 14-day free trial, no credit card required.

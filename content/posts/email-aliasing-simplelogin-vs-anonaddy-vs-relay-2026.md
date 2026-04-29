@@ -294,7 +294,7 @@ For self-hosters: **addy.io self-hosted** wins on principle. You control the inf
 
 For absolute beginners: **Firefox Relay** to test the concept, then upgrade to one of the other two within a month.
 
-For the encrypted inbox that aliases forward to: <a href="https://go.digitalshieldpro.com/protonmail" class="cta-affiliate" rel="sponsored noopener">View ProtonMail</a>
+For the encrypted inbox that aliases forward to: <a href="https://go.digitalshieldpro.com/protonmail" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View ProtonMail</a>
 
 ---
 

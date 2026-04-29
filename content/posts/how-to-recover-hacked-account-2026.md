@@ -320,7 +320,7 @@ Keep a secure document (encrypted, in your password manager or a secured note) t
 The difference between account recovery taking 10 minutes versus weeks comes down almost entirely to preparation. Every backup code you save, every recovery email you verify, every 2FA setup you complete before a crisis shortens recovery time dramatically. Build the system when nothing is wrong — it is far easier to prepare than to scramble.
 
 
-<a href="https://go.digitalshieldpro.com/nordpass" class="cta-affiliate" rel="sponsored noopener">View →</a>
+<a href="https://go.digitalshieldpro.com/nordpass" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View →</a>
 
 
 <a href="/go/nordpass" class="cta-affiliate" rel="sponsored noopener">View Nordpass</a>

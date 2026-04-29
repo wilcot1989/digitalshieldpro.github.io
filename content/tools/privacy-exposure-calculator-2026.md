@@ -198,9 +198,9 @@ This calculator gives you that measure. 12 questions, 90 seconds. You get a scor
 
     html += '<div style="background:#F5F7FA;border-left:4px solid #1E5FCF;padding:1rem;margin-top:1.5rem;border-radius:0 5px 5px 0;">';
     html += '<strong>📦 Recommended starter stack (covers 60% of risk):</strong><br>';
-    html += '<a href="https://go.digitalshieldpro.com/nordpass" rel="sponsored noopener" target="_blank" style="display:inline-block;background:#1E5FCF;color:#fff;padding:.5rem 1rem;border-radius:4px;font-weight:600;font-size:.85rem;text-decoration:none;margin:.4rem .25rem .4rem 0;">NordPass — passwords</a>';
-    html += '<a href="https://go.digitalshieldpro.com/nordvpn" rel="sponsored noopener" target="_blank" style="display:inline-block;background:#1E5FCF;color:#fff;padding:.5rem 1rem;border-radius:4px;font-weight:600;font-size:.85rem;text-decoration:none;margin:.4rem .25rem .4rem 0;">NordVPN — network</a>';
-    html += '<a href="https://go.digitalshieldpro.com/incogni" rel="sponsored noopener" target="_blank" style="display:inline-block;background:#1E5FCF;color:#fff;padding:.5rem 1rem;border-radius:4px;font-weight:600;font-size:.85rem;text-decoration:none;margin:.4rem .25rem .4rem 0;">Incogni — exposure</a>';
+    html += '<a href="https://go.digitalshieldpro.com/nordpass" rel="nofollow noopener sponsored" target="_blank" style="display:inline-block;background:#1E5FCF;color:#fff;padding:.5rem 1rem;border-radius:4px;font-weight:600;font-size:.85rem;text-decoration:none;margin:.4rem .25rem .4rem 0;">NordPass — passwords</a>';
+    html += '<a href="https://go.digitalshieldpro.com/nordvpn" rel="nofollow noopener sponsored" target="_blank" style="display:inline-block;background:#1E5FCF;color:#fff;padding:.5rem 1rem;border-radius:4px;font-weight:600;font-size:.85rem;text-decoration:none;margin:.4rem .25rem .4rem 0;">NordVPN — network</a>';
+    html += '<a href="https://go.digitalshieldpro.com/incogni" rel="nofollow noopener sponsored" target="_blank" style="display:inline-block;background:#1E5FCF;color:#fff;padding:.5rem 1rem;border-radius:4px;font-weight:600;font-size:.85rem;text-decoration:none;margin:.4rem .25rem .4rem 0;">Incogni — exposure</a>';
     html += '</div></div>';
 
     var out = document.getElementById('pec-result');

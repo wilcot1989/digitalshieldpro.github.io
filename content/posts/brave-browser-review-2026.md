@@ -318,7 +318,7 @@ I kept Brave as my daily driver after the four-week test. That is probably the c
 *Testing conducted April-May 2026 on Windows 11 (HP EliteBook 840) and iOS 17.4 (iPhone 15 Pro). Tracker counts reflect normal browsing sessions. Page load times are averages of 10 measurements per site per browser. All data is from my own testing environment and may not reflect your connection or device.*
 
 
-<a href="https://go.digitalshieldpro.com/brave" class="cta-affiliate" rel="sponsored noopener">View Brave</a>
+<a href="https://go.digitalshieldpro.com/brave" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Brave</a>
 
 
 <a href="/go/brave" class="cta-affiliate" rel="sponsored noopener">View Brave</a>

@@ -290,7 +290,7 @@ This psychological benefit is real and legitimate even if the pure expected-valu
 If $75/year in cyber insurance rider costs makes you meaningfully less anxious about online financial activity, that is a legitimate reason to have it — separate from any mathematical calculation about claim probability.
 
 
-<a href="https://go.digitalshieldpro.com/bitdefender" class="cta-affiliate" rel="sponsored noopener">View →</a>
+<a href="https://go.digitalshieldpro.com/bitdefender" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View →</a>
 
 
 <a href="/go/bitdefender" class="cta-affiliate" rel="sponsored noopener">View Bitdefender</a>

@@ -323,7 +323,7 @@ For 80% of users — particularly anyone outside the US, anyone on a budget, and
 
 For the US-heavy, high-exposure user who has already searched their name and found themselves on 50+ broker sites including smaller regional players: DeleteMe is worth the premium.
 
-<a href="https://go.digitalshieldpro.com/incogni" class="cta-affiliate">Try Incogni</a> · <a href="https://go.digitalshieldpro.com/deleteme" class="cta-affiliate">Try DeleteMe</a>
+<a href="https://go.digitalshieldpro.com/incogni" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Try Incogni</a> · <a href="https://go.digitalshieldpro.com/deleteme" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Try DeleteMe</a>
 
 ---
 

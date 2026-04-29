@@ -332,9 +332,9 @@ It is not as polished as 1Password and lacks the multi-vault flexibility for pow
 
 Ninety days in, my own setup is Proton Pass as primary with 1Password kept active as backup until I am fully confident. Most users coming from Bitwarden Free or NordPass should switch immediately. Users coming from 1Password should evaluate based on whether multi-vault and Travel Mode matter to them.
 
-For Proton Pass bundled with the rest of Proton's ecosystem: <a href="https://go.digitalshieldpro.com/protonmail" class="cta-affiliate" rel="sponsored noopener">View Proton Unlimited</a>
+For Proton Pass bundled with the rest of Proton's ecosystem: <a href="https://go.digitalshieldpro.com/protonmail" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Proton Unlimited</a>
 
-For NordPass instead (similar feature set, NordVPN ecosystem): <a href="https://go.digitalshieldpro.com/nordpass" class="cta-affiliate" rel="sponsored noopener">View NordPass</a>
+For NordPass instead (similar feature set, NordVPN ecosystem): <a href="https://go.digitalshieldpro.com/nordpass" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View NordPass</a>
 
 ---
 

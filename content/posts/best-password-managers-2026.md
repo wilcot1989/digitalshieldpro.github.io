@@ -270,7 +270,7 @@ A password manager is step one. For full protection:
 *Last updated: February 2026. Prices and Trustpilot scores checked February 26, 2026.*
 
 
-<a href="https://go.digitalshieldpro.com/nordpass" class="cta-affiliate" rel="sponsored noopener">View Nordpass</a>
+<a href="https://go.digitalshieldpro.com/nordpass" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Nordpass</a>
 
 
 <a href="/go/nordpass" class="cta-affiliate" rel="sponsored noopener">View Nordpass</a>

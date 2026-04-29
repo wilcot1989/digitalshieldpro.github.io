@@ -349,7 +349,7 @@ Total cost: about €120/year for the full encrypted stack with unlimited aliase
 
 Start today. Generate your first alias on the next website you sign up for. By next month it will be habit.
 
-For the bundled email + aliases solution: <a href="https://go.digitalshieldpro.com/protonmail" class="cta-affiliate" rel="sponsored noopener">View ProtonMail Unlimited</a>
+For the bundled email + aliases solution: <a href="https://go.digitalshieldpro.com/protonmail" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View ProtonMail Unlimited</a>
 
 ---
 

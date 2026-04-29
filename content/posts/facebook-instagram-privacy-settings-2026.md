@@ -337,7 +337,7 @@ Facebook and Instagram settings control what Meta can show about you to other us
 Starting with Facebook and Instagram is reasonable — they are the largest platforms and the settings changes here have the most immediate impact. Building the habit of intentional privacy configuration on these platforms makes it easier to apply the same rigor to every platform you use.
 
 
-<a href="https://go.digitalshieldpro.com/incogni" class="cta-affiliate" rel="sponsored noopener">View →</a>
+<a href="https://go.digitalshieldpro.com/incogni" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View →</a>
 
 
 <a href="/go/incogni" class="cta-affiliate" rel="sponsored noopener">View Incogni</a>

@@ -343,7 +343,7 @@ If you're in the EU, or want a cheaper starting point to test the category, Inco
 - Anyone who wants monthly (not quarterly) reports
 - Users who need month-to-month flexibility
 
-<a href="https://go.digitalshieldpro.com/deleteme" class="cta-affiliate">Try DeleteMe</a> · [Compare DeleteMe vs Incogni →](/posts/incogni-vs-deleteme-2026/)
+<a href="https://go.digitalshieldpro.com/deleteme" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Try DeleteMe</a> · [Compare DeleteMe vs Incogni →](/posts/incogni-vs-deleteme-2026/)
 
 ---
 

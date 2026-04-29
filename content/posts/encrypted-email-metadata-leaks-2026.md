@@ -347,9 +347,9 @@ Knowing this lets you make informed choices:
 
 Build your privacy stack with eyes open about what each component does and does not protect.
 
-For the encrypted inbox itself: <a href="https://go.digitalshieldpro.com/protonmail" class="cta-affiliate" rel="sponsored noopener">View ProtonMail</a>
+For the encrypted inbox itself: <a href="https://go.digitalshieldpro.com/protonmail" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View ProtonMail</a>
 
-For the VPN that hides your email connections: <a href="https://go.digitalshieldpro.com/mullvad" class="cta-affiliate" rel="sponsored noopener">View Mullvad VPN</a>
+For the VPN that hides your email connections: <a href="https://go.digitalshieldpro.com/mullvad" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Mullvad VPN</a>
 
 ---
 

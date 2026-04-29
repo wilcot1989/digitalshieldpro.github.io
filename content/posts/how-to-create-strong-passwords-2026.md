@@ -281,9 +281,9 @@ If you have not yet chosen a password manager, read our detailed [comparison of 
 
 NordPass makes it effortless to follow every best practice in this guide. You generate a strong master passphrase, and NordPass handles the rest -- creating, storing, and auto-filling unique passwords for every account.
 
-<a href="https://go.digitalshieldpro.com/nordpass?ref=/posts/how-to-create-strong-passwords-2026/" class="cta" rel="nofollow sponsored" target="_blank">Get NordPass -- Create Unbreakable Passwords Automatically</a>
+<a href="https://go.digitalshieldpro.com/nordpass?ref=/posts/how-to-create-strong-passwords-2026/" class="cta" rel="nofollow noopener sponsored" target="_blank">Get NordPass -- Create Unbreakable Passwords Automatically</a>
 
-<a href="https://go.digitalshieldpro.com/nordpass?ref=/posts/how-to-create-strong-passwords-2026/" class="cta cta-outline" rel="nofollow sponsored" target="_blank">Try NordPass Free</a>
+<a href="https://go.digitalshieldpro.com/nordpass?ref=/posts/how-to-create-strong-passwords-2026/" class="cta cta-outline" rel="nofollow noopener sponsored" target="_blank">Try NordPass Free</a>
 
 For a detailed breakdown of how NordPass stacks up against other top options, see our [1Password vs. Bitwarden comparison](/posts/1password-vs-bitwarden-2026/).
 
@@ -324,7 +324,7 @@ However, passkeys have not fully replaced passwords yet. Many websites and servi
 
 Strong passwords are one pillar of a complete security strategy. To truly protect yourself online, consider these additional layers:
 
-- **Use a VPN** on public Wi-Fi to prevent credential interception. <a href="https://go.digitalshieldpro.com/nordvpn?ref=/posts/how-to-create-strong-passwords-2026/" class="cta cta-outline" rel="nofollow sponsored" target="_blank">Get NordVPN for Secure Browsing</a>
+- **Use a VPN** on public Wi-Fi to prevent credential interception. <a href="https://go.digitalshieldpro.com/nordvpn?ref=/posts/how-to-create-strong-passwords-2026/" class="cta cta-outline" rel="nofollow noopener sponsored" target="_blank">Get NordVPN for Secure Browsing</a>
 - **Use encrypted email** to protect sensitive communications. See our [guide to encrypted email services](/posts/best-encrypted-email-services-2026/).
 - **Monitor your identity** to catch breaches early. See our [identity theft protection recommendations](/posts/best-identity-theft-protection-2026/).
 
@@ -377,12 +377,12 @@ Run through this checklist to evaluate your current password security. Every unc
 
 If you checked everything, your password security is excellent. If not, start with the items at the top of the list and work your way down. Getting a password manager in place is the single highest-impact action you can take.
 
-<a href="https://go.digitalshieldpro.com/nordpass?ref=/posts/how-to-create-strong-passwords-2026/" class="cta" rel="nofollow sponsored" target="_blank">Secure All Your Passwords with NordPass</a>
+<a href="https://go.digitalshieldpro.com/nordpass?ref=/posts/how-to-create-strong-passwords-2026/" class="cta" rel="nofollow noopener sponsored" target="_blank">Secure All Your Passwords with NordPass</a>
 
 ---
 
 
-<a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
+<a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Nordvpn</a>
 
 
 <a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>

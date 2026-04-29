@@ -291,7 +291,7 @@ For 80% of users I've coached through this: after 30 days they've adopted Proton
 
 The migration cost is a few hours. The privacy benefit is permanent. Worth testing.
 
-<a href="https://go.digitalshieldpro.com/protonmail" class="cta-affiliate">Try ProtonMail</a> · [Read full ProtonMail review →](/posts/protonmail-review-2026/)
+<a href="https://go.digitalshieldpro.com/protonmail" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Try ProtonMail</a> · [Read full ProtonMail review →](/posts/protonmail-review-2026/)
 
 ---
 

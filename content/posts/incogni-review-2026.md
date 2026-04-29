@@ -324,7 +324,7 @@ For €7.49/month annually, Incogni saved me approximately 20-25 hours of manual
 
 I'm renewing. After 12 weeks of testing, this is the most cost-effective privacy maintenance subscription I've found.
 
-<a href="https://go.digitalshieldpro.com/incogni" class="cta-affiliate">Try Incogni</a> · [Compare with DeleteMe →](/posts/deleteme-review-2026/)
+<a href="https://go.digitalshieldpro.com/incogni" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Try Incogni</a> · [Compare with DeleteMe →](/posts/deleteme-review-2026/)
 
 ---
 

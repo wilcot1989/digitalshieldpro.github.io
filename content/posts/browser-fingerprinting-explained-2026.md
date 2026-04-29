@@ -338,7 +338,7 @@ Mobile browsers present a different fingerprinting surface than desktop:
 **Firefox Focus (iOS/Android):** A privacy-focused Firefox variant that blocks trackers and scripts aggressively. Less configurable than desktop Firefox but good for mobile privacy with minimal setup.
 
 
-<a href="https://go.digitalshieldpro.com/incogni" class="cta-affiliate" rel="sponsored noopener">View Incogni</a>
+<a href="https://go.digitalshieldpro.com/incogni" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Incogni</a>
 
 
 <a href="/go/incogni" class="cta-affiliate" rel="sponsored noopener">View Incogni</a>

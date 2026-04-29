@@ -290,9 +290,9 @@ This is not bulletproof. Bulletproof communication does not exist when adversari
 
 For higher-threat scenarios — whistleblowing, sources whose lives are at risk — encrypted email is not the right tool. Use SecureDrop for first contact, air-gapped systems for processing, and minimum-metadata channels for ongoing communication.
 
-For the encrypted email layer of this stack: <a href="https://go.digitalshieldpro.com/protonmail" class="cta-affiliate" rel="sponsored noopener">View ProtonMail</a>
+For the encrypted email layer of this stack: <a href="https://go.digitalshieldpro.com/protonmail" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View ProtonMail</a>
 
-For the VPN layer (Tier 1): <a href="https://go.digitalshieldpro.com/mullvad" class="cta-affiliate" rel="sponsored noopener">View Mullvad VPN</a>
+For the VPN layer (Tier 1): <a href="https://go.digitalshieldpro.com/mullvad" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Mullvad VPN</a>
 
 If your work involves protecting sources whose lives or freedom may be at risk, also engage with:
 - Freedom of the Press Foundation

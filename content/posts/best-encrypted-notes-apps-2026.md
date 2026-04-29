@@ -266,7 +266,7 @@ For writers and journalers, **Cryptee** is worth a try. The minimal interface an
 
 For power users and the privacy-maximalist crowd, **Joplin self-hosted** with Nextcloud sync wins. You own everything, you trust no one, and the markdown-on-disk format means you can never be locked in.
 
-For your encrypted email to send the notes you write: <a href="https://go.digitalshieldpro.com/protonmail" class="cta-affiliate" rel="sponsored noopener">View ProtonMail</a>
+For your encrypted email to send the notes you write: <a href="https://go.digitalshieldpro.com/protonmail" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View ProtonMail</a>
 
 ---
 

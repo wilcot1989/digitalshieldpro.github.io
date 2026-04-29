@@ -104,7 +104,7 @@ Strong security prevents scammers from gathering information to make their deepf
 - Use a [password manager](/posts/best-password-managers-2026/) for unique passwords
 - Enable 2FA on all accounts
 - Use a [VPN](/posts/best-vpn-services-2026/) to protect your online activity
-- <a href="https://go.digitalshieldpro.com/nordvpn?ref=/posts/deepfake-scams-protection-2026/" rel="nofollow sponsored" target="_blank">NordVPN</a> includes Threat Protection that blocks malicious sites
+- <a href="https://go.digitalshieldpro.com/nordvpn?ref=/posts/deepfake-scams-protection-2026/" rel="nofollow noopener sponsored" target="_blank">NordVPN</a> includes Threat Protection that blocks malicious sites
 
 ### 5. Stay Skeptical of Urgency
 Deepfake scams almost always create a sense of urgency:
@@ -117,7 +117,7 @@ Legitimate emergencies can wait 5 minutes for you to verify. Scams cannot.
 ### 6. Monitor Your Identity
 Use dark web monitoring to know if your personal data has been leaked, which could be used to make deepfakes more convincing.
 - Check [haveibeenpwned.com](https://haveibeenpwned.com) for email breaches
-- Use <a href="https://go.digitalshieldpro.com/nordpass?ref=/posts/deepfake-scams-protection-2026/" rel="nofollow sponsored" target="_blank">NordPass</a> Data Breach Scanner
+- Use <a href="https://go.digitalshieldpro.com/nordpass?ref=/posts/deepfake-scams-protection-2026/" rel="nofollow noopener sponsored" target="_blank">NordPass</a> Data Breach Scanner
 
 ## How Deepfake Technology Has Evolved: A Technical Primer
 
@@ -283,7 +283,7 @@ The technology is going to keep getting better. The answer is to build systems t
 *Last updated: May 2026.*
 
 
-<a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
+<a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Nordvpn</a>
 
 
 <a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>

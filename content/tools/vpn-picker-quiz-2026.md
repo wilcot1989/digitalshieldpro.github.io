@@ -263,7 +263,7 @@ This quiz cuts through the marketing fog. 7 questions about how YOU use a VPN, w
 
     // Bonus: stack-deal
     html += '<div style="background:#F5F7FA;border-left:4px solid #1E5FCF;padding:1rem;margin-top:1.5rem;border-radius:0 5px 5px 0;font-size:.9rem;">';
-    html += '<strong>💡 Pro tip:</strong> Pair your VPN with a password manager (<a href="https://go.digitalshieldpro.com/nordpass" rel="sponsored noopener">NordPass</a>) and encrypted email (<a href="https://go.digitalshieldpro.com/protonmail" rel="sponsored noopener">ProtonMail</a>) for the complete privacy stack. See our <a href="/posts/best-privacy-stack-2026/">privacy stack guide</a>.';
+    html += '<strong>💡 Pro tip:</strong> Pair your VPN with a password manager (<a href="https://go.digitalshieldpro.com/nordpass" rel="nofollow noopener sponsored" target="_blank">NordPass</a>) and encrypted email (<a href="https://go.digitalshieldpro.com/protonmail" rel="nofollow noopener sponsored" target="_blank">ProtonMail</a>) for the complete privacy stack. See our <a href="/posts/best-privacy-stack-2026/">privacy stack guide</a>.';
     html += '</div>';
 
     html += '</div>';

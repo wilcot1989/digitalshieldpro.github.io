@@ -252,7 +252,7 @@ Smart home technology is genuinely useful. The security risks are manageable if 
 
 ## Frequently Asked Questions About Smart Home Security
 
-<a href="https://go.digitalshieldpro.com/nordpass" class="cta-affiliate" rel="sponsored noopener">View Nordpass</a>
+<a href="https://go.digitalshieldpro.com/nordpass" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Nordpass</a>
 
 
 <a href="/go/nordpass" class="cta-affiliate" rel="sponsored noopener">View Nordpass</a>

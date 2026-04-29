@@ -288,7 +288,7 @@ The trade-offs are real: 500 GB instead of 2 TB, no AI photo search, more fricti
 
 Start with [ProtonMail Plus](/posts/protonmail-review-2026/) at €4.99/month for a month to see if the email experience works for you. Upgrade to Unlimited when you are ready to commit. The migration is real work, but six months in I have not regretted the switch once.
 
-For the full Proton ecosystem at €9.99/month: <a href="https://go.digitalshieldpro.com/protonmail" class="cta-affiliate" rel="sponsored noopener">View Proton Unlimited</a>
+For the full Proton ecosystem at €9.99/month: <a href="https://go.digitalshieldpro.com/protonmail" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Proton Unlimited</a>
 
 ---
 

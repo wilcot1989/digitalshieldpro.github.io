@@ -134,7 +134,7 @@ Surfshark is the better budget option and actually scores higher on Trustpilot. 
 
 The honest downside of any VPN: it protects your network traffic, not your decision-making. If you type your password into a phishing page while connected to a VPN, the VPN can't save you. That's why this is layer 2, not layer 1.
 
-<a href="https://go.digitalshieldpro.com/nordvpn?ref=/posts/how-to-protect-yourself-from-phishing-2026/" class="cta" rel="nofollow sponsored" target="_blank">Get NordVPN -- Threat Protection Included</a>
+<a href="https://go.digitalshieldpro.com/nordvpn?ref=/posts/how-to-protect-yourself-from-phishing-2026/" class="cta" rel="nofollow noopener sponsored" target="_blank">Get NordVPN -- Threat Protection Included</a>
 
 Read more: [Best VPN Services in 2026](/posts/best-vpn-services-2026/) | [NordVPN vs Surfshark](/posts/nordvpn-vs-surfshark-2026/)
 
@@ -166,7 +166,7 @@ Fight fire with fire. Modern email security tools use machine learning to detect
 - **Norton 360** -- Trustpilot 4.7/5 with 65,800+ reviews. Includes real-time email scanning, Safe Web browser extension, and URL blocking. The highest-rated security suite on Trustpilot, and the email protection caught two phishing emails in my testing that Gmail missed
 - **Bitdefender** -- Trustpilot 3.6/5 with 10,100+ reviews. The browser extension's real-time anti-phishing is excellent. Lower Trustpilot score is mostly due to support complaints, not product quality. The actual detection rates in independent AV-TEST labs are consistently top-tier
 
-<a href="https://go.digitalshieldpro.com/bitdefender?ref=/posts/how-to-protect-yourself-from-phishing-2026/" class="cta cta-outline" rel="nofollow sponsored" target="_blank">Get Bitdefender -- Real-Time Anti-Phishing Protection</a>
+<a href="https://go.digitalshieldpro.com/bitdefender?ref=/posts/how-to-protect-yourself-from-phishing-2026/" class="cta cta-outline" rel="nofollow noopener sponsored" target="_blank">Get Bitdefender -- Real-Time Anti-Phishing Protection</a>
 
 Read more: [Best Antivirus Software in 2026](/posts/best-antivirus-software-2026/) | [Bitdefender vs Norton](/posts/bitdefender-vs-norton-2026/)
 
@@ -301,7 +301,7 @@ The mistake I see most often? People doing nothing because they think the full s
 *Prices and Trustpilot scores last verified: February 2026. Stay safe out there.*
 
 
-<a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
+<a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Nordvpn</a>
 
 
 <a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>

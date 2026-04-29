@@ -40,7 +40,7 @@ Want stronger passwords for all your accounts? Check our [guide to creating unbr
 Before diving into platform-specific settings, apply these to every social media account:
 
 ### 1. Use Unique Passwords
-Every account needs a different, complex password. Use <a href="https://go.digitalshieldpro.com/nordpass?ref=/posts/social-media-security-guide-2026/" rel="nofollow sponsored" target="_blank">NordPass</a> or another password manager to generate and store them.
+Every account needs a different, complex password. Use <a href="https://go.digitalshieldpro.com/nordpass?ref=/posts/social-media-security-guide-2026/" rel="nofollow noopener sponsored" target="_blank">NordPass</a> or another password manager to generate and store them.
 
 ### 2. Enable Two-Factor Authentication (2FA)
 
@@ -154,7 +154,7 @@ Watch for these warning signs:
 ## Advanced Protection
 
 ### Use a VPN on Public Wi-Fi
-When checking social media on public networks, use <a href="https://go.digitalshieldpro.com/nordvpn?ref=/posts/social-media-security-guide-2026/" rel="nofollow sponsored" target="_blank">NordVPN</a> to encrypt your connection and prevent session hijacking.
+When checking social media on public networks, use <a href="https://go.digitalshieldpro.com/nordvpn?ref=/posts/social-media-security-guide-2026/" rel="nofollow noopener sponsored" target="_blank">NordVPN</a> to encrypt your connection and prevent session hijacking.
 
 ### Separate Email for Social Media
 Create a dedicated email address for your social media accounts. If one is compromised, your primary email stays safe.
@@ -304,7 +304,7 @@ The goal is not perfection — it is making attacks economically unviable. Here 
 Securing your social media takes 30 minutes upfront and 10 minutes per month to maintain. The three most impactful actions: unique passwords with a password manager, authenticator-based 2FA on every account, and regular review of connected apps and active sessions.
 
 
-<a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
+<a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Nordvpn</a>
 
 
 <a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>

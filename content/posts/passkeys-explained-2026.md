@@ -370,7 +370,7 @@ Then add 2-3 more. By month three you'll have replaced the most painful 80% of y
 
 For a full implementation: [Bitwarden Premium](https://go.digitalshieldpro.com/nordpass) or [1Password](https://go.digitalshieldpro.com/1password) at €2-3/month gives you passkey storage + sync + the rest of password manager features.
 
-<a href="https://go.digitalshieldpro.com/1password" class="cta-affiliate">Get 1Password</a> · <a href="https://go.digitalshieldpro.com/nordpass" class="cta-affiliate">Get NordPass</a>
+<a href="https://go.digitalshieldpro.com/1password" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Get 1Password</a> · <a href="https://go.digitalshieldpro.com/nordpass" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Get NordPass</a>
 
 ---
 

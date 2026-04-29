@@ -362,7 +362,7 @@ A: That is exactly what DMARC at `p=reject` solves. Once fully deployed, no emai
 For Microsoft 365 businesses, start with **Microsoft Defender Plan 1** (€1.90/user/month) — it's affordable and well-integrated. For stronger protection, add **IRONSCALES** for AI detection plus employee training. Enterprise organizations should evaluate **Proofpoint** for the best threat intelligence.
 
 
-<a href="https://go.digitalshieldpro.com/eset" class="cta-affiliate" rel="sponsored noopener">View Eset</a>
+<a href="https://go.digitalshieldpro.com/eset" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Eset</a>
 
 
 <a href="/go/eset" class="cta-affiliate" rel="sponsored noopener">View Eset</a>

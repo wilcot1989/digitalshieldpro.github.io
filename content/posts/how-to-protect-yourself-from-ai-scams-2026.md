@@ -268,7 +268,7 @@ A parent who gets a call from their child's voice saying "I need help" is fighti
 The verification protocols — safe words, callback rules, out-of-band confirmation — are not complicated. They require commitment rather than technical knowledge. Set them up with your family this week, before you need them.
 
 
-<a href="https://go.digitalshieldpro.com/bitdefender" class="cta-affiliate" rel="sponsored noopener">View →</a>
+<a href="https://go.digitalshieldpro.com/bitdefender" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View →</a>
 
 
 <a href="/go/bitdefender" class="cta-affiliate" rel="sponsored noopener">View Bitdefender</a>

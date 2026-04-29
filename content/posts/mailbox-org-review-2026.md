@@ -307,7 +307,7 @@ For most privacy-aware users I now recommend Mailbox.org as the default starting
 
 Try Mailbox.org Light (€1/month) for a month. If you stay, upgrade to Standard. You will spend about €36 per year on serious encrypted email — less than half what ProtonMail Plus costs.
 
-For the polished alternative with full mobile apps: <a href="https://go.digitalshieldpro.com/protonmail" class="cta-affiliate" rel="sponsored noopener">View ProtonMail</a>
+For the polished alternative with full mobile apps: <a href="https://go.digitalshieldpro.com/protonmail" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View ProtonMail</a>
 
 ---
 
