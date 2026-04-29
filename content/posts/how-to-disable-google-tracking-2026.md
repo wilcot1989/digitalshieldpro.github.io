@@ -26,10 +26,10 @@ faq:
 products: []
 products:
   - name: "ProtonMail Plus"
-    url: "/go/protonmail"
+    url: "https://go.digitalshieldpro.com/protonmail"
     price: "3.99"
   - name: "NordVPN"
-    url: "/go/nordvpn"
+    url: "https://go.digitalshieldpro.com/nordvpn"
     price: "3.49"
 ---
 
@@ -382,4 +382,4 @@ The settings you will not find: controls over data Google infers about you from 
 - [Data Broker Removal Guide EU 2026](/posts/data-broker-removal-guide-eu-2026/)
 
 
-<a href="/go/eset" class="cta-affiliate" rel="sponsored noopener">View Eset</a>
+<a href="https://go.digitalshieldpro.com/eset" class="cta-affiliate" rel="sponsored noopener">View Eset</a>

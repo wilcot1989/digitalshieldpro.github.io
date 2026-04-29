@@ -27,7 +27,7 @@ faq:
     a: "Act immediately: (1) Contact their bank to report fraud and freeze cards if payment was made. (2) Change passwords on compromised accounts. (3) If gift cards were sent, contact the gift card issuer — recovery is sometimes possible if fast. (4) Report to Action Fraud (UK) or FTC.gov (US). (5) If a device was accessed remotely, run a full antivirus scan and consider a factory reset. (6) Notify their doctor if significant financial loss causes emotional distress — elder fraud has documented psychological health impacts."
 products:
   - name: "Bitdefender"
-    url: "/go/bitdefender"
+    url: "https://go.digitalshieldpro.com/bitdefender"
     price: ""
 ---
 
@@ -126,7 +126,7 @@ Also enable:
 
 Windows Defender is adequate for technically confident users who recognize threats. For elderly users who may click anything convincingly presented, a layered solution is better.
 
-[**Bitdefender Total Security**](/go/bitdefender) is my top recommendation for this use case because:
+[**Bitdefender Total Security**](https://go.digitalshieldpro.com/bitdefender) is my top recommendation for this use case because:
 
 - **Set and forget**: After installation, it runs silently and updates automatically. No decisions required from the user.
 - **Scamio**: Bitdefender's AI scam advisor can evaluate suspicious emails, texts, or links. The elder can paste a suspicious message and get an immediate verdict.

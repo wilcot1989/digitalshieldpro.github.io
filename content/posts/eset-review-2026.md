@@ -29,7 +29,7 @@ faq:
     a: "ESET's password manager, included only in Home Security Premium, is basic. It handles password storage, autofill, and generation but lacks features like breach monitoring, secure sharing, and passkey support. For serious password management we recommend a dedicated tool like NordPass or 1Password."
 products:
   - name: "ESET"
-    url: "/go/eset"
+    url: "https://go.digitalshieldpro.com/eset"
     price: ""
 ---
 
@@ -395,7 +395,7 @@ If lightweight performance and advanced controls are your priorities, ESET deser
 ---
 
 
-<a href="/go/eset" class="cta-affiliate" rel="sponsored noopener">View Eset</a>
+<a href="https://go.digitalshieldpro.com/eset" class="cta-affiliate" rel="sponsored noopener">View Eset</a>
 
 ## Related Guides
 

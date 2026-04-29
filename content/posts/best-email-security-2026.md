@@ -25,7 +25,7 @@ faq:
     a: "Prices range from €1.90/user/month (Microsoft Defender Plan 1) to €6-€10/user/month (enterprise solutions like Proofpoint and Mimecast). For a 10-person business, expect €20-€100/month. The ROI is significant: the average phishing attack costs businesses €15,000-€50,000."
 products:
   - name: "ESET"
-    url: "/go/eset"
+    url: "https://go.digitalshieldpro.com/eset"
     price: ""
 ---
 
@@ -362,7 +362,7 @@ A: That is exactly what DMARC at `p=reject` solves. Once fully deployed, no emai
 For Microsoft 365 businesses, start with **Microsoft Defender Plan 1** (€1.90/user/month) — it's affordable and well-integrated. For stronger protection, add **IRONSCALES** for AI detection plus employee training. Enterprise organizations should evaluate **Proofpoint** for the best threat intelligence.
 
 
-<a href="/go/eset" class="cta-affiliate" rel="sponsored noopener">View Eset</a>
+<a href="https://go.digitalshieldpro.com/eset" class="cta-affiliate" rel="sponsored noopener">View Eset</a>
 
 ## Read More
 

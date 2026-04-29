@@ -25,7 +25,7 @@ faq:
     a: "Immediately change passwords on all accounts (starting with email and banking), enable 2FA everywhere, scan your devices for malware, notify affected clients, check financial accounts for unauthorized transactions, and consider credit monitoring. Document everything for potential insurance or legal claims."
 products:
   - name: "NordVPN"
-    url: "/go/nordvpn"
+    url: "https://go.digitalshieldpro.com/nordvpn"
     price: ""
 ---
 
@@ -322,4 +322,4 @@ At the end of 90 minutes you will have addressed the majority of realistic threa
 *Last updated: May 2026.*
 
 
-<a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
+<a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>

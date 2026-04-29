@@ -25,7 +25,7 @@ faq:
     a: "Yes. All four managers in this comparison support passkeys, the new passwordless authentication standard. 1Password and Dashlane have the most mature passkey implementations as of February 2026."
 products:
   - name: "NordPass"
-    url: "/go/nordpass"
+    url: "https://go.digitalshieldpro.com/nordpass"
     price: ""
 ---
 
@@ -270,4 +270,4 @@ A password manager is step one. For full protection:
 *Last updated: February 2026. Prices and Trustpilot scores checked February 26, 2026.*
 
 
-<a href="/go/nordpass" class="cta-affiliate" rel="sponsored noopener">View Nordpass</a>
+<a href="https://go.digitalshieldpro.com/nordpass" class="cta-affiliate" rel="sponsored noopener">View Nordpass</a>

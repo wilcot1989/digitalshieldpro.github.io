@@ -29,7 +29,7 @@ faq:
     a: "The standard Total Security license covers 3 devices (upgradable to 5 or 10). Alternatively, the Premium Security plan includes 10 devices along with unlimited VPN and identity theft protection."
 products:
   - name: "Bitdefender"
-    url: "/go/bitdefender"
+    url: "https://go.digitalshieldpro.com/bitdefender"
     price: ""
 ---
 
@@ -349,7 +349,7 @@ For those who need unlimited VPN and cloud backup bundled in, [Norton 360 Deluxe
 ---
 
 
-<a href="/go/bitdefender" class="cta-affiliate" rel="sponsored noopener">View Bitdefender</a>
+<a href="https://go.digitalshieldpro.com/bitdefender" class="cta-affiliate" rel="sponsored noopener">View Bitdefender</a>
 
 ## Related Guides
 

@@ -353,7 +353,7 @@ Tutanota in 2026 is the right choice if:
 
 For me as a power user with Thunderbird workflow: Proton wins because of Bridge. But for ~80% of users without my specific needs: Tuta is genuinely competitive and €24/year cheaper.
 
-<a href="/go/tutanota" class="cta-affiliate">Bekijk Tuta Mail</a> · [Compare with ProtonMail →](/posts/protonmail-review-2026/)
+<a href="https://go.digitalshieldpro.com/tutanota" class="cta-affiliate">Bekijk Tuta Mail</a> · [Compare with ProtonMail →](/posts/protonmail-review-2026/)
 
 ---
 

@@ -29,7 +29,7 @@ faq:
     a: "With real-time protection enabled, full manual scans are less critical. We recommend running a full scan once per week and letting your antivirus handle real-time monitoring for everything else. Schedule scans for times when you are not actively using your PC."
 products:
   - name: "Bitdefender"
-    url: "/go/bitdefender"
+    url: "https://go.digitalshieldpro.com/bitdefender"
     price: ""
 ---
 
@@ -535,7 +535,7 @@ Windows Defender is fine as a free baseline, but if you store sensitive data, do
 ---
 
 
-<a href="/go/bitdefender" class="cta-affiliate" rel="sponsored noopener">View Bitdefender</a>
+<a href="https://go.digitalshieldpro.com/bitdefender" class="cta-affiliate" rel="sponsored noopener">View Bitdefender</a>
 
 ## Related Guides
 

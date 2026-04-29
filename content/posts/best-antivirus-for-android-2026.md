@@ -29,7 +29,7 @@ faq:
     a: "Common signs include unexplained battery drain, increased data usage, apps you do not remember installing, frequent pop-up ads even outside of browsers, sluggish performance, and your phone overheating during idle periods. If you notice any of these symptoms, run a full scan with a reputable antivirus app immediately. The products in our ranking can detect and remove active infections."
 products:
   - name: "Bitdefender"
-    url: "/go/bitdefender"
+    url: "https://go.digitalshieldpro.com/bitdefender"
     price: ""
 ---
 
@@ -329,7 +329,7 @@ Regardless of which product you choose, the important thing is that you choose o
 ---
 
 
-<a href="/go/bitdefender" class="cta-affiliate" rel="sponsored noopener">View Bitdefender</a>
+<a href="https://go.digitalshieldpro.com/bitdefender" class="cta-affiliate" rel="sponsored noopener">View Bitdefender</a>
 
 ## Related Guides
 

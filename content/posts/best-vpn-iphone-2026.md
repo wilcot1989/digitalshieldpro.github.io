@@ -29,10 +29,10 @@ faq:
     a: "A kill switch blocks all internet traffic if the VPN connection drops unexpectedly, preventing your real IP from leaking. On iPhone, this is implemented via the Always On VPN feature in iOS. Not all VPN apps implement it correctly — in my tests, NordVPN and ProtonVPN had the most reliable kill switch behavior on iOS."
 products:
   - name: "NordVPN"
-    url: "/go/nordvpn"
+    url: "https://go.digitalshieldpro.com/nordvpn"
     price: "From $3.99/month"
   - name: "Surfshark"
-    url: "/go/surfshark"
+    url: "https://go.digitalshieldpro.com/surfshark"
     price: "From $2.49/month"
 ---
 
@@ -101,7 +101,7 @@ The 2-year plan includes 3 free months. NordVPN covers 10 simultaneous devices.
 
 **Best for:** Most iPhone users who want the best combination of speed, features, and price.
 
-[Get NordVPN →](/go/nordvpn)
+[Get NordVPN →](https://go.digitalshieldpro.com/nordvpn)
 
 ---
 
@@ -139,7 +139,7 @@ Unlimited simultaneous devices on all plans.
 
 **Best for:** Households with multiple devices, value-focused users, users in countries with VPN restrictions.
 
-[Get Surfshark →](/go/surfshark)
+[Get Surfshark →](https://go.digitalshieldpro.com/surfshark)
 
 ---
 
@@ -321,9 +321,9 @@ For most iPhone users, NordVPN is the answer. It's fast, reliable, has a well-im
 
 If privacy is your top priority over convenience and speed, ProtonVPN's Swiss jurisdiction and open-source ethos make it the principled choice. And if you want to pay for a VPN with cash and no account at all, Mullvad remains unique.
 
-[Get NordVPN — Best for iPhone →](/go/nordvpn)
+[Get NordVPN — Best for iPhone →](https://go.digitalshieldpro.com/nordvpn)
 
-[Get Surfshark — Best Value →](/go/surfshark)
+[Get Surfshark — Best Value →](https://go.digitalshieldpro.com/surfshark)
 
 ## Related guides
 

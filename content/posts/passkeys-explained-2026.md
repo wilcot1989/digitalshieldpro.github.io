@@ -368,9 +368,9 @@ Start small. Set up a passkey for ONE site this week — Google or Apple. Use it
 
 Then add 2-3 more. By month three you'll have replaced the most painful 80% of your password use with passkeys.
 
-For a full implementation: [Bitwarden Premium](/go/nordpass) or [1Password](/go/1password) at €2-3/month gives you passkey storage + sync + the rest of password manager features.
+For a full implementation: [Bitwarden Premium](https://go.digitalshieldpro.com/nordpass) or [1Password](https://go.digitalshieldpro.com/1password) at €2-3/month gives you passkey storage + sync + the rest of password manager features.
 
-<a href="/go/1password" class="cta-affiliate">Get 1Password</a> · <a href="/go/nordpass" class="cta-affiliate">Get NordPass</a>
+<a href="https://go.digitalshieldpro.com/1password" class="cta-affiliate">Get 1Password</a> · <a href="https://go.digitalshieldpro.com/nordpass" class="cta-affiliate">Get NordPass</a>
 
 ---
 

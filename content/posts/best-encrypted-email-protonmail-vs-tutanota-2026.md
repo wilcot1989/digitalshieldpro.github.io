@@ -27,10 +27,10 @@ faq:
     a: "ProtonMail encrypts the content on their servers but the email is sent as standard SMTP to the recipient's provider (with TLS in transit). Tuta offers an alternative: you can set a password for the email, and the recipient receives a link to a secure Tuta page where they enter the password to read it. Both approaches have tradeoffs."
 products:
   - name: "ProtonMail"
-    url: "/go/protonmail"
+    url: "https://go.digitalshieldpro.com/protonmail"
     price: ""
   - name: "Tuta (Tutanota)"
-    url: "/go/tutanota"
+    url: "https://go.digitalshieldpro.com/tutanota"
     price: ""
 ---
 
@@ -60,7 +60,7 @@ Most encrypted email comparisons focus on encryption strength. That is the wrong
 
 ## ProtonMail: What Six Months Taught Me
 
-[ProtonMail](/go/protonmail) is the most well-known encrypted email provider in the world. It was founded in 2014 by CERN scientists and is headquartered in Geneva, Switzerland.
+[ProtonMail](https://go.digitalshieldpro.com/protonmail) is the most well-known encrypted email provider in the world. It was founded in 2014 by CERN scientists and is headquartered in Geneva, Switzerland.
 
 **What I use it for:** professional emails, newsletter subscriptions I actually want, and anything where I need IMAP access for archiving.
 
@@ -87,7 +87,7 @@ Pricing:
 
 ## Tuta: Six Months of Minimalist Encrypted Email
 
-[Tuta](/go/tutanota) (the company rebranded from Tutanota to Tuta in 2024) is a German-based encrypted email service founded in 2011. It is open source and operated as a GmbH with a stated mission of privacy, not profit.
+[Tuta](https://go.digitalshieldpro.com/tutanota) (the company rebranded from Tutanota to Tuta in 2024) is a German-based encrypted email service founded in 2011. It is open source and operated as a GmbH with a stated mission of privacy, not profit.
 
 **What I use it for:** personal correspondence, political/activist-adjacent communications, anything where I want the sender and recipient both using E2EE by default.
 
@@ -168,9 +168,9 @@ After 12 months across both platforms, here is how I use them:
 
 If you must choose one:
 
-**Choose [ProtonMail](/go/protonmail) if:** you need IMAP support, want a migration tool, use the broader Proton ecosystem, or correspond with other PGP users.
+**Choose [ProtonMail](https://go.digitalshieldpro.com/protonmail) if:** you need IMAP support, want a migration tool, use the broader Proton ecosystem, or correspond with other PGP users.
 
-**Choose [Tuta](/go/tutanota) if:** you want fully encrypted subject lines, prefer open-source everything, need a zero-knowledge calendar included, or value German GDPR accountability.
+**Choose [Tuta](https://go.digitalshieldpro.com/tutanota) if:** you want fully encrypted subject lines, prefer open-source everything, need a zero-knowledge calendar included, or value German GDPR accountability.
 
 Both are light-years ahead of Gmail for privacy. Either is a good choice. The migration effort is worth it.
 
@@ -337,9 +337,9 @@ The migration tool in ProtonMail makes the history migration easy. Tuta's approa
 
 ## My Final Recommendation for 2026
 
-For most people switching from Gmail, **[ProtonMail](/go/protonmail)** is the right choice. The migration tool, IMAP support, polished apps, and broader ecosystem make the transition as smooth as possible. The 2021 incident is worth knowing about but does not undermine the overall privacy proposition.
+For most people switching from Gmail, **[ProtonMail](https://go.digitalshieldpro.com/protonmail)** is the right choice. The migration tool, IMAP support, polished apps, and broader ecosystem make the transition as smooth as possible. The 2021 incident is worth knowing about but does not undermine the overall privacy proposition.
 
-For users who want maximum encryption coverage (including subject lines), prefer open-source software, and are willing to forgo IMAP client support, **[Tuta](/go/tutanota)** is the better choice — particularly for EU residents who value German GDPR accountability.
+For users who want maximum encryption coverage (including subject lines), prefer open-source software, and are willing to forgo IMAP client support, **[Tuta](https://go.digitalshieldpro.com/tutanota)** is the better choice — particularly for EU residents who value German GDPR accountability.
 
 The single biggest privacy improvement you can make to your email life is moving away from Gmail or Outlook. Either ProtonMail or Tuta achieves that goal.
 

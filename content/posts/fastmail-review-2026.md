@@ -29,10 +29,10 @@ faq:
     a: "JMAP (JSON Meta Application Protocol) is a modern open email protocol that Fastmail pioneered. It syncs faster than IMAP, uses less battery on mobile, and handles large mailboxes more efficiently. For most users this is invisible — your apps just feel snappier. If you're a developer or power user who wants to build integrations, JMAP is genuinely excellent."
 products:
   - name: "Fastmail Standard"
-    url: "/go/fastmail"
+    url: "https://go.digitalshieldpro.com/fastmail"
     price: "9.00"
   - name: "Fastmail Basic"
-    url: "/go/fastmail"
+    url: "https://go.digitalshieldpro.com/fastmail"
     price: "5.00"
   - name: "ProtonMail Plus (alternative)"
     url: "https://proton.me/mail/pricing"
@@ -365,7 +365,7 @@ The caveat I keep coming back to: this is not ProtonMail. Fastmail is not trying
 
 I'm switching my primary email to Fastmail Standard. The $5/month annual pricing for the basic plan is reasonable, but the Standard tier at $60/year is where the value sits for anyone with a custom domain.
 
-<a href="/go/fastmail" class="cta-affiliate">Try Fastmail free for 30 days →</a>
+<a href="https://go.digitalshieldpro.com/fastmail" class="cta-affiliate">Try Fastmail free for 30 days →</a>
 
 [Compare Fastmail vs ProtonMail →](/posts/fastmail-vs-protonmail-2026/) · [Best encrypted email services 2026 →](/posts/best-encrypted-email-services-2026/)
 

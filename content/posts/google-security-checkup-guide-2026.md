@@ -27,7 +27,7 @@ faq:
     a: "Yes, I recommend a dedicated password manager like NordPass. Google Password Manager works well within Chrome and Android, but a dedicated tool gives you encrypted cross-browser access, breach alerts across all accounts, and better emergency access features — especially useful if you get locked out of your Google account entirely."
 products:
   - name: "NordPass"
-    url: "/go/nordpass"
+    url: "https://go.digitalshieldpro.com/nordpass"
     price: ""
 ---
 
@@ -87,7 +87,7 @@ Google will show you three categories:
 
 **My recommendation:** If you have more than a few passwords to change, use a dedicated password manager rather than trying to remember unique passwords for every site. I use **NordPass** across all my devices — it generates strong unique passwords, syncs across browsers, and alerts me when any of my credentials appear in a new breach.
 
-[Get NordPass](/go/nordpass)
+[Get NordPass](https://go.digitalshieldpro.com/nordpass)
 
 The key advantage of a dedicated tool over Google Password Manager is that it works across all browsers and platforms, not just Chrome and Android. If you ever need to access something from Firefox, Safari, or a non-Google device, you're covered.
 
@@ -220,7 +220,7 @@ Google Password Manager is built into Chrome and Android and works reasonably we
 
 The critical limitation: if you get locked out of your Google account, you lose access to all your Google-stored passwords simultaneously. A dedicated password manager is independent — you can use it to regain access to everything else, including your Google account.
 
-I've been using [NordPass](/go/nordpass) as my primary manager for the past year. The breach scanner has flagged two of my old passwords that appeared in breach databases — information that let me change those credentials before any damage was done.
+I've been using [NordPass](https://go.digitalshieldpro.com/nordpass) as my primary manager for the past year. The breach scanner has flagged two of my old passwords that appeared in breach databases — information that let me change those credentials before any damage was done.
 
 ---
 
@@ -309,7 +309,7 @@ The account is measurably more secure now. None of the changes required technica
 
 Start with Step 1 and work through the checklist. Don't try to do it all at once if you're pushed for time — compromised passwords (Step 2) and 2FA strength (Step 3) are the highest-leverage items. Do those two today, even if you save the rest for later.
 
-[Get NordPass to manage your passwords across all your accounts](/go/nordpass)
+[Get NordPass to manage your passwords across all your accounts](https://go.digitalshieldpro.com/nordpass)
 
 ---
 
@@ -393,7 +393,7 @@ If you decide to add a dedicated password manager to your security stack, here's
 
 **Enable breach monitoring:** NordPass's breach scanner checks your stored credentials against known breach databases continuously. You'll receive alerts when a new breach contains your credentials — often faster than Google's breach alerts.
 
-[Get NordPass — cross-browser, cross-device password management](/go/nordpass)
+[Get NordPass — cross-browser, cross-device password management](https://go.digitalshieldpro.com/nordpass)
 
 The combination of a Google security audit (done quarterly) and a dedicated password manager (used daily) covers the two highest-impact vectors for Google account compromise: weak/reused credentials and over-granted third-party access.
 

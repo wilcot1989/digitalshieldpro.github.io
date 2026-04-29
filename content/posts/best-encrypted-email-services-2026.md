@@ -27,7 +27,7 @@ faq:
     a: "With zero-access encryption, the provider cannot reset your password and decrypt your mailbox. Proton Mail offers a recovery phrase you should store safely. Tuta provides a recovery code at sign-up. If you lose both your password and recovery method, your emails are permanently inaccessible -- that is the tradeoff of true encryption."
 products:
   - name: "ProtonMail"
-    url: "/go/protonmail"
+    url: "https://go.digitalshieldpro.com/protonmail"
     price: ""
 ---
 
@@ -303,4 +303,4 @@ Encrypted email protects your inbox, but your privacy has more attack surfaces t
 *Trustpilot scores and pricing last verified: February 2026.*
 
 
-<a href="/go/protonmail" class="cta-affiliate" rel="sponsored noopener">View Protonmail</a>
+<a href="https://go.digitalshieldpro.com/protonmail" class="cta-affiliate" rel="sponsored noopener">View Protonmail</a>

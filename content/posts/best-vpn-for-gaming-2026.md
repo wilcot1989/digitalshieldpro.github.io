@@ -29,7 +29,7 @@ faq:
     a: "Games with centralized servers in specific regions benefit most. If you are connecting to a game server far from your location, a VPN server near the game server can reduce hops and improve routing. Games like Valorant (Riot servers), League of Legends, and Final Fantasy XIV often benefit. Peer-to-peer games like some Call of Duty modes benefit primarily from the DDoS protection a VPN provides."
 products:
   - name: "NordVPN"
-    url: "/go/nordvpn"
+    url: "https://go.digitalshieldpro.com/nordvpn"
     price: ""
 ---
 
@@ -380,7 +380,7 @@ Regardless of which VPN you choose, the configuration matters as much as the pro
 ---
 
 
-<a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
+<a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
 
 ## Related Guides
 

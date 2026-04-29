@@ -27,10 +27,10 @@ faq:
     a: "Yes. TOTP codes can be phished using real-time relay attacks where attackers create a fake login page, capture your code the moment you enter it, and use it immediately on the real site before it expires. This is why FIDO2 hardware keys are considered superior — they validate the domain and reject phishing sites automatically."
 products:
   - name: "1Password"
-    url: "/go/1password"
+    url: "https://go.digitalshieldpro.com/1password"
     price: ""
   - name: "NordPass"
-    url: "/go/nordpass"
+    url: "https://go.digitalshieldpro.com/nordpass"
     price: ""
 ---
 
@@ -172,7 +172,7 @@ The best choice for Android users who prioritize security and data sovereignty. 
 
 The workflow is genuinely seamless. Log in to a site, autofill your username and password, then autofill the 2FA code — all from the same 1Password interface. For people who struggle to build the 2FA habit, this removes all friction.
 
-See [1Password features and pricing](/go/1password) for the full breakdown.
+See [1Password features and pricing](https://go.digitalshieldpro.com/1password) for the full breakdown.
 
 ### The Security Argument Against
 
@@ -185,7 +185,7 @@ My recommendation: use 1Password for 2FA on convenience accounts (streaming serv
 ### Platform: iOS, Android, Windows, macOS, Linux, browser extensions
 ### Price: Included in 1Password subscription (~$3/month individual, $5/month families)
 
-Need a dedicated password manager? Check out [NordPass](/go/nordpass) as a solid alternative with a generous free tier.
+Need a dedicated password manager? Check out [NordPass](https://go.digitalshieldpro.com/nordpass) as a solid alternative with a generous free tier.
 
 ### Verdict
 
@@ -250,7 +250,7 @@ FIDO2 hardware security keys solve this cryptographically. The key authenticates
 
 Hardware keys are overkill for most accounts. For your primary email, password manager master login, and any financial or crypto accounts, they are worth it.
 
-[1Password](/go/1password) supports hardware security keys as an additional factor, and [NordPass](/go/nordpass) similarly supports FIDO2 authentication on the desktop and mobile apps.
+[1Password](https://go.digitalshieldpro.com/1password) supports hardware security keys as an additional factor, and [NordPass](https://go.digitalshieldpro.com/nordpass) similarly supports FIDO2 authentication on the desktop and mobile apps.
 
 ---
 

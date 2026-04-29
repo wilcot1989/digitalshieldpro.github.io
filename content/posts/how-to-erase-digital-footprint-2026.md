@@ -27,10 +27,10 @@ faq:
     a: "Legitimate credit bureau data (Equifax, Experian, TransUnion) is not the same as data broker data and cannot be removed via opt-out requests. Your credit report remains intact. Background check databases are a mix — some overlap with data brokers and can be opted out of, others are based on court records which are public and cannot be removed."
 products:
   - name: "Incogni"
-    url: "/go/incogni"
+    url: "https://go.digitalshieldpro.com/incogni"
     price: ""
   - name: "NordVPN"
-    url: "/go/nordvpn"
+    url: "https://go.digitalshieldpro.com/nordvpn"
     price: ""
 ---
 
@@ -169,7 +169,7 @@ In my testing over 90 days:
 
 The brokers that declined are mostly large data aggregators that operate under "legitimate interest" exemptions or have lengthy dispute processes. Incogni flags these for manual follow-up.
 
-Check the current [Incogni pricing and options at /go/incogni](/go/incogni).
+Check the current [Incogni pricing and options at /go/incogni](https://go.digitalshieldpro.com/incogni).
 
 **Is it worth it?** At roughly $6.49/month on annual billing as of 2026, it depends on your time value. If you bill at even $20/hour professionally, the automated service pays for itself immediately versus doing this manually. If you genuinely enjoy privacy research and have the time, manual opt-outs plus a tracking spreadsheet work fine.
 
@@ -234,7 +234,7 @@ Removal is only half the work. If you continue the same habits, data brokers wil
 
 A VPN prevents your ISP from logging your browsing history and prevents websites from seeing your real IP address. This does not erase past data, but it significantly reduces new data collection.
 
-I use [NordVPN](/go/nordvpn) for daily browsing — it handles the connection without requiring any configuration after initial setup.
+I use [NordVPN](https://go.digitalshieldpro.com/nordvpn) for daily browsing — it handles the connection without requiring any configuration after initial setup.
 
 ### Advertising Opt-Outs
 
@@ -306,7 +306,7 @@ Erasing your current footprint is a starting point. The process is ongoing becau
 
 **Google Alerts:** Set up a Google Alert for your full name (and variations — maiden names, nicknames, name + city). Google will email you when new content mentioning you appears in the index.
 
-**Incogni ongoing monitoring:** Incogni's subscription service ([check current pricing](/go/incogni)) continuously monitors for re-listing and resubmits removal requests automatically. This is the most hands-off approach to ongoing management.
+**Incogni ongoing monitoring:** Incogni's subscription service ([check current pricing](https://go.digitalshieldpro.com/incogni)) continuously monitors for re-listing and resubmits removal requests automatically. This is the most hands-off approach to ongoing management.
 
 **Annual self-audit:** Once a year, run through the original audit from Step 1 again. Search your name, check people-search sites, review what has reappeared. Treat it like an annual financial review — not urgent daily attention, but worth a dedicated review once a year.
 

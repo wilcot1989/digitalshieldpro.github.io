@@ -12,10 +12,10 @@ author_bio: "Cybersecurity researcher and writer. Tests privacy tools and securi
 featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1563013544-824ae1b704d3&w=1200&output=webp&q=70"
 products:
   - name: "NordVPN"
-    url: "/go/nordvpn"
+    url: "https://go.digitalshieldpro.com/nordvpn"
     price: "3.49"
   - name: "Bitdefender"
-    url: "/go/bitdefender"
+    url: "https://go.digitalshieldpro.com/bitdefender"
     price: "49"
 faq:
   - q: "What does personal cyber insurance cover?"
@@ -290,4 +290,4 @@ This psychological benefit is real and legitimate even if the pure expected-valu
 If $75/year in cyber insurance rider costs makes you meaningfully less anxious about online financial activity, that is a legitimate reason to have it — separate from any mathematical calculation about claim probability.
 
 
-<a href="/go/bitdefender" class="cta-affiliate" rel="sponsored noopener">View →</a>
+<a href="https://go.digitalshieldpro.com/bitdefender" class="cta-affiliate" rel="sponsored noopener">View →</a>

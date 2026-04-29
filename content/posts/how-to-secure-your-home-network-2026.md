@@ -27,7 +27,7 @@ faq:
     a: "If your router is more than 5 years old, it likely no longer receives security patches, may not support WPA3, and could have known unpatched vulnerabilities. Older routers are regularly targeted in botnet attacks. Replacing a router every 4 to 5 years is a worthwhile security investment — a modern WiFi 6E router costs 100 to 250 dollars and provides dramatically better security and performance."
 products:
   - name: "NordVPN"
-    url: "/go/nordvpn"
+    url: "https://go.digitalshieldpro.com/nordvpn"
     price: ""
 ---
 
@@ -328,7 +328,7 @@ After a decade of building and auditing home networks, here is my honest advice:
 **What you should not do**: buy expensive "smart home security" gadgets without fixing the basics first. I have seen people spend $300 on a network security device while their router still had "admin" as the password. Fix the foundation before adding layers.
 
 
-<a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
+<a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
 
 ## Related Security Guides
 

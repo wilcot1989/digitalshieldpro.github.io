@@ -25,7 +25,7 @@ faq:
     a: "Immediately change passwords for affected accounts, enable two-factor authentication, freeze your credit at all three bureaus, monitor bank and credit card statements closely, and consider placing a fraud alert. If your SSN is exposed, file an identity theft report with the FTC."
 products:
   - name: "NordVPN"
-    url: "/go/nordvpn"
+    url: "https://go.digitalshieldpro.com/nordvpn"
     price: ""
 ---
 
@@ -441,4 +441,4 @@ Consider using email aliases or a service like SimpleLogin to create unique addr
 *Last updated: April 2026.*
 
 
-<a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
+<a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>

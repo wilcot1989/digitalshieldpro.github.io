@@ -25,7 +25,7 @@ faq:
     a: "Yes, modern ransomware like WannaCry and NotPetya can spread laterally through a network, encrypting every accessible computer and shared drive. This is why disconnecting infected devices immediately and segmenting your network are critical prevention measures."
 products:
   - name: "NordVPN"
-    url: "/go/nordvpn"
+    url: "https://go.digitalshieldpro.com/nordvpn"
     price: ""
 ---
 
@@ -351,4 +351,4 @@ Use this checklist to assess your protection level:
 *Last updated: April 2026.*
 
 
-<a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
+<a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>

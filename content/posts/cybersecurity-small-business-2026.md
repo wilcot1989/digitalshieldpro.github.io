@@ -25,7 +25,7 @@ faq:
     a: "Yes, especially if you handle customer data, process payments, or would be significantly impacted by downtime. Cyber insurance costs €500-€2,000/year for small businesses and covers breach response costs, legal fees, notification expenses, and business interruption losses. Many policies also include incident response services."
 products:
   - name: "NordVPN"
-    url: "/go/nordvpn"
+    url: "https://go.digitalshieldpro.com/nordvpn"
     price: ""
 ---
 
@@ -348,7 +348,7 @@ For a deeper dive, see our [cyber insurance guide](/posts/cyber-insurance-guide-
 Cybersecurity for small businesses isn't about spending thousands per month — it's about implementing the basics consistently. For €150-€350/month (10 employees), you can protect against 90% of threats. The most important steps: endpoint security on every device, MFA on every account, and regular employee training.
 
 
-<a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
+<a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
 
 ## Read More
 

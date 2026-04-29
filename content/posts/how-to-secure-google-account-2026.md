@@ -27,10 +27,10 @@ faq:
     a: "Go to myaccount.google.com/permissions. This shows every app that has been granted access to your Google data and what level of access each one has. Review this list carefully — apps you have not used in years, abandoned apps, or apps that have more access than they need should be revoked."
 products:
   - name: "NordPass"
-    url: "/go/nordpass"
+    url: "https://go.digitalshieldpro.com/nordpass"
     price: ""
   - name: "NordVPN"
-    url: "/go/nordvpn"
+    url: "https://go.digitalshieldpro.com/nordvpn"
     price: ""
 ---
 
@@ -260,7 +260,7 @@ Your Google account password should be:
 
 If your Google password is the same as or similar to passwords you use elsewhere, a breach of any other service gives attackers a starting point against your Google account.
 
-[NordPass](/go/nordpass) is a solid option for managing your Google account password alongside all your other credentials. The key features: zero-knowledge encryption (NordPass cannot read your passwords), breach monitoring (alerts you if your saved passwords appear in known breaches), and cross-platform support.
+[NordPass](https://go.digitalshieldpro.com/nordpass) is a solid option for managing your Google account password alongside all your other credentials. The key features: zero-knowledge encryption (NordPass cannot read your passwords), breach monitoring (alerts you if your saved passwords appear in known breaches), and cross-platform support.
 
 The most important principle: Google is not where you want to cut corners. If you only secure one account thoroughly, make it this one.
 
@@ -283,7 +283,7 @@ If you are working through this guide and do not want to do everything at once, 
 
 Each step makes your account meaningfully harder to compromise. Combined, they close essentially all the practical attack vectors that account takeovers exploit.
 
-For comprehensive protection beyond Google, pair account security with a [VPN like NordVPN](/go/nordvpn) to encrypt your network traffic and protect against surveillance on public networks — where many account credential attacks originate.
+For comprehensive protection beyond Google, pair account security with a [VPN like NordVPN](https://go.digitalshieldpro.com/nordvpn) to encrypt your network traffic and protect against surveillance on public networks — where many account credential attacks originate.
 
 ---
 
@@ -305,7 +305,7 @@ You used the same password on a different site that got breached. Attackers take
 
 According to Google's own research, reusing passwords across sites is involved in a significant percentage of account compromises.
 
-**Defense:** A unique password for Google, generated and stored by a password manager like [NordPass](/go/nordpass), eliminates this attack entirely.
+**Defense:** A unique password for Google, generated and stored by a password manager like [NordPass](https://go.digitalshieldpro.com/nordpass), eliminates this attack entirely.
 
 ### Session Cookie Theft
 

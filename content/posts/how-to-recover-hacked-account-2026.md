@@ -12,10 +12,10 @@ author_bio: "Cybersecurity researcher and writer. Tests privacy tools and securi
 featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1614064641938-3bbee52942c7&w=1200&output=webp&q=70"
 products:
   - name: "NordPass Premium"
-    url: "/go/nordpass"
+    url: "https://go.digitalshieldpro.com/nordpass"
     price: "1.49"
   - name: "1Password Family"
-    url: "/go/1password"
+    url: "https://go.digitalshieldpro.com/1password"
     price: "4.99"
 faq:
   - q: "How do I know if my account has been hacked?"
@@ -320,7 +320,7 @@ Keep a secure document (encrypted, in your password manager or a secured note) t
 The difference between account recovery taking 10 minutes versus weeks comes down almost entirely to preparation. Every backup code you save, every recovery email you verify, every 2FA setup you complete before a crisis shortens recovery time dramatically. Build the system when nothing is wrong — it is far easier to prepare than to scramble.
 
 
-<a href="/go/nordpass" class="cta-affiliate" rel="sponsored noopener">View →</a>
+<a href="https://go.digitalshieldpro.com/nordpass" class="cta-affiliate" rel="sponsored noopener">View →</a>
 
 ## Related guides
 

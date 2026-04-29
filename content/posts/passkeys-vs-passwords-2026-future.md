@@ -29,10 +29,10 @@ faq:
     a: "The FIDO (Fast Identity Online) Alliance is an industry consortium that created and maintains the standards underlying passkeys — FIDO2, WebAuthn, and CTAP. Members include Apple, Google, Microsoft, Amazon, PayPal, and hundreds of other organizations. The FIDO Alliance's work means passkeys are an open, interoperable standard rather than a proprietary technology — a passkey created on Android can authenticate on macOS using 1Password as the intermediary. Without this standardization effort, passkeys would be fragmented across incompatible vendor implementations."
 products:
   - name: "1Password"
-    url: "/go/1password"
+    url: "https://go.digitalshieldpro.com/1password"
     price: ""
   - name: "NordPass"
-    url: "/go/nordpass"
+    url: "https://go.digitalshieldpro.com/nordpass"
     price: ""
 ---
 
@@ -121,7 +121,7 @@ The most important development in passkey adoption has been third-party password
 
 ### 1Password
 
-[1Password](/go/1password) was the first major third-party password manager to support passkeys as stored credentials. The implementation:
+[1Password](https://go.digitalshieldpro.com/1password) was the first major third-party password manager to support passkeys as stored credentials. The implementation:
 
 - Stores passkeys as a vault item type alongside passwords
 - Syncs across all platforms: Windows, macOS, iOS, Android, Linux, via browser extension
@@ -136,7 +136,7 @@ My experience with 1Password's passkey implementation is excellent. When I enrol
 
 ### NordPass
 
-[NordPass](/go/nordpass) added passkey support and the implementation is clean and well-integrated. Key characteristics:
+[NordPass](https://go.digitalshieldpro.com/nordpass) added passkey support and the implementation is clean and well-integrated. Key characteristics:
 
 - Stores passkeys alongside passwords in the NordPass vault
 - Cross-platform sync via browser extensions on all major browsers
@@ -233,7 +233,7 @@ In the meantime, the right strategy is: use passkeys where they are available, k
 
 Passkeys are not a revolution that happened overnight. They are a meaningful security improvement that is being adopted incrementally across an enormous ecosystem of services, platforms, and devices. The underlying cryptography is sound. The security improvement over passwords for phishing and credential theft is real. The transition is messy.
 
-For your highest-value accounts — email, financial services, work tools — enabling passkeys today is worthwhile. Use [1Password](/go/1password) or [NordPass](/go/nordpass) to store and sync passkeys cross-platform, so you are not locked into any one device ecosystem.
+For your highest-value accounts — email, financial services, work tools — enabling passkeys today is worthwhile. Use [1Password](https://go.digitalshieldpro.com/1password) or [NordPass](https://go.digitalshieldpro.com/nordpass) to store and sync passkeys cross-platform, so you are not locked into any one device ecosystem.
 
 For the rest of your accounts, keep using a password manager with strong unique passwords and authenticator-based 2FA. The transition will come to those services. Until it does, good password hygiene remains essential.
 

@@ -27,7 +27,7 @@ faq:
     a: "Local smart home hubs (like Home Assistant running locally, Apple HomePod as a hub, or Amazon Echo with local processing) can improve security by reducing dependence on cloud connectivity for device control. When devices communicate locally rather than via the cloud, your traffic does not pass through manufacturer servers and is not accessible to data breaches at those servers. However, local hubs introduce their own security requirements — your hub device must be kept updated and secured."
 products:
   - name: "NordVPN"
-    url: "/go/nordvpn"
+    url: "https://go.digitalshieldpro.com/nordvpn"
     price: ""
 ---
 
@@ -252,7 +252,7 @@ Smart home technology is genuinely useful. The security risks are manageable if 
 
 ## Frequently Asked Questions About Smart Home Security
 
-<a href="/go/nordpass" class="cta-affiliate" rel="sponsored noopener">View Nordpass</a>
+<a href="https://go.digitalshieldpro.com/nordpass" class="cta-affiliate" rel="sponsored noopener">View Nordpass</a>
 
 ## Related guides
 

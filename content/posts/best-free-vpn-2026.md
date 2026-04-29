@@ -29,7 +29,7 @@ faq:
     a: "Legitimate free VPNs like ProtonVPN and Windscribe make money by converting free users to paid subscribers. The free tier is a marketing tool. Less legitimate free VPNs make money by selling user data, injecting ads, or selling bandwidth."
 products:
   - name: "NordVPN"
-    url: "/go/nordvpn"
+    url: "https://go.digitalshieldpro.com/nordvpn"
     price: ""
 ---
 
@@ -512,7 +512,7 @@ Both offer 30-day money-back guarantees. Try them, and if they're not worth it, 
 ---
 
 
-<a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
+<a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
 
 ## Related Guides
 

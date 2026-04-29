@@ -27,7 +27,7 @@ faq:
     a: "Immediately freeze your credit at all three bureaus (Equifax, Experian, TransUnion). Then file an identity theft report at IdentityTheft.gov. Contact your bank and credit card companies to flag the fraud. If you have an identity protection service, call their fraud resolution team, as they will handle most of the legwork for you."
 products:
   - name: "NordVPN"
-    url: "/go/nordvpn"
+    url: "https://go.digitalshieldpro.com/nordvpn"
     price: ""
 ---
 
@@ -366,4 +366,4 @@ And here's the thing most review sites won't tell you: a credit freeze (free) + 
 *Prices and Trustpilot scores last verified: February 2026.*
 
 
-<a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
+<a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>

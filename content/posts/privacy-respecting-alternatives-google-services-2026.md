@@ -12,7 +12,7 @@ author_bio: "Cybersecurity researcher and writer. Tests privacy tools and securi
 featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1563013544-824ae1b704d3&w=1200&output=webp&q=70"
 products:
   - name: "Proton Mail"
-    url: "/go/protonmail"
+    url: "https://go.digitalshieldpro.com/protonmail"
     price: ""
 faq:
   - q: "Is it realistic to completely stop using Google services?"
@@ -117,7 +117,7 @@ Proton is open-source and has been audited by independent security researchers. 
 - Proton Drive, Proton VPN, Proton Calendar included
 - Up to 15 email addresses
 
-[Start with Proton Mail →](/go/protonmail)
+[Start with Proton Mail →](https://go.digitalshieldpro.com/protonmail)
 
 ### Honest Assessment: Where Gmail Is Still Better
 
@@ -156,7 +156,7 @@ Current state in 2026:
 
 For personal file storage and backup where you want privacy, Proton Drive is excellent. The collaborative document editing gap is real and relevant for anyone who uses Google Docs for working with other people.
 
-[Secure your files with Proton Drive →](/go/protonmail)
+[Secure your files with Proton Drive →](https://go.digitalshieldpro.com/protonmail)
 
 ### Cryptomator for Files You Keep in Any Cloud
 
@@ -281,7 +281,7 @@ If you are starting from full Google dependency, here is the order I recommend b
 
 The goal is not a single day of switching everything at once — that creates friction that causes abandonment. A gradual migration builds new habits without disrupting daily workflow.
 
-[Start with Proton Mail — free account available →](/go/protonmail)
+[Start with Proton Mail — free account available →](https://go.digitalshieldpro.com/protonmail)
 
 ## What I Still Use Google For (And Why)
 

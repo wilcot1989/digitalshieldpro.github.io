@@ -29,10 +29,10 @@ faq:
     a: "Official apps from your bank downloaded directly from the App Store or Google Play are significantly safer than mobile banking through a browser. Official apps typically implement certificate pinning (preventing man-in-the-middle attacks even on compromised networks), have built-in fraud detection, and use biometric authentication. Be cautious of third-party budgeting apps that require full banking credentials — if they use credential sharing rather than open banking APIs, they present unnecessary risk."
 products:
   - name: "NordPass Premium"
-    url: "/go/nordpass"
+    url: "https://go.digitalshieldpro.com/nordpass"
     price: "1.49"
   - name: "Bitdefender Total Security"
-    url: "/go/bitdefender"
+    url: "https://go.digitalshieldpro.com/bitdefender"
     price: "49"
 ---
 
@@ -96,7 +96,7 @@ Why this matters: if an attacker knows your everyday email address, they can use
 
 ### Unique Passwords Per Financial Account
 
-This is non-negotiable. Each bank account, credit card portal, investment account, and payment platform needs a unique password. Use a password manager — [1Password](/go/1password) or [NordPass](/go/nordpass) — to generate and store 20+ character random passwords.
+This is non-negotiable. Each bank account, credit card portal, investment account, and payment platform needs a unique password. Use a password manager — [1Password](https://go.digitalshieldpro.com/1password) or [NordPass](https://go.digitalshieldpro.com/nordpass) — to generate and store 20+ character random passwords.
 
 I use NordPass for banking credentials specifically because it lets me create a separate vault that requires a second authentication step beyond my main vault password. Even if someone has access to my main vault, the banking vault has an additional layer.
 

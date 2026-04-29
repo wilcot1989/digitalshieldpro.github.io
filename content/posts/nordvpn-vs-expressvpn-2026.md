@@ -23,7 +23,7 @@ faq:
     a: "For most people, no. NordVPN matches or beats ExpressVPN in speed, security features, and streaming. ExpressVPN is worth the premium only if you need the most reliable VPN in China or want the Aircove dedicated VPN router."
 products:
   - name: "NordVPN"
-    url: "/go/nordvpn"
+    url: "https://go.digitalshieldpro.com/nordvpn"
     price: ""
 ---
 
@@ -326,7 +326,7 @@ For most people, no. NordVPN matches or beats ExpressVPN in speed, security feat
 ---
 
 
-<a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
+<a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
 
 ## Related Guides
 

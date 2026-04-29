@@ -25,7 +25,7 @@ faq:
     a: "NordVPN allows 10 simultaneous connections per account. Installing it on your router protects every device on your network without using a device slot."
 products:
   - name: "NordVPN"
-    url: "/go/nordvpn"
+    url: "https://go.digitalshieldpro.com/nordvpn"
     price: ""
 ---
 
@@ -344,7 +344,7 @@ If you're protecting sensitive work data, streaming from abroad, or just want a 
 ---
 
 
-<a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
+<a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
 
 ## Related Guides
 

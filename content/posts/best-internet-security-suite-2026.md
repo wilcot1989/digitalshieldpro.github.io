@@ -29,7 +29,7 @@ faq:
     a: "Norton 360 Deluxe with Norton Family and Kaspersky Premium with Safe Kids offer the best parental control features. Both include content filtering, screen time management, location tracking, and activity monitoring. Bitdefender also includes parental controls but they are not as feature-rich as Norton or Kaspersky."
 products:
   - name: "NordVPN"
-    url: "/go/nordvpn"
+    url: "https://go.digitalshieldpro.com/nordvpn"
     price: ""
 ---
 
@@ -548,7 +548,7 @@ No matter which suite you choose, you will be significantly better protected tha
 ---
 
 
-<a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
+<a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
 
 ## Related Guides
 

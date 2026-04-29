@@ -29,13 +29,13 @@ faq:
     a: "DeleteMe provides a PDF removal report every quarter, plus an online dashboard showing broker status. Reports include a before/after comparison — which sites had your data, which were sent removal requests, and which were confirmed removed. The quarterly cadence is less frequent than Incogni's monthly reporting."
 products:
   - name: "DeleteMe Individual"
-    url: "/go/deleteme"
+    url: "https://go.digitalshieldpro.com/deleteme"
     price: "10.75"
   - name: "DeleteMe Couples"
-    url: "/go/deleteme"
+    url: "https://go.digitalshieldpro.com/deleteme"
     price: "19.08"
   - name: "Incogni (alternative)"
-    url: "/go/incogni"
+    url: "https://go.digitalshieldpro.com/incogni"
     price: "7.49"
 ---
 
@@ -343,7 +343,7 @@ If you're in the EU, or want a cheaper starting point to test the category, Inco
 - Anyone who wants monthly (not quarterly) reports
 - Users who need month-to-month flexibility
 
-<a href="/go/deleteme" class="cta-affiliate">Try DeleteMe</a> · [Compare DeleteMe vs Incogni →](/posts/incogni-vs-deleteme-2026/)
+<a href="https://go.digitalshieldpro.com/deleteme" class="cta-affiliate">Try DeleteMe</a> · [Compare DeleteMe vs Incogni →](/posts/incogni-vs-deleteme-2026/)
 
 ---
 

@@ -12,7 +12,7 @@ author_bio: "Cybersecurity researcher and writer. Tests privacy tools and securi
 featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1614064641938-3bbee52942c7&w=1200&output=webp&q=70"
 products:
   - name: "NordVPN"
-    url: "/go/nordvpn"
+    url: "https://go.digitalshieldpro.com/nordvpn"
     price: ""
 faq:
   - q: "What is a VPN router and why would I need one?"
@@ -82,7 +82,7 @@ I imported 400+ IP threat lists into my Firewalla that block malicious domains a
 
 Limitation: Firewalla Gold acts as a security appliance, not a standalone router. You still need a separate router (any router you already own works). This is actually an advantage for many users — you keep your existing WiFi coverage and management while adding the security layer.
 
-[Protect your whole network with NordVPN →](/go/nordvpn)
+[Protect your whole network with NordVPN →](https://go.digitalshieldpro.com/nordvpn)
 
 ### GL.iNet Beryl AX (GL-MT3000) — Best Value Travel Router
 
@@ -174,7 +174,7 @@ NordVPN is one of the best VPN providers for router use because they provide pre
 
 ### What You Need
 
-- Active NordVPN subscription ([sign up here](/go/nordvpn))
+- Active NordVPN subscription ([sign up here](https://go.digitalshieldpro.com/nordvpn))
 - Compatible router (any option above)
 - Your NordVPN service credentials (not your main account email/password — found in NordVPN Account → Services → NordVPN)
 
@@ -203,7 +203,7 @@ WireGuard delivers dramatically better performance than OpenVPN on the same hard
 
 A kill switch prevents traffic from leaking outside the VPN tunnel if the connection drops. On DD-WRT and AsusWRT-Merlin, this requires configuring firewall rules to block traffic on the WAN interface when the VPN is down. NordVPN's router setup guides include specific kill switch configuration instructions for each firmware type — follow them precisely.
 
-[Get NordVPN for router use →](/go/nordvpn)
+[Get NordVPN for router use →](https://go.digitalshieldpro.com/nordvpn)
 
 ## Performance Testing: Real Numbers
 
@@ -241,7 +241,7 @@ This is the question I get most often, and the honest answer is that it depends.
 
 I use both. My router provides always-on WireGuard protection for my smart home devices and guest network. I also run NordVPN on my laptop for additional protection on public WiFi, easy server switching, and split tunneling for apps that need my actual IP.
 
-[Start protecting your whole network →](/go/nordvpn)
+[Start protecting your whole network →](https://go.digitalshieldpro.com/nordvpn)
 
 ## Common Router VPN Mistakes
 
@@ -265,7 +265,7 @@ For most households looking to add whole-home VPN protection, I recommend:
 
 **Easiest setup with existing ASUS router:** Enable AsusWRT-Merlin + NordVPN configuration. No new hardware needed if you already own a compatible ASUS router.
 
-The common thread: pair with a reliable, router-compatible VPN provider. [NordVPN](/go/nordvpn) has the most comprehensive router documentation, fastest WireGuard servers, and a no-logs policy that has been independently audited multiple times. For router use where you want the connection always on and always trusted, an audited no-logs policy matters more than it does for casual VPN use.
+The common thread: pair with a reliable, router-compatible VPN provider. [NordVPN](https://go.digitalshieldpro.com/nordvpn) has the most comprehensive router documentation, fastest WireGuard servers, and a no-logs policy that has been independently audited multiple times. For router use where you want the connection always on and always trusted, an audited no-logs policy matters more than it does for casual VPN use.
 
 ## Related guides
 

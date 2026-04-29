@@ -25,7 +25,7 @@ faq:
     a: "Essential changes: set your profile to private (or friends-only), disable location sharing, limit who can see your friends list, turn off facial recognition, review and remove third-party app connections, disable search engine indexing of your profile, and restrict who can send you DMs/friend requests."
 products:
   - name: "NordVPN"
-    url: "/go/nordvpn"
+    url: "https://go.digitalshieldpro.com/nordvpn"
     price: ""
 ---
 
@@ -304,7 +304,7 @@ The goal is not perfection — it is making attacks economically unviable. Here 
 Securing your social media takes 30 minutes upfront and 10 minutes per month to maintain. The three most impactful actions: unique passwords with a password manager, authenticator-based 2FA on every account, and regular review of connected apps and active sessions.
 
 
-<a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
+<a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
 
 ## Read More
 

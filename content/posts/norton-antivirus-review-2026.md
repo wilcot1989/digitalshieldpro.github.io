@@ -25,7 +25,7 @@ faq:
     a: "When your subscription expires, Norton stops providing real-time protection, virus definition updates, and all premium features. Your computer becomes vulnerable to new threats. Norton will remind you to renew starting 90 days before expiry."
 products:
   - name: "Bitdefender"
-    url: "/go/bitdefender"
+    url: "https://go.digitalshieldpro.com/bitdefender"
     price: ""
 ---
 
@@ -324,7 +324,7 @@ However, the steep renewal prices and aggressive upselling are genuine downsides
 **Rating: 8.0/10** — Excellent protection and features, held back by pricing practices.
 
 
-<a href="/go/bitdefender" class="cta-affiliate" rel="sponsored noopener">View Bitdefender</a>
+<a href="https://go.digitalshieldpro.com/bitdefender" class="cta-affiliate" rel="sponsored noopener">View Bitdefender</a>
 
 ## Explore More Security Reviews
 

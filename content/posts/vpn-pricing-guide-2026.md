@@ -27,10 +27,10 @@ faq:
     a: "The base VPN subscription typically includes all core VPN features. Some providers offer optional add-ons: NordVPN has NordProtect (identity monitoring), Threat Protection Pro, and NordPass as optional extras. Surfshark has Surfshark One (includes antivirus and data breach monitoring) as an upgrade. These add-ons are optional — the base VPN is fully functional without them."
 products:
   - name: "NordVPN"
-    url: "/go/nordvpn"
+    url: "https://go.digitalshieldpro.com/nordvpn"
     price: ""
   - name: "Surfshark"
-    url: "/go/surfshark"
+    url: "https://go.digitalshieldpro.com/surfshark"
     price: ""
 ---
 
@@ -199,7 +199,7 @@ For most users, the Standard plan is the right choice. Threat Protection Pro is 
 
 NordVPN allows 10 simultaneous connections on all plans — enough for an entire household.
 
-[**See NordVPN's current pricing and promotions →**](/go/nordvpn)
+[**See NordVPN's current pricing and promotions →**](https://go.digitalshieldpro.com/nordvpn)
 
 ---
 
@@ -222,7 +222,7 @@ The **unlimited connections** policy is Surfshark's strongest differentiator. A 
 
 Surfshark's server network (3,200+ servers in 100 countries) is smaller than NordVPN's but covers all major locations well. Performance is strong; I consistently see speeds above 400 Mbps on Surfshark's WireGuard connections.
 
-[**See Surfshark's current pricing and promotions →**](/go/surfshark)
+[**See Surfshark's current pricing and promotions →**](https://go.digitalshieldpro.com/surfshark)
 
 ---
 
@@ -272,9 +272,9 @@ If you primarily want a VPN to access geo-restricted streaming content, speed an
 
 ## My Recommendation in Plain Terms
 
-**For most individuals:** NordVPN on a 2-year plan. Strong infrastructure, audited, fast, 10 simultaneous connections. [**Check current NordVPN pricing →**](/go/nordvpn)
+**For most individuals:** NordVPN on a 2-year plan. Strong infrastructure, audited, fast, 10 simultaneous connections. [**Check current NordVPN pricing →**](https://go.digitalshieldpro.com/nordvpn)
 
-**For families or multiple devices:** Surfshark. Unlimited connections at a lower price point. The infrastructure is solid and the savings on a family plan are significant. [**Check current Surfshark pricing →**](/go/surfshark)
+**For families or multiple devices:** Surfshark. Unlimited connections at a lower price point. The infrastructure is solid and the savings on a family plan are significant. [**Check current Surfshark pricing →**](https://go.digitalshieldpro.com/surfshark)
 
 **For maximum privacy:** Mullvad. Accept no payment tracking, no email signup, flat monthly rate.
 

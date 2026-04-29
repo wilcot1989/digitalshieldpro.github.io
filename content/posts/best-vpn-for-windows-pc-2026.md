@@ -29,7 +29,7 @@ faq:
     a: "Yes. NordVPN and ExpressVPN added the least latency in our gaming tests, typically under 8ms on nearby servers. Some VPNs can also protect against DDoS attacks in competitive gaming and help access geo-locked game servers."
 products:
   - name: "NordVPN"
-    url: "/go/nordvpn"
+    url: "https://go.digitalshieldpro.com/nordvpn"
     price: ""
 ---
 
@@ -526,7 +526,7 @@ For password security alongside your VPN, check out our picks for the [best pass
 ---
 
 
-<a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
+<a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
 
 ## Related Guides
 

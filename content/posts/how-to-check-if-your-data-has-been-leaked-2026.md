@@ -29,7 +29,7 @@ faq:
     a: "No. Never pay ransom or respond to extortion emails. Many extortion attempts are scams that reference publicly available breach data to create a false sense of urgency. There is no guarantee that payment will prevent data release, and paying encourages further criminal activity. Instead, change your passwords, enable 2FA, freeze your credit if financial data is involved, and report the extortion to local law enforcement and the FBI IC3."
 products:
   - name: "NordVPN"
-    url: "/go/nordvpn"
+    url: "https://go.digitalshieldpro.com/nordvpn"
     price: ""
 ---
 
@@ -273,7 +273,7 @@ Start by checking your email addresses on HaveIBeenPwned today. Then set up cont
 ---
 
 
-<a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
+<a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
 
 ## Related Guides
 

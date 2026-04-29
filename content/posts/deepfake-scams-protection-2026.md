@@ -25,7 +25,7 @@ faq:
     a: "Do not send money or share personal information. Verify the identity through a separate channel (call the real person). Report the scam to local police and national fraud hotlines. If financial information was shared, contact your bank immediately. Document everything (screenshots, call logs) for law enforcement."
 products:
   - name: "NordVPN"
-    url: "/go/nordvpn"
+    url: "https://go.digitalshieldpro.com/nordvpn"
     price: ""
 ---
 
@@ -283,4 +283,4 @@ The technology is going to keep getting better. The answer is to build systems t
 *Last updated: May 2026.*
 
 
-<a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
+<a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>

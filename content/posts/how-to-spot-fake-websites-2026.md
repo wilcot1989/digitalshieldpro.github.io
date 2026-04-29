@@ -12,7 +12,7 @@ author_bio: "Cybersecurity researcher and writer. Tests privacy tools and securi
 featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1517336714731-489689fd1ca8&w=1200&output=webp&q=70"
 products:
   - name: "Bitdefender"
-    url: "/go/bitdefender"
+    url: "https://go.digitalshieldpro.com/bitdefender"
     price: ""
 faq:
   - q: "Does HTTPS mean a website is safe?"
@@ -238,9 +238,9 @@ While manual inspection is valuable, the volume of scam websites means no indivi
 These block known malicious URLs automatically. They are updated constantly and catch the vast majority of known phishing sites.
 
 **Security software with web protection:**
-Comprehensive security suites include real-time URL scanning that checks links before they load. [Bitdefender](/go/bitdefender) consistently scores among the highest in independent phishing detection tests by AV-Test and AV-Comparatives. Their TrafficLight browser extension and built-in web protection flag phishing sites that are too new for Chrome's Safe Browsing to have indexed.
+Comprehensive security suites include real-time URL scanning that checks links before they load. [Bitdefender](https://go.digitalshieldpro.com/bitdefender) consistently scores among the highest in independent phishing detection tests by AV-Test and AV-Comparatives. Their TrafficLight browser extension and built-in web protection flag phishing sites that are too new for Chrome's Safe Browsing to have indexed.
 
-[Protect yourself from phishing sites with Bitdefender →](/go/bitdefender)
+[Protect yourself from phishing sites with Bitdefender →](https://go.digitalshieldpro.com/bitdefender)
 
 **Email security:**
 Most phishing attempts arrive via email. Gmail and Outlook have improved their built-in phishing detection significantly. For additional protection, security suites with email scanning add another layer.
@@ -330,7 +330,7 @@ When you identify a scam website, reporting it takes about 30 seconds and remove
 
 These reports are genuinely impactful. Most fake domains are active for days to weeks before takedown. Early reporting shortens that window. The 30 seconds it takes can prevent others from being defrauded.
 
-[Protect yourself with automatic phishing detection →](/go/bitdefender)
+[Protect yourself with automatic phishing detection →](https://go.digitalshieldpro.com/bitdefender)
 
 ## Related guides
 

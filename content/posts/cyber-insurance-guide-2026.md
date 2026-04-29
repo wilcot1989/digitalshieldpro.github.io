@@ -27,7 +27,7 @@ faq:
     a: "First-party coverage pays for your own losses like data recovery, business interruption, and ransom payments. Third-party coverage pays for claims against you from customers, partners, or regulators, including legal defense costs, settlements, and regulatory fines."
 products:
   - name: "NordVPN"
-    url: "/go/nordvpn"
+    url: "https://go.digitalshieldpro.com/nordvpn"
     price: ""
 ---
 
@@ -330,4 +330,4 @@ With these layers in place, cyber insurance becomes your financial backstop — 
 *Last updated: April 2026.*
 
 
-<a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
+<a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>

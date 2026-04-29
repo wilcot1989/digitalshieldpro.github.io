@@ -27,7 +27,7 @@ faq:
     a: "Surfshark does not offer a traditional free trial, but all plans include a 30-day money-back guarantee. On Android and iOS, a 7-day free trial is sometimes available through the app stores, though availability varies by region."
 products:
   - name: "Surfshark"
-    url: "/go/surfshark"
+    url: "https://go.digitalshieldpro.com/surfshark"
     price: ""
 ---
 
@@ -291,7 +291,7 @@ If you have room in your budget and want the absolute best speeds, the most curr
 ---
 
 
-<a href="/go/surfshark" class="cta-affiliate" rel="sponsored noopener">View Surfshark</a>
+<a href="https://go.digitalshieldpro.com/surfshark" class="cta-affiliate" rel="sponsored noopener">View Surfshark</a>
 
 ## Related Guides
 

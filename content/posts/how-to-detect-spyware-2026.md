@@ -27,10 +27,10 @@ faq:
     a: "Lockdown Mode is an extreme protection option introduced in iOS 16 that disables many attack surfaces — it blocks most message attachment types, disables link previews, turns off JIT compilation, restricts incoming FaceTime calls, and limits connectivity. It significantly impacts usability. It is designed for high-risk individuals like journalists, activists, and human rights workers — not needed for typical users."
 products:
   - name: "Bitdefender"
-    url: "/go/bitdefender"
+    url: "https://go.digitalshieldpro.com/bitdefender"
     price: ""
   - name: "NordVPN"
-    url: "/go/nordvpn"
+    url: "https://go.digitalshieldpro.com/nordvpn"
     price: ""
 ---
 
@@ -128,7 +128,7 @@ Settings → Battery → Battery Usage. Look for unfamiliar apps using significa
 
 **Step 5: Scan with mobile security software**
 
-[Bitdefender Mobile Security](/go/bitdefender) consistently rates highly in independent tests for stalkerware detection. Install it, run a full scan, and review the findings.
+[Bitdefender Mobile Security](https://go.digitalshieldpro.com/bitdefender) consistently rates highly in independent tests for stalkerware detection. Install it, run a full scan, and review the findings.
 
 Bitdefender's mobile product detects most commercial stalkerware packages, including FlexiSpy, mSpy, and their variants. It also flags suspicious apps that request excessive permissions.
 
@@ -232,9 +232,9 @@ After resetting, restore data manually — do not restore from a backup that mig
 
 **Avoid sideloading (Android):** Installing APKs from outside the Google Play Store significantly increases stalkerware risk. Only enable "install from unknown sources" when you have a specific trusted reason.
 
-**Use a reputable security app:** Running [Bitdefender Mobile Security](/go/bitdefender) on Android provides ongoing protection against new stalkerware variants and alerts you to suspicious app behavior. It is not perfect, but it significantly raises the bar for consumer-grade attacks.
+**Use a reputable security app:** Running [Bitdefender Mobile Security](https://go.digitalshieldpro.com/bitdefender) on Android provides ongoing protection against new stalkerware variants and alerts you to suspicious app behavior. It is not perfect, but it significantly raises the bar for consumer-grade attacks.
 
-**VPN usage:** A VPN like [NordVPN](/go/nordvpn) does not directly prevent spyware installation but encrypts your traffic so that data exfiltrated by spyware is harder to intercept at the network level.
+**VPN usage:** A VPN like [NordVPN](https://go.digitalshieldpro.com/nordvpn) does not directly prevent spyware installation but encrypts your traffic so that data exfiltrated by spyware is harder to intercept at the network level.
 
 ---
 

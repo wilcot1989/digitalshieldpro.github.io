@@ -27,10 +27,10 @@ faq:
     a: "Yes. DuckDuckGo has an excellent mobile browser app with integrated search. Brave Browser on mobile defaults to Brave Search. Startpage can be set as the search engine in Firefox or Safari on mobile. Kagi has a mobile-friendly interface and a Safari extension on iOS."
 products:
   - name: "NordVPN"
-    url: "/go/nordvpn"
+    url: "https://go.digitalshieldpro.com/nordvpn"
     price: "3.49"
   - name: "NordPass"
-    url: "/go/nordpass"
+    url: "https://go.digitalshieldpro.com/nordpass"
     price: "1.49"
 ---
 
@@ -312,7 +312,7 @@ I switched my primary engine to Kagi four months ago and have not used Google si
 ---
 
 
-<a href="/go/eset" class="cta-affiliate" rel="sponsored noopener">View Eset</a>
+<a href="https://go.digitalshieldpro.com/eset" class="cta-affiliate" rel="sponsored noopener">View Eset</a>
 
 ## Frequently Asked Questions About Privacy Search Engines
 

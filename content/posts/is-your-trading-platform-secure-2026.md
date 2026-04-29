@@ -27,7 +27,7 @@ faq:
     a: "No. Your broker can enforce 2FA and monitor suspicious logins, but if malware on your device captures your credentials or session tokens, or if a malicious EA on your MetaTrader installation steals your broker password, the broker's security cannot help you. Device-level security is your responsibility."
 products:
   - name: "NordVPN"
-    url: "/go/nordvpn"
+    url: "https://go.digitalshieldpro.com/nordvpn"
     price: ""
 ---
 
@@ -334,4 +334,4 @@ Take an hour this weekend. Run through the checklist above. Lock everything down
 *Last updated: February 2026. Trustpilot scores and pricing verified at time of writing.*
 
 
-<a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
+<a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>

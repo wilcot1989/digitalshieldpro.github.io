@@ -29,7 +29,7 @@ faq:
     a: "Get NordVPN if you want the best overall performance, more advanced features, and the strongest security. Get Surfshark if you want the best value, unlimited device connections, or you are on a tight budget. Both are excellent VPNs."
 products:
   - name: "NordVPN"
-    url: "/go/nordvpn"
+    url: "https://go.digitalshieldpro.com/nordvpn"
     price: ""
 ---
 
@@ -457,7 +457,7 @@ Both VPNs are excellent, and you will be well-served by either one. The choice u
 ---
 
 
-<a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
+<a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
 
 ## Related Guides
 

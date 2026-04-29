@@ -29,7 +29,7 @@ faq:
     a: "Using Tor and VPNs for privacy is legal in most democratic countries. However, in some authoritarian states — China, Russia, Iran, and others — using circumvention tools may be legally restricted or monitored. What you do while anonymous is subject to the same laws as what you do openly. Anonymity tools are neutral technology; their legal status depends on what they are used for and where you are. Journalists, activists, researchers, and privacy-conscious individuals use these tools for entirely legal and often valuable purposes."
 products:
   - name: "NordVPN"
-    url: "/go/nordvpn"
+    url: "https://go.digitalshieldpro.com/nordvpn"
     price: ""
 ---
 
@@ -81,7 +81,7 @@ Most readers are in Level 1-2 territory. The techniques in this guide cover Leve
 
 ## Layer 1: The VPN
 
-A VPN is the baseline layer. [NordVPN](/go/nordvpn) is the provider I run on my primary devices and the one I tested most thoroughly for this guide.
+A VPN is the baseline layer. [NordVPN](https://go.digitalshieldpro.com/nordvpn) is the provider I run on my primary devices and the one I tested most thoroughly for this guide.
 
 ### What a VPN Actually Does
 
@@ -313,7 +313,7 @@ For most privacy use cases — protecting yourself from commercial tracking, pre
 
 For higher-stakes activities — protecting sources, evading surveillance, high-risk whistleblowing — the full stack described here (Tails + VPN + Tor + strict OPSEC) provides strong protection against all but the most resourced adversaries.
 
-Use [NordVPN](/go/nordvpn) as your baseline VPN layer, the Tor Browser for your anonymity layer, and understand that the technical tools only work if the human OPSEC layer holds. Technology alone is not enough — it never has been.
+Use [NordVPN](https://go.digitalshieldpro.com/nordvpn) as your baseline VPN layer, the Tor Browser for your anonymity layer, and understand that the technical tools only work if the human OPSEC layer holds. Technology alone is not enough — it never has been.
 
 ---
 

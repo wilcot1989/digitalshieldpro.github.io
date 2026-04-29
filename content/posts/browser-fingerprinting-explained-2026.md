@@ -27,10 +27,10 @@ faq:
     a: "Canvas fingerprinting uses the HTML5 Canvas API to draw an invisible graphic in your browser. Because different GPUs, graphics drivers, and operating systems render the same graphic slightly differently, the resulting image is unique enough to identify your device. It's one of the most widely used fingerprinting vectors."
 products:
   - name: "NordVPN"
-    url: "/go/nordvpn"
+    url: "https://go.digitalshieldpro.com/nordvpn"
     price: "3.49"
   - name: "NordPass"
-    url: "/go/nordpass"
+    url: "https://go.digitalshieldpro.com/nordpass"
     price: "1.49"
 ---
 
@@ -338,7 +338,7 @@ Mobile browsers present a different fingerprinting surface than desktop:
 **Firefox Focus (iOS/Android):** A privacy-focused Firefox variant that blocks trackers and scripts aggressively. Less configurable than desktop Firefox but good for mobile privacy with minimal setup.
 
 
-<a href="/go/incogni" class="cta-affiliate" rel="sponsored noopener">View Incogni</a>
+<a href="https://go.digitalshieldpro.com/incogni" class="cta-affiliate" rel="sponsored noopener">View Incogni</a>
 
 ## Related guides
 

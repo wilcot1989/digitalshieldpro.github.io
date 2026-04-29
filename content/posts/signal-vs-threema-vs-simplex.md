@@ -256,7 +256,7 @@ This isn't a criticism of SimpleX's design — it's a reality of being a newer, 
 
 For complete secure communication, the messenger is only part of the stack. Consider pairing whichever you choose with an encrypted email provider.
 
-<a href="/go/protonmail" class="cta-affiliate">Proton Mail</a> covers the email layer — Swiss jurisdiction, zero-access encryption, strong reputation. We have a [full ProtonMail vs Gmail comparison →](/posts/protonmail-vs-gmail-2026/) if you're evaluating that alongside your messenger choice.
+<a href="https://go.digitalshieldpro.com/protonmail" class="cta-affiliate">Proton Mail</a> covers the email layer — Swiss jurisdiction, zero-access encryption, strong reputation. We have a [full ProtonMail vs Gmail comparison →](/posts/protonmail-vs-gmail-2026/) if you're evaluating that alongside your messenger choice.
 
 ---
 

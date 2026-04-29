@@ -29,7 +29,7 @@ faq:
     a: "Yes. ACR (Automatic Content Recognition) technology is built into most smart TVs and phones home with viewing data. On an isolated IoT VLAN, this traffic is contained. You can also block it at the DNS level using Pi-hole or your router's DNS filtering."
 products:
   - name: "NordVPN"
-    url: "/go/nordvpn"
+    url: "https://go.digitalshieldpro.com/nordvpn"
     price: ""
 ---
 
@@ -293,7 +293,7 @@ Configure the router to block all traffic if the VPN drops. On Merlin firmware, 
 
 You may not want all traffic through the VPN. Gaming consoles benefit from direct connections (lower latency). You can configure split tunneling at the router level to route specific devices or subnets through the VPN while others use direct connections.
 
-[**NordVPN**](/go/nordvpn) supports router-level setup on dozens of router models with step-by-step guides and 24/7 support.
+[**NordVPN**](https://go.digitalshieldpro.com/nordvpn) supports router-level setup on dozens of router models with step-by-step guides and 24/7 support.
 
 ---
 
@@ -337,7 +337,7 @@ After testing dozens of configurations, here is what I currently run and recomme
 
 **Router/Firewall:** Asus RT-AX88U Pro with Merlin firmware
 **Mesh nodes:** Asus ZenWiFi AX (XT8) for coverage
-**VPN:** [NordVPN](/go/nordvpn) via WireGuard on router
+**VPN:** [NordVPN](https://go.digitalshieldpro.com/nordvpn) via WireGuard on router
 **DNS filtering:** Pi-hole on Raspberry Pi 4
 **IDS:** Firewalla Gold Plus
 **Password manager:** 1Password for all device credentials

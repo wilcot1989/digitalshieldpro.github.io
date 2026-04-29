@@ -27,7 +27,7 @@ faq:
     a: "The FBI data shows real estate, manufacturing, retail, healthcare, and financial services as the most targeted sectors. However, no industry is immune. Small businesses are increasingly targeted because they often lack the security infrastructure of large enterprises while still handling significant financial transactions."
 products:
   - name: "Bitdefender"
-    url: "/go/bitdefender"
+    url: "https://go.digitalshieldpro.com/bitdefender"
     price: ""
 ---
 
@@ -190,7 +190,7 @@ Good endpoint security with email integration can alert on:
 
 Bitdefender's GravityZone platform, for example, includes email security components that provide behavioral analysis of account activity, not just scanning of attachments. When a legitimate account suddenly starts composing high-value financial requests with unusual language, that pattern can trigger an alert.
 
-[**See Bitdefender's business security options →**](/go/bitdefender)
+[**See Bitdefender's business security options →**](https://go.digitalshieldpro.com/bitdefender)
 
 ### Layer 5: Privileged Account Protection
 

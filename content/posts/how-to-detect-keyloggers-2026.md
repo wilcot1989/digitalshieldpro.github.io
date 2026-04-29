@@ -29,7 +29,7 @@ faq:
     a: "A keylogger is a type of spyware that specifically captures keyboard input. Spyware is a broader category of malicious software that conducts surveillance without consent, which may include keylogging, screen capture, webcam recording, microphone access, clipboard monitoring, and browser history collection. Many modern surveillance tools combine all of these functions — stalkerware marketed for parental control or employee monitoring often includes keylogging as one feature among many. Detecting one type usually prompts a fuller investigation for all types."
 products:
   - name: "Bitdefender"
-    url: "/go/bitdefender"
+    url: "https://go.digitalshieldpro.com/bitdefender"
     price: ""
 ---
 
@@ -81,7 +81,7 @@ Hardware keyloggers are physical devices that intercept keyboard data at the har
 
 ### Method 1: Run a Full Antivirus Scan
 
-The first-line defense. A full scan with [Bitdefender](/go/bitdefender) detects the majority of known software keyloggers including rootkit-based variants.
+The first-line defense. A full scan with [Bitdefender](https://go.digitalshieldpro.com/bitdefender) detects the majority of known software keyloggers including rootkit-based variants.
 
 **What to do:**
 1. Update virus definitions before scanning
@@ -256,7 +256,7 @@ Detection is reactive. Prevention is better.
 
 ### Keep Antivirus Active and Current
 
-Real-time protection from [Bitdefender](/go/bitdefender) catches keylogger installation attempts as they happen, not just during manual scans. Behavioral detection flags suspicious keyboard hook API usage even for unknown malware variants.
+Real-time protection from [Bitdefender](https://go.digitalshieldpro.com/bitdefender) catches keylogger installation attempts as they happen, not just during manual scans. Behavioral detection flags suspicious keyboard hook API usage even for unknown malware variants.
 
 ### Use a Password Manager
 
@@ -323,6 +323,6 @@ Not all situations carry equal keylogger risk. These scenarios warrant immediate
 
 Keyloggers are one of the few threats where the attack surface includes the physical world. Most security content focuses on software threats. The hardware keylogger sitting between a keyboard and a port — requiring zero hacking, zero privilege escalation, zero exploitation — is a reminder that physical security matters.
 
-For software keyloggers, a well-configured antivirus with real-time protection is your best first line. [Bitdefender](/go/bitdefender) in particular performs well against keylogger-specific threats in independent testing. For hardware keyloggers, the only defense is physical inspection and awareness of who has access to your equipment.
+For software keyloggers, a well-configured antivirus with real-time protection is your best first line. [Bitdefender](https://go.digitalshieldpro.com/bitdefender) in particular performs well against keylogger-specific threats in independent testing. For hardware keyloggers, the only defense is physical inspection and awareness of who has access to your equipment.
 
 The key behavioral shift: after any period of unsupervised physical access to your computer by someone you do not fully trust, inspect the physical connections before typing sensitive information.

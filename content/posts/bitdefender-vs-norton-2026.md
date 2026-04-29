@@ -27,7 +27,7 @@ faq:
     a: "Both offer parental controls and multi-device plans. Norton has the edge for families wanting identity monitoring for all members via LifeLock Family plans. Bitdefender is better for families with older hardware or tight budgets since it costs less and runs lighter."
 products:
   - name: "Bitdefender"
-    url: "/go/bitdefender"
+    url: "https://go.digitalshieldpro.com/bitdefender"
     price: ""
 ---
 
@@ -415,7 +415,7 @@ Both offer parental controls and multi-device plans. Norton has the edge for fam
 ---
 
 
-<a href="/go/bitdefender" class="cta-affiliate" rel="sponsored noopener">View Bitdefender</a>
+<a href="https://go.digitalshieldpro.com/bitdefender" class="cta-affiliate" rel="sponsored noopener">View Bitdefender</a>
 
 ## Related Guides
 

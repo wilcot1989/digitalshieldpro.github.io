@@ -27,7 +27,7 @@ faq:
     a: "Signal has responded to multiple US government subpoenas. In documented cases, they have only been able to provide registration date and the date the account last connected — nothing else, because Signal does not store message content, metadata, or contact lists. The encryption design means even Signal cannot read your messages."
 products:
   - name: "NordVPN"
-    url: "/go/nordvpn"
+    url: "https://go.digitalshieldpro.com/nordvpn"
     price: ""
 ---
 
@@ -241,7 +241,7 @@ Threema lacks some features that have become standard:
 
 **For full decentralization:** Session if you want a polished app; Briar if you need offline capability or Tor-routed communication.
 
-A final note: whatever app you choose, the weakest link is usually endpoint security, not the encryption protocol. A well-designed encrypted messenger on a compromised device provides no protection. Pair your messenger choice with a [secure VPN](/go/nordvpn) and good device security practices for a comprehensive approach.
+A final note: whatever app you choose, the weakest link is usually endpoint security, not the encryption protocol. A well-designed encrypted messenger on a compromised device provides no protection. Pair your messenger choice with a [secure VPN](https://go.digitalshieldpro.com/nordvpn) and good device security practices for a comprehensive approach.
 
 ---
 

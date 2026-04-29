@@ -25,13 +25,13 @@ faq:
     a: "Yes. If your VPN account is compromised an attacker has your kill switch settings and can route your traffic. ProtonVPN and NordVPN both support TOTP authenticator apps — enable it."
 products:
   - name: "NordVPN"
-    url: "/go/nordvpn"
+    url: "https://go.digitalshieldpro.com/nordvpn"
     price: "3.49"
   - name: "ProtonVPN"
-    url: "/go/protonvpn"
+    url: "https://go.digitalshieldpro.com/protonvpn"
     price: "4.99"
   - name: "Surfshark"
-    url: "/go/surfshark"
+    url: "https://go.digitalshieldpro.com/surfshark"
     price: "2.49"
 ---
 
@@ -102,7 +102,7 @@ This quiz cuts through the marketing fog. 7 questions about how YOU use a VPN, w
     nordvpn: {
       name: "NordVPN",
       tagline: "Best all-rounder — streaming + speed + features",
-      url: "/go/nordvpn",
+      url: "https://go.digitalshieldpro.com/nordvpn",
       price: "$3.49/mo (2-year plan)",
       affiliate: true,
       scores: {
@@ -134,7 +134,7 @@ This quiz cuts through the marketing fog. 7 questions about how YOU use a VPN, w
     protonvpn: {
       name: "ProtonVPN",
       tagline: "Privacy-focused with usable streaming + free tier",
-      url: "/go/protonvpn",
+      url: "https://go.digitalshieldpro.com/protonvpn",
       price: "€4.99/mo Plus",
       affiliate: true,
       scores: {
@@ -150,7 +150,7 @@ This quiz cuts through the marketing fog. 7 questions about how YOU use a VPN, w
     surfshark: {
       name: "Surfshark",
       tagline: "Best value — unlimited devices, low price",
-      url: "/go/surfshark",
+      url: "https://go.digitalshieldpro.com/surfshark",
       price: "$2.49/mo (2-year plan)",
       affiliate: true,
       scores: {
@@ -263,7 +263,7 @@ This quiz cuts through the marketing fog. 7 questions about how YOU use a VPN, w
 
     // Bonus: stack-deal
     html += '<div style="background:#F5F7FA;border-left:4px solid #1E5FCF;padding:1rem;margin-top:1.5rem;border-radius:0 5px 5px 0;font-size:.9rem;">';
-    html += '<strong>💡 Pro tip:</strong> Pair your VPN with a password manager (<a href="/go/nordpass" rel="sponsored noopener">NordPass</a>) and encrypted email (<a href="/go/protonmail" rel="sponsored noopener">ProtonMail</a>) for the complete privacy stack. See our <a href="/posts/best-privacy-stack-2026/">privacy stack guide</a>.';
+    html += '<strong>💡 Pro tip:</strong> Pair your VPN with a password manager (<a href="https://go.digitalshieldpro.com/nordpass" rel="sponsored noopener">NordPass</a>) and encrypted email (<a href="https://go.digitalshieldpro.com/protonmail" rel="sponsored noopener">ProtonMail</a>) for the complete privacy stack. See our <a href="/posts/best-privacy-stack-2026/">privacy stack guide</a>.';
     html += '</div>';
 
     html += '</div>';

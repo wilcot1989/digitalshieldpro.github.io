@@ -28,10 +28,10 @@ faq:
 products: []
 products:
   - name: "ProtonMail Plus"
-    url: "/go/protonmail"
+    url: "https://go.digitalshieldpro.com/protonmail"
     price: "3.99"
   - name: "Tutanota Revolutionary"
-    url: "/go/tutanota"
+    url: "https://go.digitalshieldpro.com/tutanota"
     price: "3.00"
 ---
 
@@ -388,4 +388,4 @@ The practical result: conversations that cannot be read by your carrier, your go
 - [Best Encrypted Email Services 2026](/posts/best-encrypted-email-services-2026/)
 
 
-<a href="/go/incogni" class="cta-affiliate" rel="sponsored noopener">View Incogni</a>
+<a href="https://go.digitalshieldpro.com/incogni" class="cta-affiliate" rel="sponsored noopener">View Incogni</a>

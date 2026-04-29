@@ -27,7 +27,7 @@ faq:
     a: "A VPN app protects all internet traffic from your device, including every app and background process. A browser extension only protects traffic within that specific browser. For full protection, always use the VPN app."
 products:
   - name: "NordVPN"
-    url: "/go/nordvpn"
+    url: "https://go.digitalshieldpro.com/nordvpn"
     price: ""
 ---
 
@@ -533,7 +533,7 @@ Setting up a VPN is one of the easiest and most impactful steps you can take for
 ---
 
 
-<a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
+<a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
 
 ## Related Guides
 

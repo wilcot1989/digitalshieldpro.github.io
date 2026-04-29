@@ -27,7 +27,7 @@ faq:
     a: "Kali Linux and Parrot OS are penetration testing distributions, not privacy operating systems. They have many security tools, but they are not designed for user anonymity or protection against surveillance. Do not use Kali or Parrot as your privacy OS — use Tails, Qubes, or Whonix instead."
 products:
   - name: "NordVPN"
-    url: "/go/nordvpn"
+    url: "https://go.digitalshieldpro.com/nordvpn"
     price: ""
 ---
 
@@ -286,7 +286,7 @@ Whonix is for:
 
 **"I want the most serious overall privacy setup":** Qubes-Whonix on compatible hardware. This is the setup used by people who genuinely face nation-state-level threats.
 
-For everyday users who want better privacy but are not facing sophisticated adversaries, these operating systems represent significant overkill. A hardened regular Linux installation with full-disk encryption, Firefox with uBlock Origin, and a [trustworthy VPN like NordVPN](/go/nordvpn) provides strong practical privacy without the workflow complexity of specialized distros.
+For everyday users who want better privacy but are not facing sophisticated adversaries, these operating systems represent significant overkill. A hardened regular Linux installation with full-disk encryption, Firefox with uBlock Origin, and a [trustworthy VPN like NordVPN](https://go.digitalshieldpro.com/nordvpn) provides strong practical privacy without the workflow complexity of specialized distros.
 
 These tools exist on a spectrum. You do not need Qubes OS to have meaningful privacy — but if you are a journalist in a country where digital security can determine whether you stay free, Tails and Qubes are not overkill. They are the right tools for the job.
 

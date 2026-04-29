@@ -27,7 +27,7 @@ faq:
     a: "In most countries, yes — encrypting personal files is completely legal. A small number of countries restrict strong encryption or require disclosure of keys under certain legal proceedings. If you are operating in a high-risk jurisdiction, check local regulations."
 products:
   - name: "NordVPN"
-    url: "/go/nordvpn"
+    url: "https://go.digitalshieldpro.com/nordvpn"
     price: ""
 ---
 
@@ -374,7 +374,7 @@ For personal data protection against the most common threats — theft, unauthor
 ---
 
 
-<a href="/go/nordpass" class="cta-affiliate" rel="sponsored noopener">View Nordpass →</a>
+<a href="https://go.digitalshieldpro.com/nordpass" class="cta-affiliate" rel="sponsored noopener">View Nordpass →</a>
 
 ## Conclusion
 

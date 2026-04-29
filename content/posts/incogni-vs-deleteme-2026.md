@@ -29,13 +29,13 @@ faq:
     a: "No free trial for DeleteMe (annual-only, no refund period). Incogni offers a 30-day money-back guarantee on annual plans. If you want to test one risk-free, Incogni has the safer entry point."
 products:
   - name: "Incogni Annual"
-    url: "/go/incogni"
+    url: "https://go.digitalshieldpro.com/incogni"
     price: "7.49"
   - name: "DeleteMe Individual"
-    url: "/go/deleteme"
+    url: "https://go.digitalshieldpro.com/deleteme"
     price: "10.75"
   - name: "Incogni Family"
-    url: "/go/incogni"
+    url: "https://go.digitalshieldpro.com/incogni"
     price: "12.99"
 ---
 
@@ -323,7 +323,7 @@ For 80% of users — particularly anyone outside the US, anyone on a budget, and
 
 For the US-heavy, high-exposure user who has already searched their name and found themselves on 50+ broker sites including smaller regional players: DeleteMe is worth the premium.
 
-<a href="/go/incogni" class="cta-affiliate">Try Incogni</a> · <a href="/go/deleteme" class="cta-affiliate">Try DeleteMe</a>
+<a href="https://go.digitalshieldpro.com/incogni" class="cta-affiliate">Try Incogni</a> · <a href="https://go.digitalshieldpro.com/deleteme" class="cta-affiliate">Try DeleteMe</a>
 
 ---
 

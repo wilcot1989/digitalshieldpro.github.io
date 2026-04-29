@@ -12,7 +12,7 @@ author_bio: "Cybersecurity researcher and writer. Tests privacy tools and securi
 featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1555421689-491a97ff2040&w=1200&output=webp&q=70"
 products:
   - name: "NordPass"
-    url: "/go/nordpass"
+    url: "https://go.digitalshieldpro.com/nordpass"
     price: ""
 faq:
   - q: "At what age should children start learning about online safety?"
@@ -94,7 +94,7 @@ I do not recommend heavy monitoring of teenagers' private messages without their
 
 Children create accounts constantly — games, streaming services, apps, school platforms. Without guidance, they reuse simple passwords across every account. This creates real risk: a compromised gaming account password is often also the password to their email, which is often linked to everything else.
 
-The solution is a family password manager. [NordPass](/go/nordpass) offers a Family plan that covers up to 6 users. Children as young as 8–10 can use a password manager with simple guidance. The benefit extends beyond security: it also means you can see which accounts your child has created.
+The solution is a family password manager. [NordPass](https://go.digitalshieldpro.com/nordpass) offers a Family plan that covers up to 6 users. Children as young as 8–10 can use a password manager with simple guidance. The benefit extends beyond security: it also means you can see which accounts your child has created.
 
 Setting up a family password manager:
 1. Create a family NordPass account and add your child as a family member
@@ -104,7 +104,7 @@ Setting up a family password manager:
 
 This simple habit, established early, creates genuinely better security hygiene than most adults practice.
 
-[Protect your family's accounts with NordPass →](/go/nordpass)
+[Protect your family's accounts with NordPass →](https://go.digitalshieldpro.com/nordpass)
 
 ### Two-Factor Authentication on Children's Main Accounts
 
@@ -276,7 +276,7 @@ This is one of the most common crises parents face. Respond with calm, not anger
 4. Review sent emails and messages for anything sent by the attacker
 5. If financial information was involved, contact banks and monitor credit
 
-[Set up a family password manager today →](/go/nordpass)
+[Set up a family password manager today →](https://go.digitalshieldpro.com/nordpass)
 
 ## Building Long-Term Safety
 
@@ -286,7 +286,7 @@ The parent-child trust relationship is the most durable safety net that exists. 
 
 Invest in the conversations. Keep the promises you make about non-punitive response. Be genuinely curious about what your children are doing online — not in a surveillance way, but in the way you would ask about their day. The combination of reasonable technical controls and genuine education creates children who are genuinely safer, not just more restricted.
 
-For the account security layer, [NordPass Family](/go/nordpass) gives every family member strong, unique passwords managed in one place. It is one of the few technical measures that creates safety habits rather than just safety restrictions — habits that will serve your children long after they leave home.
+For the account security layer, [NordPass Family](https://go.digitalshieldpro.com/nordpass) gives every family member strong, unique passwords managed in one place. It is one of the few technical measures that creates safety habits rather than just safety restrictions — habits that will serve your children long after they leave home.
 
 ## Related guides
 

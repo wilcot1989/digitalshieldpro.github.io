@@ -27,7 +27,7 @@ faq:
     a: "No. iMessages are end-to-end encrypted and Apple does not have the keys to decrypt them. However, if you have iCloud Backup enabled, your message backups may be stored in iCloud. Since iOS 16.2, Advanced Data Protection extends end-to-end encryption to iCloud Backups — enabling this means Apple genuinely cannot access your messages even from backups."
 products:
   - name: "1Password"
-    url: "/go/1password"
+    url: "https://go.digitalshieldpro.com/1password"
     price: ""
 ---
 
@@ -203,14 +203,14 @@ iOS has solid built-in password management through iCloud Keychain. For many use
 - No emergency access feature
 - No password health dashboard as comprehensive as dedicated tools
 
-I use **[1Password](/go/1password)** because I regularly work across Windows machines with various browsers, and I need emergency access features for a family scenario. For someone who exclusively uses Apple devices and Safari, iCloud Keychain is genuinely good.
+I use **[1Password](https://go.digitalshieldpro.com/1password)** because I regularly work across Windows machines with various browsers, and I need emergency access features for a family scenario. For someone who exclusively uses Apple devices and Safari, iCloud Keychain is genuinely good.
 
 If you decide to use a dedicated manager on iPhone:
 1. Enable it in **Settings > Passwords > AutoFill Passwords** and select it alongside or instead of iCloud Keychain
 2. Install the app and set up Face ID unlock
 3. Import existing passwords from iCloud Keychain (1Password has an import tool for this)
 
-[Get 1Password for iPhone](/go/1password)
+[Get 1Password for iPhone](https://go.digitalshieldpro.com/1password)
 
 ---
 
@@ -328,7 +328,7 @@ iOS 17 introduced several notable security features:
 
 The iPhone's security architecture is genuinely good. Running through this checklist puts you well ahead of the threat model most people face. The highest-leverage actions — Advanced Data Protection, alphanumeric passcode, app permission audit — take about 30 minutes and provide durable security improvements.
 
-[Get 1Password for complete cross-device password management](/go/1password)
+[Get 1Password for complete cross-device password management](https://go.digitalshieldpro.com/1password)
 
 ## Related guides
 

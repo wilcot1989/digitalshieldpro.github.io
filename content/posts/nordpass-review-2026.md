@@ -29,7 +29,7 @@ faq:
     a: "Yes. NordPass supports importing from Chrome, Firefox, Safari, Edge, 1Password, Bitwarden, Dashlane, LastPass, and most other password managers via CSV import. The process typically takes under 5 minutes."
 products:
   - name: "NordPass"
-    url: "/go/nordpass"
+    url: "https://go.digitalshieldpro.com/nordpass"
     price: ""
 ---
 
@@ -383,7 +383,7 @@ At $1.49/month, the barrier to entry is low. If you are still storing passwords 
 ---
 
 
-<a href="/go/nordpass" class="cta-affiliate" rel="sponsored noopener">View Nordpass</a>
+<a href="https://go.digitalshieldpro.com/nordpass" class="cta-affiliate" rel="sponsored noopener">View Nordpass</a>
 
 ## Related Guides
 

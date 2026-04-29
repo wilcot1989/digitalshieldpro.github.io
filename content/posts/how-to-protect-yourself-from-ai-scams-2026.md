@@ -29,10 +29,10 @@ faq:
     a: "Audit your public social media profiles and remove or restrict video content containing your voice or face. Set Instagram, TikTok, and Facebook profiles to private or friends-only. Avoid posting extended video monologues publicly. Be aware that voicemail greetings are also a source of voice data — consider a generic automated greeting instead of a personal recording. These steps raise the cost of targeting you specifically, though they do not eliminate risk entirely."
 products:
   - name: "Bitdefender Total Security"
-    url: "/go/bitdefender"
+    url: "https://go.digitalshieldpro.com/bitdefender"
     price: "49"
   - name: "NordPass Premium"
-    url: "/go/nordpass"
+    url: "https://go.digitalshieldpro.com/nordpass"
     price: "1.49"
 ---
 
@@ -268,7 +268,7 @@ A parent who gets a call from their child's voice saying "I need help" is fighti
 The verification protocols — safe words, callback rules, out-of-band confirmation — are not complicated. They require commitment rather than technical knowledge. Set them up with your family this week, before you need them.
 
 
-<a href="/go/bitdefender" class="cta-affiliate" rel="sponsored noopener">View →</a>
+<a href="https://go.digitalshieldpro.com/bitdefender" class="cta-affiliate" rel="sponsored noopener">View →</a>
 
 ## Related guides
 

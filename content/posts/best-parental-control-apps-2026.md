@@ -25,7 +25,7 @@ faq:
     a: "Balance is key. For young children (under 10), comprehensive monitoring is appropriate and expected. For pre-teens (10-13), gradually reduce monitoring while maintaining safety guardrails. For teens (13+), focus on alert-based monitoring (like Bark) rather than full surveillance. Always be transparent about what you monitor and why."
 products:
   - name: "Kaspersky"
-    url: "/go/kaspersky"
+    url: "https://go.digitalshieldpro.com/kaspersky"
     price: ""
 ---
 
@@ -283,7 +283,7 @@ Parental controls are one tool — but they work best alongside open conversatio
 For families with young children, **Qustodio** or **Kaspersky Safe Kids** (budget) provide comprehensive control. For teenagers, **Bark Premium** offers the best balance of safety and independence. Don't forget the free built-in options — **Google Family Link** and **Apple Screen Time** cover the basics well.
 
 
-<a href="/go/kaspersky" class="cta-affiliate" rel="sponsored noopener">View Kaspersky</a>
+<a href="https://go.digitalshieldpro.com/kaspersky" class="cta-affiliate" rel="sponsored noopener">View Kaspersky</a>
 
 ## Read More
 

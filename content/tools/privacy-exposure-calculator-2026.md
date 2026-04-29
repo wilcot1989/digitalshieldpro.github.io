@@ -25,13 +25,13 @@ faq:
     a: "Not bad — but the free email providers (Gmail, Yahoo, Outlook) scan content for ad targeting and have years of metadata. ProtonMail or Tutanota offer end-to-end encryption with zero-knowledge architecture."
 products:
   - name: "NordPass (password manager)"
-    url: "/go/nordpass"
+    url: "https://go.digitalshieldpro.com/nordpass"
     price: "1.49"
   - name: "Incogni (data broker removal)"
-    url: "/go/incogni"
+    url: "https://go.digitalshieldpro.com/incogni"
     price: "6.49"
   - name: "ProtonMail Plus"
-    url: "/go/protonmail"
+    url: "https://go.digitalshieldpro.com/protonmail"
     price: "3.99"
 ---
 
@@ -198,9 +198,9 @@ This calculator gives you that measure. 12 questions, 90 seconds. You get a scor
 
     html += '<div style="background:#F5F7FA;border-left:4px solid #1E5FCF;padding:1rem;margin-top:1.5rem;border-radius:0 5px 5px 0;">';
     html += '<strong>📦 Recommended starter stack (covers 60% of risk):</strong><br>';
-    html += '<a href="/go/nordpass" rel="sponsored noopener" target="_blank" style="display:inline-block;background:#1E5FCF;color:#fff;padding:.5rem 1rem;border-radius:4px;font-weight:600;font-size:.85rem;text-decoration:none;margin:.4rem .25rem .4rem 0;">NordPass — passwords</a>';
-    html += '<a href="/go/nordvpn" rel="sponsored noopener" target="_blank" style="display:inline-block;background:#1E5FCF;color:#fff;padding:.5rem 1rem;border-radius:4px;font-weight:600;font-size:.85rem;text-decoration:none;margin:.4rem .25rem .4rem 0;">NordVPN — network</a>';
-    html += '<a href="/go/incogni" rel="sponsored noopener" target="_blank" style="display:inline-block;background:#1E5FCF;color:#fff;padding:.5rem 1rem;border-radius:4px;font-weight:600;font-size:.85rem;text-decoration:none;margin:.4rem .25rem .4rem 0;">Incogni — exposure</a>';
+    html += '<a href="https://go.digitalshieldpro.com/nordpass" rel="sponsored noopener" target="_blank" style="display:inline-block;background:#1E5FCF;color:#fff;padding:.5rem 1rem;border-radius:4px;font-weight:600;font-size:.85rem;text-decoration:none;margin:.4rem .25rem .4rem 0;">NordPass — passwords</a>';
+    html += '<a href="https://go.digitalshieldpro.com/nordvpn" rel="sponsored noopener" target="_blank" style="display:inline-block;background:#1E5FCF;color:#fff;padding:.5rem 1rem;border-radius:4px;font-weight:600;font-size:.85rem;text-decoration:none;margin:.4rem .25rem .4rem 0;">NordVPN — network</a>';
+    html += '<a href="https://go.digitalshieldpro.com/incogni" rel="sponsored noopener" target="_blank" style="display:inline-block;background:#1E5FCF;color:#fff;padding:.5rem 1rem;border-radius:4px;font-weight:600;font-size:.85rem;text-decoration:none;margin:.4rem .25rem .4rem 0;">Incogni — exposure</a>';
     html += '</div></div>';
 
     var out = document.getElementById('pec-result');

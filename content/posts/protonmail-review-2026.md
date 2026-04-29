@@ -320,7 +320,7 @@ For most users: Proton is the right balance. For maximum anonymity: Posteo + Tor
 
 ProtonMail Unlimited at €9.99/month replaces Gmail + Google Drive + ExpressVPN + 1Password + Calendar for me. That's about €25-35/month I was paying before, distributed. Net savings: €15-25/month, while gaining encryption.
 
-For privacy-aware professionals: <a href="/go/protonmail" class="cta-affiliate">Bekijk ProtonMail</a>
+For privacy-aware professionals: <a href="https://go.digitalshieldpro.com/protonmail" class="cta-affiliate">Bekijk ProtonMail</a>
 
 [Compare with Tutanota →](/posts/tutanota-review-2026/) · [ProtonMail vs Gmail showdown →](/posts/protonmail-vs-gmail-2026/)
 

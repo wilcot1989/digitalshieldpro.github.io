@@ -27,7 +27,7 @@ faq:
     a: "pCloud's base service encrypts data in transit and at rest but pCloud holds the keys. pCloud Crypto adds client-side zero-knowledge encryption for an additional $4.99/month or $125 lifetime. If privacy is your reason for switching from Dropbox, pCloud without Crypto is not meaningfully better — the Crypto add-on is required to get the security benefit you're paying for."
 products:
   - name: "Proton Drive"
-    url: "/go/protonmail"
+    url: "https://go.digitalshieldpro.com/protonmail"
     price: ""
 ---
 
@@ -190,7 +190,7 @@ For a small business handling sensitive client files, Tresorit's sharing model i
 
 **Proton Drive** if you already use ProtonMail — the integrated suite (Mail + Drive + Calendar + VPN) at €9.99/month is exceptional value and the encryption is battle-tested. The speed limitations only matter for large file transfers.
 
-[Get Proton Drive via Proton Unlimited](/go/protonmail)
+[Get Proton Drive via Proton Unlimited](https://go.digitalshieldpro.com/protonmail)
 
 **Sync.com** if you want a standalone zero-knowledge storage solution at the best price. The 5GB free tier is the best starting point to test the service.
 
@@ -264,7 +264,7 @@ This is a viable middle path — you keep the speed and integration of your exis
 
 For most individuals transitioning away from Dropbox or Google Drive for security reasons, Proton Drive (especially bundled with Proton Unlimited) or Sync.com provide the best combination of security, price, and usability.
 
-[Start with Proton Drive — 1 GB free, full zero-knowledge encryption](/go/protonmail)
+[Start with Proton Drive — 1 GB free, full zero-knowledge encryption](https://go.digitalshieldpro.com/protonmail)
 
 ---
 
@@ -334,7 +334,7 @@ Compared to paying separately for an email service, VPN, and cloud storage, this
 
 The main limitation remains speed — Proton Drive's transfer rates are the slowest in my test, and this matters for large file sets. For document-scale storage (PDFs, text files, spreadsheets, moderate-resolution photos), speed is not a practical concern. For video production work or large photo archives, Tresorit's faster transfer speeds may justify the higher price.
 
-[Start with Proton Drive — free tier, upgrade when ready](/go/protonmail)
+[Start with Proton Drive — free tier, upgrade when ready](https://go.digitalshieldpro.com/protonmail)
 
 ---
 

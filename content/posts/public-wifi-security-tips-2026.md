@@ -27,7 +27,7 @@ faq:
     a: "Auto-connection to previously joined networks is a convenience feature that creates risk. If an attacker sets up an evil twin with the same SSID as a network you have used before (e.g., 'Airport_Free_WiFi'), your phone may connect automatically without your knowledge. Disable auto-connect for public networks on both iOS and Android, and review and delete public network profiles you no longer need."
 products:
   - name: "NordVPN"
-    url: "/go/nordvpn"
+    url: "https://go.digitalshieldpro.com/nordvpn"
     price: ""
 ---
 
@@ -208,7 +208,7 @@ I travel regularly for work and have settled on a specific NordVPN configuration
 
 **Server selection:** For general travel, I connect to the nearest server in my home country (UK) to maintain consistent access to my usual services. For situations where I need local content at my destination, I connect to a server in that country.
 
-[**Try NordVPN — includes the auto-connect and kill switch features →**](/go/nordvpn)
+[**Try NordVPN — includes the auto-connect and kill switch features →**](https://go.digitalshieldpro.com/nordvpn)
 
 ---
 
@@ -260,7 +260,7 @@ The fix is simple and low-cost: a NordVPN subscription covers all your devices f
 
 I use VPN on every public Wi-Fi connection without exception. Not because I am carrying state secrets, but because the cost of the protection is trivial and the cost of an incident is not.
 
-[**Get NordVPN for all your public Wi-Fi connections →**](/go/nordvpn)
+[**Get NordVPN for all your public Wi-Fi connections →**](https://go.digitalshieldpro.com/nordvpn)
 
 ---
 

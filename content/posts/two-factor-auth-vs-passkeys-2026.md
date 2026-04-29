@@ -29,10 +29,10 @@ faq:
     a: "No. Many sites still don't support passkeys, and that won't change overnight. A good password manager handles both: passkeys for sites that support them, strong unique passwords for everything else, and secure storage for both. NordPass and 1Password both manage passkeys natively alongside traditional passwords."
 products:
   - name: "NordPass"
-    url: "/go/nordpass"
+    url: "https://go.digitalshieldpro.com/nordpass"
     price: "Free / From $1.49/month"
   - name: "1Password"
-    url: "/go/1password"
+    url: "https://go.digitalshieldpro.com/1password"
     price: "From $2.99/month"
 ---
 
@@ -199,9 +199,9 @@ Here's why: most of the sites you use don't support passkeys yet. You still need
 
 Both support passkey sync across multiple devices and platforms, which solves the "I set up a passkey on my phone but now I'm at my laptop" problem.
 
-[Set up NordPass for passkeys and passwords →](/go/nordpass)
+[Set up NordPass for passkeys and passwords →](https://go.digitalshieldpro.com/nordpass)
 
-[Try 1Password →](/go/1password)
+[Try 1Password →](https://go.digitalshieldpro.com/1password)
 
 ---
 
@@ -313,9 +313,9 @@ If you are already using a password manager, the transition to passkeys is less 
 
 The passkey in your NordPass vault is tied to your NordPass master password and biometric unlock — so the security of your passkeys depends on the security of your password manager account. This is a reasonable trade-off for most users because a password manager account protected by a strong master password and its own TOTP 2FA is a very strong authentication anchor.
 
-[**Start managing passkeys and passwords with NordPass →**](/go/nordpass)
+[**Start managing passkeys and passwords with NordPass →**](https://go.digitalshieldpro.com/nordpass)
 
-[**Or try 1Password's passkey management →**](/go/1password)
+[**Or try 1Password's passkey management →**](https://go.digitalshieldpro.com/1password)
 
 ---
 

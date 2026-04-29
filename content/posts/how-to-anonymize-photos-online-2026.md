@@ -27,7 +27,7 @@ faq:
     a: "Yes. ExifTool handles batch processing extremely well. The command exiftool -all= /path/to/folder/ removes all metadata from every image file in the specified folder. ExifPurge (Windows GUI) and similar tools also support batch processing."
 products:
   - name: "NordVPN"
-    url: "/go/nordvpn"
+    url: "https://go.digitalshieldpro.com/nordvpn"
     price: ""
 ---
 
@@ -366,7 +366,7 @@ No metadata tool removes what is visually in the photo. If you share a photo tha
 
 Visual review remains essential. Technical metadata removal is one layer of privacy, not the entire solution.
 
-For comprehensive online privacy, combine photo anonymization with a [VPN like NordVPN](/go/nordvpn) to protect your browsing patterns and the IP address you use when uploading or sharing content.
+For comprehensive online privacy, combine photo anonymization with a [VPN like NordVPN](https://go.digitalshieldpro.com/nordvpn) to protect your browsing patterns and the IP address you use when uploading or sharing content.
 
 ---
 

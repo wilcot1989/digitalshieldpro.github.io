@@ -27,7 +27,7 @@ faq:
     a: "Google Photos has more features: better AI search, more face recognition accuracy, better editing tools, Memories feature, and deeper Android integration. ente.io offers: E2E encryption, albums, basic search, face recognition (processed on-device), sharing with specific people, and public album links. ente is a privacy product first; it competes on privacy, not features."
 products:
   - name: "Proton Mail"
-    url: "/go/protonmail"
+    url: "https://go.digitalshieldpro.com/protonmail"
     price: ""
 ---
 
@@ -140,7 +140,7 @@ Before testing specific services, I defined my evaluation criteria:
 
 #### What Proton Drive Does Well
 
-**Proton ecosystem:** If you already use [Proton Mail](/go/protonmail) for encrypted email, adding Proton Drive integrates your encrypted storage under one subscription. The Unlimited plan's 500 GB covers email, calendar, drive, and VPN under a single price.
+**Proton ecosystem:** If you already use [Proton Mail](https://go.digitalshieldpro.com/protonmail) for encrypted email, adding Proton Drive integrates your encrypted storage under one subscription. The Unlimited plan's 500 GB covers email, calendar, drive, and VPN under a single price.
 
 **Reputation and track record:** Proton is headquartered in Switzerland, has a decade-long track record in privacy infrastructure, has been audited by multiple independent firms, and has publicly documented their encryption architecture in detail. Their transparency reports and warrant canary are maintained regularly.
 

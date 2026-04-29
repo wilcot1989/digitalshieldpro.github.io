@@ -29,7 +29,7 @@ faq:
     a: "Yes. Set your VPN to auto-connect whenever you join a Wi-Fi network. The only time to disconnect is if a specific local service requires a local IP address, such as hotel room controls or local payment apps."
 products:
   - name: "NordVPN"
-    url: "/go/nordvpn"
+    url: "https://go.digitalshieldpro.com/nordvpn"
     price: ""
 ---
 
@@ -456,7 +456,7 @@ Whichever you choose, the most important thing is to have a VPN installed and co
 ---
 
 
-<a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
+<a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
 
 ## Related Guides
 

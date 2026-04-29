@@ -29,7 +29,7 @@ faq:
     a: "Yes, partially. Disabling system-wide location access in Settings > Privacy & Security > Location prevents apps from accessing your precise GPS position. However, apps can still estimate your rough location from your IP address unless you use a VPN. If you use a maps or weather app you trust, you can allow location access for that specific app while blocking all others using per-app location permissions."
 products:
   - name: "Bitdefender"
-    url: "/go/bitdefender"
+    url: "https://go.digitalshieldpro.com/bitdefender"
     price: ""
 ---
 
@@ -250,7 +250,7 @@ If you must use a Microsoft account (e.g., for workplace compliance), go to Sett
 
 The settings above reduce what Windows sends to Microsoft, but they do not protect you from third-party apps, browser exploits, phishing sites, or malware that installs its own tracking components.
 
-I run [Bitdefender Total Security](/go/bitdefender) alongside these privacy settings because its anti-tracker feature actively blocks tracking scripts, its firewall gives me per-application network control, and its privacy audit feature flags apps with excessive permissions.
+I run [Bitdefender Total Security](https://go.digitalshieldpro.com/bitdefender) alongside these privacy settings because its anti-tracker feature actively blocks tracking scripts, its firewall gives me per-application network control, and its privacy audit feature flags apps with excessive permissions.
 
 Bitdefender's **Privacy Firewall** is particularly useful here — it lets me see which processes are making outbound connections and block anything I do not recognize. This is how I first noticed several telemetry endpoints in a fresh Windows 11 install; Bitdefender flagged unusual connection patterns from a preinstalled app.
 
@@ -298,7 +298,7 @@ A fresh Windows 11 install in 2026 is not private by default — it is a telemet
 
 The 30 minutes you spend working through this checklist meaningfully reduces that collection. You will not achieve perfect privacy on a Windows machine — the OS is closed source and Microsoft can change behavior in updates — but you can substantially limit what gets sent and ensure you are not opted into the most aggressive collection features by default.
 
-Re-check these settings after every major Windows feature update. And for the threats that come from outside Windows itself — phishing, malware, browser exploits — a well-configured security suite like [Bitdefender](/go/bitdefender) adds protection that privacy settings alone cannot provide.
+Re-check these settings after every major Windows feature update. And for the threats that come from outside Windows itself — phishing, malware, browser exploits — a well-configured security suite like [Bitdefender](https://go.digitalshieldpro.com/bitdefender) adds protection that privacy settings alone cannot provide.
 
 ## Related guides
 

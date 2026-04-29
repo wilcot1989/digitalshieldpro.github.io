@@ -12,10 +12,10 @@ author_bio: "Cybersecurity researcher and writer. Tests privacy tools and securi
 featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1563013544-824ae1b704d3&w=1200&output=webp&q=70"
 products:
   - name: "NordVPN"
-    url: "/go/nordvpn"
+    url: "https://go.digitalshieldpro.com/nordvpn"
     price: "3.49"
   - name: "Incogni"
-    url: "/go/incogni"
+    url: "https://go.digitalshieldpro.com/incogni"
     price: "6.49"
 faq:
   - q: "Does changing Facebook privacy settings stop Meta from collecting my data?"
@@ -337,7 +337,7 @@ Facebook and Instagram settings control what Meta can show about you to other us
 Starting with Facebook and Instagram is reasonable — they are the largest platforms and the settings changes here have the most immediate impact. Building the habit of intentional privacy configuration on these platforms makes it easier to apply the same rigor to every platform you use.
 
 
-<a href="/go/incogni" class="cta-affiliate" rel="sponsored noopener">View →</a>
+<a href="https://go.digitalshieldpro.com/incogni" class="cta-affiliate" rel="sponsored noopener">View →</a>
 
 ## Related guides
 

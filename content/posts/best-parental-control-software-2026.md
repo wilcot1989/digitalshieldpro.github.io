@@ -48,7 +48,7 @@ faq:
     answer: "In most jurisdictions, parents have the legal right to monitor their minor children's online activity. In the United States, the Children's Online Privacy Protection Act (COPPA) actually encourages parental involvement in children's online activities. However, laws vary by country, and monitoring adult children or other people's children without consent may be illegal."
 products:
   - name: "Bitdefender"
-    url: "/go/bitdefender"
+    url: "https://go.digitalshieldpro.com/bitdefender"
     price: ""
 ---
 
@@ -389,7 +389,7 @@ For comprehensive protection, combine these built-in console controls with netwo
 The best parental control software is the one you actually use consistently. Pick the option that fits your family's needs, set it up on all your children's devices, and commit to reviewing the reports regularly. Combined with open communication about online safety, these tools give your children the freedom to explore the internet while keeping the worst of it at bay.
 
 
-<a href="/go/bitdefender" class="cta-affiliate" rel="sponsored noopener">View Bitdefender</a>
+<a href="https://go.digitalshieldpro.com/bitdefender" class="cta-affiliate" rel="sponsored noopener">View Bitdefender</a>
 
 ## Related Guides
 

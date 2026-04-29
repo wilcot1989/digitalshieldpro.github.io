@@ -29,7 +29,7 @@ faq:
     a: "Rarely. When a site offers a $400 pair of Nike trainers for $89 or a $1,200 designer handbag for $180, the most likely explanations are: the products are counterfeits, the store is a scam and will ship nothing, or the products are stolen (rare). Occasionally, legitimate liquidation sales and clearance events offer genuine discounts of 30-40%, but 60-80% off on branded luxury goods from an unfamiliar site is almost always a fraud signal. Stick to the brand's official website or authorised retailers."
 products:
   - name: "Bitdefender"
-    url: "/go/bitdefender"
+    url: "https://go.digitalshieldpro.com/bitdefender"
     price: ""
 ---
 
@@ -168,7 +168,7 @@ A quality antivirus with web protection adds automated fraud detection:
 - Real-time scanning catches malware downloaded from fake store "receipt" emails
 - Browser extensions integrated with security software can flag suspicious site behaviour
 
-[Bitdefender Total Security](/go/bitdefender) includes web protection, anti-phishing, and safe browsing tools specifically designed for e-commerce threats.
+[Bitdefender Total Security](https://go.digitalshieldpro.com/bitdefender) includes web protection, anti-phishing, and safe browsing tools specifically designed for e-commerce threats.
 
 ### Layer 4: After-Purchase Monitoring
 
@@ -196,7 +196,7 @@ The threat landscape for online shopping has professionalized significantly. The
 
 None of these steps takes more than a few minutes. The cost of skipping them can take months to resolve.
 
-[Protect your browsing with Bitdefender](/go/bitdefender)
+[Protect your browsing with Bitdefender](https://go.digitalshieldpro.com/bitdefender)
 
 ---
 
@@ -265,7 +265,7 @@ None of these is definitive. All of them together, on a site with a recently reg
 
 Protect yourself at the browser level and you protect yourself from most of what the fraudsters can throw at you. Bitdefender provides that layer.
 
-[**Get Bitdefender with web protection →**](/go/bitdefender)
+[**Get Bitdefender with web protection →**](https://go.digitalshieldpro.com/bitdefender)
 
 ---
 

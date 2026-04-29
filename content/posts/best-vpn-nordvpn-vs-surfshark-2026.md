@@ -27,10 +27,10 @@ faq:
     a: "Both claim to work in China with obfuscated servers, but reliability varies. NordVPN's obfuscated servers have historically been more consistent. Neither can guarantee access as China's Great Firewall actively targets VPN protocols."
 products:
   - name: "NordVPN"
-    url: "/go/nordvpn"
+    url: "https://go.digitalshieldpro.com/nordvpn"
     price: ""
   - name: "Surfshark"
-    url: "/go/surfshark"
+    url: "https://go.digitalshieldpro.com/surfshark"
     price: ""
 ---
 
@@ -198,7 +198,7 @@ For iOS users who want ad blocking at the system level: Surfshark has an advanta
 - You want Onion over VPN or Double VPN for enhanced anonymity
 - You have 10 or fewer devices to protect
 
-[Get NordVPN →](/go/nordvpn)
+[Get NordVPN →](https://go.digitalshieldpro.com/nordvpn)
 
 ---
 
@@ -210,7 +210,7 @@ For iOS users who want ad blocking at the system level: Surfshark has an advanta
 - Netherlands jurisdiction feels more accountable to you than Panama
 - You want Surfshark One's bundled breach alerts and antivirus
 
-[Get Surfshark →](/go/surfshark)
+[Get Surfshark →](https://go.digitalshieldpro.com/surfshark)
 
 ---
 
@@ -388,9 +388,9 @@ Neither offers a genuine free trial (no credit card). Both offer 30-day money-ba
 
 ## Final Recommendation
 
-[NordVPN](/go/nordvpn) is my primary VPN recommendation for 2026. It is the better product on speed, streaming consistency, and server variety. For most users, the €0.60/month premium is justified.
+[NordVPN](https://go.digitalshieldpro.com/nordvpn) is my primary VPN recommendation for 2026. It is the better product on speed, streaming consistency, and server variety. For most users, the €0.60/month premium is justified.
 
-[Surfshark](/go/surfshark) is the better choice if you have a large household (unlimited devices), are price-sensitive, or want system-level ad blocking on iOS.
+[Surfshark](https://go.digitalshieldpro.com/surfshark) is the better choice if you have a large household (unlimited devices), are price-sensitive, or want system-level ad blocking on iOS.
 
 Both are among the top three VPNs available in 2026. Either subscription is a meaningful privacy improvement over using no VPN at all.
 

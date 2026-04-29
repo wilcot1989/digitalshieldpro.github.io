@@ -29,7 +29,7 @@ faq:
     a: "Enable automatic updates for everything — your operating system, antivirus, browser, apps, and router firmware. Most security exploits target known vulnerabilities that patches have already fixed. Delaying updates leaves you exposed."
 products:
   - name: "NordVPN"
-    url: "/go/nordvpn"
+    url: "https://go.digitalshieldpro.com/nordvpn"
     price: ""
 ---
 
@@ -604,7 +604,7 @@ Bookmark this page and come back to it as you work through each section. Your fu
 ---
 
 
-<a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
+<a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
 
 ## Related Guides
 

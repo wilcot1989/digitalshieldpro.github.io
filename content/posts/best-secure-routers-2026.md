@@ -29,10 +29,10 @@ faq:
     a: "A router with built-in VPN client capability routes all connected devices through the VPN tunnel. This protects devices that cannot run a VPN themselves — smart TVs, game consoles, IoT devices. The tradeoff is throughput: VPN encryption at the router level is CPU-intensive and reduces speeds more than a VPN running on a single device. The ASUS RT-AX88U Pro handles this better than most, with hardware acceleration for VPN traffic."
 products:
   - name: "NordVPN (router-compatible)"
-    url: "/go/nordvpn"
+    url: "https://go.digitalshieldpro.com/nordvpn"
     price: "3.49"
   - name: "Bitdefender BOX"
-    url: "/go/bitdefender"
+    url: "https://go.digitalshieldpro.com/bitdefender"
     price: "199"
 ---
 
@@ -270,7 +270,7 @@ For security professionals or enthusiasts who want full network visibility: **Fi
 Your router is the single piece of hardware that all of your network traffic passes through. It is worth spending the time to configure it correctly and the money to get one that is actively maintained.
 
 
-<a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">View →</a>
+<a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate" rel="sponsored noopener">View →</a>
 
 ## Related guides
 

@@ -32,10 +32,10 @@ products:
     url: "https://mullvad.net"
     price: "5.00/month"
   - name: "NordVPN"
-    url: "/go/nordvpn"
+    url: "https://go.digitalshieldpro.com/nordvpn"
     price: "from 3.49/month"
   - name: "ProtonVPN"
-    url: "/go/protonvpn"
+    url: "https://go.digitalshieldpro.com/protonvpn"
     price: "from 4.99/month"
 ---
 
@@ -275,9 +275,9 @@ Streaming is a primary use case. You need a large server network for specific co
 
 ## Alternatives Worth Considering
 
-<a href="/go/nordvpn" class="cta-affiliate">NordVPN</a> is the better all-rounder for most mainstream users. More servers, streaming access, lower price on long-term plans. Privacy record is good (not perfect), and the features-to-price ratio is strong.
+<a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate">NordVPN</a> is the better all-rounder for most mainstream users. More servers, streaming access, lower price on long-term plans. Privacy record is good (not perfect), and the features-to-price ratio is strong.
 
-<a href="/go/protonvpn" class="cta-affiliate">ProtonVPN</a> is the closest Mullvad peer for users who want Swiss jurisdiction and privacy ethos with streaming access and port forwarding added back in.
+<a href="https://go.digitalshieldpro.com/protonvpn" class="cta-affiliate">ProtonVPN</a> is the closest Mullvad peer for users who want Swiss jurisdiction and privacy ethos with streaming access and port forwarding added back in.
 
 Both of the above have affiliate programs (I receive commission if you subscribe through those links). Mullvad does not — which is, honestly, one small data point in their favor.
 

@@ -25,10 +25,10 @@ faq:
     a: "Yes. Bitwarden, 1Password, and Dashlane all support FIDO2 hardware keys as a second factor or, on Bitwarden, as a passwordless option. I tested all three with every key in this review. All six keys worked with Bitwarden. Setup takes about five minutes."
 products:
   - name: "YubiKey 5C NFC"
-    url: "/go/yubikey"
+    url: "https://go.digitalshieldpro.com/yubikey"
     price: "$55"
   - name: "YubiKey Bio"
-    url: "/go/yubikey"
+    url: "https://go.digitalshieldpro.com/yubikey"
     price: "$95"
   - name: "Nitrokey 3"
     url: "https://www.nitrokey.com/products/nitrokeys/nitrokey3"
@@ -346,7 +346,7 @@ Yubico's published IP rating for the 5C NFC is IP68 (waterproof to 1.5m for 30 m
 
 ## Affiliate Disclosure
 
-YubiKey links in this article go through my affiliate link at [/go/yubikey](/go/yubikey) via the Impact affiliate program. I earn a small commission if you purchase through that link. The Nitrokey, SoloKey, Google Titan, and Token2 links are direct -- I have no affiliate relationship with those companies.
+YubiKey links in this article go through my affiliate link at [/go/yubikey](https://go.digitalshieldpro.com/yubikey) via the Impact affiliate program. I earn a small commission if you purchase through that link. The Nitrokey, SoloKey, Google Titan, and Token2 links are direct -- I have no affiliate relationship with those companies.
 
 I bought all six keys with my own money for this test. Affiliate relationship does not change my recommendation: the YubiKey 5C NFC genuinely outperformed on NFC reliability and protocol breadth. But you should know the financial relationship exists.
 

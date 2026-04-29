@@ -27,10 +27,10 @@ faq:
     a: "No. Data broker removal does not affect credit reporting agencies (Equifax, Experian, TransUnion) — these are separate and regulated differently. GDPR erasure requests do not apply to data processed for legal obligations like credit risk assessment."
 products:
   - name: "Incogni"
-    url: "/go/incogni"
+    url: "https://go.digitalshieldpro.com/incogni"
     price: ""
   - name: "DeleteMe EU"
-    url: "/go/deleteme"
+    url: "https://go.digitalshieldpro.com/deleteme"
     price: ""
 ---
 
@@ -73,7 +73,7 @@ The key: brokers who operate in the EU or process EU residents' data are subject
 
 ## Incogni: Testing From the Netherlands for 4 Months
 
-[Incogni](/go/incogni) is operated by Surfshark Ltd and launched in 2022. It is currently the leading automated data removal service in the EU market.
+[Incogni](https://go.digitalshieldpro.com/incogni) is operated by Surfshark Ltd and launched in 2022. It is currently the leading automated data removal service in the EU market.
 
 **How it works:**
 1. You provide your name, email, phone, and home address
@@ -111,7 +111,7 @@ Not all 180 brokers are EU-relevant. Some are US-only (Spokeo, BeenVerified). Fo
 
 ## DeleteMe EU: Testing From the Netherlands
 
-[DeleteMe](/go/deleteme) was founded in 2010 and is operated by Abine Inc (US). They expanded to the EU market significantly in 2024–2025.
+[DeleteMe](https://go.digitalshieldpro.com/deleteme) was founded in 2010 and is operated by Abine Inc (US). They expanded to the EU market significantly in 2024–2025.
 
 **How it works:**
 Similar to Incogni, but with a different emphasis. DeleteMe sends opt-out requests and tracks removals. Their EU service includes GDPR requests.
@@ -187,9 +187,9 @@ Data broker removal is valuable for everyone, but especially critical for:
 
 ## My Recommendation
 
-For EU residents, **[Incogni](/go/incogni)** is the better choice. More EU-relevant brokers covered, lower price, and GDPR-native framing. The lack of per-broker detail reports is a limitation, but for most users the dashboard is sufficient.
+For EU residents, **[Incogni](https://go.digitalshieldpro.com/incogni)** is the better choice. More EU-relevant brokers covered, lower price, and GDPR-native framing. The lack of per-broker detail reports is a limitation, but for most users the dashboard is sufficient.
 
-**Choose [DeleteMe EU](/go/deleteme) if** you want detailed reports showing exactly what data was found and removed, and you are willing to pay the premium for that transparency.
+**Choose [DeleteMe EU](https://go.digitalshieldpro.com/deleteme) if** you want detailed reports showing exactly what data was found and removed, and you are willing to pay the premium for that transparency.
 
 Neither service is a permanent solution — data repopulates, and both require ongoing subscriptions to maintain removal. But one year of Incogni is €78 and removes approximately 100+ sets of your data from broker databases. That is a reasonable investment in your privacy and safety.
 
@@ -366,9 +366,9 @@ No single tool covers all attack surfaces. The combination above addresses the m
 
 ## My Final Recommendation
 
-For EU residents, [Incogni](/go/incogni) is the better value: more EU-relevant brokers covered, GDPR-native, and significantly cheaper than DeleteMe EU.
+For EU residents, [Incogni](https://go.digitalshieldpro.com/incogni) is the better value: more EU-relevant brokers covered, GDPR-native, and significantly cheaper than DeleteMe EU.
 
-Use [DeleteMe EU](/go/deleteme) if you need detailed per-broker reports showing exactly what data was found — the transparency is its genuine advantage.
+Use [DeleteMe EU](https://go.digitalshieldpro.com/deleteme) if you need detailed per-broker reports showing exactly what data was found — the transparency is its genuine advantage.
 
 Start with Incogni. After the first year, review the dashboard and assess whether the coverage is sufficient for your needs. If you are in a high-risk category (public figure, journalist, domestic safety concern), consider running both services simultaneously.
 

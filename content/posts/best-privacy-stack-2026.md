@@ -35,19 +35,19 @@ faq:
     a: "Yes. All five tools I recommend are subscription services with no long-term contracts (unless you choose a multi-year plan for discount). NordVPN and NordPass both offer 30-day money-back guarantees. ProtonMail's paid plan can be cancelled anytime. Bitdefender offers 30-day money-back. Incogni offers a 30-day guarantee. I recommend starting all five during the same billing period so renewals hit at the same time — easier to audit and cancel if needed."
 products:
   - name: "NordVPN"
-    url: "/go/nordvpn"
+    url: "https://go.digitalshieldpro.com/nordvpn"
     price: ""
   - name: "ProtonMail"
-    url: "/go/protonmail"
+    url: "https://go.digitalshieldpro.com/protonmail"
     price: ""
   - name: "NordPass"
-    url: "/go/nordpass"
+    url: "https://go.digitalshieldpro.com/nordpass"
     price: ""
   - name: "Bitdefender"
-    url: "/go/bitdefender"
+    url: "https://go.digitalshieldpro.com/bitdefender"
     price: ""
   - name: "Incogni"
-    url: "/go/incogni"
+    url: "https://go.digitalshieldpro.com/incogni"
     price: ""
 ---
 
@@ -109,7 +109,7 @@ The downside: speeds on the free tier are throttled and server selection is limi
 
 **My recommendation for the stack:** NordVPN for most people building a complete privacy stack. The threat protection DNS blocking layer adds meaningful defense-in-depth, the price is competitive, and the UX makes it easy to actually keep the VPN running 24/7 rather than only when you remember. If your threat model is elevated, switch the VPN layer to Mullvad and accept the trade-offs.
 
-[Get NordVPN](/go/nordvpn) — *30-day money-back guarantee. Start with the 2-year plan for the best monthly rate.*
+[Get NordVPN](https://go.digitalshieldpro.com/nordvpn) — *30-day money-back guarantee. Start with the 2-year plan for the best monthly rate.*
 
 ---
 
@@ -133,7 +133,7 @@ The honest limitation: if you email someone on Gmail, encryption only covers the
 
 **My recommendation for the stack:** ProtonMail. The Proton ecosystem (ProtonMail + ProtonVPN + ProtonDrive + ProtonCalendar) creates a coherent privacy-first environment. If you choose ProtonVPN for your VPN layer, the Proton bundle deal ($9.99/month for VPN + Mail + Drive) is genuinely the best value in the privacy tool market.
 
-[Get ProtonMail](/go/protonmail) — *Start with the free tier to migrate your email before committing to paid.*
+[Get ProtonMail](https://go.digitalshieldpro.com/protonmail) — *Start with the free tier to migrate your email before committing to paid.*
 
 ---
 
@@ -161,7 +161,7 @@ For the privacy-maximalist threat model: Bitwarden self-hosted on a VPS you cont
 
 **My recommendation for the stack:** NordPass for most people building this specific stack, especially if you are already using NordVPN. The ecosystem pricing is competitive and the UX makes adoption easy, which matters more than theoretical security maximization if the alternative is going back to weak passwords. If you value open-source verification over UX polish, choose Bitwarden Premium at $10/year.
 
-[Get NordPass](/go/nordpass) — *Free tier available. Upgrade to Premium for emergency access and breach monitoring.*
+[Get NordPass](https://go.digitalshieldpro.com/nordpass) — *Free tier available. Upgrade to Premium for emergency access and breach monitoring.*
 
 ---
 
@@ -187,7 +187,7 @@ The renewal price spike is the main complaint on Trustpilot (3.6/5, 10,100+ revi
 
 **My recommendation for the stack:** Bitdefender Total Security. The detection rates match Kaspersky, the performance impact is the lightest among full-featured suites, and the multi-device coverage at the first-year price is hard to beat. Just cancel or negotiate before auto-renewal.
 
-[Get Bitdefender](/go/bitdefender) — *30-day money-back. Best for protection without performance sacrifice.*
+[Get Bitdefender](https://go.digitalshieldpro.com/bitdefender) — *30-day money-back. Best for protection without performance sacrifice.*
 
 ---
 
@@ -209,7 +209,7 @@ My real-world results: after 6 months of Incogni, I manually checked 40 broker s
 
 **My recommendation for the stack:** Incogni. The price point fits into the stack budget, the coverage is broad, and the automated re-submission handles the ongoing nature of the problem rather than treating it as a one-time fix.
 
-[Get Incogni](/go/incogni) — *30-day money-back. Works on ongoing basis — not a one-time removal.*
+[Get Incogni](https://go.digitalshieldpro.com/incogni) — *30-day money-back. Works on ongoing basis — not a one-time removal.*
 
 ---
 
@@ -352,7 +352,7 @@ What it has changed in practice: I no longer see targeted ads that reference spe
 
 One weekend, five tools, ~$28/month. Start with the password manager today.
 
-[Get NordVPN](/go/nordvpn) | [Get ProtonMail](/go/protonmail) | [Get NordPass](/go/nordpass) | [Get Bitdefender](/go/bitdefender) | [Get Incogni](/go/incogni)
+[Get NordVPN](https://go.digitalshieldpro.com/nordvpn) | [Get ProtonMail](https://go.digitalshieldpro.com/protonmail) | [Get NordPass](https://go.digitalshieldpro.com/nordpass) | [Get Bitdefender](https://go.digitalshieldpro.com/bitdefender) | [Get Incogni](https://go.digitalshieldpro.com/incogni)
 
 ---
 

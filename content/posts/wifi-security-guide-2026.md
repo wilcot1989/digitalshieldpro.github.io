@@ -25,7 +25,7 @@ faq:
     a: "Check for firmware updates monthly and install them promptly — they often fix security vulnerabilities. Enable automatic updates if your router supports it. Replace your router every 5-7 years, or sooner if the manufacturer stops releasing security updates. Unsupported routers are a significant security risk."
 products:
   - name: "NordVPN"
-    url: "/go/nordvpn"
+    url: "https://go.digitalshieldpro.com/nordvpn"
     price: ""
 ---
 
@@ -284,7 +284,7 @@ Mesh systems generally have good security defaults — auto-firmware updates, WP
 WiFi security comes down to four fundamentals: WPA3/WPA2 encryption with a strong password, updated firmware, changed default credentials, and a guest network for IoT devices. This takes 30 minutes to set up and provides strong protection against the vast majority of wireless attacks.
 
 
-<a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
+<a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
 
 ## Read More
 

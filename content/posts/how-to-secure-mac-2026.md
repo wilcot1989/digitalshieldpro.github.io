@@ -27,10 +27,10 @@ faq:
     a: "Yes, particularly on public WiFi (coffee shops, airports, hotels). A VPN encrypts your connection, preventing eavesdropping and protecting against man-in-the-middle attacks. NordVPN's macOS app is the best-tested option I have used — fast, with a reliable kill switch and automatic protection on untrusted networks."
 products:
   - name: "1Password"
-    url: "/go/1password"
+    url: "https://go.digitalshieldpro.com/1password"
     price: ""
   - name: "Bitdefender"
-    url: "/go/bitdefender"
+    url: "https://go.digitalshieldpro.com/bitdefender"
     price: ""
 ---
 
@@ -257,7 +257,7 @@ This is where most Mac users are weakest. Even a fully encrypted, hardened Mac i
 
 ### 1Password — Best Mac Password Manager
 
-[**1Password**](/go/1password) is the best-tested password manager for macOS. I have used it for four years across my own machines and recommended it in security consultations. Key features for Mac users:
+[**1Password**](https://go.digitalshieldpro.com/1password) is the best-tested password manager for macOS. I have used it for four years across my own machines and recommended it in security consultations. Key features for Mac users:
 
 - **Native macOS app** — integrates with Safari, Touch ID, and Keychain
 - **Travel Mode** — temporarily hide sensitive vaults when crossing borders
@@ -288,7 +288,7 @@ Prefer authenticator apps (1Password has a built-in TOTP generator) over SMS-bas
 
 ### Bitdefender — Best Mac Antivirus
 
-[**Bitdefender**](/go/bitdefender) consistently scores highest in independent Mac antivirus tests (AV-TEST, AV-Comparatives). What sets it apart on macOS:
+[**Bitdefender**](https://go.digitalshieldpro.com/bitdefender) consistently scores highest in independent Mac antivirus tests (AV-TEST, AV-Comparatives). What sets it apart on macOS:
 
 - **Behavioural detection** — identifies threats by behaviour, not just known signatures. Catches new malware variants that XProtect misses
 - **TrafficLight** — browser extension that flags dangerous URLs before you click
@@ -345,8 +345,8 @@ A backup you have never restored from is a backup you do not know works. Quarter
 Here is my actual setup, in order of importance:
 
 1. **FileVault** — enabled, recovery key in 1Password
-2. **[1Password](/go/1password)** — all credentials, unique passwords, 2FA codes
-3. **[Bitdefender](/go/bitdefender)** — real-time malware detection, TrafficLight
+2. **[1Password](https://go.digitalshieldpro.com/1password)** — all credentials, unique passwords, 2FA codes
+3. **[Bitdefender](https://go.digitalshieldpro.com/bitdefender)** — real-time malware detection, TrafficLight
 4. **Little Snitch** — outbound network monitoring
 5. **Firewall + Stealth Mode** — built-in, enabled
 6. **NordVPN** — on public WiFi, via the Mac app

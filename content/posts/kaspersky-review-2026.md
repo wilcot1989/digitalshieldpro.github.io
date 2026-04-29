@@ -27,7 +27,7 @@ faq:
     a: "Kaspersky is designed to be your primary security solution and may conflict with other real-time antivirus products. However, it can coexist with on-demand scanners like Malwarebytes Free when Malwarebytes real-time protection is disabled."
 products:
   - name: "Kaspersky"
-    url: "/go/kaspersky"
+    url: "https://go.digitalshieldpro.com/kaspersky"
     price: ""
 ---
 
@@ -446,7 +446,7 @@ Security software requires trust. Choose a product you trust completely -- and m
 ---
 
 
-<a href="/go/kaspersky" class="cta-affiliate" rel="sponsored noopener">View Kaspersky</a>
+<a href="https://go.digitalshieldpro.com/kaspersky" class="cta-affiliate" rel="sponsored noopener">View Kaspersky</a>
 
 ## Related Guides
 

@@ -29,7 +29,7 @@ faq:
     a: "Yes. Data brokers regularly re-acquire your information from new sources and re-list you. Without ongoing suppression, you will typically be re-listed within 3-6 months. This is why automated services like Incogni are valuable — they monitor and re-submit removal requests continuously."
 products:
   - name: "Incogni"
-    url: "/go/incogni"
+    url: "https://go.digitalshieldpro.com/incogni"
     price: ""
 ---
 
@@ -238,7 +238,7 @@ This is the fundamental problem with manual removal: it is a one-time interventi
 
 ## Incogni: Automated GDPR Removal at Scale
 
-[**Incogni**](/go/incogni) (by Surfshark, a well-regarded privacy company) automates the data broker removal process. Here is how it works and what my testing showed.
+[**Incogni**](https://go.digitalshieldpro.com/incogni) (by Surfshark, a well-regarded privacy company) automates the data broker removal process. Here is how it works and what my testing showed.
 
 ### How Incogni Works
 
@@ -359,7 +359,7 @@ File with the authority in your country of residence (not where the company is b
 
 EU residents have more effective tools to control personal data than almost anywhere else in the world. GDPR's Right to Erasure, Right to Object, and the mandatory 30-day response timeline create real accountability. The practical challenge is scale — hundreds of brokers, continuous re-listing, and limited enforcement resources make manual removal exhausting.
 
-The most efficient approach combines: an initial manual audit to understand your exposure, targeted removal requests for the most sensitive listings, and [Incogni](/go/incogni) for ongoing automated suppression across the long tail of brokers. Supplement with Google's removal tools and national do-not-call registrations, and you significantly reduce your data broker footprint within a few months.
+The most efficient approach combines: an initial manual audit to understand your exposure, targeted removal requests for the most sensitive listings, and [Incogni](https://go.digitalshieldpro.com/incogni) for ongoing automated suppression across the long tail of brokers. Supplement with Google's removal tools and national do-not-call registrations, and you significantly reduce your data broker footprint within a few months.
 
 ---
 

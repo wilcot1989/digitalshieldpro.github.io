@@ -29,13 +29,13 @@ faq:
     a: "Stealth is ProtonVPN's anti-censorship protocol that obfuscates VPN traffic to look like regular HTTPS. It's designed for use in countries that block VPN protocols — China, Iran, Russia, etc. In my test connecting from a simulated blocked environment, Stealth connected when WireGuard and OpenVPN both failed. It's slower than WireGuard but significantly more reliable in restrictive networks."
 products:
   - name: "ProtonVPN Plus"
-    url: "/go/protonvpn"
+    url: "https://go.digitalshieldpro.com/protonvpn"
     price: "4.99"
   - name: "ProtonVPN Free"
-    url: "/go/protonvpn"
+    url: "https://go.digitalshieldpro.com/protonvpn"
     price: "0.00"
   - name: "NordVPN (alternative)"
-    url: "/go/nordvpn"
+    url: "https://go.digitalshieldpro.com/nordvpn"
     price: "3.49"
 ---
 
@@ -265,7 +265,7 @@ NetShield is a useful bonus, not a replacement for browser-level ad blocking. Ru
 
 **NordVPN** at €3.49/month (two-year plan) is genuinely cheaper and has better speeds in entertainment-heavy use cases (Disney+, Prime Video). The Panama jurisdiction is reasonable but less impressive than Switzerland. Apps are closed source. NordVPN is more entertainment-focused; ProtonVPN is more privacy-focused. For most users who want a balance, NordVPN is the stronger value proposition if Swiss jurisdiction isn't a priority.
 
-<a href="/go/nordvpn" class="cta-affiliate">Compare NordVPN pricing →</a>
+<a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate">Compare NordVPN pricing →</a>
 
 ---
 
@@ -378,7 +378,7 @@ If you're already in the Proton ecosystem (ProtonMail), the Unlimited plan is th
 
 If you're shopping for a VPN and price is the primary factor on a long-term plan, NordVPN at €3.49/month is the honest alternative recommendation.
 
-<a href="/go/protonvpn" class="cta-affiliate">Try ProtonVPN free →</a> · <a href="/go/nordvpn" class="cta-affiliate">Compare NordVPN pricing →</a>
+<a href="https://go.digitalshieldpro.com/protonvpn" class="cta-affiliate">Try ProtonVPN free →</a> · <a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate">Compare NordVPN pricing →</a>
 
 [ProtonVPN vs NordVPN deep dive →](/posts/protonvpn-vs-nordvpn-2026/) · [Best VPNs 2026 →](/posts/best-vpn-services-2026/)
 

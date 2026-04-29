@@ -29,7 +29,7 @@ faq:
     a: "Encrypted email protects the contents of your emails from interception — it doesn't prevent phishing emails from being sent to you. However, ProtonMail and Tutanota include phishing detection features and their spam filters are generally effective. More importantly, using an encrypted email provider reduces the risk of your email credentials being harvested in data breaches that target large commercial email providers."
 products:
   - name: "ProtonMail"
-    url: "/go/protonmail"
+    url: "https://go.digitalshieldpro.com/protonmail"
     price: "Free / From $3.99/month"
 ---
 
@@ -251,7 +251,7 @@ The examples above show that even alert, educated people can be fooled. Layer yo
 
 **Keep your address private.** The less your email address appears in public databases, the less phishing you'll receive. Use email aliases for sign-ups. ProtonMail's SimpleLogin integration and similar alias services prevent your main address from appearing in breach databases.
 
-[Switch to ProtonMail for stronger email security →](/go/protonmail)
+[Switch to ProtonMail for stronger email security →](https://go.digitalshieldpro.com/protonmail)
 
 ---
 
