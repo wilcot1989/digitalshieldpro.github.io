@@ -25,7 +25,13 @@ faq:
     a: "A VPN hides your IP address but does not change your browser fingerprint. Websites can still identify your device's configuration even through a VPN. To address fingerprinting, you need browser-level protections (Brave, Firefox with privacy extensions, or Tor Browser), not a VPN."
   - q: "What is canvas fingerprinting?"
     a: "Canvas fingerprinting uses the HTML5 Canvas API to draw an invisible graphic in your browser. Because different GPUs, graphics drivers, and operating systems render the same graphic slightly differently, the resulting image is unique enough to identify your device. It's one of the most widely used fingerprinting vectors."
-products: []
+products:
+  - name: "NordVPN"
+    url: "/go/nordvpn"
+    price: "3.49"
+  - name: "NordPass"
+    url: "/go/nordpass"
+    price: "1.49"
 ---
 
 A few months ago I gave a presentation on web tracking to a security meetup group. I asked the audience who uses ad blockers — about 80% raised their hands. Then I asked who thought that protected them from tracking. Same 80% kept their hands up.

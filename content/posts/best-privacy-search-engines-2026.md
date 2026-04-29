@@ -25,7 +25,13 @@ faq:
     a: "For images, Startpage is the strongest because it proxies Google Images results. DuckDuckGo has decent image search via Bing Images. Brave Search images are improving but less comprehensive. For video, all privacy search engines struggle compared to YouTube (Google product) — SearXNG configured to include Invidious proxies gives the best privacy-focused video search."
   - q: "Can I use a privacy search engine on mobile?"
     a: "Yes. DuckDuckGo has an excellent mobile browser app with integrated search. Brave Browser on mobile defaults to Brave Search. Startpage can be set as the search engine in Firefox or Safari on mobile. Kagi has a mobile-friendly interface and a Safari extension on iOS."
-products: []
+products:
+  - name: "NordVPN"
+    url: "/go/nordvpn"
+    price: "3.49"
+  - name: "NordPass"
+    url: "/go/nordpass"
+    price: "1.49"
 ---
 
 I switched from Google to DuckDuckGo as my default search engine in 2019. By 2022, I was testing every serious alternative. Over the past three years, I have run each of the major privacy search engines as my sole search tool for at least four weeks, comparing result quality, speed, privacy implementation, and features. This is what I found.

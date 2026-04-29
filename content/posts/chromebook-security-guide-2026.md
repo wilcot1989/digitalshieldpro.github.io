@@ -25,7 +25,13 @@ faq:
     a: "No, for most users. Developer mode disables verified boot — one of ChromeOS's core security features — and shows a warning screen on every startup. It's intended for developers who need to run Linux applications or modify the OS. Enabling it for average use sacrifices meaningful security for little practical benefit."
   - q: "Does a Chromebook need a VPN?"
     a: "A Chromebook doesn't need a VPN for malware protection (ChromeOS handles that at the OS level), but a VPN is useful for the same reasons as any device: protecting traffic on public Wi-Fi, preventing ISP monitoring, and accessing geo-restricted content. The ChromeOS built-in VPN client supports several protocols; most major VPN providers also have Chrome extensions."
-products: []
+products:
+  - name: "NordVPN"
+    url: "/go/nordvpn"
+    price: "3.49"
+  - name: "NordPass"
+    url: "/go/nordpass"
+    price: "1.49"
 ---
 
 Chromebooks get recommended as the "safe" device for kids and non-technical users, which is broadly accurate — the security model is genuinely good. But "harder to compromise through traditional malware" is not the same as "no security considerations." I've helped audit Chromebook setups for families, schools, and small businesses over the past two years, and the same issues come up repeatedly.
