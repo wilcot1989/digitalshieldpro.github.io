@@ -1,5 +1,5 @@
 ---
-title: "Encrypted Cloud Photo Storage 2026: Replace Google Photos With ente.io, Proton Drive, and More"
+title: "Encrypted Cloud Photo Storage 2026"
 date: 2026-05-27T10:00:00+01:00
 lastmod: 2026-05-27T10:00:00+01:00
 description: "Best encrypted cloud photo storage options to replace Google Photos in 2026. ente.io, Proton Drive, Cryptee, and Stingle Photos tested hands-on."

@@ -1,5 +1,5 @@
 ---
-title: "How to Secure Your Mac in 2026: FileVault, Lockdown Mode, and Beyond"
+title: "How to Secure Your Mac in 2026: FileVault, Lockdown Mode"
 date: 2026-05-11T10:00:00+01:00
 lastmod: 2026-05-11T10:00:00+01:00
 description: "Step-by-step macOS security guide for 2026. FileVault encryption, Lockdown Mode, Gatekeeper, and the best security software — tested hands-on."

@@ -1,5 +1,5 @@
 ---
-title: "How to Disable Google Tracking in 2026: Step-by-Step De-Tracking Guide"
+title: "How to Disable Google Tracking in 2026"
 date: 2026-05-26T10:00:00+01:00
 lastmod: 2026-05-26T10:00:00+01:00
 description: "Complete step-by-step guide to disabling Google tracking in 2026. Ad personalisation, location history, YouTube history, and third-party tracking — all covered."
@@ -373,3 +373,6 @@ The settings you will not find: controls over data Google infers about you from 
 - [Best Privacy Search Engines 2026](/posts/best-privacy-search-engines-2026/)
 - [Best Privacy Browsers 2026](/posts/best-privacy-browsers-2026/)
 - [Data Broker Removal Guide EU 2026](/posts/data-broker-removal-guide-eu-2026/)
+
+
+<a href="/go/eset" class="cta-affiliate" rel="sponsored noopener">View Eset</a>

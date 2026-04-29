@@ -1,5 +1,5 @@
 ---
-title: "Google Account Security Checkup: Step-by-Step Audit Guide (2026)"
+title: "Google Account Security Checkup: Step-by-Step Audit Guide"
 date: 2026-05-08T12:00:00+01:00
 lastmod: 2026-05-08T12:00:00+01:00
 description: "Complete Google account security audit guide for 2026. Step-by-step walkthrough of every setting — from two-factor authentication to third-party app access."

@@ -1,5 +1,5 @@
 ---
-title: "Data Broker Removal Guide for EU Residents 2026: GDPR Opt-Out Step by Step"
+title: "Data Broker Removal Guide for EU Residents 2026"
 date: 2026-05-24T10:00:00+01:00
 lastmod: 2026-05-24T10:00:00+01:00
 description: "How EU residents can remove personal data from data brokers using GDPR rights in 2026. Step-by-step opt-out guide plus Incogni for automated removal."

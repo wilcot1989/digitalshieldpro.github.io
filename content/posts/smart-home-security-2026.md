@@ -1,5 +1,5 @@
 ---
-title: "Smart Home Security in 2026: Ring, Nest, Smart Locks — Which Are Secure and Which Are Not"
+title: "Smart Home Security in 2026: Ring, Nest, Smart Locks"
 date: 2026-06-23T12:00:00+01:00
 lastmod: 2026-06-23T12:00:00+01:00
 description: "I tested 14 smart home devices for real security vulnerabilities. Ring, Nest, Eufy, August, and budget brands — here is the honest security breakdown."
@@ -251,3 +251,5 @@ Smart home technology is genuinely useful. The security risks are manageable if 
 ---
 
 ## Frequently Asked Questions About Smart Home Security
+
+<a href="/go/nordpass" class="cta-affiliate" rel="sponsored noopener">View Nordpass</a>

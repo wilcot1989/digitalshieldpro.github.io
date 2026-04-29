@@ -1,5 +1,5 @@
 ---
-title: "How to Spot a Phishing Email in 2026: 8 Real Examples Analyzed"
+title: "How to Spot a Phishing Email in 2026"
 date: 2026-05-05T09:00:00+01:00
 lastmod: 2026-05-05T09:00:00+01:00
 description: "I analyzed 8 real phishing emails from 2025–2026 and broke down exactly what makes them convincing — and how to spot them before you click."

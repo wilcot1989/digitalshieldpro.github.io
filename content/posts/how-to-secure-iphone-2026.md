@@ -1,5 +1,5 @@
 ---
-title: "How to Secure Your iPhone in 2026: Complete Apple Security Guide"
+title: "How to Secure Your iPhone in 2026: Complete Apple Security"
 date: 2026-05-18T12:00:00+01:00
 lastmod: 2026-05-18T12:00:00+01:00
 description: "Step-by-step iPhone security guide for 2026. Covers iCloud settings, Face ID, app permissions, Find My, Lockdown Mode, and more — tested on iOS 17."

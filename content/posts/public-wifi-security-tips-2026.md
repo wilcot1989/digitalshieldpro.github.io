@@ -1,8 +1,8 @@
 ---
-title: "Public Wi-Fi Security in 2026: Coffee Shop, Airport, Hotel — What Is Safe and What Is Not"
+title: "Public Wi-Fi Security in 2026: Coffee Shop, Airport"
 date: 2026-06-18T12:00:00+01:00
 lastmod: 2026-06-18T12:00:00+01:00
-description: "I tested public Wi-Fi security across 22 locations in 4 countries. Here is exactly what risk you face in coffee shops, airports, and hotels — and how to stay safe."
+description: "I tested public Wi-Fi security across 22 locations in 4 countries. Here is exactly what risk you face in coffee shops, airports, and hotels."
 categories: ["wifi-security"]
 tags: ["public wifi security", "vpn for travel", "airport wifi", "hotel wifi", "coffee shop wifi security"]
 keywords: ["public wifi security 2026", "is public wifi safe", "how to stay safe on public wifi", "vpn for public wifi", "airport wifi security"]

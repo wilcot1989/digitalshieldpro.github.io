@@ -1,9 +1,9 @@
 ---
-title: "Build Your Complete Digital Privacy Stack 2026: 5 Tools, 1 Weekend, ~$30/Month"
+title: "Build Your Complete Digital Privacy Stack 2026"
 date: 2026-04-29T09:00:00+01:00
 lastmod: 2026-04-29T09:00:00+01:00
 draft: false
-description: "Build a complete digital privacy stack in one weekend for around $30/month. VPN + encrypted email + password manager + antivirus + data broker removal — how they interact, setup order, and which tools actually work together."
+description: "Build a complete digital privacy stack in one weekend for around $30/month. VPN + encrypted email + password manager + antivirus + data broker removal."
 tags: ["vpn", "privacy", "password manager", "antivirus", "data broker removal", "encrypted email", "cybersecurity"]
 categories: ["privacy", "vpn", "password-manager", "antivirus"]
 slug: "best-privacy-stack-2026"

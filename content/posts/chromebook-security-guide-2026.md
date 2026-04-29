@@ -1,5 +1,5 @@
 ---
-title: "Chromebook Security Guide 2026: Family Link, Extensions, and Google Account Risks"
+title: "Chromebook Security Guide 2026: Family Link, Extensions"
 date: 2026-05-19T12:00:00+01:00
 lastmod: 2026-05-19T12:00:00+01:00
 description: "Complete Chromebook security guide for 2026. Covers Family Link setup, extension risks, Google account protection, and settings most users miss."
@@ -319,3 +319,6 @@ The real risk surfaces are:
 4. **Android app permissions** — a secondary but real vector
 
 Work through the checklist above and your Chromebook will be well-secured against the threats that actually affect these devices.
+
+
+<a href="/go/incogni" class="cta-affiliate" rel="sponsored noopener">View Incogni</a>

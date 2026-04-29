@@ -1,5 +1,5 @@
 ---
-title: "Complete WiFi Security Guide 2026: WPA3, Mesh Systems, and IoT Segmentation"
+title: "Complete WiFi Security Guide 2026: WPA3, Mesh Systems"
 date: 2026-05-10T10:00:00+01:00
 lastmod: 2026-05-10T10:00:00+01:00
 description: "The complete WiFi security guide for 2026. Covers WPA3 setup, mesh network hardening, IoT network segmentation, and VPN use — tested hands-on."

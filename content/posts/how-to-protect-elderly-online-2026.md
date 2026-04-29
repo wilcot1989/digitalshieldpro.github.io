@@ -1,8 +1,8 @@
 ---
-title: "How to Protect Elderly Family Members Online in 2026: A Step-by-Step Guide"
+title: "How to Protect Elderly Family Members Online in 2026"
 date: 2026-05-20T10:00:00+01:00
 lastmod: 2026-05-20T10:00:00+01:00
-description: "Practical step-by-step guide to protecting elderly parents and relatives from online scams in 2026. Device setup, scam awareness, and the best security software."
+description: "Practical step-by-step guide to protecting elderly parents and relatives from online scams in 2026."
 categories: ["family-security"]
 tags: ["elderly online safety", "scam protection", "family security", "senior cybersecurity", "phone scams", "online fraud"]
 keywords: ["protect elderly online 2026", "senior internet safety", "how to help elderly parents avoid scams", "online scams elderly", "family cybersecurity"]

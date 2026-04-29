@@ -1,8 +1,8 @@
 ---
-title: "Business Email Compromise (BEC) in 2026: How CEOs Get Tricked and How to Stop It"
+title: "Business Email Compromise (BEC) in 2026"
 date: 2026-05-22T12:00:00+01:00
 lastmod: 2026-05-22T12:00:00+01:00
-description: "BEC fraud cost businesses $2.9 billion in 2023. I break down the real tactics criminals use to impersonate executives, plus the protection framework that actually works."
+description: "BEC fraud cost businesses $2.9 billion in 2023. I break down the real tactics criminals use to impersonate executives."
 categories: ["business-security"]
 tags: ["business email compromise", "BEC fraud", "CEO fraud", "email security", "phishing"]
 keywords: ["business email compromise 2026", "BEC fraud prevention", "CEO fraud email", "whaling attack", "email security business"]

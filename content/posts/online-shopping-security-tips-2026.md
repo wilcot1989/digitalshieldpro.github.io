@@ -1,8 +1,8 @@
 ---
-title: "Online Shopping Security in 2026: How to Spot Fake Stores, Card Skimmers, and Return Scams"
+title: "Online Shopping Security in 2026: How to Spot Fake Stores"
 date: 2026-05-16T09:00:00+01:00
 lastmod: 2026-05-16T09:00:00+01:00
-description: "Fake stores, card-skimming malware, and return scams cost consumers $8.8 billion in 2025. I tested the most common attacks and built a practical defence framework."
+description: "Fake stores, card-skimming malware, and return scams cost consumers $8.8 billion in 2025."
 categories: ["security"]
 tags: ["online shopping security", "fake stores", "card skimming", "phishing", "e-commerce fraud"]
 keywords: ["online shopping security 2026", "how to spot fake online stores", "card skimming protection", "safe online shopping tips", "e-commerce fraud protection"]
