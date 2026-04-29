@@ -239,7 +239,7 @@ For a single user, Hushmail Healthcare (~$10/month) costs approximately 2.5x mor
 
 For non-healthcare use cases where you just want encrypted email, **ProtonMail is significantly better value**.
 
-<a href="/go/protonmail" class="cta" rel="nofollow sponsored" target="_blank">Compare: Try ProtonMail as an Alternative</a>
+<a href="https://go.digitalshieldpro.com/protonmail" class="cta" rel="nofollow noopener sponsored" target="_blank">Compare: Try ProtonMail as an Alternative</a>
 
 ---
 
@@ -259,7 +259,7 @@ For non-healthcare use cases where you just want encrypted email, **ProtonMail i
 - You want the **best value** encrypted email — ProtonMail is dramatically cheaper
 - Your threat model includes **government surveillance or corporate espionage** rather than HIPAA audits
 
-<a href="/go/protonmail" class="cta" rel="nofollow sponsored" target="_blank">Try ProtonMail Free</a>
+<a href="https://go.digitalshieldpro.com/protonmail" class="cta" rel="nofollow noopener sponsored" target="_blank">Try ProtonMail Free</a>
 
 ---
 
@@ -303,7 +303,7 @@ Hushmail's encryption is weaker than ProtonMail's. Its privacy protections are l
 
 The distinction is clear: Hushmail is a compliance product that happens to use encryption. ProtonMail is an encryption product that happens to be useful for privacy. Know which one you need.
 
-<a href="/go/protonmail" class="cta" rel="nofollow sponsored" target="_blank">Try ProtonMail — Stronger Encryption, Better Value</a>
+<a href="https://go.digitalshieldpro.com/protonmail" class="cta" rel="nofollow noopener sponsored" target="_blank">Try ProtonMail — Stronger Encryption, Better Value</a>
 
 ---
 

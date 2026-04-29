@@ -385,7 +385,7 @@ If you checked everything, your password security is excellent. If not, start wi
 <a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Nordvpn</a>
 
 
-<a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
+<a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Nordvpn</a>
 
 ## Related Guides
 

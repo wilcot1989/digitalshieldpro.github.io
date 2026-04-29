@@ -322,7 +322,7 @@ All three are vastly better than Chrome or standard Safari for privacy. Switchin
 <a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View →</a>
 
 
-<a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
+<a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Nordvpn</a>
 
 ## Related guides
 

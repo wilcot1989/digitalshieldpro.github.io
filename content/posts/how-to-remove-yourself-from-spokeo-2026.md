@@ -339,9 +339,9 @@ And that is just the initial round. Every removal needs to be redone every 3–6
 
 For the most critical sites — Spokeo, Whitepages, BeenVerified — manual removal is reasonable if your threat model is limited. But for comprehensive, ongoing data broker suppression, an automated service is more practical.
 
-**[Incogni](/go/incogni)** sends removal requests to 170+ brokers simultaneously and monitors for re-listing automatically. At $6.49/month annually, it costs less than minimum wage for a single hour of manual opt-out work — and covers far more ground.
+**[Incogni](https://go.digitalshieldpro.com/incogni)** sends removal requests to 170+ brokers simultaneously and monitors for re-listing automatically. At $6.49/month annually, it costs less than minimum wage for a single hour of manual opt-out work — and covers far more ground.
 
-[**Let Incogni Handle The Removals Automatically →**](/go/incogni)
+[**Let Incogni Handle The Removals Automatically →**](https://go.digitalshieldpro.com/incogni)
 
 ---
 
@@ -381,7 +381,7 @@ But let me be direct about when the automation argument becomes overwhelming:
 
 **Your time is highly valuable.** The math on DIY versus $6.49/month for Incogni only works in favor of DIY if you genuinely value your time at near-zero. Most people who do honest time accounting decide automation is the right choice.
 
-[**Let Incogni Handle the Removals Automatically**](/go/incogni)
+[**Let Incogni Handle the Removals Automatically**](https://go.digitalshieldpro.com/incogni)
 
 ---
 
@@ -407,4 +407,4 @@ If that sounds like more time than you want to spend on this, an automated servi
 
 Either path is legitimate. The important thing is to take some action — because right now, your personal information is available to anyone who wants it, and most people have no idea.
 
-[**Automate Your Data Broker Removal With Incogni**](/go/incogni)
+[**Automate Your Data Broker Removal With Incogni**](https://go.digitalshieldpro.com/incogni)

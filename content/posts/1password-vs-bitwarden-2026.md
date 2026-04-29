@@ -305,7 +305,7 @@ If you already use <a href="https://go.digitalshieldpro.com/nordvpn?ref=/posts/1
 <a href="https://go.digitalshieldpro.com/1password" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View 1Password</a>
 
 
-<a href="/go/1password" class="cta-affiliate" rel="sponsored noopener">View 1Password</a>
+<a href="https://go.digitalshieldpro.com/1password" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View 1Password</a>
 
 ## Related Guides
 

@@ -252,9 +252,9 @@ Most removal services handle multi-state and international family plans, but it 
 
 Start with a conversation about what your household members actually want. Some people want comprehensive coverage with detailed reporting; others just want automated protection running in the background without any dashboard to review. That preference often drives the right service choice more than any pricing comparison.
 
-[**Explore DeleteMe Family Plans →**](/go/deleteme)
+[**Explore DeleteMe Family Plans →**](https://go.digitalshieldpro.com/deleteme)
 
-[**Get Started With Incogni →**](/go/incogni)
+[**Get Started With Incogni →**](https://go.digitalshieldpro.com/incogni)
 
 ---
 
@@ -318,6 +318,6 @@ One mistake I see people make when setting up family coverage: they focus entire
 
 None of these prevent data collection entirely, but they slow re-listing — which means your removal service needs to send re-submission requests less frequently.
 
-[**Start protecting your family with DeleteMe**](/go/deleteme)
+[**Start protecting your family with DeleteMe**](https://go.digitalshieldpro.com/deleteme)
 
-[**Or start with Incogni's automated coverage**](/go/incogni)
+[**Or start with Incogni's automated coverage**](https://go.digitalshieldpro.com/incogni)

@@ -385,7 +385,7 @@ If you're still typing passwords for Gmail, you're using 2010 technology. The re
 ---
 
 
-<a href="/go/nordpass" class="cta-affiliate" rel="sponsored noopener">View Nordpass</a>
+<a href="https://go.digitalshieldpro.com/nordpass" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Nordpass</a>
 
 ## Related reports
 

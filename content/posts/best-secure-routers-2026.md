@@ -273,7 +273,7 @@ Your router is the single piece of hardware that all of your network traffic pas
 <a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View →</a>
 
 
-<a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
+<a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Nordvpn</a>
 
 ## Related guides
 

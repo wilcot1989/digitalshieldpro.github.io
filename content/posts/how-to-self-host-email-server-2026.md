@@ -372,7 +372,7 @@ ProtonMail at $3.99/month — or even the free tier — gives you:
 
 For most users, ProtonMail is the right answer. Self-hosting is for users who specifically need physical control over their data, want to learn the technology, or have requirements that no hosted service meets.
 
-<a href="/go/protonmail" class="cta" rel="nofollow sponsored" target="_blank">Try ProtonMail — No Maintenance Required</a>
+<a href="https://go.digitalshieldpro.com/protonmail" class="cta" rel="nofollow noopener sponsored" target="_blank">Try ProtonMail — No Maintenance Required</a>
 
 ---
 
@@ -418,7 +418,7 @@ If you are that user, start with Mail-in-a-Box, spend a few weekends with Mailco
 
 If you are not that user, ProtonMail is the right answer.
 
-<a href="/go/protonmail" class="cta" rel="nofollow sponsored" target="_blank">Try ProtonMail — Better For Most Users</a>
+<a href="https://go.digitalshieldpro.com/protonmail" class="cta" rel="nofollow noopener sponsored" target="_blank">Try ProtonMail — Better For Most Users</a>
 
 ---
 

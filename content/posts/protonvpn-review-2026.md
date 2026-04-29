@@ -397,7 +397,7 @@ For privacy-first users: this is the standard.
 ---
 
 
-<a href="/go/protonvpn" class="cta-affiliate" rel="sponsored noopener">View Protonvpn</a>
+<a href="https://go.digitalshieldpro.com/protonvpn" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Protonvpn</a>
 
 ## Related Reports
 

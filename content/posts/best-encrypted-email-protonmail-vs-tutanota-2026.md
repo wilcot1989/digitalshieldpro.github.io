@@ -346,7 +346,7 @@ The single biggest privacy improvement you can make to your email life is moving
 ---
 
 
-<a href="/go/protonmail" class="cta-affiliate" rel="sponsored noopener">View Protonmail</a>
+<a href="https://go.digitalshieldpro.com/protonmail" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Protonmail</a>
 
 ## Related Reports
 

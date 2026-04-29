@@ -294,7 +294,7 @@ If you have room in your budget and want the absolute best speeds, the most curr
 <a href="https://go.digitalshieldpro.com/surfshark" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Surfshark</a>
 
 
-<a href="/go/surfshark" class="cta-affiliate" rel="sponsored noopener">View Surfshark</a>
+<a href="https://go.digitalshieldpro.com/surfshark" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Surfshark</a>
 
 ## Related Guides
 

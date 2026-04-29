@@ -382,7 +382,7 @@ Start with the 30-day trial. If your migration goes smoothly (it will), the Stan
 ---
 
 
-<a href="/go/fastmail" class="cta-affiliate" rel="sponsored noopener">View Fastmail</a>
+<a href="https://go.digitalshieldpro.com/fastmail" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Fastmail</a>
 
 ## Related Reports
 

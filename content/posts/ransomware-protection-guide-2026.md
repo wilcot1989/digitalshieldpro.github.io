@@ -354,4 +354,4 @@ Use this checklist to assess your protection level:
 <a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Nordvpn</a>
 
 
-<a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
+<a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Nordvpn</a>

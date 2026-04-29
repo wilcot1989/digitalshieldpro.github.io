@@ -449,7 +449,7 @@ Security software requires trust. Choose a product you trust completely -- and m
 <a href="https://go.digitalshieldpro.com/kaspersky" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Kaspersky</a>
 
 
-<a href="/go/kaspersky" class="cta-affiliate" rel="sponsored noopener">View Kaspersky</a>
+<a href="https://go.digitalshieldpro.com/kaspersky" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Kaspersky</a>
 
 ## Related Guides
 

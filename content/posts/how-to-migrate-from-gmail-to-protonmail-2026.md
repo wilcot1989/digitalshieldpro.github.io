@@ -75,7 +75,7 @@ Why upgrade first?
 
 When choosing your username, think carefully. This will be your primary email address for years. Pick something professional and permanent — firstname.lastname format works for most people.
 
-<a href="/go/protonmail" class="cta" rel="nofollow sponsored" target="_blank">Create Your ProtonMail Account</a>
+<a href="https://go.digitalshieldpro.com/protonmail" class="cta" rel="nofollow noopener sponsored" target="_blank">Create Your ProtonMail Account</a>
 
 ---
 
@@ -467,7 +467,7 @@ ProtonMail is not perfect. The free plan is limited. The mobile app is good but 
 
 The migration is easier than you think. Do the backup first, run the import, set up forwarding, and give yourself a month to update your accounts. That is the whole plan.
 
-<a href="/go/protonmail" class="cta" rel="nofollow sponsored" target="_blank">Start Your ProtonMail Migration Today</a>
+<a href="https://go.digitalshieldpro.com/protonmail" class="cta" rel="nofollow noopener sponsored" target="_blank">Start Your ProtonMail Migration Today</a>
 
 ---
 

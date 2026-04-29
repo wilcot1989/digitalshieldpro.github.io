@@ -246,7 +246,7 @@ StartMail publishes a detailed privacy policy. Key points I reviewed:
 
 **Overall:** ProtonMail wins on encryption quality, breadth of features, mobile apps, and ecosystem. StartMail wins on alias simplicity, IMAP compatibility, and price (if not needing custom domain).
 
-<a href="/go/protonmail" class="cta" rel="nofollow sponsored" target="_blank">Try ProtonMail Free — Stronger Encryption</a>
+<a href="https://go.digitalshieldpro.com/protonmail" class="cta" rel="nofollow noopener sponsored" target="_blank">Try ProtonMail Free — Stronger Encryption</a>
 
 ---
 
@@ -320,7 +320,7 @@ But for most people comparing encrypted email options in 2026, ProtonMail still 
 
 StartMail makes sense if the specific combination of unlimited aliases, native IMAP, and Netherlands jurisdiction maps precisely to your needs. For everyone else, ProtonMail provides more for marginally more money.
 
-<a href="/go/protonmail" class="cta" rel="nofollow sponsored" target="_blank">Try ProtonMail — Better Value, Stronger Encryption</a>
+<a href="https://go.digitalshieldpro.com/protonmail" class="cta" rel="nofollow noopener sponsored" target="_blank">Try ProtonMail — Better Value, Stronger Encryption</a>
 
 ---
 

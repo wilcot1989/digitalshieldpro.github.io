@@ -206,9 +206,9 @@ Understanding the collection mechanisms reveals why effective data broker manage
 
 3. **Reducing data at the source.** Using a PO Box, opting out of marketing lists (DMAchoice.org), checking app permissions and deleting apps with unnecessary location access, and reviewing privacy settings on social media all reduce the rate at which your data is re-acquired after removal.
 
-4. **Using an automated service for continuous coverage.** Manual removal across 200+ brokers every 3–6 months is not a realistic ongoing commitment for most people. Automated services like [Incogni](/go/incogni) handle the continuous re-submission cycle on your behalf.
+4. **Using an automated service for continuous coverage.** Manual removal across 200+ brokers every 3–6 months is not a realistic ongoing commitment for most people. Automated services like [Incogni](https://go.digitalshieldpro.com/incogni) handle the continuous re-submission cycle on your behalf.
 
-[**Start removing your data with Incogni →**](/go/incogni)
+[**Start removing your data with Incogni →**](https://go.digitalshieldpro.com/incogni)
 
 Understanding that data collection is continuous and multi-sourced helps explain why removal is never permanent — and why ongoing monitoring is necessary rather than optional.
 
@@ -270,4 +270,4 @@ Understanding the collection methods is more meaningful when you understand what
 
 The result is an industry with strong financial incentives to collect as much data as possible, resist regulation, and make opt-out processes as difficult as possible. This is not paranoia — it is the logical behavior of a profit-maximizing business operating in a regulatory environment that has historically given it wide latitude.
 
-[**Protect your privacy with Incogni — automated data broker removal**](/go/incogni)
+[**Protect your privacy with Incogni — automated data broker removal**](https://go.digitalshieldpro.com/incogni)

@@ -103,7 +103,7 @@ ProtonMail publishes a transparency report at proton.me/legal/transparency. Key 
 
 The 42% non-compliance rate reflects requests that were legally invalid under Swiss law, incomplete, or from jurisdictions with no MLAT relationship with Switzerland. Proton contests requests that do not meet Swiss legal standards.
 
-<a href="/go/protonmail" class="cta" rel="nofollow sponsored" target="_blank">Try ProtonMail — Swiss Jurisdiction</a>
+<a href="https://go.digitalshieldpro.com/protonmail" class="cta" rel="nofollow noopener sponsored" target="_blank">Try ProtonMail — Swiss Jurisdiction</a>
 
 ---
 
@@ -146,7 +146,7 @@ Tuta contested 25% of requests as legally insufficient under German law.
 
 One notable legal development: in 2019, a German court ordered Tutanota to implement a backdoor for law enforcement access to *new incoming messages* (not stored encrypted ones) for a specific monitored account. Tutanota complied by implementing a mechanism to deliver plaintext of future incoming messages to law enforcement for a specific account under monitoring. This is distinct from accessing stored encrypted messages and only applies to accounts under active legal monitoring orders.
 
-<a href="/go/tutanota" class="cta cta-outline" rel="nofollow sponsored" target="_blank">Try Tutanota — German Jurisdiction</a>
+<a href="https://go.digitalshieldpro.com/tutanota" class="cta cta-outline" rel="nofollow noopener sponsored" target="_blank">Try Tutanota — German Jurisdiction</a>
 
 ---
 
@@ -435,8 +435,8 @@ Switzerland (ProtonMail) for most users. Non-EU, neutral, slow MLAT, zero-knowle
 
 The bottom line: for privacy from surveillance, stay outside Five Eyes and outside US jurisdiction. For the strongest technical protection, combine zero-knowledge architecture with favorable jurisdiction. That combination — ProtonMail or Tutanota — is what I recommend.
 
-<a href="/go/protonmail" class="cta" rel="nofollow sponsored" target="_blank">Try ProtonMail — Swiss Jurisdiction + Zero-Knowledge</a>
-<a href="/go/tutanota" class="cta cta-outline" rel="nofollow sponsored" target="_blank">Try Tutanota — German Jurisdiction + Zero-Knowledge</a>
+<a href="https://go.digitalshieldpro.com/protonmail" class="cta" rel="nofollow noopener sponsored" target="_blank">Try ProtonMail — Swiss Jurisdiction + Zero-Knowledge</a>
+<a href="https://go.digitalshieldpro.com/tutanota" class="cta cta-outline" rel="nofollow noopener sponsored" target="_blank">Try Tutanota — German Jurisdiction + Zero-Knowledge</a>
 
 ---
 

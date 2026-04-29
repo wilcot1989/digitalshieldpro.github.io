@@ -296,7 +296,7 @@ The goal was never to eliminate Google entirely — it was to stop Google from b
 That fragmentation is the privacy gain. Not ideological purity — practical reduction of a single-company surveillance profile into multiple less-comprehensive ones.
 
 
-<a href="/go/protonmail" class="cta-affiliate" rel="sponsored noopener">View Protonmail</a>
+<a href="https://go.digitalshieldpro.com/protonmail" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Protonmail</a>
 
 ## Related guides
 

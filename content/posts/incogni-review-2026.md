@@ -339,7 +339,7 @@ Incogni isn't perfect (no service is). But it's good, it's cheap, and the GDPR a
 ---
 
 
-<a href="/go/incogni" class="cta-affiliate" rel="sponsored noopener">View Incogni</a>
+<a href="https://go.digitalshieldpro.com/incogni" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Incogni</a>
 
 ## Related reports
 

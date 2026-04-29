@@ -312,7 +312,7 @@ If you suspect your messages are being read, the steps depend on whether the thr
 The strongest security configuration is one you maintain consistently — setting up an ideal encrypted messaging setup and then reverting to unencrypted channels for convenience undermines everything. Pick an approach that fits your actual workflow and stick with it.
 
 
-<a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
+<a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Nordvpn</a>
 
 ## Related guides
 

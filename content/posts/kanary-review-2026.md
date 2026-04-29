@@ -364,6 +364,6 @@ For most users, the choice between Kanary and Incogni comes down to:
 
 Start with the service that fits your situation. Either choice is dramatically better than doing nothing — or spending 100+ hours per year on manual opt-outs.
 
-[**Start with Incogni — Most Established Automated Service →**](/go/incogni)
+[**Start with Incogni — Most Established Automated Service →**](https://go.digitalshieldpro.com/incogni)
 
 If Kanary's transparent reporting appeals to you more, it is worth a look at their current pricing and trial options at kanary.co.

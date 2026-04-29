@@ -331,7 +331,7 @@ The iPhone's security architecture is genuinely good. Running through this check
 [Get 1Password for complete cross-device password management](https://go.digitalshieldpro.com/1password)
 
 
-<a href="/go/eset" class="cta-affiliate" rel="sponsored noopener">View Eset</a>
+<a href="https://go.digitalshieldpro.com/eset" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Eset</a>
 
 ## Related guides
 

@@ -296,7 +296,7 @@ If you want a VPN to protect your actual privacy and are willing to accept those
 ---
 
 
-<a href="/go/mullvad" class="cta-affiliate" rel="sponsored noopener">View Mullvad</a>
+<a href="https://go.digitalshieldpro.com/mullvad" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Mullvad</a>
 
 ## Related Articles
 

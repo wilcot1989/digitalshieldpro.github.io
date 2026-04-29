@@ -273,7 +273,7 @@ The criminals doing this will move to easier targets. Make sure that is not you.
 ## Frequently Asked Questions About Business Email Compromise
 
 
-<a href="/go/bitdefender" class="cta-affiliate" rel="sponsored noopener">View Bitdefender</a>
+<a href="https://go.digitalshieldpro.com/bitdefender" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Bitdefender</a>
 
 ## Related guides
 

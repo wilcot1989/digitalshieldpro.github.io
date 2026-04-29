@@ -301,7 +301,7 @@ The 30 minutes you spend working through this checklist meaningfully reduces tha
 Re-check these settings after every major Windows feature update. And for the threats that come from outside Windows itself — phishing, malware, browser exploits — a well-configured security suite like [Bitdefender](https://go.digitalshieldpro.com/bitdefender) adds protection that privacy settings alone cannot provide.
 
 
-<a href="/go/bitdefender" class="cta-affiliate" rel="sponsored noopener">View Bitdefender</a>
+<a href="https://go.digitalshieldpro.com/bitdefender" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Bitdefender</a>
 
 ## Related guides
 

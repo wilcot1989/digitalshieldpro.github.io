@@ -375,7 +375,7 @@ Start with Incogni. After the first year, review the dashboard and assess whethe
 ---
 
 
-<a href="/go/incogni" class="cta-affiliate" rel="sponsored noopener">View Incogni</a>
+<a href="https://go.digitalshieldpro.com/incogni" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Incogni</a>
 
 ## Related Reports
 

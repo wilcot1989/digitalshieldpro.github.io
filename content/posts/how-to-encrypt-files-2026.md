@@ -385,4 +385,4 @@ There is no good reason to keep sensitive files unencrypted. The tools are free,
 Start with a VeraCrypt container for your most sensitive files. If you use cloud storage for anything important, add a Cryptomator vault. These two tools together cover virtually every practical threat scenario for individuals and small businesses alike.
 
 
-<a href="/go/nordpass" class="cta-affiliate" rel="sponsored noopener">View Nordpass</a>
+<a href="https://go.digitalshieldpro.com/nordpass" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Nordpass</a>

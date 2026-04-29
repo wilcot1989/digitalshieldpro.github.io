@@ -314,7 +314,7 @@ This seems paranoid, but it is the correct security posture for any account wher
 Whatever you choose, use it. The best 2FA app is the one you will actually enable across your accounts. Even SMS 2FA is significantly better than no 2FA — so if you are looking for a reason to start, the app choice should not be what stops you.
 
 
-<a href="/go/nordpass" class="cta-affiliate" rel="sponsored noopener">View Nordpass</a>
+<a href="https://go.digitalshieldpro.com/nordpass" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Nordpass</a>
 
 ## Related guides
 

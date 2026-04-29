@@ -357,7 +357,7 @@ One weekend, five tools, ~$28/month. Start with the password manager today.
 ---
 
 
-<a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
+<a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Nordvpn</a>
 
 ## FAQ
 

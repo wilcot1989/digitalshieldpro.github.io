@@ -330,7 +330,7 @@ Services like Incogni handle this entire process as your authorized agent under 
 
 At $6.49/month, the time savings versus navigating state-by-state law yourself makes the automation compelling for most users.
 
-[**Let Incogni Handle Your Data Broker Removal →**](/go/incogni)
+[**Let Incogni Handle Your Data Broker Removal →**](https://go.digitalshieldpro.com/incogni)
 
 ---
 
@@ -402,4 +402,4 @@ The state privacy law landscape is changing quickly. Watch for:
 
 The underlying message for consumers: your rights today depend on where you live, and those rights are expanding year by year. Taking action to exercise those rights — either directly or through an authorized agent — is more valuable than waiting for perfect federal legislation.
 
-[**Start protecting your privacy with Incogni**](/go/incogni)
+[**Start protecting your privacy with Incogni**](https://go.digitalshieldpro.com/incogni)

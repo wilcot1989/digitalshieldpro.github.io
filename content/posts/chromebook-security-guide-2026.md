@@ -330,7 +330,7 @@ Work through the checklist above and your Chromebook will be well-secured agains
 <a href="https://go.digitalshieldpro.com/incogni" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Incogni</a>
 
 
-<a href="/go/incogni" class="cta-affiliate" rel="sponsored noopener">View Incogni</a>
+<a href="https://go.digitalshieldpro.com/incogni" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Incogni</a>
 
 ## Related guides
 

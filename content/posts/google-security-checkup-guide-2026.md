@@ -398,7 +398,7 @@ If you decide to add a dedicated password manager to your security stack, here's
 The combination of a Google security audit (done quarterly) and a dedicated password manager (used daily) covers the two highest-impact vectors for Google account compromise: weak/reused credentials and over-granted third-party access.
 
 
-<a href="/go/nordpass" class="cta-affiliate" rel="sponsored noopener">View Nordpass</a>
+<a href="https://go.digitalshieldpro.com/nordpass" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Nordpass</a>
 
 ## Related guides
 

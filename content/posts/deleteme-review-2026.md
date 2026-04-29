@@ -348,7 +348,7 @@ If you're in the EU, or want a cheaper starting point to test the category, Inco
 ---
 
 
-<a href="/go/deleteme" class="cta-affiliate" rel="sponsored noopener">View Deleteme</a>
+<a href="https://go.digitalshieldpro.com/deleteme" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Deleteme</a>
 
 ## Related Reports
 

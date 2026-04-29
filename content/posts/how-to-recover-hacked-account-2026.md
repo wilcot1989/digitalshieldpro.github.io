@@ -323,7 +323,7 @@ The difference between account recovery taking 10 minutes versus weeks comes dow
 <a href="https://go.digitalshieldpro.com/nordpass" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View →</a>
 
 
-<a href="/go/nordpass" class="cta-affiliate" rel="sponsored noopener">View Nordpass</a>
+<a href="https://go.digitalshieldpro.com/nordpass" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Nordpass</a>
 
 ## Related guides
 

@@ -286,7 +286,7 @@ For families with young children, **Qustodio** or **Kaspersky Safe Kids** (budge
 <a href="https://go.digitalshieldpro.com/kaspersky" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Kaspersky</a>
 
 
-<a href="/go/kaspersky" class="cta-affiliate" rel="sponsored noopener">View Kaspersky</a>
+<a href="https://go.digitalshieldpro.com/kaspersky" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Kaspersky</a>
 
 ## Read More
 

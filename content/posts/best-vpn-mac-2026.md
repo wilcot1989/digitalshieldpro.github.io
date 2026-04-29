@@ -214,4 +214,4 @@ After six weeks of testing across two different Mac architectures, the verdict i
 [Get NordVPN for Mac](https://go.digitalshieldpro.com/nordvpn)
 
 
-<a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
+<a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Nordvpn</a>

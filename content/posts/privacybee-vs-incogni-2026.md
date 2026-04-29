@@ -193,9 +193,9 @@ PrivacyBee costs more than twice as much per year and covers a similar number of
 
 For my own ongoing use after this test, I continued with Incogni. The coverage is excellent, the price is fair, and the dashboard gives me confidence that the service is actually working.
 
-[**Start removing your data with Incogni →**](/go/incogni)
+[**Start removing your data with Incogni →**](https://go.digitalshieldpro.com/incogni)
 
-[**Explore PrivacyBee's premium service →**](/go/privacybee)
+[**Explore PrivacyBee's premium service →**](https://go.digitalshieldpro.com/privacybee)
 
 ---
 
@@ -359,6 +359,6 @@ After 8 weeks of parallel testing, **Incogni is the better choice for most peopl
 
 If you are ready to start getting your data removed, Incogni is where I would start. You can always upgrade to a premium service later if your situation requires it.
 
-[**Get Incogni — Start Removing Your Data**](/go/incogni)
+[**Get Incogni — Start Removing Your Data**](https://go.digitalshieldpro.com/incogni)
 
-[**Compare PrivacyBee's Premium Plans**](/go/privacybee)
+[**Compare PrivacyBee's Premium Plans**](https://go.digitalshieldpro.com/privacybee)

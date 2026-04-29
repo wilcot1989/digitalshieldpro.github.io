@@ -333,7 +333,7 @@ For streaming-focused use, a 1-year plan at the standard rate is usually the hon
 [Get NordVPN with a 30-day money-back guarantee](https://go.digitalshieldpro.com/nordvpn)
 
 
-<a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
+<a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Nordvpn</a>
 
 ## Related guides
 

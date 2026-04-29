@@ -240,7 +240,7 @@ For the rest of your accounts, keep using a password manager with strong unique 
 Passwords are not dead. They are on a very long, slow fade. Passkeys are earning their replacement, service by service.
 
 
-<a href="/go/nordpass" class="cta-affiliate" rel="sponsored noopener">View Nordpass</a>
+<a href="https://go.digitalshieldpro.com/nordpass" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Nordpass</a>
 
 ## Related guides
 

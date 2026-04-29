@@ -328,7 +328,7 @@ For the US-heavy, high-exposure user who has already searched their name and fou
 ---
 
 
-<a href="/go/incogni" class="cta-affiliate" rel="sponsored noopener">View Incogni</a>
+<a href="https://go.digitalshieldpro.com/incogni" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Incogni</a>
 
 ## Related Reports
 

@@ -272,7 +272,7 @@ Protect yourself at the browser level and you protect yourself from most of what
 ## Frequently Asked Questions About Online Shopping Security
 
 
-<a href="/go/bitdefender" class="cta-affiliate" rel="sponsored noopener">View Bitdefender</a>
+<a href="https://go.digitalshieldpro.com/bitdefender" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Bitdefender</a>
 
 ## Related guides
 

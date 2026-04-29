@@ -326,7 +326,7 @@ If privacy is your top priority over convenience and speed, ProtonVPN's Swiss ju
 [Get Surfshark — Best Value →](https://go.digitalshieldpro.com/surfshark)
 
 
-<a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
+<a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Nordvpn</a>
 
 ## Related guides
 

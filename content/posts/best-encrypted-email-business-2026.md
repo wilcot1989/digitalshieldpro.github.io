@@ -122,7 +122,7 @@ Annual billing saves approximately 17%. For a 10-person team on the Essential pl
 
 **Who Proton Business is best for:** Teams where confidentiality matters — law firms, financial advisors, healthcare-adjacent businesses, journalists, privacy-conscious SaaS companies. If you cannot afford to have your provider reading your email, Proton's architecture provides the right guarantees.
 
-<a href="/go/protonmail" class="cta" rel="nofollow sponsored" target="_blank">Try Proton for Business</a>
+<a href="https://go.digitalshieldpro.com/protonmail" class="cta" rel="nofollow noopener sponsored" target="_blank">Try Proton for Business</a>
 
 ---
 
@@ -161,7 +161,7 @@ For a 10-person team, Tuta Business runs approximately €720/year (~$785 at cur
 
 **Who Tuta Business is best for:** Teams that are committed to a full privacy-first ecosystem and can accept the no-IMAP constraint. Excellent for small teams where the admin is technically informed and can manage the Tuta-only environment. The price point makes it attractive for bootstrapped startups.
 
-<a href="/go/tutanota" class="cta cta-outline" rel="nofollow sponsored" target="_blank">Try Tuta for Business</a>
+<a href="https://go.digitalshieldpro.com/tutanota" class="cta cta-outline" rel="nofollow noopener sponsored" target="_blank">Try Tuta for Business</a>
 
 ---
 
@@ -211,7 +211,7 @@ The cheapest option in this comparison for teams, and the most compatible. A 10-
 
 **Who Fastmail Business is best for:** Teams that want to move away from Google/Microsoft for privacy reasons, but need full IMAP compatibility, robust shared inboxes, and lower friction adoption. If your industry does not require confidentiality of email content from your provider, Fastmail delivers excellent practical privacy at a great price.
 
-<a href="/go/fastmail" class="cta cta-outline" rel="nofollow sponsored" target="_blank">Try Fastmail Business</a>
+<a href="https://go.digitalshieldpro.com/fastmail" class="cta cta-outline" rel="nofollow noopener sponsored" target="_blank">Try Fastmail Business</a>
 
 ---
 
@@ -351,9 +351,9 @@ None of these providers is Google Workspace or Microsoft 365 — the integration
 
 My pick for most business use cases: **Proton for Business** if budget allows, **Tuta Business** if you can accept the IMAP constraint and need to keep costs low.
 
-<a href="/go/protonmail" class="cta" rel="nofollow sponsored" target="_blank">Try Proton for Business Free</a>
-<a href="/go/tutanota" class="cta cta-outline" rel="nofollow sponsored" target="_blank">Try Tuta for Business Free</a>
-<a href="/go/fastmail" class="cta cta-outline" rel="nofollow sponsored" target="_blank">Try Fastmail Business Free</a>
+<a href="https://go.digitalshieldpro.com/protonmail" class="cta" rel="nofollow noopener sponsored" target="_blank">Try Proton for Business Free</a>
+<a href="https://go.digitalshieldpro.com/tutanota" class="cta cta-outline" rel="nofollow noopener sponsored" target="_blank">Try Tuta for Business Free</a>
+<a href="https://go.digitalshieldpro.com/fastmail" class="cta cta-outline" rel="nofollow noopener sponsored" target="_blank">Try Fastmail Business Free</a>
 
 ---
 

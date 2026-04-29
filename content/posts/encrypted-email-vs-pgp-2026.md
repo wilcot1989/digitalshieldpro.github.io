@@ -217,7 +217,7 @@ ProtonMail historically used static RSA keys (same limitation as PGP). In recent
 
 If forward secrecy is a specific requirement — you are a journalist, activist, or anyone whose past communications could become a future liability — Tutanota's implementation is currently ahead of ProtonMail's for this specific concern.
 
-<a href="/go/tutanota" class="cta cta-outline" rel="nofollow sponsored" target="_blank">Try Tutanota Free</a>
+<a href="https://go.digitalshieldpro.com/tutanota" class="cta cta-outline" rel="nofollow noopener sponsored" target="_blank">Try Tutanota Free</a>
 
 ---
 
@@ -372,8 +372,8 @@ With ProtonMail's "Send with Password" feature, yes — recipients get a link an
 
 The most important step is moving your primary email away from a provider whose business model depends on reading your email. That step alone improves your privacy more than any PGP configuration.
 
-<a href="/go/protonmail" class="cta" rel="nofollow sponsored" target="_blank">Try ProtonMail Free</a>
-<a href="/go/tutanota" class="cta cta-outline" rel="nofollow sponsored" target="_blank">Try Tutanota Free</a>
+<a href="https://go.digitalshieldpro.com/protonmail" class="cta" rel="nofollow noopener sponsored" target="_blank">Try ProtonMail Free</a>
+<a href="https://go.digitalshieldpro.com/tutanota" class="cta cta-outline" rel="nofollow noopener sponsored" target="_blank">Try Tutanota Free</a>
 
 ---
 

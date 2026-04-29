@@ -299,7 +299,7 @@ If you are in a domestic abuse situation involving stalkerware, contact the Nati
 Spyware, at every tier, is a serious threat. Consumer stalkerware is a tool of control and abuse. Nation-state spyware has been used to target people who were subsequently imprisoned or killed. Take it seriously, use the right detection tools for your threat model, and seek professional help when your situation warrants it.
 
 
-<a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
+<a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Nordvpn</a>
 
 ## Related guides
 

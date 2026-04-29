@@ -335,10 +335,10 @@ For buyers: if you are comfortable with the category, this is a reasonably good 
 ## My Recommendation By Use Case
 
 **Budget-conscious individual wanting solid automated coverage:**
-→ [Incogni at $77.88/year](/go/incogni) — best value by any reasonable measure
+→ [Incogni at $77.88/year](https://go.digitalshieldpro.com/incogni) — best value by any reasonable measure
 
 **Someone who wants human verification and detailed reports:**
-→ [DeleteMe at $129/year](/go/deleteme) — established service with quarterly PDF documentation
+→ [DeleteMe at $129/year](https://go.digitalshieldpro.com/deleteme) — established service with quarterly PDF documentation
 
 **Maximum broker coverage, less price-sensitive:**
 → Optery Ultimate at $149.88/year
@@ -419,6 +419,6 @@ Your home address, phone number, and relative names being freely available onlin
 
 At $77.88/year, Incogni is less than the cost of a streaming service subscription. The time investment is under 15 minutes to set up. The ROI on reducing your data broker exposure is difficult to argue against.
 
-[**Start with Incogni — Best Value Data Broker Removal**](/go/incogni)
+[**Start with Incogni — Best Value Data Broker Removal**](https://go.digitalshieldpro.com/incogni)
 
-[**Explore DeleteMe — Human-Verified Removals**](/go/deleteme)
+[**Explore DeleteMe — Human-Verified Removals**](https://go.digitalshieldpro.com/deleteme)

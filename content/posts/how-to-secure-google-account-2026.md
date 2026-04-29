@@ -372,7 +372,7 @@ Google's account recovery process exists for legitimate reasons — people genui
 4. If your threat model includes sophisticated social engineering, enroll in Advanced Protection Program — its enhanced recovery process significantly raises the bar
 
 
-<a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
+<a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Nordvpn</a>
 
 ## Related guides
 

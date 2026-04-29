@@ -167,9 +167,9 @@ DeleteMe costs less annually but focuses on a different set of brokers — not n
 
 My recommendation: if you want maximum transparency and modern UX, go with Optery. If you prefer established track record and human-verified removals, DeleteMe is the better fit.
 
-[**Start with Optery's Free Scan →**](/go/optery)
+[**Start with Optery's Free Scan →**](https://go.digitalshieldpro.com/optery)
 
-[**Try Incogni for Broader Automated Coverage →**](/go/incogni)
+[**Try Incogni for Broader Automated Coverage →**](https://go.digitalshieldpro.com/incogni)
 
 ---
 
@@ -285,9 +285,9 @@ Yes. Optery's dashboard is web-based and works on any browser. The browser exten
 **"Can Optery remove my data from Google search results?"**
 Optery removes your listings from data broker sites. Google then needs to re-crawl and update its index, which can take a few weeks. Google's own "Results About You" tool (at google.com/search/about-me) is the direct tool for requesting removal of personal contact information from Google search results — this is a separate process from broker removal.
 
-[**Get Optery Free — See Your Data Broker Exposure**](/go/optery)
+[**Get Optery Free — See Your Data Broker Exposure**](https://go.digitalshieldpro.com/optery)
 
-[**Get Incogni — Automated Removal Across 170+ Brokers**](/go/incogni)
+[**Get Incogni — Automated Removal Across 170+ Brokers**](https://go.digitalshieldpro.com/incogni)
 
 ---
 
@@ -359,4 +359,4 @@ Data broker removal services like Optery and Incogni are not a perfect solution 
 
 If you have not checked what is out there about you, Optery's free scan is a good starting point. What I found when I started this process was genuinely unsettling — and I am not someone who considers myself naive about digital privacy.
 
-[**Start Your Free Optery Scan Today**](/go/optery)
+[**Start Your Free Optery Scan Today**](https://go.digitalshieldpro.com/optery)

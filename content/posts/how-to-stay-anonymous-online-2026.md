@@ -324,7 +324,7 @@ Anonymity is not about hiding wrongdoing. It is about having the space to resear
 The tools exist. They work, when used correctly. The limitations are real and worth understanding. Start with a reliable VPN, learn the Tor Browser, and build your OPSEC habits before you need them.
 
 
-<a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
+<a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Nordvpn</a>
 
 ## Related guides
 

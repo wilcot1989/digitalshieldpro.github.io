@@ -227,7 +227,7 @@ The bottom line after four weeks of testing: **NordVPN is the best Android VPN i
 [Check NordVPN's current pricing](https://go.digitalshieldpro.com/nordvpn) | [Check Surfshark's current pricing](https://go.digitalshieldpro.com/surfshark)
 
 
-<a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
+<a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Nordvpn</a>
 
 ## Related guides
 

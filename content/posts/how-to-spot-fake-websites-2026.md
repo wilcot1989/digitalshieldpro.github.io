@@ -333,7 +333,7 @@ These reports are genuinely impactful. Most fake domains are active for days to 
 [Protect yourself with automatic phishing detection →](https://go.digitalshieldpro.com/bitdefender)
 
 
-<a href="/go/bitdefender" class="cta-affiliate" rel="sponsored noopener">View Bitdefender</a>
+<a href="https://go.digitalshieldpro.com/bitdefender" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Bitdefender</a>
 
 ## Related guides
 

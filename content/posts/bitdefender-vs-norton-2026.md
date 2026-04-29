@@ -418,7 +418,7 @@ Both offer parental controls and multi-device plans. Norton has the edge for fam
 <a href="https://go.digitalshieldpro.com/bitdefender" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Bitdefender</a>
 
 
-<a href="/go/bitdefender" class="cta-affiliate" rel="sponsored noopener">View Bitdefender</a>
+<a href="https://go.digitalshieldpro.com/bitdefender" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Bitdefender</a>
 
 ## Related Guides
 

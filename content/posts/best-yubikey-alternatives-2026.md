@@ -248,7 +248,7 @@ If you want maximum capability in a single device and are comfortable with compl
 Hardware security keys are one of the few areas of consumer security where the technology actually does what it promises. Phishing-resistant authentication is not marketing copy — it is a genuine advancement. Buy one this week and register it everywhere. Your future self will thank you the first time someone tries to phish your accounts and fails completely.
 
 
-<a href="/go/yubikey" class="cta-affiliate" rel="sponsored noopener">View Yubikey</a>
+<a href="https://go.digitalshieldpro.com/yubikey" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Yubikey</a>
 
 ## Related guides
 

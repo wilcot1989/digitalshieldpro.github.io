@@ -264,7 +264,7 @@ Build verification into your processes: any request for credentials, payment, or
 The QR code attacks are the fastest-growing category I'm seeing in 2026. Treat QR codes with the same skepticism you apply to email links — they're the same attack with a different delivery mechanism.
 
 
-<a href="/go/protonmail" class="cta-affiliate" rel="sponsored noopener">View Protonmail</a>
+<a href="https://go.digitalshieldpro.com/protonmail" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Protonmail</a>
 
 ## Related guides
 
