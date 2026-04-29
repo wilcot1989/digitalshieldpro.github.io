@@ -30,22 +30,6 @@ faq:
   a: Many of these tools offer free tiers or money-back guarantees. Check each provider's current policy on their site.
 - q: How does it compare to alternatives?
   a: See the comparison table above for head-to-head specs. Each option has trade-offs depending on your use case.
-- question: What is two-factor authentication (2FA)?
-  answer: Two-factor authentication (2FA) is a security method that requires two different forms of verification to access an account. Typically this means something you know (your password) plus something you have (a code from your phone, a hardware key, or a biometric scan). Even if someone steals your password, they cannot access your account without the second factor.
-- question: Which type of 2FA is most secure?
-  answer: Hardware security keys like YubiKey are the most secure form of 2FA because they are immune to phishing attacks and cannot be intercepted remotely. Authenticator apps like Google Authenticator and NordPass built-in TOTP are the next best option. SMS-based 2FA is the least secure due to SIM-swapping attacks but is still far better than no 2FA at all.
-- question: What happens if I lose my phone with my authenticator app?
-  answer: If you lose your phone, you can use backup codes that you saved when setting up 2FA to regain access to your accounts. Most services provide 8-10 backup codes during setup. You can also use a password manager with built-in TOTP like NordPass, which syncs your 2FA codes across devices. Always save backup codes in a secure location before enabling 2FA.
-- question: Is SMS two-factor authentication safe?
-  answer: SMS-based 2FA is better than no 2FA but is the weakest option. Attackers can intercept SMS codes through SIM-swapping attacks, where they convince your mobile carrier to transfer your phone number to their SIM card. They can also use SS7 network vulnerabilities to intercept messages. If possible, use an authenticator app or hardware key instead of SMS.
-- question: Which accounts should I enable 2FA on first?
-  answer: Prioritize enabling 2FA on your email accounts first, since email is used to reset passwords for all other accounts. Next, secure your financial accounts (banking, investing, crypto), followed by social media, cloud storage, password managers, and any accounts containing personal information. Essentially, enable 2FA on every account that offers it.
-- question: What are passkeys and how do they relate to 2FA?
-  answer: Passkeys are a newer authentication technology that replaces both passwords and traditional 2FA with a single, phishing-resistant login method. They use public-key cryptography tied to your device's biometric authentication (fingerprint or face scan). Passkeys are supported by Google, Apple, Microsoft, and many major services and are considered more secure and convenient than traditional password-plus-2FA combinations.
-- question: Can I use the same authenticator app for all my accounts?
-  answer: Yes, you can use a single authenticator app like Google Authenticator, Microsoft Authenticator, or NordPass built-in TOTP for all your accounts that support TOTP-based 2FA. Each account gets its own unique entry in the app. Using one app keeps things simple, though some people prefer to use two different apps for redundancy.
-- question: How do hardware security keys work for 2FA?
-  answer: Hardware security keys like YubiKey are physical USB or NFC devices that you plug into your computer or tap against your phone when logging in. They use the FIDO2/WebAuthn protocol to cryptographically verify your identity. The key communicates directly with the legitimate website, making it impossible for phishing sites to intercept the authentication. Most keys cost between $25 and $70.
 products:
 - name: NordVPN
   url: https://go.digitalshieldpro.com/nordvpn
