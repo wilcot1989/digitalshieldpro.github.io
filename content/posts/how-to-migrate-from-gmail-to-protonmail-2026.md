@@ -1,8 +1,8 @@
 ---
-title: "How to Migrate From Gmail to ProtonMail in 2026: The Complete Step-by-Step Guide"
+title: "How to Migrate From Gmail to ProtonMail in 2026"
 date: 2026-05-04T09:00:00-05:00
 lastmod: 2026-05-04T09:00:00-05:00
-description: "I migrated my Gmail account to ProtonMail — 8 years of email, 40,000 messages, contacts and calendar. Here is the exact process I used, what worked, what failed, and how long it actually takes."
+description: "I migrated my Gmail account to ProtonMail — 8 years of email, 40,000 messages, contacts and calendar."
 categories: ["encrypted-email"]
 tags: ["protonmail", "gmail migration", "encrypted email", "email privacy", "proton mail import"]
 keywords: ["how to migrate from gmail to protonmail 2026", "gmail to protonmail migration", "protonmail import gmail", "switch from gmail to protonmail", "protonmail setup guide"]

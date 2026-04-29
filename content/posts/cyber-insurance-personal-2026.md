@@ -291,3 +291,6 @@ If $75/year in cyber insurance rider costs makes you meaningfully less anxious a
 
 
 <a href="https://go.digitalshieldpro.com/bitdefender" class="cta-affiliate" rel="sponsored noopener">View →</a>
+
+
+<a href="/go/bitdefender" class="cta-affiliate" rel="sponsored noopener">View Bitdefender</a>

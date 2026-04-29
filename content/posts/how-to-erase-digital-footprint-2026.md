@@ -1,5 +1,5 @@
 ---
-title: "How to Erase Your Digital Footprint in 2026: A Step-by-Step Guide"
+title: "How to Erase Your Digital Footprint in 2026"
 date: 2026-06-01T10:00:00+01:00
 lastmod: 2026-06-01T10:00:00+01:00
 description: "Step-by-step removal of your data from major sites, brokers, and search engines. Realistic outcomes after 12 weeks of cleanup."

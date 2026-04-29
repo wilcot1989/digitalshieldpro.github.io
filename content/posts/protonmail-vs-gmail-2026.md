@@ -347,6 +347,9 @@ There's no wrong answer — only an answer that matches your values. Most people
 
 ---
 
+
+<a href="/go/protonmail" class="cta-affiliate" rel="sponsored noopener">View Protonmail</a>
+
 ## Related reports
 
 - [ProtonMail review 2026](/posts/protonmail-review-2026/)

@@ -1,8 +1,8 @@
 ---
-title: "Kanary Review 2026: I Tested This Newer Privacy Service For 8 Weeks"
+title: "Kanary Review 2026: I Tested This Newer Privacy Service For"
 date: 2026-08-02T09:00:00-05:00
 lastmod: 2026-08-02T09:00:00-05:00
-description: "Kanary is newer than Incogni or DeleteMe, but it differentiates with unusually transparent reporting. I ran it for 8 weeks and tracked every removal. Here is what I found."
+description: "Kanary is newer than Incogni or DeleteMe, but it differentiates with unusually transparent reporting. I ran it for 8 weeks and tracked every removal."
 categories: ["data-broker-removal"]
 tags: ["kanary review", "kanary data removal", "data broker removal", "privacy service review", "personal data removal"]
 keywords: ["kanary review 2026", "kanary data removal service", "kanary vs incogni", "kanary pricing", "best data broker removal 2026"]

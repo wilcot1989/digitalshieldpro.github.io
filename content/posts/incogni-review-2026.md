@@ -338,6 +338,9 @@ Incogni isn't perfect (no service is). But it's good, it's cheap, and the GDPR a
 
 ---
 
+
+<a href="/go/incogni" class="cta-affiliate" rel="sponsored noopener">View Incogni</a>
+
 ## Related reports
 
 - [Best data broker removal services 2026](/posts/best-data-broker-removal-services-2026/)

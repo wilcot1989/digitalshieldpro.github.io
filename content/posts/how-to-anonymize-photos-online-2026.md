@@ -418,6 +418,9 @@ JPEG is the most common format for photos and has well-established EXIF handling
 
 For maximum cleanliness, consider converting HEIC to JPEG after metadata removal. The conversion itself through a tool like ImageMagick can produce a clean output with no metadata carried over, though this involves a compression step that marginally reduces quality.
 
+
+<a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
+
 ## Related guides
 
 - [How to Protect Yourself Online: The Complete Digital](/posts/how-to-protect-yourself-online-2026/)

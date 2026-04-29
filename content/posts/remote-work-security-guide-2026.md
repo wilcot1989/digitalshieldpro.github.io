@@ -388,3 +388,6 @@ If your employer does not provide these, advocate for them. In the meantime, the
 
 
 <a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
+
+
+<a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>

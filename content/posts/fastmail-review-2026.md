@@ -381,6 +381,9 @@ Start with the 30-day trial. If your migration goes smoothly (it will), the Stan
 
 ---
 
+
+<a href="/go/fastmail" class="cta-affiliate" rel="sponsored noopener">View Fastmail</a>
+
 ## Related Reports
 
 - [ProtonMail Review 2026](/posts/protonmail-review-2026/)

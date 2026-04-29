@@ -1,5 +1,5 @@
 ---
-title: "Windows 11 Privacy Settings 2026: The Complete Lockdown Guide"
+title: "Windows 11 Privacy Settings 2026: The Complete Lockdown"
 date: 2026-06-19T09:00:00+01:00
 lastmod: 2026-06-19T09:00:00+01:00
 description: "Microsoft's telemetry, Recall AI, and advertising features send your data by default. Here's exactly how to lock down Windows 11 for maximum privacy in 2026."
@@ -299,6 +299,9 @@ A fresh Windows 11 install in 2026 is not private by default — it is a telemet
 The 30 minutes you spend working through this checklist meaningfully reduces that collection. You will not achieve perfect privacy on a Windows machine — the OS is closed source and Microsoft can change behavior in updates — but you can substantially limit what gets sent and ensure you are not opted into the most aggressive collection features by default.
 
 Re-check these settings after every major Windows feature update. And for the threats that come from outside Windows itself — phishing, malware, browser exploits — a well-configured security suite like [Bitdefender](https://go.digitalshieldpro.com/bitdefender) adds protection that privacy settings alone cannot provide.
+
+
+<a href="/go/bitdefender" class="cta-affiliate" rel="sponsored noopener">View Bitdefender</a>
 
 ## Related guides
 

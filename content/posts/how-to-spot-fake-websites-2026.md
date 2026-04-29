@@ -332,6 +332,9 @@ These reports are genuinely impactful. Most fake domains are active for days to 
 
 [Protect yourself with automatic phishing detection →](https://go.digitalshieldpro.com/bitdefender)
 
+
+<a href="/go/bitdefender" class="cta-affiliate" rel="sponsored noopener">View Bitdefender</a>
+
 ## Related guides
 
 - [How to Protect Yourself From AI Scams 2026](/posts/how-to-protect-yourself-from-ai-scams-2026/)

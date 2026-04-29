@@ -327,6 +327,9 @@ For the US-heavy, high-exposure user who has already searched their name and fou
 
 ---
 
+
+<a href="/go/incogni" class="cta-affiliate" rel="sponsored noopener">View Incogni</a>
+
 ## Related Reports
 
 - [Incogni Review 2026 — 12-Week Test Results](/posts/incogni-review-2026/)

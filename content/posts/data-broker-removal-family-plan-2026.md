@@ -1,8 +1,8 @@
 ---
-title: "Data Broker Removal Family Plans 2026: DeleteMe Family vs Incogni Multi-Seat Compared"
+title: "Data Broker Removal Family Plans 2026"
 date: 2026-07-26T09:00:00-05:00
 lastmod: 2026-07-26T09:00:00-05:00
-description: "Should you get a family data broker removal plan? I compared DeleteMe Family, Incogni multi-seat, Optery family, and PrivacyBee family plans — pricing, coverage, and which is actually worth it."
+description: "Should you get a family data broker removal plan? I compared DeleteMe Family, Incogni multi-seat, Optery family, and PrivacyBee family plans."
 categories: ["data-broker-removal"]
 tags: ["data broker removal family", "deleteme family", "incogni family", "family privacy plan", "data broker removal"]
 keywords: ["data broker removal family plan 2026", "deleteme family plan", "incogni family plan", "best family privacy service", "protect family from data brokers"]

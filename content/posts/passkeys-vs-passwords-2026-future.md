@@ -239,6 +239,9 @@ For the rest of your accounts, keep using a password manager with strong unique 
 
 Passwords are not dead. They are on a very long, slow fade. Passkeys are earning their replacement, service by service.
 
+
+<a href="/go/nordpass" class="cta-affiliate" rel="sponsored noopener">View Nordpass</a>
+
 ## Related guides
 
 - [Two-Factor Auth vs Passkeys in 2026: Which Is More Secure?](/posts/two-factor-auth-vs-passkeys-2026/)

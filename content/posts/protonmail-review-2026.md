@@ -336,6 +336,9 @@ If you're considering it, start with the free plan. Migrate gradually. Upgrade t
 
 ---
 
+
+<a href="/go/protonmail" class="cta-affiliate" rel="sponsored noopener">View Protonmail</a>
+
 ## Related reports
 
 - [Tutanota review 2026](/posts/tutanota-review-2026/)

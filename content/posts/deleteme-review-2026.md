@@ -347,6 +347,9 @@ If you're in the EU, or want a cheaper starting point to test the category, Inco
 
 ---
 
+
+<a href="/go/deleteme" class="cta-affiliate" rel="sponsored noopener">View Deleteme</a>
+
 ## Related Reports
 
 - [Incogni Review 2026](/posts/incogni-review-2026/)

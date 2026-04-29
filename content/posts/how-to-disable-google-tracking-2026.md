@@ -383,3 +383,6 @@ The settings you will not find: controls over data Google infers about you from 
 
 
 <a href="https://go.digitalshieldpro.com/eset" class="cta-affiliate" rel="sponsored noopener">View Eset</a>
+
+
+<a href="/go/eset" class="cta-affiliate" rel="sponsored noopener">View Eset</a>

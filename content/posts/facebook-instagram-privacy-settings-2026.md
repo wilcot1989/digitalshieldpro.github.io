@@ -339,6 +339,9 @@ Starting with Facebook and Instagram is reasonable — they are the largest plat
 
 <a href="https://go.digitalshieldpro.com/incogni" class="cta-affiliate" rel="sponsored noopener">View →</a>
 
+
+<a href="/go/incogni" class="cta-affiliate" rel="sponsored noopener">View Incogni</a>
+
 ## Related guides
 
 - [Windows 11 Privacy Settings 2026: The Complete Lockdown Guide](/posts/windows-11-privacy-settings-2026/)

@@ -275,6 +275,9 @@ Start by checking your email addresses on HaveIBeenPwned today. Then set up cont
 
 <a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
 
+
+<a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
+
 ## Related Guides
 
 - [Best Identity Theft Protection 2026](/posts/best-identity-theft-protection-2026/)

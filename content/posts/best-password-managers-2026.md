@@ -271,3 +271,6 @@ A password manager is step one. For full protection:
 
 
 <a href="https://go.digitalshieldpro.com/nordpass" class="cta-affiliate" rel="sponsored noopener">View Nordpass</a>
+
+
+<a href="/go/nordpass" class="cta-affiliate" rel="sponsored noopener">View Nordpass</a>

@@ -321,6 +321,9 @@ The passkey in your NordPass vault is tied to your NordPass master password and 
 
 ## Frequently Asked Questions About 2FA vs. Passkeys
 
+
+<a href="/go/nordpass" class="cta-affiliate" rel="sponsored noopener">View Nordpass</a>
+
 ## Related guides
 
 - [Passkeys vs Passwords 2026: The Future of Login](/posts/passkeys-vs-passwords-2026-future/)

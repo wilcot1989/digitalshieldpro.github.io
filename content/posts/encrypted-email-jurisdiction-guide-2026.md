@@ -1,8 +1,8 @@
 ---
-title: "Encrypted Email Jurisdiction Guide 2026: Switzerland, Germany, Belgium, and the USA Compared"
+title: "Encrypted Email Jurisdiction Guide 2026"
 date: 2026-07-04T09:00:00-05:00
 lastmod: 2026-07-04T09:00:00-05:00
-description: "Where your encrypted email provider is headquartered determines what legal protections you actually have. I researched the laws, court precedents, and disclosure records for every major encrypted email jurisdiction in 2026."
+description: "Where your encrypted email provider is headquartered determines what legal protections you actually have."
 categories: ["encrypted-email"]
 tags: ["email jurisdiction", "protonmail switzerland", "tutanota germany", "mailfence belgium", "hushmail canada", "encrypted email law"]
 keywords: ["encrypted email jurisdiction 2026", "protonmail swiss law", "best jurisdiction encrypted email", "email privacy law comparison", "where to host encrypted email"]

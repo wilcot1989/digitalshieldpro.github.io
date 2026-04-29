@@ -323,3 +323,6 @@ Antivirus is essential, but it is one piece of the puzzle. Here is what else I r
 
 
 <a href="https://go.digitalshieldpro.com/bitdefender" class="cta-affiliate" rel="sponsored noopener">View Bitdefender</a>
+
+
+<a href="/go/bitdefender" class="cta-affiliate" rel="sponsored noopener">View Bitdefender</a>

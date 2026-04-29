@@ -263,6 +263,9 @@ Build verification into your processes: any request for credentials, payment, or
 
 The QR code attacks are the fastest-growing category I'm seeing in 2026. Treat QR codes with the same skepticism you apply to email links — they're the same attack with a different delivery mechanism.
 
+
+<a href="/go/protonmail" class="cta-affiliate" rel="sponsored noopener">View Protonmail</a>
+
 ## Related guides
 
 - [How to Protect Yourself from Phishing in 2026](/posts/how-to-protect-yourself-from-phishing-2026/)

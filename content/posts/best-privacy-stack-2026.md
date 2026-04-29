@@ -356,6 +356,9 @@ One weekend, five tools, ~$28/month. Start with the password manager today.
 
 ---
 
+
+<a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
+
 ## FAQ
 
 **Do I really need all five layers, or can I get away with fewer?**

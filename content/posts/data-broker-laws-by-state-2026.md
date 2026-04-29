@@ -1,8 +1,8 @@
 ---
-title: "Data Broker Laws By State 2026: What CCPA, Texas, Vermont And Other State Laws Let You Do"
+title: "Data Broker Laws By State 2026: What CCPA, Texas"
 date: 2026-08-06T09:00:00-05:00
 lastmod: 2026-08-06T09:00:00-05:00
-description: "Your data broker opt-out rights depend entirely on where you live. I map out what California CCPA, Texas TDPSA, Vermont, Virginia, and 8 other state privacy laws actually let you demand — with practical opt-out steps by jurisdiction."
+description: "Your data broker opt-out rights depend entirely on where you live. I map out what California CCPA, Texas TDPSA, Vermont, Virginia."
 categories: ["data-broker-removal"]
 tags: ["data broker laws", "CCPA", "state privacy laws", "data broker rights", "privacy law 2026"]
 keywords: ["data broker laws by state 2026", "CCPA data broker rights", "state privacy law opt-out", "Texas data broker law", "Vermont data broker registry"]

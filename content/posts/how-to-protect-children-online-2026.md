@@ -288,6 +288,9 @@ Invest in the conversations. Keep the promises you make about non-punitive respo
 
 For the account security layer, [NordPass Family](https://go.digitalshieldpro.com/nordpass) gives every family member strong, unique passwords managed in one place. It is one of the few technical measures that creates safety habits rather than just safety restrictions — habits that will serve your children long after they leave home.
 
+
+<a href="/go/nordpass" class="cta-affiliate" rel="sponsored noopener">View Nordpass</a>
+
 ## Related guides
 
 - [How to Protect Elderly Family Members Online in 2026](/posts/how-to-protect-elderly-online-2026/)

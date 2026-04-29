@@ -371,6 +371,9 @@ For people with high security requirements, hardware running Coreboot/Libreboot 
 
 **Trusted Platform Module (TPM):** TPMs are used for disk encryption key storage in Windows BitLocker and can be used in Linux setups. A TPM ties disk encryption to specific hardware, which can be useful or limiting depending on your threat model. If you use LUKS with only a passphrase (not TPM-backed), your encrypted drive is portable and usable on different hardware — relevant if you need to access data after hardware failure.
 
+
+<a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
+
 ## Related guides
 
 - [Best Privacy Browsers in 2026: Top 7 for Maximum Security](/posts/best-privacy-browsers-2026/)

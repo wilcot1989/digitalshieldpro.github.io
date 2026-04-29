@@ -2,7 +2,7 @@
 title: "How to Recover a Hacked Account 2026: Step-by-Step"
 date: 2026-06-13
 lastmod: 2026-06-13T09:00:00+01:00
-description: "Got hacked? This step-by-step guide covers account recovery for Google, Facebook, Instagram, Microsoft, and more. I've helped dozens of people through this process."
+description: "Got hacked? This step-by-step guide covers account recovery for Google, Facebook, Instagram, Microsoft, and more."
 categories: ["accounts"]
 tags: ["account recovery", "hacked account", "account security", "data breach", "identity theft"]
 keywords: ["how to recover hacked account 2026", "account recovery Google", "hacked Facebook account", "account compromised what to do", "recover Instagram account 2026"]
@@ -321,6 +321,9 @@ The difference between account recovery taking 10 minutes versus weeks comes dow
 
 
 <a href="https://go.digitalshieldpro.com/nordpass" class="cta-affiliate" rel="sponsored noopener">View →</a>
+
+
+<a href="/go/nordpass" class="cta-affiliate" rel="sponsored noopener">View Nordpass</a>
 
 ## Related guides
 

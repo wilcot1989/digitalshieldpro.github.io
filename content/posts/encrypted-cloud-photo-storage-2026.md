@@ -366,3 +366,6 @@ The migration takes an afternoon. The data you keep private from that point forw
 - [How to Disable Google Tracking 2026](/posts/how-to-disable-google-tracking-2026/)
 - [Best Encrypted Email Services 2026](/posts/best-encrypted-email-services-2026/)
 - [Best Privacy Browsers 2026](/posts/best-privacy-browsers-2026/)
+
+
+<a href="/go/protonmail" class="cta-affiliate" rel="sponsored noopener">View Protonmail</a>

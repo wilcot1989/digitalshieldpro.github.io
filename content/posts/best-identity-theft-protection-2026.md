@@ -367,3 +367,6 @@ And here's the thing most review sites won't tell you: a credit freeze (free) + 
 
 
 <a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
+
+
+<a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>

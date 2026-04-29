@@ -1,8 +1,8 @@
 ---
-title: "How to Self-Host Your Email Server in 2026: Mail-in-a-Box, Mailcow, and Stalwart Compared"
+title: "How to Self-Host Your Email Server in 2026"
 date: 2026-06-26T09:00:00-05:00
 lastmod: 2026-06-26T09:00:00-05:00
-description: "I ran self-hosted email on Mail-in-a-Box, Mailcow, and Stalwart for 3 months each. Here is the honest technical guide — setup, maintenance, deliverability pitfalls, and when to give up and use ProtonMail instead."
+description: "I ran self-hosted email on Mail-in-a-Box, Mailcow, and Stalwart for 3 months each. Here is the honest technical guide."
 categories: ["encrypted-email"]
 tags: ["self-host email", "mail-in-a-box", "mailcow", "stalwart email", "self-hosted mail server", "email server setup"]
 keywords: ["how to self-host email server 2026", "mail-in-a-box review", "mailcow setup guide", "stalwart email server", "self-hosted email server comparison"]

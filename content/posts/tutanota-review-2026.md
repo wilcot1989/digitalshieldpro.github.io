@@ -372,6 +372,9 @@ For most users either is dramatically better than Gmail. Pick based on which lim
 
 ---
 
+
+<a href="/go/tutanota" class="cta-affiliate" rel="sponsored noopener">View Tutanota</a>
+
 ## Related reports
 
 - [ProtonMail review 2026](/posts/protonmail-review-2026/)

@@ -314,6 +314,9 @@ I switched my primary engine to Kagi four months ago and have not used Google si
 
 <a href="https://go.digitalshieldpro.com/eset" class="cta-affiliate" rel="sponsored noopener">View Eset</a>
 
+
+<a href="/go/eset" class="cta-affiliate" rel="sponsored noopener">View Eset</a>
+
 ## Frequently Asked Questions About Privacy Search Engines
 
 **Do privacy search engines work as well as Google for local searches?**

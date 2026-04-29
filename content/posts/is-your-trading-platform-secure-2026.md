@@ -335,3 +335,6 @@ Take an hour this weekend. Run through the checklist above. Lock everything down
 
 
 <a href="https://go.digitalshieldpro.com/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>
+
+
+<a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">View Nordvpn</a>

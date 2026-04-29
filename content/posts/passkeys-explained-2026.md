@@ -384,6 +384,9 @@ If you're still typing passwords for Gmail, you're using 2010 technology. The re
 
 ---
 
+
+<a href="/go/nordpass" class="cta-affiliate" rel="sponsored noopener">View Nordpass</a>
+
 ## Related reports
 
 - [Best password managers 2026](/posts/best-password-managers-2026/)

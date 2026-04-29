@@ -340,6 +340,9 @@ Mobile browsers present a different fingerprinting surface than desktop:
 
 <a href="https://go.digitalshieldpro.com/incogni" class="cta-affiliate" rel="sponsored noopener">View Incogni</a>
 
+
+<a href="/go/incogni" class="cta-affiliate" rel="sponsored noopener">View Incogni</a>
+
 ## Related guides
 
 - [Brave Browser Review 2026: Four Weeks of Real-World Testing](/posts/brave-browser-review-2026/)

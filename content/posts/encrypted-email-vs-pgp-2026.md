@@ -1,8 +1,8 @@
 ---
-title: "Encrypted Email vs PGP in 2026: Which One Actually Protects You?"
+title: "Encrypted Email vs PGP in 2026: Which One Actually Protects"
 date: 2026-05-09T09:00:00-05:00
 lastmod: 2026-05-09T09:00:00-05:00
-description: "End-to-end encrypted email (ProtonMail, Tutanota) vs PGP on top of Gmail — I tested both models across real threat scenarios to find out which actually protects you and when."
+description: "End-to-end encrypted email (ProtonMail, Tutanota) vs PGP on top of Gmail — I tested both models across real threat scenarios to find out which actually."
 categories: ["encrypted-email"]
 tags: ["encrypted email", "pgp", "protonmail", "tutanota", "end-to-end encryption", "email security"]
 keywords: ["encrypted email vs pgp 2026", "protonmail vs pgp", "end-to-end email encryption", "pgp email security", "best email encryption method"]
