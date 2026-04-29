@@ -27,7 +27,13 @@ faq:
     a: "If you sent money, contact your bank immediately to initiate a recall or dispute. Report to the FTC at reportfraud.ftc.gov and to your local FBI field office if losses are significant. Document everything — save any messages, note the number called from, and write down what was said while it is fresh. Even if you did not lose money, reporting helps law enforcement track scam operations. Warn family members so they are aware the pattern is being used."
   - q: "How do I reduce my voice and face data available to scammers?"
     a: "Audit your public social media profiles and remove or restrict video content containing your voice or face. Set Instagram, TikTok, and Facebook profiles to private or friends-only. Avoid posting extended video monologues publicly. Be aware that voicemail greetings are also a source of voice data — consider a generic automated greeting instead of a personal recording. These steps raise the cost of targeting you specifically, though they do not eliminate risk entirely."
-products: []
+products:
+  - name: "Bitdefender Total Security"
+    url: "/go/bitdefender"
+    price: "49"
+  - name: "NordPass Premium"
+    url: "/go/nordpass"
+    price: "1.49"
 ---
 
 Last year a friend of mine — a careful, technically literate person — nearly wired $4,200 to scammers pretending to be his adult son. The voice was his son's voice. The accent, the speech patterns, the way he said "Dad" — all accurate. The "son" claimed to have been in a minor car accident, needed bail posted that night, and asked not to tell mom yet. My friend had his hand on the send button before something made him pause and call his son directly.
