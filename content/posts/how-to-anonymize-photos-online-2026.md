@@ -367,3 +367,53 @@ No metadata tool removes what is visually in the photo. If you share a photo tha
 Visual review remains essential. Technical metadata removal is one layer of privacy, not the entire solution.
 
 For comprehensive online privacy, combine photo anonymization with a [VPN like NordVPN](/go/nordvpn) to protect your browsing patterns and the IP address you use when uploading or sharing content.
+
+---
+
+## Verifying Your Work: How to Check for Residual Metadata
+
+After you have stripped metadata using any tool, verify the result before considering it done. Tools occasionally miss secondary metadata fields, and some image formats store metadata in multiple locations.
+
+### Verification with ExifTool
+
+After stripping, run:
+```
+exiftool clean_photo.jpg
+```
+
+A properly cleaned file should return minimal output — only the filename and basic format information, no GPS coordinates, no timestamps beyond the file modification date, no device information.
+
+A file that still has metadata will show fields like:
+```
+GPS Latitude     : 52 deg 22' 30.00" N
+GPS Longitude    : 4 deg 54' 0.00" E
+Camera Model Name: iPhone 15 Pro
+```
+
+If any of these fields appear after your cleaning step, the tool did not fully remove metadata. Try again with ExifTool directly:
+```
+exiftool -all= -overwrite_original photo.jpg
+exiftool photo.jpg  # Verify
+```
+
+### Checking for Embedded Thumbnails
+
+The `-all=` flag in ExifTool removes embedded thumbnails. To explicitly verify:
+```
+exiftool -ThumbnailImage photo.jpg
+```
+
+If this returns "1 value" or any output, there is still a thumbnail embedded. Remove it specifically:
+```
+exiftool -ThumbnailImage= photo.jpg
+```
+
+### Online Verification (for Non-Sensitive Photos)
+
+For non-sensitive verification purposes, exifdata.com or Jeffrey's Exif Viewer (regex.info/exif.cgi) parse image metadata through a browser. Upload your cleaned photo to verify no metadata remains. Do not use these services to verify photos that contain sensitive content — the upload is to a third-party server.
+
+### File Format Considerations
+
+JPEG is the most common format for photos and has well-established EXIF handling — ExifTool handles it reliably. PNG stores metadata differently (in tEXt and iTXt chunks) — ExifTool handles this too, but be aware that some tools designed for JPEG may not properly clean PNG files. HEIC (Apple's format) contains EXIF and often additional Apple-proprietary metadata — ExifTool 12+ handles HEIC well, but always verify.
+
+For maximum cleanliness, consider converting HEIC to JPEG after metadata removal. The conversion itself through a tool like ImageMagick can produce a clean output with no metadata carried over, though this involves a compression step that marginally reduces quality.

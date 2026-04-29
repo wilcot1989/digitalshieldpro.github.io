@@ -1,5 +1,5 @@
 ---
-title: "How to Stay Anonymous Online in 2026: Tor, VPN, and OPSEC Layered Approach"
+title: "How to Stay Anonymous Online 2026: Tor + VPN Stack"
 date: 2026-06-28T09:00:00+01:00
 lastmod: 2026-06-28T09:00:00+01:00
 description: "Real online anonymity requires layering Tor, VPN, and operational security. I tested this stack and explain what each layer does and where it fails."

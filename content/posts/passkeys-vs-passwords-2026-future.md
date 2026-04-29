@@ -1,8 +1,8 @@
 ---
-title: "Passkeys vs Passwords in 2026: The State of the Industry and What Comes Next"
+title: "Passkeys vs Passwords 2026: The Future of Login"
 date: 2026-06-26T09:00:00+01:00
 lastmod: 2026-06-26T09:00:00+01:00
-description: "Passkeys are supposed to replace passwords. I've tracked industry adoption for a year to report on what's actually working, what's stalled, and whether you should switch."
+description: "Industry adoption status, security model comparison, and where passkeys still fall short of replacing password managers in 2026."
 categories: ["passwords"]
 tags: ["passkeys", "passwords", "FIDO2", "WebAuthn", "password manager", "1Password", "NordPass", "passwordless authentication"]
 keywords: ["passkeys vs passwords 2026", "passkey adoption 2026", "should I use passkeys", "passkey vs password manager", "FIDO2 passkeys"]
