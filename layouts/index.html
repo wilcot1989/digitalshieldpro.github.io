@@ -45,6 +45,89 @@
   </div>
 </section>
 
+<!-- PRIVACY CONCERN WIDGET -->
+<section style="padding:clamp(2.5rem,6vh,4rem) 0;background:var(--bone);border-top:1px solid var(--ink-line);">
+  <div class="container wide" style="max-width:54rem;">
+    <div style="font-family:var(--mono);font-size:.72rem;letter-spacing:.18em;text-transform:uppercase;color:var(--ink-soft);margin-bottom:.75rem;"><span style="color:var(--blue);font-weight:600;">[ 01b ]</span> Personalised recommendation</div>
+    <h2 style="font-family:var(--display);font-size:clamp(1.5rem,3vw,2.1rem);font-weight:800;letter-spacing:-.025em;color:var(--ink);margin-bottom:.5rem;">What's your biggest <em style="font-family:var(--serif);font-style:italic;font-weight:500;color:var(--blue);">privacy concern</em>?</h2>
+    <p style="font-family:var(--serif);color:var(--ink-soft);font-size:.95rem;margin-bottom:1.75rem;">Click to get a personalised top 3 recommendation.</p>
+    <div id="dsp-q" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:.75rem;">
+      <button onclick="dspShow('gov')" style="font-family:var(--mono);font-size:.82rem;font-weight:600;letter-spacing:.04em;padding:.9rem 1rem;border:1px solid var(--ink);background:transparent;color:var(--ink);cursor:pointer;border-radius:2px;text-align:left;transition:all .18s;">Government surveillance</button>
+      <button onclick="dspShow('id')" style="font-family:var(--mono);font-size:.82rem;font-weight:600;letter-spacing:.04em;padding:.9rem 1rem;border:1px solid var(--ink);background:transparent;color:var(--ink);cursor:pointer;border-radius:2px;text-align:left;transition:all .18s;">Identity theft</button>
+      <button onclick="dspShow('wifi')" style="font-family:var(--mono);font-size:.82rem;font-weight:600;letter-spacing:.04em;padding:.9rem 1rem;border:1px solid var(--ink);background:transparent;color:var(--ink);cursor:pointer;border-radius:2px;text-align:left;transition:all .18s;">Public WiFi</button>
+      <button onclick="dspShow('family')" style="font-family:var(--mono);font-size:.82rem;font-weight:600;letter-spacing:.04em;padding:.9rem 1rem;border:1px solid var(--ink);background:transparent;color:var(--ink);cursor:pointer;border-radius:2px;text-align:left;transition:all .18s;">Family safety</button>
+    </div>
+    <div id="dsp-r" style="display:none;margin-top:1.75rem;"></div>
+  </div>
+</section>
+
+<script>
+(function(){
+  var dspData = {
+    gov: {
+      label: 'Top 3 against government surveillance',
+      items: [
+        { name: 'ProtonVPN', badge: 'Recommended', url: '/go/protonvpn', desc: 'Swiss-based, strict no-logs, RAM-only servers, Tor over VPN' },
+        { name: 'ProtonMail', badge: 'E2E encrypted', url: '/go/protonmail', desc: 'End-to-end encrypted email, zero access by Proton to your messages' },
+        { name: 'Tor Browser', badge: 'Free', url: 'https://www.torproject.org/', desc: 'Onion routing — maximum anonymity, no account needed', ext: true }
+      ]
+    },
+    id: {
+      label: 'Top 3 against identity theft',
+      items: [
+        { name: 'Incogni', badge: 'Data removal', url: '/go/incogni', desc: 'Automatically removes your data from 180+ data broker databases' },
+        { name: 'NordPass', badge: 'Password manager', url: '/go/nordpass', desc: 'Zero-knowledge vault, breach scanning, secure sharing' },
+        { name: 'Bitdefender', badge: 'All-in-one', url: '/go/bitdefender', desc: 'Identity theft protection, real-time breach alerts, anti-phishing' }
+      ]
+    },
+    wifi: {
+      label: 'Top 3 for public WiFi protection',
+      items: [
+        { name: 'NordVPN', badge: '#1 Pick', url: '/go/nordvpn', desc: 'AES-256, kill switch, threat protection — fastest in our lab tests' },
+        { name: 'Surfshark', badge: 'Best value', url: '/go/surfshark', desc: 'Unlimited devices, CleanWeb ad/malware blocker, NoBorders mode' },
+        { name: 'ProtonVPN', badge: 'Free tier', url: '/go/protonvpn', desc: 'Solid free plan, no bandwidth cap, Switzerland jurisdiction' }
+      ]
+    },
+    family: {
+      label: 'Top 3 for family safety',
+      items: [
+        { name: 'NordPass Families', badge: '6 users', url: '/go/nordpass', desc: 'Shared password vault, breach monitoring for the whole family' },
+        { name: 'Bitdefender Total Security', badge: 'Parental', url: '/go/bitdefender', desc: 'Parental controls, screen time, location tracking, anti-predator' },
+        { name: 'Norton Family', badge: 'Free trial', url: 'https://family.norton.com/', desc: 'Web filtering, YouTube history, location & app supervision', ext: true }
+      ]
+    }
+  };
+
+  window.dspShow = function(key) {
+    var d = dspData[key];
+    var btns = document.querySelectorAll('#dsp-q button');
+    btns.forEach(function(b){ b.style.background = 'transparent'; b.style.color = 'var(--ink)'; b.style.borderColor = 'var(--ink)'; });
+    event.target.style.background = 'var(--blue)';
+    event.target.style.color = 'var(--bone)';
+    event.target.style.borderColor = 'var(--blue)';
+
+    var html = '<div style="font-family:var(--mono);font-size:.68rem;letter-spacing:.16em;text-transform:uppercase;color:var(--blue);font-weight:600;margin-bottom:1rem;">' + d.label + '</div>';
+    html += '<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:.75rem;">';
+    d.items.forEach(function(item){
+      var target = item.ext ? ' target="_blank" rel="noopener"' : '';
+      html += '<a href="' + item.url + '"' + target + ' style="display:block;padding:1.25rem;border:1px solid var(--ink-line);background:var(--paper);color:var(--ink);text-decoration:none;">';
+      html += '<div style="display:flex;justify-content:space-between;align-items:flex-start;gap:.5rem;margin-bottom:.5rem;">';
+      html += '<strong style="font-family:var(--display);font-size:.95rem;font-weight:700;">' + item.name + '</strong>';
+      html += '<span style="font-family:var(--mono);font-size:.65rem;background:#1E5FCF;color:#F5F7FA;padding:.2rem .55rem;border-radius:2px;white-space:nowrap;">' + item.badge + '</span>';
+      html += '</div>';
+      html += '<p style="font-size:.87rem;color:var(--ink-soft);line-height:1.5;margin:0 0 .75rem;">' + item.desc + '</p>';
+      html += '<span style="font-family:var(--mono);font-size:.68rem;color:var(--blue);letter-spacing:.05em;font-weight:600;">View report →</span>';
+      html += '</a>';
+    });
+    html += '</div>';
+
+    var el = document.getElementById('dsp-r');
+    el.innerHTML = html;
+    el.style.display = 'block';
+  };
+})();
+</script>
+
 <!-- STATS BAND -->
 <section style="background:var(--bone);border-top:1px solid var(--ink);border-bottom:1px solid var(--ink);padding:clamp(2.5rem,5vh,4rem) 0;">
   <div class="container wide">
