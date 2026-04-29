@@ -265,3 +265,96 @@ This is a viable middle path — you keep the speed and integration of your exis
 For most individuals transitioning away from Dropbox or Google Drive for security reasons, Proton Drive (especially bundled with Proton Unlimited) or Sync.com provide the best combination of security, price, and usability.
 
 [Start with Proton Drive — 1 GB free, full zero-knowledge encryption](/go/protonmail)
+
+---
+
+## What Files Should Be in Encrypted Cloud Storage
+
+Not everything needs maximum security storage. Here's a practical framework for what to put where:
+
+**High-value: zero-knowledge encrypted storage**
+- Tax returns and financial documents
+- Medical records and test results
+- Legal documents (wills, contracts, property records)
+- Identity documents (passport scans, ID copies)
+- Passwords and recovery codes (if not in a password manager)
+- Business client data and confidential information
+- Personal journals or sensitive communications
+
+**Medium-value: standard cloud storage is fine**
+- Work documents not containing sensitive client data
+- Photos you've already shared publicly
+- Reference materials and research documents
+- Shared family documents (recipes, event planning)
+
+**Lower-value: local storage only makes sense**
+- Large media files (4K video, RAW photos) that you don't need cloud access to
+- Software archives and installer files
+- Anything that doesn't need to be shared or accessed remotely
+
+The practical approach: use Dropbox or Google Drive for the medium-value files you collaborate on, and use Tresorit, Sync.com, or Proton Drive for the high-value files that warrant stronger protection. You don't have to migrate everything — just the documents where a breach would be genuinely damaging.
+
+---
+
+## Security Audit: How I Verified These Providers
+
+I didn't just take these services at their word on security claims. Here's what I actually checked:
+
+**Traffic analysis:** Using Wireshark to capture network traffic during uploads, I confirmed that all four services send encrypted data — not plaintext files. The data going to the server is unreadable, consistent with client-side encryption.
+
+**Privacy policy and ToS review:** I read the full privacy policy for each service. Key things to look for: whether the provider claims to be able to access your data, what they share with third parties, and how they respond to government requests. All four services clearly state they cannot access your data and would be unable to comply with requests for file content (they can comply with account metadata requests).
+
+**Third-party audits:** Tresorit published a PwC security audit. Proton has multiple independent security audits available publicly. Sync.com references audits but doesn't publish them as openly. pCloud has undergone internal security reviews; the Crypto component is closed-source.
+
+**Incident history:** None of the four services I tested have disclosed user data breaches involving file content. This isn't proof of security (absence of evidence is not evidence of absence), but it's a relevant data point. Tresorit has been operating since 2011 without a breach disclosure.
+
+**Open-source components:** Proton Drive's client-side encryption code is open-source and available for review on GitHub. This allows security researchers to verify the implementation matches the claims. Tresorit's encryption is audited but not fully open. pCloud Crypto is closed-source.
+
+---
+
+## Proton Drive in Depth: The Privacy Suite Advantage
+
+I want to spend more time on Proton Drive specifically because its integration with the broader Proton ecosystem is its strongest selling point — and one that's easy to understate.
+
+If you use ProtonMail for encrypted email, adding Proton Drive gives you:
+
+- The same encryption key infrastructure — your Drive files are encrypted with the same OpenPGP keys as your email
+- Unified account management — one account, one set of recovery credentials
+- Consistent privacy policy — Switzerland-based, audited, privacy-first by design
+- Cross-service storage — 1 GB free shared across Mail, Drive, and Calendar; paid plans expand all three
+
+The Proton Unlimited plan at €9.99/month includes:
+- ProtonMail with custom domain support
+- Proton Drive with 500 GB storage
+- ProtonVPN with full features
+- Proton Calendar
+- Proton Pass (password manager)
+
+Compared to paying separately for an email service, VPN, and cloud storage, this is excellent value if you're building a privacy-first stack. The equivalent using separate providers would cost significantly more.
+
+The main limitation remains speed — Proton Drive's transfer rates are the slowest in my test, and this matters for large file sets. For document-scale storage (PDFs, text files, spreadsheets, moderate-resolution photos), speed is not a practical concern. For video production work or large photo archives, Tresorit's faster transfer speeds may justify the higher price.
+
+[Start with Proton Drive — free tier, upgrade when ready](/go/protonmail)
+
+---
+
+## Cloud Storage Security: What No Provider Can Protect You From
+
+Even the best zero-knowledge encrypted cloud storage has limits. It's worth being clear about what these services protect against and what they don't:
+
+**Protected against:**
+- The provider's employees accessing your files
+- Government requests to the provider for file content
+- Server-side data breaches (attackers can't decrypt what the server doesn't have keys for)
+- ISP-level surveillance of file contents
+
+**Not protected against:**
+- Someone who has access to your device and your unlocked account
+- Malware on your device that captures files before they're encrypted for upload
+- Phishing attacks that steal your account credentials
+- Weak master passwords that can be brute-forced
+- The metadata of your storage (file names, sizes, access times — these vary by provider)
+
+The practical implication: encrypted cloud storage is one layer of a security stack, not the whole stack. Strong unique master password + 2FA on your storage account + device security + encrypted storage = meaningful protection. Encrypted storage alone, with a weak password and no 2FA, provides limited real-world benefit.
+
+All four services I tested support two-factor authentication. Enable it immediately after creating an account — before you upload your first sensitive file.

@@ -256,3 +256,77 @@ The best practical defense for most users:
 4. **Avoid Google Chrome** — it's built by an advertising company with no incentive to protect you from its core revenue source
 
 Tor Browser provides the strongest fingerprinting protection of anything I tested. Brave is the best balance of protection and usability for everyday browsing. Neither is perfect, but both are meaningfully better than Chrome or default Firefox.
+
+---
+
+## Testing Your Own Browser Fingerprint
+
+You don't have to take my word for any of this. You can test your own browser's fingerprint right now using free tools:
+
+**coveryourtracks.eff.org** (Electronic Frontier Foundation) — The most privacy-oriented test. It shows whether your browser has a unique fingerprint, what information is being collected, and whether you have any tracking protection. The EFF built this to educate users and has been running it since 2010.
+
+**fingerprintjs.com/demo** — The commercial fingerprinting service's own demo. FingerprintJS is used by thousands of websites for fraud detection and user identification. Their demo shows you the same data they collect in production — your `visitorId`, confidence score, and the technical properties used to generate it.
+
+**browserleaks.com** — A suite of individual browser leak tests. Each page tests a specific property: WebRTC leaks, Canvas fingerprint, WebGL renderer, geolocation, fonts, audio fingerprint. Useful for understanding which specific APIs expose identifying data.
+
+**amiunique.org** — Shows your fingerprint and tells you how many of the tested population share your exact fingerprint. A unique fingerprint means you can be individually identified.
+
+I recommend running these tests in your current browser, then running them again after switching to Brave with "Block all fingerprinting" enabled. The difference is instructive.
+
+---
+
+## Browser Extensions and Fingerprinting
+
+Some browser extensions claim to block fingerprinting. Here's how the most popular ones actually perform:
+
+**uBlock Origin (Medium Mode):** Blocks fingerprinting scripts from loading by blocking their CDN domains. This is often more effective than API-level protection because it prevents the script from running at all. It doesn't protect against first-party fingerprinting (where the site's own code does the fingerprinting), but eliminates most third-party tracking.
+
+**Privacy Badger (EFF):** Learns to block invisible trackers over time. It's less effective against fingerprinting than uBlock Origin because it focuses on cookie-based and pixel-based tracking, but it's a useful complementary tool.
+
+**Canvas Blocker (Firefox):** Adds noise to canvas fingerprinting responses specifically. More targeted than uBlock Origin but doesn't cover the full fingerprinting surface.
+
+**CanvasBlocker vs Brave's built-in protection:** Brave's canvas noise injection is implemented at the browser level and applies consistently across all tabs. CanvasBlocker applies at the extension level and can be bypassed by some fingerprinting techniques. Brave's approach is more robust.
+
+**What doesn't work:** Extensions that simply "spoof" your user agent string (making Chrome look like Firefox, for example). User agent spoofing is easily detected because it creates inconsistencies between the stated user agent and the actual browser's behavior — the canvas render, WebGL output, and JavaScript performance characteristics don't match the spoofed user agent. Sophisticated fingerprinters flag these inconsistencies.
+
+---
+
+## How Advertising Networks Use Fingerprints
+
+Understanding how the data is used clarifies why the protection matters.
+
+**Cross-site tracking:** An advertising network like DoubleClick (Google) is embedded on millions of websites. Each time you visit a site with a DoubleClick element, they can fingerprint your browser and check it against their database. This lets them build a profile of your browsing behavior across the web — what news sites you visit, what products you research, what health information you look up.
+
+**Retargeting:** When you look at a product on one site and then see ads for it everywhere else for weeks, that's often fingerprint-assisted retargeting. The advertiser fingerprinted your browser on their site, shared that fingerprint with ad networks, and those networks use it to serve you ads on other sites.
+
+**Identity graph linking:** Fingerprinting data gets combined with other identifiers (email addresses you use for logins, cookie IDs where they exist, device IDs on mobile) to build a persistent "identity graph." This graph links your browsing behavior to your real identity with high confidence, even across devices.
+
+A 2024 study from Northeastern University found that 19 of the top 25 advertising networks use fingerprinting as a primary or supplementary user identification method. The shift away from third-party cookies has accelerated fingerprinting adoption — it's filling the gap.
+
+---
+
+## Enterprise and Institutional Fingerprinting
+
+Not all fingerprinting is done by advertisers. Institutional uses include:
+
+**Fraud prevention (banking/e-commerce):** Your bank fingerprints your browser so that a login from an unrecognized device triggers additional verification. This is a protective use that most users benefit from. The same technology that tracks you for ads protects your financial accounts.
+
+**Account security (streaming services):** Netflix uses fingerprinting to detect account sharing and to identify suspicious access patterns. When your account is accessed from an unusual browser or device configuration, that's fingerprinting at work.
+
+**Government and law enforcement:** In jurisdictions where internet surveillance is common, fingerprinting may be used to track political dissidents or activists. This is the threat model that motivates Tor Browser's approach — making all users look identical so no individual can be singled out.
+
+**CDN-level tracking:** Content delivery networks like Cloudflare use fingerprinting as part of their bot detection and DDoS protection. Sites protected by Cloudflare fingerprint every visitor. This is largely benign (the goal is identifying bots, not tracking individuals), but the data is collected.
+
+---
+
+## Mobile Browser Fingerprinting: iOS and Android
+
+Mobile browsers present a different fingerprinting surface than desktop:
+
+**iOS Safari:** Apple has implemented aggressive fingerprinting protections in iOS Safari over the past few years. In iOS 17, Safari blocks cross-site tracking, randomizes some canvas output, and restricts access to sensor APIs that enable fingerprinting. iOS Safari is now one of the better-protected browsers for fingerprinting resistance, though not as strong as Tor Browser.
+
+**Chrome on Android:** Similar limitations to desktop Chrome. Google has not prioritized fingerprinting protection in Chrome, and Android Chrome exposes significant fingerprinting surfaces including device hardware information not available on desktop (battery level APIs, sensor data, network type).
+
+**Brave on Android/iOS:** Brave's mobile apps include the same fingerprinting protections as the desktop version. This is the recommended choice if you want consistent protection across devices.
+
+**Firefox Focus (iOS/Android):** A privacy-focused Firefox variant that blocks trackers and scripts aggressively. Less configurable than desktop Firefox but good for mobile privacy with minimal setup.

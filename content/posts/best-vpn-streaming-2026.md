@@ -250,3 +250,84 @@ NordVPN has been independently audited by PwC and Deloitte and is headquartered 
 **5. CyberGhost** — Works on Disney+ and Max, inconsistent on Netflix and iPlayer. Better for casual streaming than dedicated geo-unblocking.
 
 If unblocking multiple platforms reliably is your goal, [NordVPN](/go/nordvpn) is the clear choice based on my testing. It's the only VPN that performed well across all five platforms I tested without requiring manual troubleshooting in the majority of sessions.
+
+---
+
+## Streaming VPN on Different Devices: What Changes
+
+**Smart TVs and streaming sticks:** Most smart TVs can't run VPN apps natively. Your options are: install the VPN on your router (traffic from all devices is routed through it), or use SmartDNS (NordVPN's SmartPlay works without installing an app — configure DNS settings on the TV). Router-level VPN is more comprehensive but requires a supported router.
+
+**iOS and Android:** The mobile apps for top VPNs are mature and work well. Netflix's mobile app respects geo-restrictions identically to the browser version — the VPN bypasses it the same way.
+
+**Gaming consoles (PS5, Xbox Series X):** Like smart TVs, consoles can't run VPN software directly. Router-level installation is the main option. SmartDNS is an alternative for streaming-only use cases.
+
+**Firestick:** NordVPN has a native Fire TV app. Install it from the Amazon Appstore and you get a functional VPN on your Firestick that also handles streaming unblocking.
+
+---
+
+## Does Netflix Know You're Using a VPN?
+
+Netflix actively maintains a database of known VPN IP ranges. When you connect through a VPN server that's in Netflix's block list, you see:
+
+> "You seem to be using an unblocker or proxy. Please turn off any of these services and try again."
+
+This error means Netflix has identified the VPN server's IP address as belonging to a VPN provider. The fix is switching to a different server — one whose IP hasn't been added to the blocklist yet.
+
+What Netflix cannot do: decrypt your traffic to see what it contains, or verify that you're using a VPN beyond IP-based detection. They can only block based on IP reputation.
+
+The cat-and-mouse dynamic: Netflix adds IPs to the blocklist. VPN providers add new servers with fresh IPs. Users connect to working servers. Netflix eventually identifies those IPs and blocks them. The cycle repeats.
+
+Good VPN providers stay ahead of this cycle. In my experience, NordVPN resolves blocked server issues within hours — their streaming team monitors this continuously. Smaller VPN providers may take days or never fix it.
+
+---
+
+## BBC iPlayer: Why It's Harder Than Netflix
+
+BBC iPlayer has several detection layers that Netflix doesn't:
+
+**Postcode check:** iPlayer uses IP geolocation to verify you're in the UK. This is the layer a VPN bypasses.
+
+**Browser fingerprinting detection:** iPlayer uses more aggressive fingerprinting than Netflix to identify VPN users. This is why some VPNs that work for Netflix fail for iPlayer — the fingerprint patterns of a VPN connection are detectable even if the IP appears UK-based.
+
+**BBC account required:** Since 2022, watching most content on iPlayer requires a BBC account and agreeing to terms that confirm you're based in the UK. The account creation doesn't require address verification, but it's an additional layer.
+
+**Why UK server location matters specifically:** London datacenter IPs are heavily represented in iPlayer's blocklist because VPN providers default to their largest server locations. Connecting to Manchester, Edinburgh, or Leeds servers often works better than London specifically because they appear less frequently in blocklists.
+
+---
+
+## VPN Speed: What Actually Matters for Streaming
+
+Speed test numbers are often cited without context. Here's what the numbers actually mean for streaming:
+
+**Netflix 4K Ultra HD:** requires 25 Mbps  
+**Netflix HD:** requires 5 Mbps  
+**BBC iPlayer HD:** requires 5.2 Mbps  
+**Disney+ 4K:** requires 25 Mbps  
+**YouTube 4K:** requires 20 Mbps
+
+On a standard home broadband connection (100 Mbps+), even a VPN that cuts your speed by 50% leaves you with 50 Mbps — more than enough for any streaming quality. Speed only becomes a real constraint on:
+
+- Very slow connections (under 30 Mbps)
+- Multiple simultaneous streams on the same VPN connection
+- Cellular connections in areas with poor coverage
+
+The speed tests I ran (382 Mbps for NordVPN from a 500 Mbps connection) are largely academic for single-stream streaming. What matters more for streaming is **consistency** — does the VPN maintain stable speed without dropping, and does it avoid the periods of severe congestion that cheaper VPNs experience during peak hours?
+
+NordVPN's consistent performance across my 12+ test sessions was more important than its raw throughput numbers.
+
+---
+
+## VPN Pricing: What You're Actually Paying For
+
+VPN pricing is confusing because most providers offer deep discounts on multi-year plans that aren't transparent about renewal costs.
+
+**NordVPN pricing (as of 2026):**
+- 1-month plan: ~$13.99/month
+- 1-year plan: ~$4.99/month (advertised)
+- 2-year plan: ~$3.49/month (advertised, renewable at higher rate)
+
+The 2-year advertised rate almost always increases significantly at renewal. When evaluating VPN pricing, check the renewal rate, not just the introductory offer.
+
+For streaming-focused use, a 1-year plan at the standard rate is usually the honest price comparison. At ~$4.99/month, NordVPN covers 6 devices, all streaming capabilities, and comes with a 30-day money-back guarantee — enough time to verify it works for your specific streaming needs before committing.
+
+[Get NordVPN with a 30-day money-back guarantee](/go/nordvpn)

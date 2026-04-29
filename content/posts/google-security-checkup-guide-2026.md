@@ -310,3 +310,89 @@ The account is measurably more secure now. None of the changes required technica
 Start with Step 1 and work through the checklist. Don't try to do it all at once if you're pushed for time — compromised passwords (Step 2) and 2FA strength (Step 3) are the highest-leverage items. Do those two today, even if you save the rest for later.
 
 [Get NordPass to manage your passwords across all your accounts](/go/nordpass)
+
+---
+
+## Google Account Security for Families
+
+If you share a Google account or manage accounts for family members, there are additional considerations worth addressing.
+
+**Google Family Safety** (families.google.com) lets you manage accounts for children under 13. This includes content restrictions, screen time limits, app approval, and location sharing. If you have children with Google accounts, this should be configured before they start using their devices independently.
+
+**Shared account risks:** Many families share login credentials for streaming services, grocery delivery, or other accounts tied to a Google login. Each person who knows the credentials is a potential vector for account compromise. Where possible, use individual accounts with proper sharing features rather than sharing login details.
+
+**Recovery contact:** Google allows you to designate a recovery contact — someone who can help verify your identity if you're locked out. Choose someone you trust deeply who is themselves security-conscious. Their own account security becomes relevant to yours.
+
+**Google account for seniors:** Older family members often have weaker security configurations — old passwords, no 2FA, stale recovery information. Consider doing this audit for parents or grandparents as well. The family account I audited at the start of this article was my parent's — that's a common pattern.
+
+---
+
+## Common Google Security Mistakes (and How to Fix Them)
+
+After auditing dozens of accounts, I see the same mistakes repeatedly.
+
+**Mistake 1: Using SMS for 2FA because it seemed like enough.**
+
+SMS 2FA is better than nothing, but SIM swapping attacks are not theoretical — they happen. In 2023, the FTC received over 150,000 reports of SIM swap fraud. The fix: switch to an authenticator app or hardware key, then remove SMS as a 2FA method.
+
+**Mistake 2: Granting broad OAuth permissions once and forgetting about them.**
+
+I've audited accounts where apps from companies that no longer exist still had active OAuth access. Dead company, live permission. If the company was acquired, the new owner inherited that access token. Audit permissions quarterly and revoke aggressively.
+
+**Mistake 3: Using the same password for Google and other sites.**
+
+Google accounts with reused passwords are among the most targeted in credential stuffing attacks. Attackers buy breach databases containing billions of username/password pairs and run them against Google's login page automatically. A unique password — generated and stored in a password manager — eliminates this attack vector entirely.
+
+**Mistake 4: Not enabling Advanced Data Protection on the associated Apple device (if iPhone user).**
+
+If you're an iPhone user who also uses Google, remember that Apple's Advanced Data Protection covers iCloud backups (including photos, notes, and messages) but does not extend to your Google data. Both platforms need independent security configurations.
+
+**Mistake 5: Treating the security checkup as a one-time task.**
+
+Security posture degrades over time. Apps get installed. Passwords get reused on new sites. Recovery information goes stale. The checkup is maintenance, not installation. Quarterly is the right cadence.
+
+---
+
+## Google Workspace vs Personal Gmail: Different Risk Profiles
+
+If you use Google Workspace (formerly G Suite) for work, your account is managed by your organization's IT administrator. Some security settings are controlled at the domain level, not by individual users. This means:
+
+- Your organization can enforce 2FA requirements
+- They can see your emails, files, and activity (this is documented in Workspace terms)
+- If you leave the organization, you lose access to your Workspace account and all data in it
+
+**Do not use your work Google Workspace account for personal data.** Personal photos, personal notes, personal contacts should live in a personal Gmail account you control entirely. Work accounts can be suspended or revoked by your employer without notice.
+
+For personal Gmail, all the settings in this guide apply directly and you have full control. For Workspace, some settings may be locked by your administrator — this is by design.
+
+---
+
+## The Role of Your Browser in Google Account Security
+
+How you access your Google account matters. Some browsers expose your account to more risk than others.
+
+**Chrome** is deeply integrated with Google accounts — it syncs your history, bookmarks, passwords, and extensions to your Google account. This is convenient but means a compromised Chrome extension can access your Google session.
+
+**Firefox** with uBlock Origin is a safer alternative for accessing sensitive Google services, because it has a smaller extension attack surface and better default privacy settings.
+
+**Incognito mode** does not make your Google account activity private from Google — it only prevents local storage of your browsing history. If you're signed into Google in incognito, Google still sees your activity.
+
+**Key recommendation:** Review your Chrome extensions as part of the security audit. Every extension with "read and change all your data on all websites" can theoretically read your Gmail in your browser session. Remove extensions you don't actively need.
+
+---
+
+## Using NordPass Alongside Google Password Manager
+
+If you decide to add a dedicated password manager to your security stack, here's how NordPass fits alongside Google's native tools:
+
+**Start with a Google Password Checkup:** Run the checkup at passwords.google.com to identify all compromised and reused passwords. This gives you a prioritized list to migrate first.
+
+**Import existing passwords:** NordPass can import from Google Password Manager. Export your Google passwords (go to passwords.google.com > Settings > Export), then import into NordPass. Delete the exported CSV file immediately afterward — it contains plaintext passwords.
+
+**Set NordPass as your browser's autofill source:** In Chrome settings, set NordPass as your preferred password manager. It will appear as an autofill option alongside Google's native suggestions.
+
+**Enable breach monitoring:** NordPass's breach scanner checks your stored credentials against known breach databases continuously. You'll receive alerts when a new breach contains your credentials — often faster than Google's breach alerts.
+
+[Get NordPass — cross-browser, cross-device password management](/go/nordpass)
+
+The combination of a Google security audit (done quarterly) and a dedicated password manager (used daily) covers the two highest-impact vectors for Google account compromise: weak/reused credentials and over-granted third-party access.
