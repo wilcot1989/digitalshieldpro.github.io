@@ -301,5 +301,40 @@ The most effective privacy protections are behavioral:
 
 Privacy settings are worth configuring fully — this guide helps you do that. But approach them as one layer of a strategy rather than a complete solution. Regular audits every three to six months, combined with conscious decisions about what you post, create the most durable privacy posture on these platforms.
 
+## Going Further: Data Broker Removal
+
+Even with perfect Facebook and Instagram privacy settings, your personal information is available elsewhere. Data brokers — companies like Spokeo, BeenVerified, Whitepages, and hundreds of others — aggregate public records, social media data, and purchased data into detailed profiles available to anyone who pays a small fee.
+
+These profiles typically include your full name, home address, phone number, approximate age, family member names, property records, and in some cases social media accounts and email addresses. The same data you locked down in Facebook privacy settings may be available through an entirely different channel.
+
+**Manually removing your data from data brokers** is possible but time-consuming. Each broker has its own opt-out form, most require you to provide the very information you want removed as proof of identity, and some require physical mail opt-outs. Comprehensive manual opt-out from the top 100 data brokers takes 15-20 hours and needs to be repeated every 6-12 months as data re-aggregates.
+
+**Automated removal services** like Incogni or DeleteMe submit removal requests on your behalf automatically and monitor for re-listing. Pricing runs $100-200/year. If your privacy concern extends beyond social media to your broader data footprint, these services are worth considering alongside the settings changes in this guide.
+
+## The 30-Minute Privacy Audit: A Recurring Practice
+
+The settings in this guide represent the state of the platforms today. Meta updates its privacy interface regularly, introduces new features with permissive defaults, and occasionally changes what existing settings control. The work is not one-time.
+
+I recommend scheduling a 30-minute privacy audit quarterly — calendar it now for three months from today. In that 30 minutes:
+
+1. Run through the Facebook Privacy Checkup (Settings → Privacy Checkup) — this is Meta's own audit tool and surfaces current settings quickly
+2. Review new features introduced since your last audit (Facebook's "What's New" section, or a quick search for "Facebook privacy changes [current quarter]")
+3. Check Off-Facebook Activity — clear accumulated tracking data
+4. Review and remove any recently added connected apps you no longer use
+5. Repeat the Instagram checklist for any new settings under Settings → Privacy
+
+Platforms are not static. Maintaining privacy on them requires ongoing attention, not a single configuration session. The 30-minute quarterly habit is the realistic maintenance requirement.
+
+## How These Settings Fit Into a Broader Privacy Strategy
+
+Facebook and Instagram settings control what Meta can show about you to other users and partially control how Meta targets you with advertising. They do not address:
+
+- **Your internet traffic.** A VPN encrypts your connection and prevents your ISP from seeing what sites you visit. If you use Facebook on public WiFi, this matters.
+- **Your device.** If your phone has malware, privacy settings on any app are irrelevant — the malware has access regardless.
+- **Your broader data footprint.** See the data broker section above.
+- **Other platforms.** Every social platform deserves the same audit treatment. Twitter/X, LinkedIn, TikTok, and Snapchat all have privacy settings that default to maximum exposure.
+
+Starting with Facebook and Instagram is reasonable — they are the largest platforms and the settings changes here have the most immediate impact. Building the habit of intentional privacy configuration on these platforms makes it easier to apply the same rigor to every platform you use.
+
 
 <a href="/go/incogni" class="cta-affiliate" rel="sponsored noopener">View →</a>

@@ -282,6 +282,63 @@ This covers all my realistic threat scenarios. Laptop stolen: nothing accessible
 
 ---
 
+## Choosing the Right Encryption Algorithm
+
+VeraCrypt gives you several encryption options. Here is when each makes sense:
+
+**AES-256 (default):** The right choice for 99% of users. AES has been the global encryption standard since 2001, has never been broken in practice, and is hardware-accelerated on virtually all modern CPUs. Performance is excellent and security is beyond reproach.
+
+**Twofish:** A finalist in the AES selection process alongside Rijndael (which became AES). Twofish is extremely well-studied and considered secure. Performance is slightly slower than AES without hardware acceleration.
+
+**Serpent:** The most conservative choice — Serpent was considered to have the highest security margin of the AES finalists but was not selected due to performance. In 2026, Serpent is more than adequate; it is just slower.
+
+**Cascaded algorithms (AES-Twofish, AES-Twofish-Serpent):** Using multiple encryption algorithms in sequence means an attacker needs to break all of them. The practical security gain over single AES is negligible — AES has not been broken and likely will not be in our lifetimes. The performance cost is significant. Cascaded encryption is for people with extremely specific paranoia requirements, not general use.
+
+**Recommendation:** Use AES. If you feel strongly about using an alternative, use Twofish or Serpent. Cascaded algorithms are not worth the performance hit for any realistic use case.
+
+For the hash algorithm, SHA-512 is the correct choice — it is used to derive the actual encryption key from your passphrase. SHA-256 is also fine. Whirlpool is an alternative if you want something different from the SHA family.
+
+---
+
+## Encrypting Specific File Types
+
+Different file types warrant different approaches:
+
+### Sensitive Documents (Tax Records, Legal Files, Medical Records)
+
+These belong in a VeraCrypt container or folder-level Cryptomator vault. They are accessed infrequently enough that the mounting/dismounting workflow is not a friction point.
+
+Recommended structure:
+```
+VeraCrypt container (20-50 GB)
+├── Financial/
+│   ├── Tax returns/
+│   └── Bank statements/
+├── Legal/
+├── Medical/
+└── Identity/
+    ├── Passport scan
+    └── Insurance cards
+```
+
+### Photos and Videos (Privacy Concern)
+
+Personal photos with location data, photos of sensitive documents, or anything you do not want accessible to an attacker. Cryptomator vault in your cloud storage is ideal — photos stay synced but the cloud provider cannot access them.
+
+Before adding photos to any encrypted vault, consider stripping EXIF metadata from them first. Even in an encrypted vault, if those photos are later shared elsewhere, the metadata travels with them.
+
+### Code and Work Projects
+
+If you work on confidential client projects, a VeraCrypt container for client work keeps everything isolated. When you finish a project and archive it, the encrypted container travels cleanly without risk.
+
+For active development work, Cryptomator in a cloud-synced folder lets you work normally while keeping code away from the cloud provider.
+
+### Cryptocurrency and Private Keys
+
+These deserve the highest-security treatment: a dedicated VeraCrypt container with a strong passphrase (different from all other passphrases), stored on an offline device, with the passphrase written down and stored in a separate physical location from the device. The vault for private keys should never be connected to the internet.
+
+---
+
 ## Common Mistakes to Avoid
 
 **Leaving containers mounted.** A mounted VeraCrypt volume is just an open folder. Anyone with access to your computer can read it. Dismount when you walk away.
@@ -293,6 +350,26 @@ This covers all my realistic threat scenarios. Laptop stolen: nothing accessible
 **Using cloud storage for VeraCrypt containers without Cryptomator.** As explained above, this causes massive re-sync overhead. Use Cryptomator for cloud sync.
 
 **Encrypting backups but not verifying them.** Test your encrypted backup restore process at least twice a year. I have seen people discover their backup was corrupted only when they actually needed it.
+
+**Encrypting without a backup.** Encryption and backup are two different things. An encrypted drive that fails is still a failed drive — your data is gone. Always maintain an encrypted backup on a separate physical device.
+
+**Over-complicated setups you do not maintain.** The best encryption setup is one you actually use consistently. A simple VeraCrypt container with a strong passphrase that you use every day is far better than an elaborate multi-layer setup that is so inconvenient you stop using it after a week.
+
+---
+
+## Encryption and the Law: What You Need to Know
+
+In most countries, encrypting your files is entirely legal. However, there are situations where law can intersect with encryption:
+
+**Key disclosure laws:** Several countries, including the UK (RIPA Part III), Australia, Canada, and others have laws that can require you to provide encryption keys under certain legal proceedings. In the UK, refusing to provide a key when ordered to do so is a criminal offense. In the US, there is an ongoing legal debate about whether compelling key disclosure violates Fifth Amendment protections.
+
+**This affects threat models:** If you are encrypting data to protect it from government access specifically, research the key disclosure laws in your jurisdiction.
+
+**VeraCrypt's plausible deniability:** Hidden volumes specifically address key disclosure scenarios — you can provide the outer volume passphrase under legal compulsion while the inner volume's existence remains unverifiable. This is a legitimate use of VeraCrypt for people in relevant situations.
+
+**Employment:** If you encrypt files on work equipment, review your employment contract. Many companies have policies about encryption keys for work-related data.
+
+For personal data protection against the most common threats — theft, unauthorized access, cloud provider breach — legal concerns are not relevant. Encrypt your files.
 
 ---
 

@@ -242,3 +242,71 @@ Threema lacks some features that have become standard:
 **For full decentralization:** Session if you want a polished app; Briar if you need offline capability or Tor-routed communication.
 
 A final note: whatever app you choose, the weakest link is usually endpoint security, not the encryption protocol. A well-designed encrypted messenger on a compromised device provides no protection. Pair your messenger choice with a [secure VPN](/go/nordvpn) and good device security practices for a comprehensive approach.
+
+---
+
+## Setting Up Signal Properly (For Reference)
+
+Since Signal remains the baseline and many people use it without optimal configuration, a quick review of Signal's privacy settings is worth including:
+
+**Disappearing messages:** Set a default timer for all new conversations (Signal Settings → Privacy → Default Timer). I use 1 week for most contacts and 24 hours for sensitive conversations. This reduces the value of device seizure — old messages are automatically deleted.
+
+**Screen security:** Settings → Privacy → Screen Security. Prevents Signal's preview from appearing in your app switcher and screenshots.
+
+**Screen lock:** Settings → Privacy → Screen Lock. Requires biometric or PIN to open Signal even after your device is unlocked.
+
+**Note to self:** Disable "Note to Self" as a backup method — syncing notes to Signal is not the privacy-conscious way to store sensitive information.
+
+**Registration lock:** Settings → Account → Registration Lock. This prevents someone from re-registering your phone number on Signal without your PIN.
+
+**Relay calls:** Settings → Privacy → Advanced → Always Relay Calls. Routes voice calls through Signal's servers so your IP address is not revealed to your contact. Adds latency but is worth it for sensitive contacts.
+
+**Sealed Sender:** This is on by default. Sealed Sender encrypts the sender's identity so that Signal's servers cannot see who is messaging whom. Keep this enabled.
+
+---
+
+## Metadata: The Part Encryption Does Not Cover
+
+End-to-end encryption protects message content — the actual text, images, and files. It does not hide metadata: who you communicate with, when, and how often.
+
+For most people, this distinction is not critical. But for journalists protecting sources, the metadata itself can be incriminating even if the content is encrypted.
+
+**What your messaging app provider can typically see:**
+- Who your account communicates with (unless Sealed Sender is implemented)
+- When messages are sent and received
+- Message frequency patterns
+- Your phone number or email (unless you registered anonymously)
+
+**Signal's metadata position:** Signal retains minimal metadata. In documented legal cases, all Signal could provide was account creation date and last connect date. No communication logs.
+
+**Session's metadata position:** Because messages route through a decentralized node network with onion routing, Session has structural metadata protection built in — even Session's developers cannot see communication patterns.
+
+**Briar's metadata position:** With no central server and Tor routing, Briar provides the strongest metadata protection of any mainstream app. No server means no server logs.
+
+For operational security at the highest level, combining the right messaging app with Tor Browser for any research or context-sharing, and using a new Session ID for each operation, provides strong metadata protection in addition to content encryption.
+
+---
+
+## What to Do if You Think Your Messages Are Being Monitored
+
+If you suspect your messages are being read, the steps depend on whether the threat is an account compromise or device compromise.
+
+**Account compromise (someone has your credentials):**
+- Change your password on each messaging app immediately, from a trusted device
+- Review active sessions and log out all other devices
+- Rotate your account's verification codes or keys
+
+**Device compromise (spyware on your phone):**
+- New messages on the compromised device are still visible to the attacker even after you switch apps
+- The right move is to acquire a clean device, verify it is clean (factory reset plus verify before installing anything sensitive), and migrate there
+- Do not announce this migration over the compromised device
+
+**Contact warning:**
+- If you believe a specific contact's account has been compromised, stop sending sensitive information over that channel and warn them through a different channel
+
+**For journalists and high-risk individuals:**
+- Consider using separate devices for different contacts or topics
+- Use Signal's safety numbers (verify with each contact in person or via a secondary channel) to confirm you are talking to who you think you are
+- Enable disappearing messages so that past conversations on a compromised device have limited value
+
+The strongest security configuration is one you maintain consistently — setting up an ideal encrypted messaging setup and then reverting to unencrypted channels for convenience undermines everything. Pick an approach that fits your actual workflow and stick with it.

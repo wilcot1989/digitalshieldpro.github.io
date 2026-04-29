@@ -195,6 +195,65 @@ Excellent for reducing friction with medium-security accounts. Not ideal as your
 
 ---
 
+## Migrating Between 2FA Apps
+
+One of the most nerve-wracking operations in security management is moving your TOTP seeds from one app to another without losing access to your accounts. Here is how to do it safely:
+
+### The Safe Migration Process
+
+**Never delete accounts from your old app before verifying the new one works.**
+
+1. **Export from your old app** (if it supports it)
+   - Authy: There is no direct export. You need to re-scan QR codes from each service, or use unofficial methods (read the Authy Reddit thread — there are extraction tools but they require a rooted Android or specific macOS access)
+   - Google Authenticator: Settings → Transfer Accounts → Export Accounts (generates a QR code you scan with your new device or app)
+   - Aegis: Settings → Backups → Export (encrypted or plain JSON)
+
+2. **Add the new app** without removing the old one
+
+3. **Migrate one account at a time:** Go to the security settings of each service, disable the existing 2FA, and re-enable it by scanning the new QR code into your new app
+
+4. **Verify the new code works** by logging out and logging back in with the new app's code
+
+5. **Only after verifying**, remove the account from the old app
+
+6. **Repeat for every account**
+
+This process is time-consuming — if you have 30+ 2FA accounts, plan for an afternoon. But it is the safe way. Shortcuts like bulk migration without verification have caused people to lose access to critical accounts.
+
+### What to Do if You Lose Your Phone
+
+If you lose access to your phone with your 2FA app:
+
+**Before the emergency (do this now):**
+- Save backup codes for every important account in a secure offline location
+- Set up a secondary 2FA method on critical accounts (a second hardware key, or recovery codes printed and stored physically)
+- For Aegis users: export your encrypted backup file and store it in a separate secure location
+
+**During the emergency:**
+- Use backup codes (each is single-use) to get into each account
+- Disable the old 2FA method and re-enroll with your new device
+- Prioritize: email and password manager first (these unlock everything else), then banking, then other financial accounts, then everything else
+
+---
+
+## FIDO2 Hardware Keys: The Next Level
+
+TOTP apps are significantly better than SMS 2FA but have one fundamental weakness: they can be phished in real-time relay attacks. An attacker creates a convincing fake login page, you enter your username, password, and TOTP code, the attacker relays these to the real site instantly, and logs in before your 30-second code expires.
+
+FIDO2 hardware security keys solve this cryptographically. The key authenticates by signing a challenge from the server, and that challenge includes the domain name. A fake login page at "g00gle.com" presents a different domain, and the key refuses to authenticate.
+
+**Popular options:**
+- **YubiKey 5 NFC** (~$55): Works via USB-A, USB-C, and NFC tap. The most versatile option for most people.
+- **YubiKey 5C NFC** (~$55): Same as above but USB-C primary.
+- **Google Titan Key** (~$30): Google's own security key, available in USB-A/NFC and USB-C/NFC variants.
+- **Nitrokey** (~$50): Open-source hardware and firmware, for those who want the full open-source stack.
+
+Hardware keys are overkill for most accounts. For your primary email, password manager master login, and any financial or crypto accounts, they are worth it.
+
+[1Password](/go/1password) supports hardware security keys as an additional factor, and [NordPass](/go/nordpass) similarly supports FIDO2 authentication on the desktop and mobile apps.
+
+---
+
 ## Head-to-Head Comparison
 
 | Feature | Google Auth | Authy | Aegis | 1Password |
