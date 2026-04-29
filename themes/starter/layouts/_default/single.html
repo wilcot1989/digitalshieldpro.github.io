@@ -3,7 +3,7 @@
 <div class="article-hero" style="background-image: url('{{ .Params.featured_image }}');">
   <img loading="lazy" decoding="async" src="{{ .Params.featured_image }}" alt="{{ .Title }}" style="display:none">
   <div class="article-hero-overlay">
-    <div class="container" style="max-width:960px;">
+    <div class="container" style="max-width:1140px;">
       <div class="breadcrumb breadcrumb-light">
         <a href="/">Home</a> &rsaquo;
         {{ range .Params.categories }}<a href="/categories/{{ . }}/">{{ . | humanize | title }}</a>{{ end }}
@@ -14,10 +14,10 @@
     </div>
   </div>
 </div>
-<div class="container" style="max-width:960px;">
+<div class="container" style="max-width:1140px;">
   <article>
 {{ else }}
-<div class="container" style="max-width:960px;">
+<div class="container" style="max-width:1140px;">
   <article>
     <div class="breadcrumb">
       <a href="/">Home</a> &rsaquo;
