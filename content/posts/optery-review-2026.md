@@ -240,6 +240,51 @@ After 10 weeks of testing, here is my honest take on Optery:
 
 Start with Optery's free scan to understand your exposure, then decide whether the paid tier or a service like Incogni makes more sense for your situation and budget.
 
+---
+
+## Optery's Customer Support: What to Expect
+
+I contacted Optery support twice during my 10-week test — once with a billing question and once about a broker that had not removed my listing after 45 days.
+
+**Billing question:** Response within 4 hours via email. Clear, direct answer. No upsell attempts.
+
+**Removal issue:** The support agent reviewed my specific case, confirmed the broker had not responded within their stated compliance window, and manually escalated the submission. They followed up 3 days later confirming the listing had been removed. This kind of hands-on follow-up for an issue I raised is more than I typically get from automated services.
+
+Optery does not offer phone support or live chat at most plan tiers — email only. For the Ultimate+ tier, more direct support access is included. If you anticipate needing frequent support, factor this into your plan selection.
+
+Overall support quality: Above average for a subscription service in this price range.
+
+---
+
+## Should You Pay Annually or Monthly?
+
+Optery, like most subscription services, offers a significant discount for annual billing:
+
+| Plan | Monthly billing | Annual billing | Savings |
+|------|----------------|----------------|---------|
+| Core | $4.99/mo | $3.99/mo | 20% |
+| Extended | $8.99/mo | $6.99/mo | 22% |
+| Ultimate | $16.99/mo | $12.49/mo | 26% |
+
+The annual discount is compelling, but I have one caution: data broker removal services are still a relatively new category, and your needs may change. If you sign up annual and switch to a different service six months in, you lose the remaining months.
+
+My suggestion: start with a monthly plan for the first two months to validate that the service is finding and removing your specific listings effectively. Then switch to annual if you are satisfied. The two months at a higher rate is worth the option to change course without commitment.
+
+---
+
+## Frequently Asked Questions I Get About Optery
+
+I field questions about data broker removal services regularly. Here are the most common ones specifically about Optery:
+
+**"Will Optery's free scan affect my credit score?"**
+No. Optery searches data broker sites — these are not credit bureaus, and their searches are not credit inquiries. Your credit score is unaffected.
+
+**"Does Optery work on a Mac/iOS?"**
+Yes. Optery's dashboard is web-based and works on any browser. The browser extension is available for Chrome, Firefox, and Edge. The mobile experience is a responsive web app rather than a native iOS/Android app, which is a minor limitation if you want a native app experience.
+
+**"Can Optery remove my data from Google search results?"**
+Optery removes your listings from data broker sites. Google then needs to re-crawl and update its index, which can take a few weeks. Google's own "Results About You" tool (at google.com/search/about-me) is the direct tool for requesting removal of personal contact information from Google search results — this is a separate process from broker removal.
+
 [**Get Optery Free — See Your Data Broker Exposure**](/go/optery)
 
 [**Get Incogni — Automated Removal Across 170+ Brokers**](/go/incogni)

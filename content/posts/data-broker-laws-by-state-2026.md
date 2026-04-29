@@ -334,6 +334,60 @@ At $6.49/month, the time savings versus navigating state-by-state law yourself m
 
 ---
 
+## How to File a Complaint When a Broker Does Not Comply
+
+Knowing your rights is only useful if you can enforce them. Here is a practical guide to filing complaints when data brokers ignore or improperly deny deletion requests.
+
+### California: CPPA Complaints
+
+The California Privacy Protection Agency (CPPA) is the enforcement body for CCPA/CPRA violations.
+
+**When to file:** If a data broker operating in California does not respond to your deletion request within 45 days (or 90 days with proper notice), denies your request without a valid legal basis, or fails to instruct service providers to delete your data after confirming deletion.
+
+**How to file:** Go to cppa.ca.gov and use their consumer complaint portal. Provide: the broker's name, your request date, the response received (or lack thereof), and any documentation you have.
+
+**What to expect:** The CPPA investigates patterns of violations rather than individual cases, but consistent complaints about specific brokers do drive enforcement attention. Several brokers have been contacted or investigated following complaint volume.
+
+### Texas: AG Consumer Protection
+
+**When to file:** Same criteria as California — non-response, improper denial, or non-compliance by a broker operating in Texas.
+
+**How to file:** texasattorneygeneral.gov → Consumer Protection → File a Complaint.
+
+**Note:** Texas has no private right of action, so AG complaints are your primary enforcement avenue.
+
+### Federal: FTC Complaints
+
+For brokers not subject to specific state laws, or for patterns of deceptive practices:
+
+**How to file:** ftc.gov/complaint
+
+The FTC tracks complaint patterns and pursues enforcement against companies with significant violation volumes. Individual relief is rare, but collective complaint patterns influence enforcement priorities.
+
+### Virginia: AG Consumer Protection
+
+Virginia residents who receive an improper denial can appeal first to the data broker directly, then to the Virginia AG at ag.virginia.gov/Consumer-Protection.
+
+---
+
+## The Authorized Agent Solution: Why Services Work Better Than DIY for Legal Requests
+
+There is an important practical reason why automated services like Incogni often get better legal compliance than DIY requests: the authorized agent structure.
+
+Under CCPA and similar state laws, consumers can designate an "authorized agent" to submit privacy requests on their behalf. This agent must have documented authorization from the consumer, and data brokers are required to honor requests from authorized agents the same as direct consumer requests.
+
+Incogni, DeleteMe, and other removal services operate as authorized agents. This has several practical advantages:
+
+**More credible legal formatting.** Requests from established authorized agents are formatted to meet legal requirements precisely, include the necessary authorization documentation, and cite the correct legal basis. Poorly formatted DIY requests are sometimes denied on procedural grounds.
+
+**Volume leverage.** Services that submit thousands of requests to a broker have established compliance relationships. Brokers know these requests are legitimate and processed consistently. A one-off DIY request from an unknown email address can get deprioritized or lost.
+
+**Escalation paths.** When a service's removal requests are not honored, they have legal and operational infrastructure to escalate — including filing bulk complaints with regulators. An individual consumer typically does not.
+
+This does not mean DIY requests never work — they often do, especially for the major well-organized brokers. But the authorized agent approach systematically outperforms individual requests for the long tail of less cooperative brokers.
+
+---
+
 ## Looking Ahead: 2026 and Beyond
 
 The state privacy law landscape is changing quickly. Watch for:

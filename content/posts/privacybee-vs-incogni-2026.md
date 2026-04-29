@@ -302,6 +302,36 @@ PrivacyBee had 4 cases where their "confirmed removal" labels were ahead of actu
 
 ---
 
+## What Happens To Your Data When You Cancel
+
+Both services handle cancellation differently, and it is worth understanding before you sign up.
+
+**If you cancel Incogni:**
+
+Your removal requests that have already been confirmed remain in effect — data brokers that have deleted your information will not automatically reinstate it. However, Incogni stops monitoring for re-listing. Over the following 3–6 months, most brokers will re-acquire and re-publish your data from public records updates. Within six months of cancellation, your data footprint will likely return to something close to its pre-Incogni state on most brokers.
+
+**If you cancel PrivacyBee:**
+
+Same dynamic. Confirmed removals stay removed initially, but without ongoing monitoring and re-submission, re-listing is inevitable.
+
+**The practical implication:** Data broker removal is a subscription service in the truest sense — the value is in the ongoing protection, not a one-time result. If you cancel, you lose the protection. This is not unique to either service; it is inherent to how data brokers operate.
+
+If you want to cancel for budget reasons but maintain some protection, the most important thing to do before canceling is run a final pass of manual opt-outs on the five most important sites: Spokeo, Whitepages, BeenVerified, MyLife, and Radaris. These five have the most traffic and direct impact on what people find when they Google your name.
+
+---
+
+## Incogni's Relationship With Surfshark: Does It Matter?
+
+Incogni is a product of Surfshark, which merged with Nord Security (the company behind NordVPN) in 2022. This has prompted some users to ask: does being part of a large cybersecurity company affect the data broker removal service?
+
+My assessment: not negatively. The resources of a larger organization mean Incogni has more budget for expanding their broker database, maintaining legal compliance across jurisdictions, and improving their automation. The Nord Security merger brought Incogni more institutional backing.
+
+The concern I have heard is that Surfshark's VPN business might create a conflict of interest — but I do not see the mechanism for that conflict. Data broker removal and VPN services address different aspects of privacy and do not compete with each other.
+
+If you are already a Surfshark VPN subscriber, the Surfshark One bundle (which includes Incogni + VPN + antivirus + breach alerts) is worth calculating as a bundle price versus separate subscriptions. At the time of writing, the bundle was meaningfully cheaper than purchasing each service individually.
+
+---
+
 ## Signing Up: Step-By-Step for Incogni
 
 For readers who decide to go with Incogni after this comparison, here is what the signup process looks like:
