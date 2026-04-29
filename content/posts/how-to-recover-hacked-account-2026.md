@@ -1,5 +1,5 @@
 ---
-title: "How to Recover a Hacked Account in 2026: Step-by-Step for Every Platform"
+title: "How to Recover a Hacked Account 2026: Step-by-Step"
 date: 2026-06-13
 lastmod: 2026-06-13T09:00:00+01:00
 description: "Got hacked? This step-by-step guide covers account recovery for Google, Facebook, Instagram, Microsoft, and more. I've helped dozens of people through this process."
@@ -10,7 +10,13 @@ affiliate: true
 author: "James Mitchell"
 author_bio: "Cybersecurity researcher and writer. Tests privacy tools and security software hands-on."
 featured_image: "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?auto=format&fit=crop&w=1600&q=80"
-products: []
+products:
+  - name: "NordPass Premium"
+    url: "/go/nordpass"
+    price: "1.49"
+  - name: "1Password Family"
+    url: "/go/1password"
+    price: "4.99"
 faq:
   - q: "How do I know if my account has been hacked?"
     a: "Signs include: login notifications you did not generate, emails in your sent folder you did not send, password reset emails you did not request, contacts receiving messages from you that you did not send, unrecognized devices in your account's active sessions list, and changed profile information."
@@ -312,3 +318,6 @@ Check haveibeenpwned.com monthly or set up email alerts (they notify you when yo
 Keep a secure document (encrypted, in your password manager or a secured note) that lists recovery options for each important account. Include: backup codes, trusted contacts set up (for Facebook), recovery email addresses, phone numbers used for verification. This document is what saves you when everything else fails.
 
 The difference between account recovery taking 10 minutes versus weeks comes down almost entirely to preparation. Every backup code you save, every recovery email you verify, every 2FA setup you complete before a crisis shortens recovery time dramatically. Build the system when nothing is wrong — it is far easier to prepare than to scramble.
+
+
+<a href="/go/nordpass" class="cta-affiliate" rel="sponsored noopener">View →</a>

@@ -10,7 +10,13 @@ affiliate: true
 author: "James Mitchell"
 author_bio: "Cybersecurity researcher and writer. Tests privacy tools and security software hands-on."
 featured_image: "https://images.unsplash.com/photo-1563013544-824ae1b704d3?auto=format&fit=crop&w=1600&q=80"
-products: []
+products:
+  - name: "NordVPN"
+    url: "/go/nordvpn"
+    price: "3.49"
+  - name: "Bitdefender"
+    url: "/go/bitdefender"
+    price: "49"
 faq:
   - q: "What does personal cyber insurance cover?"
     a: "Standard personal cyber insurance covers financial losses from cybercrime (fraud, ransomware), identity theft recovery costs (legal fees, document replacement, lost wages), data recovery, cyber extortion, and in some policies, online harassment and reputational harm. Coverage limits and exclusions vary significantly by policy."
@@ -282,3 +288,6 @@ Financial losses from cybercrime are genuinely distressing — not just because 
 This psychological benefit is real and legitimate even if the pure expected-value calculation suggests insurance is negative expected value for low-risk individuals. Many people pay for insurance not because they expect to collect but because they do not want the worst case to be catastrophic.
 
 If $75/year in cyber insurance rider costs makes you meaningfully less anxious about online financial activity, that is a legitimate reason to have it — separate from any mathematical calculation about claim probability.
+
+
+<a href="/go/bitdefender" class="cta-affiliate" rel="sponsored noopener">View →</a>

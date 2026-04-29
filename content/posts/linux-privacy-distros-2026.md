@@ -1,8 +1,8 @@
 ---
-title: "Linux Privacy Distros in 2026: Tails, Qubes OS, and Whonix Compared"
+title: "Linux Privacy Distros 2026: Tails, Qubes, Whonix"
 date: 2026-06-06T10:00:00+01:00
 lastmod: 2026-06-06T10:00:00+01:00
-description: "I ran Tails, Qubes OS, and Whonix as my main operating systems for weeks each. Here is what each actually delivers, who each one is for, and when the complexity is genuinely worth it."
+description: "Three privacy-focused Linux distros tested: when each one wins for journalists, activists, or general privacy-conscious users."
 categories: ["privacy"]
 tags: ["linux", "privacy distros", "tails", "qubes os", "whonix", "anonymous operating system", "privacy linux"]
 keywords: ["linux privacy distros 2026", "tails os review", "qubes os review", "whonix review", "best privacy linux distro", "anonymous linux"]

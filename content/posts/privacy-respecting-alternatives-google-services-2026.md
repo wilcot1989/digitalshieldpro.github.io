@@ -1,8 +1,8 @@
 ---
-title: "Privacy-Respecting Alternatives to Google Services in 2026: The Complete Guide"
+title: "Privacy Alternatives to Google Services 2026"
 date: 2026-06-16
 lastmod: 2026-06-16T09:00:00+01:00
-description: "I switched from Google services to privacy-respecting alternatives over two years. Here's what I actually use: OSMand for Maps, Proton for Drive and Mail, DuckDuckGo for Search."
+description: "Replace Maps with OSMand, Drive with Proton Drive, Search with DuckDuckGo. Realistic adoption costs and feature gaps after 6 months."
 categories: ["privacy"]
 tags: ["Google alternatives", "privacy tools", "Proton Mail", "DuckDuckGo", "OsmAnd", "de-Googling"]
 keywords: ["Google alternatives 2026", "privacy respecting Google alternatives", "de-Google guide 2026", "Proton Mail review", "DuckDuckGo vs Google", "OsmAnd review"]

@@ -1,8 +1,8 @@
 ---
-title: "How to Anonymize Photos Online in 2026: EXIF Stripping, Face Blur, and Metadata Removal"
+title: "How to Anonymize Photos Online 2026: EXIF Strip"
 date: 2026-06-05T10:00:00+01:00
 lastmod: 2026-06-05T10:00:00+01:00
-description: "Photos carry more hidden data than most people realize. I tested the best tools for stripping EXIF metadata, blurring faces, and removing location data before sharing photos online."
+description: "Strip EXIF metadata, blur faces, and remove geolocation data from photos before sharing online. Tools tested for desktop and mobile."
 categories: ["privacy"]
 tags: ["photo privacy", "exif data", "metadata removal", "face blur", "photo anonymization", "location data"]
 keywords: ["how to anonymize photos online 2026", "remove exif data", "strip photo metadata", "face blur tool", "photo location data removal", "image privacy"]

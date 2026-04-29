@@ -1,8 +1,8 @@
 ---
-title: "How to Secure Your Google Account in 2026: Beyond 2FA — App Passwords, Security Keys, and Account Recovery"
+title: "How to Secure Google Account 2026: Hardware 2FA"
 date: 2026-06-07T10:00:00+01:00
 lastmod: 2026-06-07T10:00:00+01:00
-description: "Most people stop at enabling 2FA and call it done. I went through every Google account security setting in 2026 — here are the steps that actually matter and the ones most people skip."
+description: "Beyond basic 2FA: hardware security keys, app-specific passwords, account recovery hardening, and the Google Advanced Protection Program."
 categories: ["accounts"]
 tags: ["google account security", "2fa", "security keys", "passkeys", "account recovery", "app passwords", "google safety check"]
 keywords: ["how to secure google account 2026", "google account security settings", "google security key", "google passkey setup", "google account recovery options", "app passwords google"]

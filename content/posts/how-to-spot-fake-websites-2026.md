@@ -1,8 +1,8 @@
 ---
-title: "How to Spot Fake Websites in 2026: URL Checks, Certificates, and Scam Patterns"
+title: "How to Spot Fake Websites 2026: 12 Red Flags"
 date: 2026-06-15
 lastmod: 2026-06-15T09:00:00+01:00
-description: "I analyze fake websites regularly for my security work. Here are the URL tricks, certificate red flags, and scam patterns that reveal fake sites before you lose money."
+description: "URL inspection, certificate checks, scam-pattern recognition. Real fake-store examples plus tools that catch them automatically."
 categories: ["scam-protection"]
 tags: ["fake websites", "phishing", "scam websites", "online fraud", "URL security"]
 keywords: ["how to spot fake websites 2026", "fake website checker", "phishing website detection", "scam website signs", "URL safety check"]
