@@ -1,7 +1,7 @@
 ---
 title: "StartMail Review 2026: The Dutch Privacy Email That Competes With ProtonMail"
-date: 2026-08-18T09:00:00+01:00
-lastmod: 2026-08-18T09:00:00+01:00
+date: 2026-05-29T09:00:00-05:00
+lastmod: 2026-05-29T09:00:00-05:00
 description: "I used StartMail as my primary email for 6 weeks. Made by Startpage, headquartered in the Netherlands. Here is what it does well, where it falls short, and how it compares to ProtonMail."
 categories: ["encrypted-email"]
 tags: ["startmail", "startmail review", "privacy email", "dutch encrypted email", "startmail vs protonmail"]

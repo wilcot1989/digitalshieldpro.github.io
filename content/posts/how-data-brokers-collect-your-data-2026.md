@@ -1,7 +1,7 @@
 ---
 title: "How Data Brokers Collect Your Data: The Complete 2026 Guide"
-date: 2026-09-19T09:00:00+01:00
-lastmod: 2026-09-19T09:00:00+01:00
+date: 2026-07-30T09:00:00-05:00
+lastmod: 2026-07-30T09:00:00-05:00
 description: "Data brokers know where you live, who you know, and what you buy — and you never agreed to any of it. Here is exactly how they collect that information: public records, social scraping, breach data, app SDKs, and more."
 categories: ["data-broker-removal"]
 tags: ["how data brokers work", "data broker collection", "privacy", "personal data", "data broker removal"]

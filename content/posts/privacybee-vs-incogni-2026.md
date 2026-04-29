@@ -1,7 +1,7 @@
 ---
 title: "PrivacyBee vs Incogni 2026: 8-Week Head-To-Head Data Broker Removal Test"
-date: 2026-09-02T09:00:00+01:00
-lastmod: 2026-09-02T09:00:00+01:00
+date: 2026-07-09T09:00:00-05:00
+lastmod: 2026-07-09T09:00:00-05:00
 description: "I ran PrivacyBee and Incogni side-by-side for 8 weeks, tracking every removal request. Here is which service actually clears more of your data — and which is worth the price."
 categories: ["data-broker-removal"]
 tags: ["privacybee", "incogni", "data broker removal", "privacy tools", "personal data removal"]

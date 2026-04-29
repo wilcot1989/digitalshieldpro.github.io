@@ -1,7 +1,7 @@
 ---
 title: "Mailfence Review 2026: Belgium-Based Encrypted Email With Full PGP Integration"
-date: 2026-08-22T09:00:00+01:00
-lastmod: 2026-08-22T09:00:00+01:00
+date: 2026-06-12T09:00:00-05:00
+lastmod: 2026-06-12T09:00:00-05:00
 description: "I tested Mailfence for 5 weeks — Belgium-based encrypted email with built-in PGP, CalDAV calendar, and document storage. Here is who it is for and how it compares to ProtonMail."
 categories: ["encrypted-email"]
 tags: ["mailfence", "mailfence review", "belgium encrypted email", "pgp email", "encrypted email comparison"]

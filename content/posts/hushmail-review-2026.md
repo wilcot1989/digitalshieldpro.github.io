@@ -1,7 +1,7 @@
 ---
 title: "Hushmail Review 2026: HIPAA-Compliant Encrypted Email for Healthcare and Legal"
-date: 2026-08-15T09:00:00+01:00
-lastmod: 2026-08-15T09:00:00+01:00
+date: 2026-05-17T09:00:00-05:00
+lastmod: 2026-05-17T09:00:00-05:00
 description: "I tested Hushmail's healthcare and legal plans hands-on. Here is who it is actually for, what HIPAA compliance means in practice, and whether it is worth the premium over ProtonMail."
 categories: ["encrypted-email"]
 tags: ["hushmail", "hipaa email", "encrypted email healthcare", "encrypted email legal", "hushmail review", "hipaa compliant email"]

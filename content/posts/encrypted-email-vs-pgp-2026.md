@@ -1,7 +1,7 @@
 ---
 title: "Encrypted Email vs PGP in 2026: Which One Actually Protects You?"
-date: 2026-08-08T09:00:00+01:00
-lastmod: 2026-08-08T09:00:00+01:00
+date: 2026-05-09T09:00:00-05:00
+lastmod: 2026-05-09T09:00:00-05:00
 description: "End-to-end encrypted email (ProtonMail, Tutanota) vs PGP on top of Gmail — I tested both models across real threat scenarios to find out which actually protects you and when."
 categories: ["encrypted-email"]
 tags: ["encrypted email", "pgp", "protonmail", "tutanota", "end-to-end encryption", "email security"]

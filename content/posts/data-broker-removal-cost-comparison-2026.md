@@ -1,7 +1,7 @@
 ---
 title: "Data Broker Removal Cost Comparison 2026: DIY vs Incogni vs DeleteMe vs PrivacyBee vs Optery"
-date: 2026-09-12T09:00:00+01:00
-lastmod: 2026-09-12T09:00:00+01:00
+date: 2026-07-23T09:00:00-05:00
+lastmod: 2026-07-23T09:00:00-05:00
 description: "What does data broker removal actually cost you — in money and time? I break down the true annual cost of DIY removal versus every major paid service, with real numbers."
 categories: ["data-broker-removal"]
 tags: ["data broker removal cost", "incogni", "deleteme", "privacybee", "optery", "data broker comparison"]

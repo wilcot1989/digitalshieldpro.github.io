@@ -1,7 +1,7 @@
 ---
 title: "How To Remove Yourself From Spokeo And 10 Other Major Data Brokers In 2026"
-date: 2026-09-09T09:00:00+01:00
-lastmod: 2026-09-09T09:00:00+01:00
+date: 2026-07-19T09:00:00-05:00
+lastmod: 2026-07-19T09:00:00-05:00
 description: "Step-by-step instructions for opting out of Spokeo, Whitepages, BeenVerified, Intelius, MyLife, Radaris, PeopleFinder, TruthFinder, Acxiom, LexisNexis, and PeekYou. Plus when to skip the manual process entirely."
 categories: ["data-broker-removal"]
 tags: ["spokeo opt-out", "data broker removal", "remove personal information", "whitepages opt-out", "privacy"]
