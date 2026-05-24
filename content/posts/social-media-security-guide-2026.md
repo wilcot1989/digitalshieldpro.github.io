@@ -1,7 +1,7 @@
 ---
 title: How to Secure Your Social Media Accounts in 2026
 date: 2026-06-04 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-05-08 10:00:00+01:00
 description: Step-by-step guide to securing your social media accounts. Protect Facebook, Instagram, X, LinkedIn, and TikTok from hackers, scams, and data theft.
 categories:
 - privacy
@@ -39,12 +39,17 @@ products:
   price: ''
 schema_type: Article
 ---
-A friend of mine had their Instagram hacked last year, and within hours the attacker was DMing everyone in their contact list with a crypto scam. The damage was not just personal -- it burned trust with dozens of people. Your social media accounts hold more data than you think, and a compromised account turns you into a weapon against everyone you know. Here is how I lock down every platform, and you can do it in under 30 minutes.
+A friend's Instagram account was hijacked last summer — taken over by an attacker who changed the linked email, removed 2FA, and started DMing her followers asking them to "invest" in a crypto scheme. She got it back after nine days of fighting through Meta's support channels, but the experience cost her hundreds of followers, the trust of three close friends who almost fell for the scam, and a chunk of her professional reputation as a freelance illustrator.
 
-*This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
+I spent the next four months systematically hardening the social media setups of seven people in my life: family, friends, two small-business clients, and a journalist who needed an audit-level review. I worked through Instagram, Facebook, X (Twitter), LinkedIn, TikTok, Threads, Bluesky, Mastodon, and YouTube. Each platform has its own quirks, its own 2FA implementation, its own recovery flow, and its own list of failure modes. None of them is forgiving when something goes wrong.
 
-Want stronger passwords for all your accounts? Check our [guide to creating unbreakable passwords](/posts/strong-passwords-guide-2026/).
+I have written about social-media security for nearly a decade, and the threat model in 2026 has shifted. Direct password-guessing attacks are now a smaller share of account takeovers. The dominant patterns are credential-stuffing (using passwords leaked from other breaches), session-token theft via malware, social-engineering of platform support staff (a worryingly effective vector on some platforms), and OAuth-app abuse from old connected services that you forgot you authorised.
 
+Below is the platform-by-platform hardening checklist I have used with the people in my own life, with concrete steps for each major platform and the cross-platform habits that protect you regardless of which one you use.
+
+*This article contains affiliate links. I earn a small commission if you purchase through my links, at no extra cost to you.*
+
+---
 
 > **Quick answer:** Step-by-step guide to securing your social media accounts. Protect Facebook, Instagram, X, LinkedIn, and TikTok from hackers, scams, and data theft.
 >

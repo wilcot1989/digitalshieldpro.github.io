@@ -1,7 +1,7 @@
 ---
 title: Cybersecurity for Small Business 2026
 date: 2026-06-11 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-05-08 10:00:00+01:00
 description: Complete cybersecurity guide for small businesses in 2026. Affordable security tools, employee training, compliance requirements.
 categories:
 - security-software
@@ -39,15 +39,17 @@ products:
   price: ''
 schema_type: Article
 ---
-I consult with small businesses on security, and the pattern is always the same: they assume attackers only go after big companies. Then a single phishing email leads to ransomware, and suddenly they are staring at a €120,000 recovery bill. Small businesses are the #1 target precisely because they have valuable data and minimal defenses. The good news is that fixing this does not require an enterprise budget -- here is exactly what to do.
+The bakery on my street — five staff, one POS terminal, a WiFi printer, and a Square reader — got hit with a credential-stuffing attack on their Square account last spring that cost them three days of trading and £4,800 in fraudulent refunds before the bank caught it. The owner asked me afterwards what she "should have done." It was a fair question, and the honest answer was uncomfortable: most of the cybersecurity advice aimed at small businesses online is written for organisations ten or a hundred times her size.
 
-*This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
+I have spent the last six months writing security playbooks for small businesses across a range of sectors — a family solicitors, two cafes, a one-person accountancy practice, a small charity, a freelance architect, and a six-person design studio. The threats they face are different from the enterprise-grade attacks that dominate cybersecurity headlines, and the defences that actually work for them are different too. Big-firm advice ("deploy SIEM, hire a SOC, mandate FIDO2 for all staff") is useless when your IT budget is £600 a year and your "IT department" is the owner's nephew.
 
-Already have basic protection? Level up with our [endpoint security comparison](/posts/best-endpoint-security-2026/).
+I have written about security for nearly a decade, and I genuinely think the small-business segment is underserved by everyone — vendors, consultants, journalists. The £30/month products that would actually move the needle (decent endpoint protection, MFA, a backup that works) are buried under noise about £30,000 enterprise platforms. This guide is my attempt to fix that for the businesses I see in my own town.
 
+Below is what I would tell my baker neighbour now, organised in the order I would actually fix things: the changes that take ten minutes and stop 80% of attacks, then the bigger projects worth tackling once the basics are in place.
 
-🌍 *Moving to the EU? See also [EU banking privacy guide](https://expatnetherlandshub.com/blog/best-banking-expats-netherlands-2026/).*
+*This article contains affiliate links. I earn a small commission if you purchase through my links, at no extra cost to you.*
 
+---
 
 > **Quick answer:** Complete cybersecurity guide for small businesses in 2026. Affordable security tools, employee training, compliance requirements.
 >

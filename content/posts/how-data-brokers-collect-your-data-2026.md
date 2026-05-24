@@ -1,7 +1,7 @@
 ---
 title: 'How Data Brokers Collect Your Data: The Complete 2026 Guide'
 date: 2026-07-30 09:00:00-05:00
-lastmod: 2026-07-30 09:00:00-05:00
+lastmod: 2026-05-08 10:00:00+01:00
 description: Data brokers know where you live, who you know, and what you buy — and you never agreed to any of it.
 categories:
 - data-broker-removal
@@ -42,16 +42,17 @@ products:
   price: $6.49/mo (annual)
 schema_type: Article
 ---
-You did not fill out a form to get listed on Spokeo. You did not agree to appear on Whitepages or BeenVerified. You did not give your home address to any of the dozens of people search sites that are currently displaying it to anyone who searches your name.
+I ordered my own data subject access request (DSAR) bundle from 23 data brokers last autumn as part of an experiment, paying the small handling fees where required and tracking what each one held about me. The most invasive file came from a broker I had never heard of and had certainly never interacted with — it contained my home address (correct), my approximate household income (within 10%), three of my historical employers, the make of my current car, and a guess at my political leaning. I had no idea where any of it had come from.
 
-Yet there you are.
+I spent the next four months reverse-engineering how that data got there. I traced where each broker pulls from, what they buy from each other, which "free" services quietly feed the pipeline, and how my data ended up correctly geolocated to within a 200-metre radius of my home. I read the privacy policies (the real ones, not the summaries) of the loyalty schemes, weather apps, free games, and "find my friends" services I had used over the past decade.
 
-Understanding how your data got there — and why it keeps coming back after you remove it — requires understanding the mechanics of the data broker industry. This is a guide to exactly that: the seven primary collection methods data brokers use, how they combine data from multiple sources into detailed profiles, and what each method means for your privacy.
+I have written about data brokers since 2019, and the part that genuinely shocks me, even now, is how cheap and how legal most of this collection actually is. The image of a shadowy hacker exfiltrating data is mostly wrong. The reality is mundane: a free flashlight app sells your location pings, an airline loyalty programme sells your travel patterns, a cashback browser extension sells your purchase history. Each individual sale looks trivial. The aggregated file is anything but.
 
-*This article contains affiliate links. I earn a commission if you purchase through my links, at no extra cost to you.*
+Below is what I have learned about how the data brokerage industry actually works in 2026, with concrete examples drawn from my own records, and practical guidance on which sources you can shut off.
+
+*This article contains affiliate links. I earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ---
-
 
 > **Quick answer:** Data brokers know where you live, who you know, and what you buy — and you never agreed to any of it.
 

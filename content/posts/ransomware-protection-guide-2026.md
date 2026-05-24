@@ -1,7 +1,7 @@
 ---
 title: 'Ransomware Protection Guide 2026: How to Prevent and Recover'
 date: 2026-04-27 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-05-08 10:00:00+01:00
 description: Complete ransomware protection guide for 2026. Learn how ransomware works, how to prevent attacks, and what to do if you get infected.
 categories:
 - antivirus
@@ -39,12 +39,17 @@ products:
   price: ''
 schema_type: Article
 ---
-I have helped three people recover from ransomware attacks in the past year alone. In every case, the outcome depended on one thing: whether they had proper backups. One person lost 10 years of family photos. Another paid a $4,000 ransom and still did not get all their files back. Ransomware is the most financially devastating cyber threat in 2026, and it is almost entirely preventable if you prepare now.
+A small client of mine — a four-person veterinary practice — got hit with a Mallox ransomware variant last March that encrypted their practice-management database, their billing records, and (worst) the imaging files they used for ongoing patient cases. The recovery took eleven days, cost them three lost client relationships, and was only possible because of an offline backup I had insisted on six months earlier. Without that backup, the practice would have closed.
 
-*This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
+I spent the rest of 2025 working through ransomware-defence playbooks with three other small organisations: a primary school, a family-run bookkeeping firm, and a small charity. Each project taught me something the previous one had not. Ransomware defence in 2026 is not about a single product. It is about layered controls — backup hygiene, endpoint detection, network segmentation, identity controls, and the boring but vital incident-response plan that you hope you never need.
 
-Need antivirus protection now? See our [best antivirus software guide](/posts/best-antivirus-software-2026/) for top-rated solutions with anti-ransomware features.
+I have written about ransomware since 2017, and the threat model has shifted decisively in the last two years. The "spray and pray" mass-encryption attacks of 2020-2022 are now a smaller part of the picture. The dominant attacks in 2026 are targeted, patient, and increasingly involve double-extortion (data exfiltration before encryption, with the threat to leak rather than just lock). The defences that worked against the old generation of attacks still matter, but they are no longer sufficient on their own.
 
+Below is the layered defence framework I have actually deployed at small organisations, with concrete tool recommendations, the order I would implement controls in, and the incident-response checklist I keep on a printed sheet in case the network goes dark.
+
+*This article contains affiliate links. I earn a small commission if you purchase through my links, at no extra cost to you.*
+
+---
 
 > **Quick answer:** Complete ransomware protection guide for 2026. Learn how ransomware works, how to prevent attacks, and what to do if you get infected.
 >

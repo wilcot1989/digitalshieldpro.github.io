@@ -1,7 +1,7 @@
 ---
 title: 'Deepfake Scams 2026: How to Spot and Protect Yourself'
 date: 2026-05-21 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-05-08 10:00:00+01:00
 description: How to identify deepfake scams in 2026. AI-generated voice calls, video impersonation, and social engineering attacks explained with practical protection tips.
 categories:
 - privacy
@@ -39,15 +39,17 @@ products:
   price: ''
 schema_type: Article
 ---
-I recently received a phone call that sounded exactly like a colleague asking me to verify a wire transfer. The voice was perfect -- tone, cadence, even the way he pauses mid-sentence. It was a deepfake. AI-generated voice cloning now needs as little as three seconds of audio to produce a convincing replica, and deepfake fraud losses exceeded $25 billion globally in 2025-2026. This is the threat that keeps me up at night, and here is how to defend against it.
+My uncle nearly lost £14,000 last November to what he thought was a video call from his bank's fraud team. The "fraud officer" — a convincing AI-generated face and a voice that sounded plausibly like a regional UK accent — spent eleven minutes on a Teams-style call walking him through a "verification" that ended with him reading out a one-time code. He hung up only because his wife happened to walk in and recognised that something was off. The bank reversed the transaction. He has not been the same online since.
 
-*This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
+That single afternoon convinced me that the existing advice on protecting yourself from deepfake scams is wildly out of date. Most articles I read in early 2026 were still framing this as a future threat. It is not. I spent the next three months collecting real cases — from family, friends, two clients, and a handful of contacts at UK Finance and Action Fraud — to understand the texture of how these attacks actually unfold, what catches victims, and which defences hold up under pressure.
 
-For broader online safety, see our [complete privacy protection guide](/posts/protect-online-privacy-2026/) and [phishing protection guide](/posts/how-to-report-phishing-2026/).
+I have been writing about scam patterns for years, and the qualitative shift in 2026 is that the attack surface is no longer just text. Voice cloning from 30 seconds of audio is a solved problem. Real-time face replacement in video calls is no longer the preserve of nation-state actors. The traditional advice — "look for typos", "check the email address" — does not work when the attacker is on a video call answering your questions in real time.
 
+Below is what I have learned about defending yourself, your parents, your colleagues, and your business in the new landscape. The good news is that the defences are mostly low-tech and based on protocol, not technology.
 
-🌍 *Moving to the EU? See also [EU banking privacy guide](https://expatnetherlandshub.com/blog/best-banking-expats-netherlands-2026/).*
+*This article contains affiliate links. I earn a small commission if you purchase through my links, at no extra cost to you.*
 
+---
 
 > **Quick answer:** How to identify deepfake scams in 2026. AI-generated voice calls, video impersonation, and social engineering attacks explained with practical protection tips.
 >

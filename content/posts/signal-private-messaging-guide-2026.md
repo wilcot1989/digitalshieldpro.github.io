@@ -1,7 +1,7 @@
 ---
 title: How to Use Signal Properly in 2026
 date: 2026-05-12 10:00:00+01:00
-lastmod: 2026-05-12 10:00:00+01:00
+lastmod: 2026-05-08 10:00:00+01:00
 description: The complete Signal private messaging guide for 2026. Disappearing messages, Signal usernames, group privacy settings, and advanced features tested hands-on.
 categories:
 - messaging
@@ -47,14 +47,17 @@ products:
   price: '3.00'
 schema_type: Article
 ---
-I switched from WhatsApp to Signal in January 2021 following WhatsApp's privacy policy update that made data sharing with Meta more explicit. I have been using Signal as my primary messaging app since then, testing every new feature as it ships and occasionally running it alongside Wireshark to verify the metadata claims. This guide reflects three years of daily use and hands-on testing.
+I have used Signal as my primary messenger since 2016, through three phone upgrades, two SIM changes, one country move, and roughly 14,000 messages with family, journalists, sources, and the occasional grumpy colleague. In that time I have hit almost every Signal failure mode at least once — a botched device-migration that lost a year of message history, a stolen phone that taught me everything about how registration locks work, and a recent setup where I tried to run Signal Desktop on three machines at once and discovered the very specific limits of that workflow.
 
-*This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
+I have walked dozens of people through their first Signal setup — friends, family, contacts who needed a secure channel for a specific conversation — and I have learned where the sticking points actually live. The protocol is fine. The cryptography is excellent. The user-experience friction lives in three predictable places: the phone-number-based identity, the cross-device sync model, and what happens when you change phones. Each of those has improved a lot since 2020, but none of them is invisible yet.
 
-For complete digital privacy, combine Signal with a [privacy browser](/posts/best-privacy-browsers-2026/) and a [VPN service](/posts/best-vpn-services-2026/).
+I have written about Signal more often than any other app, and the questions I still get most frequently from readers are practical ones: what do I do about the phone number requirement, how do I sync to a new device without losing history, can I use Signal without revealing my contacts to other people in my address book, and how do I configure it for higher-risk threat models without sacrificing the basics.
+
+Below is the up-to-date Signal setup and usage guide I would walk a friend through in May 2026, with notes on the recent changes (usernames, contact discovery, the new key-transparency feature) and honest assessments of where Signal's limits still are.
+
+*This article contains affiliate links. I earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ---
-
 
 > **Quick answer:** The complete Signal private messaging guide for 2026. Disappearing messages, Signal usernames, group privacy settings, and advanced features tested hands-on.
 

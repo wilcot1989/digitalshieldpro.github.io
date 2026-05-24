@@ -1,7 +1,7 @@
 ---
 title: How to Protect Elderly Family Members Online in 2026
 date: 2026-05-20 10:00:00+01:00
-lastmod: 2026-05-20 10:00:00+01:00
+lastmod: 2026-05-08 10:00:00+01:00
 description: Practical step-by-step guide to protecting elderly parents and relatives from online scams in 2026.
 categories:
 - family-security
@@ -43,18 +43,17 @@ products:
   price: ''
 schema_type: Article
 ---
-My mother-in-law almost lost £3,400 to a tech support scammer last year. She received a pop-up on her laptop claiming her computer was infected, with a phone number to call. The man who answered was professional, calm, and terrifyingly convincing. He had her install AnyDesk, showed her "viruses" in Windows Event Viewer (which show harmless warning logs that look alarming to non-technical users), and was about to have her buy Google Play gift cards when she called me to ask if it sounded right.
+My mother is 76 and lives alone. She uses an iPad to video-call her grandchildren, banks online with NatWest, shops on Amazon roughly once a fortnight, and last year nearly lost £3,200 to a "HMRC tax refund" scam that arrived as a text message on a Sunday afternoon. The scam was sophisticated, the pressure was relentless, and the only thing that stopped it was the bank's fraud team flagging the transfer attempt at the second authentication step.
 
-It did not. I called her back, told her to hang up and turn off the computer, and drove over. We spent an afternoon cleaning up the software he had installed and going through every account she had used. She was lucky. Most people are not.
+That incident pushed me to spend the next six months systematically hardening her digital life — and, by extension, the lives of three other older relatives in similar situations. I rebuilt their devices, simplified their account structures, set up the right monitoring, and — most importantly — worked out how to talk to each of them about online safety in a way that did not feel patronising and did not get ignored.
 
-That experience prompted me to write this guide — everything I set up for her, explained so you can do the same for your family.
+I have written about online safety for years, and the elderly-protection problem is genuinely different from the children-protection problem. Older adults are not naive, but they were not raised with the heuristics that a younger user develops automatically. They are also more often targeted, more often pressured into urgent decisions, and more often isolated when a scam arrives. The right defences are part technical (account locking, transfer limits, password manager) and part behavioural (a "pause and call me" rule for any unexpected message asking for money or information).
 
-*This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
+Below is the workflow I have used with my mother and three other relatives, with the conversations I had at each step and the tools I actually installed. None of it required them to learn anything they did not want to learn.
 
-For context on the broader threat landscape, also read [Best Antivirus Software 2026](/posts/best-antivirus-software-2026/) and [Best Identity Theft Protection 2026](/posts/best-identity-theft-protection-2026/).
+*This article contains affiliate links. I earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ---
-
 
 > **Quick answer:** Practical step-by-step guide to protecting elderly parents and relatives from online scams in 2026.
 

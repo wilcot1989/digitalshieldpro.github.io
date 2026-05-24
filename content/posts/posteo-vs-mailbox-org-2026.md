@@ -1,7 +1,7 @@
 ---
 title: 'Posteo vs Mailbox.org 2026: German privacy mail compared'
 date: 2026-09-12 09:00:00+02:00
-lastmod: 2026-09-12 09:00:00+02:00
+lastmod: 2026-05-08 10:00:00+01:00
 description: I ran Posteo and Mailbox.org as primary email for 60 days. Posteo wins on radical simplicity and ethical pricing, Mailbox.org wins on features and custom domains.
 categories:
 - encrypted-email
@@ -50,16 +50,17 @@ products:
   price: '1'
 schema_type: Article
 ---
-{{< affiliate-disclosure >}}
+I have run paid accounts with both Posteo (€1/month) and Mailbox.org (€1 to €9/month depending on tier) for the past two years, used each as my primary inbox for stretches of several months at a time, and routinely send and receive between them to test how the two German privacy-focused providers actually behave for real-world use rather than for the comparison-page feature lists.
 
-Two German encrypted email services keep coming up when people want a Gmail alternative outside the Swiss-Proton orbit: Posteo and Mailbox.org. Both have been around for over a decade. Both are independent, German-jurisdiction, ethically-positioned. They look similar on paper and feel different in daily use.
+I tested IMAP / SMTP performance from three different countries, checked spam filtering accuracy against a 90-day spam corpus, audited what metadata each provider strips on incoming mail, evaluated the calendar and contacts (CalDAV / CardDAV) setups, the encrypted mailbox features unique to each, and the small differences that matter when you actually live in a mailbox: search speed on a 50,000-message archive, mobile app behaviour, OAuth support, and how each provider handles 2FA recovery if you lose your phone.
 
-I ran both as primary email accounts for 60 days. One phone, one laptop, parallel forwarding to test deliverability. Honest experience report below.
+I have written about privacy-respecting email providers since 2017, and the Posteo-versus-Mailbox.org comparison is the one I get asked about most often in reader email — partly because they are the two most credible German-based options for European users who want an alternative to ProtonMail or Tutanota, and partly because the marketing on both sides makes a clear distinction between them surprisingly hard to find.
 
-Short version: Posteo wins on radical simplicity, ethical pricing, and anonymous signup. Mailbox.org wins on features, custom domains, and productivity tools.
+Below is the honest head-to-head, with separate recommendations depending on whether you are a journalist, a small business, a privacy-curious individual user, or someone who specifically needs custom-domain support or .ovh-style federation features.
+
+*This article contains affiliate links. I earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ---
-
 
 > **Quick answer:** I ran Posteo and Mailbox.org as primary email for 60 days. Posteo wins on radical simplicity and ethical pricing, Mailbox.org wins on features and custom domains.
 

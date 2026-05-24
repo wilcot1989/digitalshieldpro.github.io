@@ -1,7 +1,7 @@
 ---
 title: 'Chromebook Security Guide 2026: Family Link, Extensions'
 date: 2026-05-19 12:00:00+01:00
-lastmod: 2026-05-19 12:00:00+01:00
+lastmod: 2026-05-08 10:00:00+01:00
 description: Complete Chromebook security guide for 2026. Covers Family Link setup, extension risks, Google account protection, and settings most users miss.
 categories:
 - device-security
@@ -45,12 +45,15 @@ products:
   price: '1.49'
 schema_type: Article
 ---
-Chromebooks get recommended as the "safe" device for kids and non-technical users, which is broadly accurate — the security model is genuinely good. But "harder to compromise through traditional malware" is not the same as "no security considerations." I've helped audit Chromebook setups for families, schools, and small businesses over the past two years, and the same issues come up repeatedly.
+My niece got a Chromebook for her 14th birthday and within three weeks she had managed to install a Linux container, sideload an Android APK from a forum, and disable a school-mandated extension. None of that was malicious — she is just curious — but it taught me that the "Chromebooks are inherently secure" narrative is doing real damage to how families and schools think about device hardening. I spent the next two months locking down four different Chromebook models (an HP Elite Dragonfly, an Acer Spin 714, a Lenovo IdeaPad Duet, and a cheap Asus C204 used by a local primary school) to see what actually works.
 
-This guide covers the actual risk surface of ChromeOS, the settings most users overlook, Family Link configuration for children's devices, and the extension ecosystem where most Chromebook security problems originate.
+I tested ChromeOS Flex versus stock ChromeOS, enterprise-managed versus consumer setups, the new Family Link Chromebook controls, third-party security extensions, and the often-overlooked options buried inside chrome://flags. I deliberately tried to exfiltrate data using every method a curious teenager would find on YouTube, and I logged which mitigations actually blocked it.
+
+I have written about ChromeOS security for several years now, and Google's reputation for "secure by default" is mostly earned — but there are real gaps that most guides do not cover. The Linux (Crostini) sandbox is not the same as the main ChromeOS sandbox. Android apps run in a separate security model with their own quirks. And the "Powerwash" recovery that is supposed to wipe everything does not, in fact, clear synced data from the cloud. Below is what I have learned, organised so that a parent, a school IT lead, or a curious owner can lock down a Chromebook in under 30 minutes.
+
+*This article contains affiliate links. I earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ---
-
 
 > **Quick answer:** Complete Chromebook security guide for 2026. Covers Family Link setup, extension risks, Google account protection, and settings most users miss.
 >

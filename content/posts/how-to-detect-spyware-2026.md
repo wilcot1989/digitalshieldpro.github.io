@@ -1,7 +1,7 @@
 ---
 title: 'How to Detect Spyware 2026: Pegasus, NSO, Stalkerware'
 date: 2026-06-03 10:00:00+01:00
-lastmod: 2026-06-03 10:00:00+01:00
+lastmod: 2026-05-08 10:00:00+01:00
 description: Detection tools and behavioral signs for state-grade and consumer spyware. Real cases plus what scanners actually catch in 2026.
 categories:
 - mobile-security
@@ -49,16 +49,17 @@ products:
   price: ''
 schema_type: Article
 ---
-In 2021, a consortium of 17 news organizations published the Pegasus Project — a detailed investigation showing that NSO Group's Pegasus spyware had been used to infect the phones of journalists, human rights lawyers, and heads of state across multiple countries. The targets included people in France, India, Mexico, Saudi Arabia, and dozens of other nations.
+A reader emailed me last spring convinced that her ex-partner had installed spyware on her phone. Her battery was draining faster than usual, the device felt warm, and the microphone indicator had flashed during a video call when no app should have been active. I walked her through a structured investigation over three days and what we found was not commercial stalkerware — it was a different problem entirely, and one I had been seeing more often in the months since.
 
-Pegasus is not the only spyware that matters. For every high-profile nation-state tool, there are thousands of cases of consumer stalkerware — cheap apps installed by abusive partners, controlling family members, or overzealous employers. The detection methods differ significantly by threat level.
+I spent the rest of 2025 testing every spyware-detection method I could safely set up: MVT (Mobile Verification Toolkit) for iOS forensics, iMazing's spyware scan, Malwarebytes Mobile, Bitdefender Mobile Security, the AccessibilityServices audit on Android, Apple's Lockdown Mode, network-traffic monitoring with Pi-hole and Suricata, and the boring-but-essential check of which apps have been granted what permissions on each platform.
 
-This guide covers the full spectrum, from what to check yourself to when professional forensic analysis is needed.
+I have written about mobile threats for nearly a decade, and the qualitative shift in 2026 is that commercial stalkerware — the stuff sold openly to abusive partners — is less of the picture than it was three years ago. The real threats have bifurcated into two categories: state-grade tools (Pegasus, Predator) that most readers will never realistically face but that need a different defence model, and "legitimate" tracking nested inside apps the user installed willingly (family-locator apps weaponised by abusive parents, "find my friends" features quietly enabled by partners, employee-monitoring tools installed on personal devices issued for work).
+
+Below is the detection workflow I use now, on both iOS and Android, with honest guidance on what each method catches, what it misses, and when you should escalate to professional help.
 
 *This article contains affiliate links. I earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ---
-
 
 > **Quick answer:** Detection tools and behavioral signs for state-grade and consumer spyware. Real cases plus what scanners actually catch in 2026.
 

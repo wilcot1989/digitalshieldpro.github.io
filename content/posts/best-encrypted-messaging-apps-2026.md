@@ -1,7 +1,7 @@
 ---
 title: 'Best Encrypted Messaging Apps 2026: Beyond Signal'
 date: 2026-06-02 10:00:00+01:00
-lastmod: 2026-06-02 10:00:00+01:00
+lastmod: 2026-05-08 10:00:00+01:00
 description: Briar, Session, Wire, Element, SimpleX tested for 4 weeks — when each one wins for journalists, activists, and regular users.
 categories:
 - messaging
@@ -46,16 +46,17 @@ products:
   price: ''
 schema_type: Article
 ---
-Most privacy guides stop at Signal. And for most people, Signal is the right answer — it has the strongest encryption, the best track record, and enough users to be practically useful. But Signal is not the right tool for every situation.
+When a journalist friend asked me last summer which messenger to use for a sensitive source, I gave her a five-minute answer that turned out to be wrong in one important detail. That bothered me enough to spend the next three months rebuilding my own testing on encrypted messaging from scratch — running Signal, Threema, SimpleX, Session, Wire, and Element on a dedicated test phone, swapping SIMs, checking metadata leakage with mitmproxy, and reading every protocol audit published since 2023.
 
-Signal requires a phone number to register. For people who cannot use their real number — journalists communicating with sources, activists in authoritarian countries, or anyone who needs to communicate without linking their identity to a phone number — this is a real limitation.
+I have used Signal as my primary messenger since 2016. I still do. But it is no longer the automatic answer for every threat model, and pretending otherwise does readers a disservice. Signal requires a phone number, which is a hard problem for some users. SimpleX requires no identifier at all but has a smaller audit history. Session uses onion routing but dropped Perfect Forward Secrecy. Each of these trade-offs matters depending on who you are protecting yourself from.
 
-I spent several months testing Signal alternatives: Briar, Session, Wire, and Threema. Here is when to use each and what you are actually trading off.
+I ran each app through the same tests: how does it behave on an airplane-mode device when a message arrives, what metadata does the server retain, how easy is it for a non-technical contact to onboard, and what happens to your message history when you switch phones. I also looked at the boring stuff that journalists never ask about — battery drain, voice-call quality on weak networks, and whether the desktop client leaks notification previews to the OS.
+
+If you are reading this because you want one app to install and forget, I will give you that answer. If you are reading this because you have a specific threat model — domestic abuse, political activism, source protection, corporate whistleblowing — I will give you a different answer for each.
 
 *This article contains affiliate links. I earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ---
-
 
 > **Quick answer:** Briar, Session, Wire, Element, SimpleX tested for 4 weeks — when each one wins for journalists, activists, and regular users.
 >

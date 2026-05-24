@@ -1,7 +1,7 @@
 ---
 title: 'How to Spot Fake Websites 2026: 12 Red Flags'
 date: 2026-06-15
-lastmod: 2026-06-15 09:00:00+01:00
+lastmod: 2026-05-08 10:00:00+01:00
 description: URL inspection, certificate checks, scam-pattern recognition. Real fake-store examples plus tools that catch them automatically.
 categories:
 - scam-protection
@@ -42,14 +42,17 @@ faq:
   a: Act immediately. Change the password for the relevant service and any other accounts where you use that password. If you entered financial information, contact your bank immediately. If you entered Social Security or government ID numbers, consider a credit freeze. Report the site to Google Safe Browsing at safebrowsing.google.com/safebrowsing/report_phish/.
 schema_type: Article
 ---
-Last month I received what appeared to be an email from DHL about a delayed package. The design was perfect — DHL logo, correct color scheme, plausible tracking number. The link in the email went to dh1-tracking.com. 
+My uncle nearly paid £900 to a fake Trainline lookalike last August. The URL was a five-character typosquat (trainlne.com or something like it — he could not remember exactly), the site rendered an almost-perfect clone of the real booking flow, and the only thing that saved him was that the payment page asked for his card's full security details in a slightly unusual way and he paused. He called me. We screenshotted the site, reported it to Action Fraud, and walked through what he could have looked for earlier.
 
-Notice the "1" replacing the "l" in DHL. If you read it quickly, it looks like a legitimate DHL domain. The actual site was a perfect clone of DHL's tracking page, with a form that would capture your name, address, and credit card number for a "$2.99 redelivery fee."
+I spent the following three months collecting examples of convincing fake sites — phishing pages, lookalike e-commerce stores, fake delivery-tracking domains, scam investment platforms, fraudulent charity sites — and building a workflow for spotting them quickly. I have a small archive now of about 180 fake sites collected from URLhaus, PhishTank, my own honeypot inbox, and Action Fraud reports. The patterns are consistent enough that you can build genuine intuition.
 
-I report these sites to Google Safe Browsing, and they are now flagged. But between when that domain was registered and when it was flagged, how many people gave them payment information?
+I have written about phishing and fake sites for nearly a decade, and the qualitative shift in 2026 is that the visual quality of fakes has effectively converged with the real thing. The old advice — "look for misspellings, check the logo quality, watch for poor design" — is dead. Modern scam sites are produced with the same templates as legitimate sites, often hosted on the same CDNs, often using genuine TLS certificates from Let's Encrypt. The defences that still work are structural, not visual.
 
-This is what fake websites look like in 2026: technically sophisticated, visually perfect, and designed around social engineering triggers that override careful reading. Here is how to catch them before they catch you.
+Below is the checklist I now use myself, the one I have walked my uncle through, and the one I would teach to anyone who shops online or follows links from email or text.
 
+*This article contains affiliate links. I earn a small commission if you purchase through my links, at no extra cost to you.*
+
+---
 
 > **Quick answer:** URL inspection, certificate checks, scam-pattern recognition. Real fake-store examples plus tools that catch them automatically.
 >

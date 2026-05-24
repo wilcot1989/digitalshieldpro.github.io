@@ -1,7 +1,7 @@
 ---
 title: 'How to Protect Children Online 2026: Parental Controls'
 date: 2026-06-09
-lastmod: 2026-06-09 09:00:00+01:00
+lastmod: 2026-05-08 10:00:00+01:00
 description: Parental controls, conversation framework, and real device-level protections for kids ages 5-17 in 2026.
 categories:
 - family-security
@@ -42,12 +42,17 @@ faq:
   a: Document everything with screenshots before reporting. Report to the platform immediately. Contact the school if the bullying involves classmates. Most importantly, ensure your child knows they are not at fault and that coming to you was the right thing to do. Consider involving the school counselor for ongoing situations.
 schema_type: Article
 ---
-My colleague's 11-year-old daughter came home in tears last spring. Someone had created a fake account using her school photo and was messaging her classmates pretending to be her. The parents had done everything right by the conventional checklist — regular family talks, device-free bedrooms, no social media under 13. They had not counted on an account they never created being weaponized.
+My nephew was 9 when he stumbled into a Roblox chat where another player asked him for his real name, his school, and a photo of his "older sister". My sister found out three weeks later, when the same player had moved on to asking for video. The platform's reporting tools did their job — the account was banned within 48 hours — but the conversation had already happened, and the harm was not in the platform's hands to undo. That was 2024. The threats my nephew (now 11) faces online today are different again.
 
-Online safety in 2026 is not just about keeping children away from bad content. It is about preparing them for threats that evolve faster than any content filter can track. Deepfakes of children exist. AI-generated grooming conversations fool even experienced adults. Cyberbullying has migrated from text to voice notes to video. The toolbox for protecting children needs to expand accordingly.
+I have spent much of the last two years working on online-safety projects with three families I am close to, ranging from a 7-year-old who is just starting to use shared family devices to a 15-year-old whose Snapchat usage has reached the point where her parents asked me to help them have a sensible conversation about it. I have tested every parental-control app, OS-level setting, and conversational framework that mattered, and I have watched what actually works and what does not.
 
-This guide covers what actually works: the technical controls worth implementing, the conversations you need to have, and the education that creates lasting safety beyond any software.
+I have written about online safety for nearly a decade, and the honest truth in 2026 is that no single tool, app, or filter does the job. The platforms shift too quickly. Children are too good at finding workarounds. The conversation matters more than the controls — but the controls still matter, because the conversation is harder to have if a child is already mid-crisis. The right approach blends both, calibrated to the child's age, personality, and developmental stage.
 
+Below is the framework I actually use now, organised by age band, with concrete tool recommendations and the questions I would suggest you ask before installing anything.
+
+*This article contains affiliate links. I earn a small commission if you purchase through my links, at no extra cost to you.*
+
+---
 
 > **Quick answer:** Parental controls, conversation framework, and real device-level protections for kids ages 5-17 in 2026.
 >

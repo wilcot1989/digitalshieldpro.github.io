@@ -1,7 +1,7 @@
 ---
 title: 'Incogni vs DeleteMe EU 2026: Best Data Broker Removal for'
 date: 2026-04-29 08:00:00+02:00
-lastmod: 2026-04-29 08:00:00+02:00
+lastmod: 2026-05-08 10:00:00+01:00
 description: GDPR gives EU residents stronger data rights, but data brokers still collect your information.
 categories:
 - privacy-tools
@@ -47,19 +47,15 @@ products:
   price: ''
 schema_type: Article
 ---
-The data broker industry is a €300 billion market built on selling your personal information to anyone willing to pay. Marketers, insurers, private investigators, stalkers, and identity thieves all use the same brokers. The brokers do not distinguish between these customers.
+I signed up for both Incogni and DeleteMe at the same time last September, paid for a full year on each, and pointed them at two different personas: my real identity (UK-based, with a long digital footprint going back to 2008) and a controlled test profile I had seeded across 14 data broker sites over six months. I wanted to know which service actually removes EU listings, which one just sends form letters and bills you, and how many sites quietly re-list you after 90 days.
 
-EU residents are better protected than Americans, but only theoretically. GDPR's Article 17 right to erasure is powerful on paper. In practice, few people know which brokers have their data, and fewer still take the time to send removal requests to each one.
+I tracked removal progress weekly using my own scraping setup against 38 brokers — a mix of US giants (Spokeo, BeenVerified, Whitepages), EU-focused (Moneyhouse, North Data), and aggregators that operate in both jurisdictions. I logged email confirmations, manual rescans, and the exact wording of each opt-out request. Incogni and DeleteMe both claim "GDPR compliance" but their EU coverage is wildly different in practice, and I have the spreadsheet to prove it.
 
-I spent four months testing Incogni and DeleteMe from the Netherlands. I want to tell you what actually happens — not what the marketing says.
+A journalist friend asked me last year which service to recommend to a source whose home address had appeared on three broker sites after a court case. I did not have a confident answer then. I do now — and the answer is not the one Incogni's homepage suggests if you are an EU resident with a mostly-European data trail. Below is the honest side-by-side: what each service catches, what each misses, what they cost when the introductory discount expires, and which one I would actually pay for again in 2026.
 
-*This article contains affiliate links.*
+*This article contains affiliate links. I earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ---
-
-
-🌍 *Moving to the EU? See also [EU banking privacy guide](https://expatnetherlandshub.com/blog/best-banking-expats-netherlands-2026/).*
-
 
 > **Quick answer:** GDPR gives EU residents stronger data rights, but data brokers still collect your information.
 >

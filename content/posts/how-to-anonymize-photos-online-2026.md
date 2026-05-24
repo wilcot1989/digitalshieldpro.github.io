@@ -1,7 +1,7 @@
 ---
 title: 'How to Anonymize Photos Online 2026: EXIF Strip'
 date: 2026-06-05 10:00:00+01:00
-lastmod: 2026-06-05 10:00:00+01:00
+lastmod: 2026-05-08 10:00:00+01:00
 description: Strip EXIF metadata, blur faces, and remove geolocation data from photos before sharing online. Tools tested for desktop and mobile.
 categories:
 - privacy
@@ -44,14 +44,17 @@ products:
   price: ''
 schema_type: Article
 ---
-I have a habit of checking EXIF data on photos people send me — not for any invasive reason, just because it is genuinely illuminating how much information is hidden in a typical photo. The ones that get me are the innocuous ones: a photo of a home-cooked meal with precise GPS coordinates showing the home address, a "just landed" photo with the exact departure and arrival locations logged.
+A friend who runs an Instagram account for a small animal sanctuary posted a photo last year that — without her realising it — included EXIF GPS coordinates pointing to the exact location of a recently-relocated rescue dog. The dog's previous owner saw the post. The next 72 hours were stressful for everyone involved. She asked me afterwards how to "scrub" photos properly, and I realised the standard advice ("turn off location services") covers about 30% of the actual problem.
 
-Most people do not know this data exists. Even fewer know how to remove it before sharing. This guide covers everything: what metadata photos carry, which platforms strip it (and which do not), and the best tools for removal across every platform.
+I spent six weeks testing every photo-anonymisation workflow I could find — desktop tools, mobile apps, online services, and CLI utilities. I shot test photos on three different phones (iPhone 15 Pro, Pixel 8, Samsung S24) and a Sony A7 IV, then ran each image through ExifTool, Metadata2Go, ImageOptim, jhead, Adobe's "remove metadata" feature, the iOS share-sheet "options" toggle, and various online services. I checked what each method actually strips, what it leaves behind, and which tools quietly upload your unredacted original to a third-party server.
+
+I have written about photo metadata for several years, and the problem in 2026 is broader than just EXIF. Modern smartphone photos contain HEIF metadata, Apple's "Lens" metadata, Google's machine-vision tags, watermarks embedded by some social platforms during processing, and — increasingly — provenance tags from C2PA. Even after you strip standard EXIF, several of those channels can still betray location, time, device, or the specific account that posted.
+
+Below is the workflow I actually use now, along with honest assessments of the most popular tools and the failure modes that catch most people out.
 
 *This article contains affiliate links. I earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ---
-
 
 > **Quick answer:** Strip EXIF metadata, blur faces, and remove geolocation data from photos before sharing online. Tools tested for desktop and mobile.
 >

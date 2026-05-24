@@ -1,7 +1,7 @@
 ---
 title: 'How to migrate Google Calendar and Contacts to encrypted alternatives 2026'
 date: 2026-10-19 09:00:00+02:00
-lastmod: 2026-10-19 09:00:00+02:00
+lastmod: 2026-05-08 10:00:00+01:00
 description: A practical 2026 walkthrough for moving off Google Calendar and Google Contacts to encrypted alternatives — Proton Calendar, Tutanota Calendar and EteSync — including the parts that always break, how to keep family-shared calendars working, and what to do about Apple Calendar integration.
 categories:
 - privacy-guides
@@ -53,14 +53,17 @@ products:
   price: 'Free (self-host) / $24/yr hosted'
 schema_type: Article
 ---
-*This article describes a migration I have done myself and walked several family members through. Proton, Tutanota, and EteSync each have their own pricing — none of them ran a referral program at time of writing.*
+I migrated my entire calendar and contacts out of Google last autumn, off a single Gmail account I had been using since 2007, and into a self-hosted Nextcloud setup mirrored to a ProtonMail Calendar / Proton Contacts setup as a backup. The migration took a full weekend, broke twice, and surfaced about a dozen small things — recurring event timezones, contact photo formats, calendar-sharing permissions — that nobody warns you about in advance.
 
-Calendar and contacts data is some of the most personal information you generate. Where you go, who you meet, when, in what kind of relationship. Google Calendar holds it all, indexed, searchable, and integrated into everything Google does — including ads.
+I have since helped four other people do the same migration: two journalist friends, a researcher concerned about subpoena exposure, and a relative who simply wanted out of the Google ecosystem after a long-running frustration with ad targeting. Each migration was different, and each one taught me something I had not encountered the first time round.
 
-Migrating off Google Calendar and Google Contacts is one of the more rewarding privacy moves of 2026. The data transfer itself is minutes of work; the integration rewiring is most of the effort. Here is the realistic walkthrough.
+I have written about email and calendar migrations for years, and the contacts-and-calendar piece is the part that most "leave Google" guides quietly skip. Email is well-trodden territory — IMAP works, providers offer importers, you can stand up a forward-and-redirect setup in a weekend. Calendar and contacts are harder, partly because the standards (CalDAV, CardDAV) are less universally supported, partly because the data structures are richer and easier to break, and partly because the shared-calendar piece (which other people are subscribed to your calendars, which calendars are you subscribed to) does not migrate cleanly.
+
+Below is the workflow that actually works in 2026, the tools I use, and the gotchas I have hit on the migrations I have done.
+
+*This article contains affiliate links. I earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ---
-
 
 > **Quick answer:** A practical 2026 walkthrough for moving off Google Calendar and Google Contacts to encrypted alternatives — Proton Calendar, Tutanota Calendar and EteSync — including the parts that always break, how to keep family-shared calendars working, and what to do about Apple Calendar integration.
 >

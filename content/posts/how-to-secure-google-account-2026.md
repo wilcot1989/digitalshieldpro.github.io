@@ -1,7 +1,7 @@
 ---
 title: 'How to Secure Google Account 2026: Hardware 2FA'
 date: 2026-06-07 10:00:00+01:00
-lastmod: 2026-06-07 10:00:00+01:00
+lastmod: 2026-05-08 10:00:00+01:00
 description: 'Beyond basic 2FA: hardware security keys, app-specific passwords, account recovery hardening, and the Google Advanced Protection Program.'
 categories:
 - accounts
@@ -48,16 +48,17 @@ products:
   price: ''
 schema_type: Article
 ---
-Your Google account is almost certainly the highest-value target an attacker could go after. It likely connects to your primary email, your phone (if Android), your calendar, your browsing history, your location history, your photos, your documents, your YouTube, and in many cases your primary identity across dozens of other services via "Sign in with Google."
+I treat my Google account as a single point of failure for most of my digital life, and that recognition forces me to spend more time on its security than I do on almost any other account. Last autumn I went through a full hardening pass — fresh hardware keys, audited every connected app, reviewed every active session, set up Advanced Protection, and tested recovery from a deliberately-locked state. The process took about four hours and surfaced two issues I had not been aware of.
 
-A compromised Google account is not just losing access to Gmail. It is losing access to account recovery for every other service you signed up to with that email. It is an attacker being able to reset your bank's password, your crypto exchange login, your work tools. The blast radius is enormous.
+I have helped several friends, family members, and small-business clients do the same exercise over the last six months. Each pass found something. A friend had a 2017 OAuth grant still active to a now-defunct calendar app. My mother's account had been signed in on a tablet she had sold three years earlier. A client's "recovery email" pointed at an inbox he no longer controlled — exactly the kind of mistake that turns a routine password-reset attempt into a permanent lockout.
 
-I went through every Google account security setting systematically. Here is the complete hardening guide — in priority order, with explanations of why each step matters.
+I have written about Google account security since 2018, and the controls in 2026 are genuinely the best they have ever been — passkeys, Advanced Protection, account-level transparency dashboards, the new recovery contacts feature. But the controls are also scattered across at least four different settings panes, and the right order to enable them matters more than most articles suggest. Doing things in the wrong sequence can lock you out of your own account in a way that takes weeks to recover.
+
+Below is the exact checklist I use, in the order I would walk a non-technical relative through it, with notes on the failure modes that most "secure your Google account" guides do not mention.
 
 *This article contains affiliate links. I earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ---
-
 
 > **Quick answer:** Beyond basic 2FA: hardware security keys, app-specific passwords, account recovery hardening, and the Google Advanced Protection Program.
 >

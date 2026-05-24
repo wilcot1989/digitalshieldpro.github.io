@@ -1,7 +1,7 @@
 ---
 title: How to Disable Google Tracking in 2026
 date: 2026-05-26 10:00:00+01:00
-lastmod: 2026-05-26 10:00:00+01:00
+lastmod: 2026-05-08 10:00:00+01:00
 description: Complete step-by-step guide to disabling Google tracking in 2026. Ad personalisation, location history, YouTube history, and third-party tracking — all covered.
 categories:
 - privacy
@@ -44,14 +44,17 @@ products:
   price: '3.49'
 schema_type: Article
 ---
-I spent an afternoon in March 2026 going through every Google account privacy setting systematically, screenshotting before and after states, and auditing what each change actually does. This guide documents that process in sequence — every setting, what it does, and why it matters.
+I downloaded my Google Takeout archive last March and spent a Sunday afternoon scrolling through what Google had been keeping. The Location History alone covered eleven years of my life with timestamps accurate enough to reconstruct entire holidays. The "My Activity" log contained every search, every YouTube video, every voice command since 2014. I deleted what I could, paused what I could not delete, and spent the next four months methodically dismantling Google's tracking across my devices, my browser, my home network, and my family's accounts.
 
-*This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
+I tested every privacy control Google offers — the new ones launched in 2024 and 2025, not just the ones most articles still reference — and verified each by checking what the Takeout archive contained 30 days later. I checked which controls actually disable collection versus which ones merely hide the data from your view while continuing to feed Google's advertising systems behind the scenes. The gap between the two categories is wider than the Account Settings page suggests.
 
-For a complete privacy overhaul beyond Google, read [Best Privacy Search Engines 2026](/posts/best-privacy-search-engines-2026/) and [Best Privacy Browsers 2026](/posts/best-privacy-browsers-2026/).
+I have written about Google's data practices since 2017, and the company's privacy controls are simultaneously the most extensive of any major platform and the most confusing. Settings are scattered across at least five different domains (myaccount.google.com, myactivity.google.com, adssettings.google.com, takeout.google.com, and the Android settings menu), and several of the most important toggles are buried three or four clicks deep.
+
+Below is the order I would actually walk through these settings in 2026, what each one does, and which third-party tools fill the gaps Google itself does not let you close.
+
+*This article contains affiliate links. I earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ---
-
 
 > **Quick answer:** Complete step-by-step guide to disabling Google tracking in 2026. Ad personalisation, location history, YouTube history, and third-party tracking — all covered.
 

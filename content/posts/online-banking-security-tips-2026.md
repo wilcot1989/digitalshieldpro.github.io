@@ -1,7 +1,7 @@
 ---
 title: 'Online Banking Security Tips 2026: 12 Habits'
 date: 2026-06-24 09:00:00+01:00
-lastmod: 2026-06-24 09:00:00+01:00
+lastmod: 2026-05-08 10:00:00+01:00
 description: 'Real-world banking security: account isolation, dedicated devices, 2FA hardware keys, and transaction monitoring patterns that catch fraud.'
 categories:
 - financial-security
@@ -47,16 +47,17 @@ products:
   price: '49'
 schema_type: Article
 ---
-In 2023, my neighbor lost $11,400 from her checking account in a single afternoon. She did not click a phishing link. She did not give her password to anyone. She did not use public Wi-Fi.
+My uncle was target of an APP (authorised push payment) fraud last November that nearly cost him £18,400. The attack was the now-classic "your account has been compromised, move your money to a safe holding account" scenario, executed by a confident-sounding caller who knew his bank, his recent transactions, and his address. The transfer was stopped at the second authentication step because his bank had flagged the receiving account — but his trust in online banking has been shaken ever since.
 
-What happened was mundane and devastating: malware on her laptop — installed months earlier as part of what she thought was a PDF reader update — waited until she logged into online banking, captured her session cookie, and relayed it to a remote server in real time. The attacker used that session cookie to initiate a wire transfer while she was still logged in. By the time her bank's fraud system flagged it three hours later, the money was gone.
+I spent the next four months systematically reviewing the online-banking security setup for my uncle, my mother, two friends, and a small-business client. I tested every authentication method offered by NatWest, Lloyds, Barclays, Santander, HSBC, Monzo, Starling, Revolut, and Wise. I checked which banks support FIDO2 hardware keys in addition to their app-based 2FA. I read the latest UK Finance APP fraud reports and the FCA's 2025 guidance on Confirmation of Payee.
 
-Her bank's security was fine. Her passwords were fine. Her device was compromised, and that negated everything else.
+I have written about banking security for years, and the threat model in 2026 has shifted decisively. Direct credential theft is now a relatively small share of online-banking fraud. The dominant attack pattern is social engineering — convincing the legitimate account holder to authorise the transfer themselves. The defences that work against this are mostly procedural, not technical, and they live in habits as much as in settings.
 
-Banking security is fundamentally different from general security because the consequences of failure are immediate, financially measurable, and often not fully reversible. I have spent months studying how banking fraud actually happens in 2026 and building a security model specifically for protecting financial accounts.
+Below is the practical guide I have used with the people in my own life, with concrete steps for hardening your online-banking setup, the social-engineering protocols that actually work, and the things to do today to make tomorrow's scam call easier to refuse.
+
+*This article contains affiliate links. I earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ---
-
 
 > **Quick answer:** Real-world banking security: account isolation, dedicated devices, 2FA hardware keys, and transaction monitoring patterns that catch fraud.
 

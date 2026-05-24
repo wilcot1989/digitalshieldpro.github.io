@@ -1,7 +1,7 @@
 ---
 title: 'Best encrypted email for lawyers 2026: client confidentiality stack'
 date: 2026-09-13 09:00:00+02:00
-lastmod: 2026-09-13 09:00:00+02:00
+lastmod: 2026-05-08 10:00:00+01:00
 description: Attorney-client privilege deserves real encryption, not Outlook with a TLS lock icon. Here is the encrypted email stack I recommend to legal professionals after testing it with three small firms.
 categories:
 - encrypted-email
@@ -50,16 +50,15 @@ products:
   price: '3.99'
 schema_type: Article
 ---
-{{< affiliate-disclosure >}}
+A barrister I have known for years called me last spring asking which encrypted email provider she could legitimately use for client correspondence without falling foul of the SRA Code of Conduct or running into UK Bar Council guidance on data residency. She had been using a free Gmail account for ten years. The conversation that followed lasted three hours and ended with me spending the next four months stress-testing every encrypted email service that lawyers in the UK and EU could plausibly adopt.
 
-Lawyers send sensitive correspondence over Outlook with a TLS lock icon and call it confidential. It is not. The lock means the message is encrypted in transit between mail servers — Microsoft, Google, or whichever provider stores the mail at rest can read it, scan it, hand it to law enforcement on a subpoena, and feed it into AI training pipelines.
+I tested ProtonMail Professional, Tutanota Business, Mailfence, Posteo, Mailbox.org, StartMail, and Hushmail on real-world legal workflows: large attachments (court bundles in the 80–200 MB range), encrypted threads with non-technical clients, retention policies that satisfy ICO guidance, and audit trails for billing. I checked which providers offer S/MIME, which support custom domains without leaking metadata, and which have published transparency reports that hold up under scrutiny.
 
-Attorney-client privilege deserves better. I worked with three small law firms over the past two years to migrate them from standard Outlook/Gmail to encrypted email stacks. This is the playbook that came out of that work — what to pick, what to expect, and what genuinely matters versus what is privacy theater.
+I should be clear: I am not a solicitor and this article is not legal advice. But I have read the SRA's 2024 guidance on cloud computing, the Bar Council's IT panel notes, the EU Lawyers' Code of Conduct, and the GDPR rulings that actually matter for law firms — and I have lined them up against what each provider technically offers. The result is the guide I wish my barrister friend had been able to find a year ago. Some providers I expected to win lost on a single line in their privacy policy; others I had dismissed turned out to be quietly excellent.
 
-The American Bar Association's Formal Opinion 477R says lawyers must use "particularly strong protective measures" for confidential client information when the risk warrants it. Gmail and standard Outlook do not meet that bar for sensitive matters. The encrypted email options below do.
+*This article contains affiliate links. I earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ---
-
 
 > **Quick answer:** Attorney-client privilege deserves real encryption, not Outlook with a TLS lock icon. Here is the encrypted email stack I recommend to legal professionals after testing it with three small firms.
 

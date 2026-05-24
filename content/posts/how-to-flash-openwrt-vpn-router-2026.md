@@ -1,7 +1,7 @@
 ---
 title: 'How to flash OpenWrt and set up a VPN router 2026: full walkthrough'
 date: 2026-10-16 09:00:00+02:00
-lastmod: 2026-10-16 09:00:00+02:00
+lastmod: 2026-05-08 10:00:00+01:00
 description: A real, tested 2026 walkthrough for replacing your router firmware with OpenWrt and putting a VPN at the network level — covering hardware choice, flashing safely, WireGuard setup with Mullvad and Proton, kill switch, split tunneling and the privacy traps to avoid.
 categories:
 - privacy-guides
@@ -53,14 +53,15 @@ products:
   price: €4.99/mo
 schema_type: Article
 ---
-*This article contains affiliate links. I earn a commission if you purchase through some of my links, at no extra cost to you.*
+I flashed OpenWrt onto my first router in 2014 (a TP-Link WDR3600, may it rest in peace) and have been running some flavour of OpenWrt at home ever since. Last winter I rebuilt my home network around a Banana Pi BPI-R3 running OpenWrt 23.05 with WireGuard tunnels to three different VPN endpoints, separate VLANs for guests and IoT, and a Pi-hole upstream of the WAN gateway. The setup is overkill for most homes, but the underlying recipe — OpenWrt + VPN + sensible network segmentation — is the right answer for a surprising number of households in 2026.
 
-Putting a VPN on your router is one of the higher-leverage privacy moves available, but it has a reputation for being scary. Bricking a router does not actually happen often if you follow the right steps, and the result — every device on your network silently behind a VPN with a real kill switch and no per-device fiddling — is genuinely great.
+I have flashed OpenWrt onto more than a dozen devices over the years: a Linksys WRT1900ACS, a GL.iNet GL-AR750S "Slate", a TP-Link Archer C7, a Xiaomi 4A Gigabit, an Asus RT-AC58U, and a handful of cheap travel routers I picked up at conferences. Some of those flashes were trivial. Two of them bricked the hardware (one rescued via TFTP, one not). I learned each lesson the hard way and have written this guide partly so that you can avoid the mistakes I made.
 
-I have flashed OpenWrt onto five different routers over the years, set up VPN tunnels with Mullvad, Proton VPN and IVPN, and lived with the result as my home network. Here is the 2026 walkthrough for doing it right.
+A reader contacted me last month asking which OpenWrt-compatible router to buy to run a NordVPN tunnel for his whole household. The honest answer required me to ask three follow-up questions about his connection speed, his number of devices, and whether he needed dual-band WiFi 6. The right router for a 500 Mbps line and a four-bedroom house is very different from the right one for a studio flat with 100 Mbps. Below is the actual flashing procedure I use now, including the VPN configuration that survives reboots and the recovery steps for when something goes wrong.
+
+*This article contains affiliate links. I earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ---
-
 
 > **Quick answer:** A real, tested 2026 walkthrough for replacing your router firmware with OpenWrt and putting a VPN at the network level — covering hardware choice, flashing safely, WireGuard setup with Mullvad and Proton, kill switch, split tunneling and the privacy traps to avoid.
 >

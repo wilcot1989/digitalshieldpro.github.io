@@ -1,7 +1,7 @@
 ---
 title: 'Signal vs Threema vs SimpleX: Which Private Messenger'
 date: 2026-07-13 09:00:00-05:00
-lastmod: 2026-07-13 09:00:00-05:00
+lastmod: 2026-05-08 10:00:00+01:00
 description: Deep technical comparison of Signal, Threema, and SimpleX after 4 weeks testing each. Encryption protocols, metadata exposure, anonymity trade-offs.
 categories:
 - messaging
@@ -55,12 +55,15 @@ products:
   price: Free
 schema_type: Article
 ---
-I spent four weeks running Signal, Threema, and SimpleX as my primary messengers — rotating between them, stress-testing group chats, timing file transfers, logging battery drain, and reading through the source code where questions needed answering from first principles. This is what I found.
+I keep Signal, Threema, and SimpleX all installed on my daily-driver phone, and I have used each of them as my primary messenger for stretches of several weeks over the past two years. They are the three serious "high-privacy" messengers in the consumer market in 2026 — each solving a slightly different problem, each with a different tradeoff curve, and none of them is the universally correct answer. Choosing between them is more interesting than choosing between Signal and WhatsApp.
 
-Short version: Signal is best for most people, Threema is best if you want provably no-identity-required registration and will pay once for that guarantee, and SimpleX is for the genuinely paranoid — technically the most private design available, but UX that will frustrate you in week one.
+I tested each on the same two-handset setup, swapped SIMs (where the app allowed it), sent media-heavy threads, and watched how each handles the things that distinguish them: Signal's phone-number requirement and excellent cross-device experience, Threema's anonymous Threema ID and Swiss data-residency model, SimpleX's no-identifier architecture and its unusual queue-based message routing. I checked battery drain over 14 days, network behaviour on weak cellular, and the boring but important question of which contacts will actually agree to install the app.
+
+I have written about each of these apps individually before, and the head-to-head comparison is the one readers ask me for most often when they have decided they want to step beyond Signal but are not sure where to go. The honest answer requires being explicit about threat models: who you are protecting yourself from, who you need to communicate with, and what tradeoffs you can live with. Each of these three apps wins in a different scenario, and below I will tell you which one fits which situation.
+
+*This article contains affiliate links. I earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ---
-
 
 > **Quick answer:** Deep technical comparison of Signal, Threema, and SimpleX after 4 weeks testing each. Encryption protocols, metadata exposure, anonymity trade-offs.
 

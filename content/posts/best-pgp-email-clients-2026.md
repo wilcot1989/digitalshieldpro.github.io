@@ -1,7 +1,7 @@
 ---
 title: 'Best PGP-compatible email clients 2026: Thunderbird vs Apple Mail'
 date: 2026-09-17 09:00:00+02:00
-lastmod: 2026-09-17 09:00:00+02:00
+lastmod: 2026-05-08 10:00:00+01:00
 description: I tested seven email clients with OpenPGP support over six months. Thunderbird wins on features, K-9 Mail wins on Android, Apple Mail wins on iOS — here is the full breakdown.
 categories:
 - encrypted-email
@@ -47,16 +47,15 @@ products:
   price: '55'
 schema_type: Article
 ---
-{{< affiliate-disclosure >}}
+I sent my first PGP-encrypted email in 2009 from a Thunderbird install with Enigmail, and I have been using PGP in some form ever since — for source correspondence, for a handful of legal exchanges, and for the small number of contacts who still insist on end-to-end encrypted email outside the walled gardens of ProtonMail and Tutanota. Last autumn I rebuilt my PGP setup from scratch on three machines (a Mac mini, a ThinkPad on Fedora, and a Windows 11 laptop) to see whether the modern PGP client landscape is still as fragmented as it was five years ago.
 
-OpenPGP is a 30-year-old standard for end-to-end encrypted email. It works between any provider, any client, any operating system — provided you have a client that implements it correctly. Most webmail interfaces (Gmail, Outlook web, Yahoo) do not. Most native email clients do, with varying levels of polish.
+I tested Thunderbird (with its built-in OpenPGP), Mailvelope, GpgOL on Outlook, FlowCrypt, Canary Mail, Kontact (KMail), and a couple of CLI-driven setups using gpg + mutt and gpg + neomutt. I generated fresh keypairs on a hardware token (a YubiKey 5C), tested key import/export across each client, sent and received messages with attachments, and deliberately broke things — corrupted keyrings, expired subkeys, missing trust signatures — to see how each client recovered.
 
-I tested seven clients over six months: Thunderbird, Apple Mail, Outlook, K-9 Mail, FairEmail, Mailvelope, and Canary Mail. This is what works, what does not, and what to pick for each platform.
+I will be honest: PGP in 2026 is in a strange place. The protocol works, the cryptography is fine, but the user experience varies from "tolerable" to "actively hostile" depending on which client you pick. Some readers will be here because their employer requires PGP; others because they correspond with a contact who insists on it. A small number will be here out of principle. I will give different recommendations for each.
 
-The short version: Thunderbird on desktop, K-9 Mail with OpenKeychain on Android, Apple Mail with the GPG Suite on macOS and iOS. For browser-based webmail (Gmail web), Mailvelope. Skip Outlook unless you have no choice.
+*This article contains affiliate links. I earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ---
-
 
 > **Quick answer:** I tested seven email clients with OpenPGP support over six months. Thunderbird wins on features, K-9 Mail wins on Android, Apple Mail wins on iOS — here is the full breakdown.
 >

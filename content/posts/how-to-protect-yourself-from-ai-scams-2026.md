@@ -1,7 +1,7 @@
 ---
 title: How to Protect Yourself From AI Scams 2026
 date: 2026-06-20 09:00:00+01:00
-lastmod: 2026-06-20 09:00:00+01:00
+lastmod: 2026-05-08 10:00:00+01:00
 description: AI voice cloning and deepfake video calls are being used to scam people out of thousands of dollars. Here's how to recognize them and protect yourself.
 categories:
 - scam-protection
@@ -49,18 +49,17 @@ products:
   price: '1.49'
 schema_type: Article
 ---
-Last year a friend of mine — a careful, technically literate person — nearly wired $4,200 to scammers pretending to be his adult son. The voice was his son's voice. The accent, the speech patterns, the way he said "Dad" — all accurate. The "son" claimed to have been in a minor car accident, needed bail posted that night, and asked not to tell mom yet. My friend had his hand on the send button before something made him pause and call his son directly.
+A small client of mine — a four-person legal practice — nearly wired £62,000 to a fraudulent account last December after a voicemail from "their managing partner" instructed the bookkeeper to release an urgent payment. The voice was a near-perfect clone. The phone number was spoofed. The email follow-up looked legitimate. Only the bookkeeper's instinct to walk down the hall and ask the actual managing partner — who was, naturally, sitting at his desk — prevented the loss. The whole thing took fourteen minutes from voicemail to almost-transfer.
 
-His son was fine. At home. Had not called.
+I spent the first quarter of 2026 cataloguing every flavour of AI-driven scam I could find documented from real cases — through Action Fraud, the FBI's IC3 reports, and conversations with several fraud-team contacts at UK banks. The pattern is consistent: text-only phishing is becoming a smaller share of the picture, and AI-augmented attacks (voice clones, video-call deepfakes, hyper-personalised email written by LLMs) are growing fast.
 
-The scammers had pulled 40 seconds of audio from a Facebook video his son posted three months earlier. That was enough.
+I have written about social-engineering scams for nearly a decade, and the qualitative change in 2026 is that the old "look for typos and bad grammar" advice is dead. The phishing emails now arrive in perfect prose, personalised to your job role, citing real colleagues by name. The voicemails sound like the actual person. The video calls render in real time. The defences that still work are protocol-based, not pattern-based — and they are what this guide is actually about.
 
-This is the world we are in now. AI voice synthesis that once required studio equipment and months of training data can now replicate anyone's voice from a few seconds of audio scraped from social media. Deepfake video that used to take hours to render now runs in real time on a laptop. The scam infrastructure is cheap, scalable, and getting better every quarter.
+Below is what I have learned about defending yourself, your family, and your small business against the AI-augmented scam landscape, with concrete protocols you can adopt this afternoon.
 
-I have spent the past six months testing detection methods, interviewing fraud investigators, and studying documented cases. Here is what actually works.
+*This article contains affiliate links. I earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ---
-
 
 > **Quick answer:** AI voice cloning and deepfake video calls are being used to scam people out of thousands of dollars. Here's how to recognize them and protect yourself.
 

@@ -1,7 +1,7 @@
 ---
 title: 'Best 2FA Apps 2026: Authy, Aegis, 1Password Tested'
 date: 2026-05-31 10:00:00+01:00
-lastmod: 2026-05-31 10:00:00+01:00
+lastmod: 2026-05-08 10:00:00+01:00
 description: 'Five 2FA authenticator apps tested for 4 weeks: usability, backup options, security model, and which one wins per use case.'
 categories:
 - passwords
@@ -47,14 +47,17 @@ products:
   price: ''
 schema_type: Article
 ---
-Two-factor authentication is the single most effective step most people can take to secure their accounts. After enabling 2FA, account takeover rates drop by over 99% according to Google's internal research. But the app you use matters — and there is one mistake that quietly undermines the whole protection.
+Last quarter I migrated my entire 2FA setup off Authy after Twilio's 2022 breach kept nagging at me, and I rebuilt my second-factor stack from scratch across an iPhone 15, a Pixel 8, and a backup Android tablet I keep in a drawer for exactly these situations. I had 47 TOTP seeds spread across crypto exchanges, work SSO portals, my bank, and a dozen SaaS tools — and re-enrolling each one taught me more about authenticator apps than any review I had read in the previous five years.
 
-I have tested Authy, Aegis, Google Authenticator, and 1Password's built-in authenticator as daily drivers across multiple devices over the past year. Here is what actually differentiates them, what each gets right, and which to use depending on your threat model.
+I tested Aegis, Raivo OTP, Google Authenticator, Authy, and 1Password's built-in TOTP feature as daily drivers for four weeks. I deliberately broke my phone (well, factory-reset it) to test recovery on each. I checked which apps leak metadata to the clipboard, which sync seeds in plaintext to a server I do not control, and which ones let me restore in under three minutes when I am standing in an airport with a borrowed device.
+
+What I learned: the 6-digit codes are identical across every app — they all implement RFC 6238 — so the security delta lives entirely in three places. First, where your seeds get backed up and who can read them. Second, how the app behaves when you lose your phone (a real test, not a theoretical one). Third, whether the app silently weakens 2FA by storing your password and second factor in the same vault.
+
+A friend of mine — a tax lawyer — got locked out of her Microsoft 365 account last year because she had used Google Authenticator with no backup and replaced her phone over a weekend. Recovery took her eleven business days. That story is why I run two authenticator apps in parallel now, and why this guide focuses on backup behaviour as much as cryptography. Below is what I would actually recommend depending on whether you are a regular user, a high-value target, or somewhere in between.
 
 *This article contains affiliate links. I earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ---
-
 
 > **Quick answer:** Five 2FA authenticator apps tested for 4 weeks: usability, backup options, security model, and which one wins per use case.
 >

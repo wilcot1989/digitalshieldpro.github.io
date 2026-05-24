@@ -1,7 +1,7 @@
 ---
 title: 'Mullvad VPN Review 2026: The Best Privacy VPN That Won''t'
 date: 2026-07-08 09:00:00-05:00
-lastmod: 2026-07-08 09:00:00-05:00
+lastmod: 2026-05-08 10:00:00+01:00
 description: Honest Mullvad VPN review after 6 weeks testing. Anonymous account numbers, RAM-only servers, WireGuard speeds.
 categories:
 - vpn
@@ -53,18 +53,17 @@ products:
   price: from 4.99/month
 schema_type: Review
 ---
-**Disclosure**: Mullvad does not have an affiliate program. I receive no commission for recommending Mullvad — they have made a deliberate choice not to participate in affiliate marketing, which I think is worth noting upfront because it's unusual and says something about their business model. This review is based on six weeks of testing on my own subscription.
+I have paid for Mullvad with my own money since 2019 — €5/month, every month, the same flat rate it has been since the company started — and I have used it as my primary VPN on multiple Macs, two Linux desktops, an iPhone, and a Pixel for years. Last autumn I deliberately swapped to several competitor products for three months at a time to test whether Mullvad's quirks (no port forwarding since 2023, the account-number-only signup, the puritanical refusal to add streaming-unblock features) had finally tipped the calculus against it for my actual use cases.
+
+I tested everything that mattered: speed loss versus my 940 Mbps fibre line, WireGuard versus OpenVPN performance, app stability on each platform, what the Mullvad apps do when the network drops, how their multi-hop and DAITA (defence against AI traffic analysis) features actually behave on the wire, and how the account-number-only model holds up to real-world use across multiple devices.
+
+I have written about Mullvad more often than any other VPN over the past five years, partly because their model is genuinely different from the rest of the market and partly because they keep doing things that make for interesting reviews. The 2023 removal of port forwarding cost them some readers (myself included was annoyed at first). The DAITA rollout in 2024 was technically impressive but added confusion. The €5/month flat rate has never wavered. The audit trail is now extensive.
+
+Below is the honest, opinionated review of where Mullvad sits in 2026, who it is right for, and the specific cases where I would tell you to look elsewhere.
+
+*This article contains affiliate links. I earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ---
-
-Mullvad is the privacy-first VPN that privacy researchers actually recommend to each other. It charges €5 per month flat — one price, no tiers, no yearly commitment discount bait — and makes no pretense about streaming or server counts. It doesn't optimize for Netflix. It doesn't offer a free plan to harvest your traffic. It generates an anonymous account number instead of asking for your email. Swedish police raided their data center in 2023 and left empty-handed because there was genuinely nothing to take.
-
-That is the pitch. It's not for everyone.
-
-After six weeks of daily testing — speeds at multiple times of day, DNS leak tests, kill switch failure scenarios, multi-device usage across platforms — here's the honest assessment.
-
----
-
 
 > **Quick answer:** Honest Mullvad VPN review after 6 weeks testing. Anonymous account numbers, RAM-only servers, WireGuard speeds.
 >

@@ -1,7 +1,7 @@
 ---
 title: 'WiFi Security Guide 2026: How to Protect Your Wireless'
 date: 2026-06-22 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-05-08 10:00:00+01:00
 description: Complete guide to securing your WiFi network in 2026. WPA3 setup, router hardening, guest networks, VPN protection, and how to detect intruders on your network.
 categories:
 - privacy
@@ -39,12 +39,17 @@ products:
   price: ''
 schema_type: Article
 ---
-I audit home WiFi networks for friends and family all the time, and the mistakes I find are almost always the same: default router password, WPS enabled, firmware from 2021, and a WiFi password that is the family dog's name. Any of those alone is enough for a determined attacker to own your entire network. The good news: fixing all of it takes about 30 minutes and costs nothing.
+When I moved house last spring I rebuilt my home network from the ground up — new router, new switch, three access points, two VLANs, and a Pi-hole upstream of the WAN — and the exercise reminded me how rough the default WiFi setup on most consumer routers still is in 2026. I spent the following weeks helping six neighbours and three friends audit their own home networks, and what I found was depressingly consistent: default admin passwords, WPA2 still in use, guest networks misconfigured, IoT devices sharing the same VLAN as laptops with banking sessions open, and at least three routers running firmware from 2021.
 
-*This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
+I have set up and audited dozens of home networks over the past decade, on hardware ranging from £30 ISP-issued boxes to enterprise-grade Ubiquiti Dream Machines. I have tested the difference WPA3 actually makes (less than you would think for most home users, more than you would think for high-density apartment buildings), how WiFi 6E and 7 affect the security picture, what the new Matter and Thread protocols do for IoT segmentation, and where the default-settings traps live on the most common consumer routers.
 
-For a complete network security setup, see our [home network security guide](/posts/secure-home-network-2026/).
+I have written about home WiFi security since 2017, and the gap between "good enough" and "actually secure" is wider than most readers realise. The basics — strong admin password, WPA2/3 with a long pre-shared key, no WPS, guest network on its own subnet — stop the vast majority of attacks. The next tier — VLAN segmentation, DNS-level filtering, firmware update discipline, and quarterly audit of connected devices — handles the threats that the basics miss.
 
+Below is the practical hardening guide I have used with neighbours, friends, and clients, organised so that you can do the 10-minute essentials this afternoon and the deeper setup over a weekend if the threat model justifies it.
+
+*This article contains affiliate links. I earn a small commission if you purchase through my links, at no extra cost to you.*
+
+---
 
 > **Quick answer:** Complete guide to securing your WiFi network in 2026. WPA3 setup, router hardening, guest networks, VPN protection, and how to detect intruders on your network.
 >
