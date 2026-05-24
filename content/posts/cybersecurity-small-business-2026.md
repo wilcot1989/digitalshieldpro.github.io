@@ -39,7 +39,6 @@ products:
   price: ''
 schema_type: Article
 ---
-
 I consult with small businesses on security, and the pattern is always the same: they assume attackers only go after big companies. Then a single phishing email leads to ransomware, and suddenly they are staring at a €120,000 recovery bill. Small businesses are the #1 target precisely because they have valuable data and minimal defenses. The good news is that fixing this does not require an enterprise budget -- here is exactly what to do.
 
 *This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
@@ -48,6 +47,11 @@ Already have basic protection? Level up with our [endpoint security comparison](
 
 
 🌍 *Moving to the EU? See also [EU banking privacy guide](https://expatnetherlandshub.com/blog/best-banking-expats-netherlands-2026/).*
+
+
+> **Quick answer:** Complete cybersecurity guide for small businesses in 2026. Affordable security tools, employee training, compliance requirements.
+>
+> Industry guidance suggests 5-10% of your IT budget, which translates to €100-€500/month for most small businesses. This covers endpoint security (€3-€8/device/month), email security (€2-€5/user/month), backup (€5-€15/month), password manager (€3-€5/user/month), and VPN (€4-€10/month). The cost of a breach averages €120,000 for SMBs.
 
 ## The Small Business Security Stack
 
@@ -375,3 +379,7 @@ Cybersecurity for small businesses isn't about spending thousands per month — 
 ---
 
 *Last updated: June 2026.*
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

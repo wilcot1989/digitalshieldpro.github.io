@@ -39,12 +39,14 @@ faq:
 products: []
 schema_type: Article
 ---
-
 I have spent more time than I am comfortable admitting reading state privacy legislation. The punchwork of laws across US states is genuinely complex — and the rights you have to demand data broker deletion depend entirely on where you live. This guide maps out what each state's law actually lets you do, with practical steps for exercising your rights in each jurisdiction.
 
 Fair warning: this is a rapidly changing landscape. State laws passed in 2023 are still being implemented. Several states have passed laws in 2024–2026 that are phasing in. I have tried to be accurate about implementation dates, but verify current status before taking action in your state.
 
 ---
+
+
+> **Quick answer:** Your data broker opt-out rights depend entirely on where you live. I map out what California CCPA, Texas TDPSA, Vermont, Virginia.
 
 ## The Federal Baseline: What Protects Everyone (Sort Of)
 
@@ -423,3 +425,7 @@ The underlying message for consumers: your rights today depend on where you live
 - [Data Broker Removal Family Plans 2026](/posts/data-broker-removal-family-plan-2026/)
 - [Data Broker Removal Guide for EU Residents 2026](/posts/data-broker-removal-guide-eu-2026/)
 - [How Data Brokers Collect Your Data: The Complete 2026 Guide](/posts/how-data-brokers-collect-your-data-2026/)
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

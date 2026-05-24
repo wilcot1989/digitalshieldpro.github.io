@@ -55,7 +55,6 @@ products:
   price: '3.49'
 schema_type: Review
 ---
-
 Eight weeks ago I started an unusually thorough ProtonVPN test. I ran daily speed tests across 12 server locations, tried to break the kill switch in six different ways, verified streaming on four Netflix libraries plus BBC iPlayer, and pushed the free tier as hard as I could to see where it breaks down.
 
 The short version: ProtonVPN is the best privacy-first VPN in 2026. Not the fastest on the market, not the cheapest on a long-term plan, but the most defensible choice for anyone who takes the privacy rationale seriously. The free tier alone is worth the account — I've never seen a free VPN this honest.
@@ -63,6 +62,11 @@ The short version: ProtonVPN is the best privacy-first VPN in 2026. Not the fast
 *Disclosure: This review contains affiliate links to ProtonVPN and NordVPN. If you sign up through my links, I may receive a commission at no extra cost to you. I tested ProtonVPN using a paid Plus account (€4.99/month, paid out of pocket) and the free tier on a separate device. My ProtonMail account is also through Proton — I'm a paying Proton customer independently of this review.*
 
 ---
+
+
+> **Quick answer:** ProtonVPN has the best free VPN tier in existence and Swiss jurisdiction. After 8 weeks of speed tests, streaming verification, and kill switch abuse.
+>
+> Yes — and it's the only free VPN I'd recommend without caveats. The free tier gives you unlimited data, no ads, and no logs. The tradeoffs are real though: 3 server locations only (US, Netherlands, Romania), speeds that average 30–50% of paid tier, and 1 device maximum. For occasional privacy use or testing the product, it's excellent. For daily use, streaming, or P2P, upgrade to Plus.
 
 ## What Is ProtonVPN?
 
@@ -423,3 +427,7 @@ For privacy-first users: this is the standard.
 - [Best VPN Services 2026](/posts/best-vpn-services-2026/)
 - [ProtonMail Review 2026](/posts/protonmail-review-2026/)
 - [Mullvad VPN Review 2026](/posts/mullvad-vpn-review-2026/)
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

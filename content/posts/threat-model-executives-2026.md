@@ -44,12 +44,16 @@ faq:
 - q: 'Where do I start if I am brand new to this?'
   a: 'Pick one habit, do it for two weeks, then add the next. Trying to install five privacy tools in one weekend is how people give up. The order I recommend: password manager, 2FA app, encrypted email, then everything else.'
 ---
-
 Executives are not phished by accident. They are phished because the attackers studied them for weeks.
 
 I run security workshops for C-suite executives at mid-market companies. Here is the threat model that has held up.
 
 *Disclosure: this article contains affiliate links. If you sign up through them I may earn a commission at no extra cost to you. I only recommend products I have personally tested and would use myself. My recommendations do not change based on commissions.*
+
+
+> **Quick answer:** Executives are targeted with deepfake CEO calls and invoice fraud. Honest threat model covering personal devices, family, and the assistant with calendar access.
+>
+> No. I bought every product or service mentioned with my own money. I do use affiliate links, they cost you nothing extra and they do not change my opinions. If a tool I recommended started disappointing me, this article would change before the affiliate link did.
 
 ## The threat model
 
@@ -148,3 +152,7 @@ For a wider view of how this fits together, see my [best privacy stack](/posts/b
 Privacy work compounds. Every habit you build, every account you migrate, every default you change subtracts a small amount of risk that adds up over years. Picking the right tool from this article is the start, not the finish. The follow-through is what actually moves your exposure.
 
 If this is your first read on the topic, bookmark it and come back in a month after you have lived with the changes. The second read is where the implications click.
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

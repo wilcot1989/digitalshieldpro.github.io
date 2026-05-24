@@ -53,7 +53,6 @@ products:
   price: €4.99/mo
 schema_type: Article
 ---
-
 *This article contains affiliate links. I earn a commission if you purchase through some of my links, at no extra cost to you.*
 
 Putting a VPN on your router is one of the higher-leverage privacy moves available, but it has a reputation for being scary. Bricking a router does not actually happen often if you follow the right steps, and the result — every device on your network silently behind a VPN with a real kill switch and no per-device fiddling — is genuinely great.
@@ -61,6 +60,11 @@ Putting a VPN on your router is one of the higher-leverage privacy moves availab
 I have flashed OpenWrt onto five different routers over the years, set up VPN tunnels with Mullvad, Proton VPN and IVPN, and lived with the result as my home network. Here is the 2026 walkthrough for doing it right.
 
 ---
+
+
+> **Quick answer:** A real, tested 2026 walkthrough for replacing your router firmware with OpenWrt and putting a VPN at the network level — covering hardware choice, flashing safely, WireGuard setup with Mullvad and Proton, kill switch, split tunneling and the privacy traps to avoid.
+>
+> Three reasons. First, every device is covered automatically — TVs, doorbells, smart bulbs that cannot run a VPN client are now behind one. Second, your real IP never leaks during VPN client reconnects on a phone. Third, guests on your Wi-Fi inherit your privacy posture without setup. The trade-offs: slightly lower throughput than a desktop client, single point of failure, less per-device control.
 
 ## What you actually want to achieve
 
@@ -288,3 +292,7 @@ A VPN router with OpenWrt is not as scary as the internet makes it sound. The cr
 - Install policy-based routing for the inevitable "this site does not like VPN" exceptions
 
 Total cost: ~$170 hardware, ~€5/month service, one Saturday afternoon. The result is a network that works exactly the way you want, with zero per-device VPN drama, for years.
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

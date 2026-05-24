@@ -38,7 +38,6 @@ faq:
   - q: "Will spam filters flag aliased email as suspicious?"
     a: "No. Properly configured aliases (with SPF, DKIM, DMARC on your custom domain) deliver normally. The forwarding service handles signing. I have sent 1000+ emails through aliases in 2026 with no deliverability issues to Gmail, Outlook, Yahoo, or corporate inboxes."
 ---
-
 If you use the same email address for everything — your bank, your newsletter signups, your Amazon account, your dating app — you are leaking yourself across the internet on a single identifier. Email aliases fix this.
 
 This guide is the exact setup I use. It has been refined over 18 months of running aliases through SimpleLogin, AnonAddy, and Firefox Relay across hundreds of services. Follow it and you will have a privacy-respecting, breach-resilient email setup in 90 minutes.
@@ -46,6 +45,11 @@ This guide is the exact setup I use. It has been refined over 18 months of runni
 *This article contains affiliate links to ProtonMail (which owns SimpleLogin). I earn a commission if you purchase through my links, at no extra cost to you.*
 
 ---
+
+
+> **Quick answer:** Email aliases stop spam, isolate breaches, and end cross-site tracking. Here is the exact setup I use, with screenshots and config for every major provider.
+>
+> About 90 minutes for the full setup including custom domain. Quick start (no custom domain) takes 10 minutes — sign up for SimpleLogin, install the browser extension, generate your first alias. Custom domain setup adds 25-45 minutes for DNS propagation. Full migration of existing services to use aliases happens gradually over weeks.
 
 ## Why Email Aliases Are the Highest-Leverage Privacy Move
 
@@ -364,3 +368,7 @@ For the bundled email + aliases solution: <a href="https://go.digitalshieldpro.c
 - [Encrypted email vs PGP 2026](/posts/encrypted-email-vs-pgp-2026/)
 - [Best privacy stack 2026](/posts/best-privacy-stack-2026/)
 - [How to migrate from Gmail to ProtonMail](/posts/how-to-migrate-from-gmail-to-protonmail-2026/)
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

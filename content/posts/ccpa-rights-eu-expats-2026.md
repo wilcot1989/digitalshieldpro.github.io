@@ -37,7 +37,6 @@ faq:
   - q: "What is the single biggest mistake people make here?"
     a: "Treating tools as a substitute for behaviour. Ccpa rights for eu expats can be set up perfectly and still fail because the user emails the same sensitive content from a different account, or installs malware on the device, or syncs to a backup that is not encrypted. The tooling reduces risk only if behaviour matches the tooling. I cover the behaviour layer in section 6."
 ---
-
 I have spent the past several months testing tooling and workflows specifically for CCPA rights for EU expats. This article is the writeup — what I tried, what I kept, and what I would tell a friend in this situation tonight.
 
 If you are part of the audience this is written for — EU residents recently relocated to California navigating a privacy law that looks familiar but isn't — the goal here is not to dump every privacy tool on your doorstep. It is to give you a calibrated stack that matches the realistic threat profile.
@@ -45,6 +44,9 @@ If you are part of the audience this is written for — EU residents recently re
 *This article contains affiliate links. I earn a commission if you purchase through my links, at no extra cost to you.*
 
 ---
+
+
+> **Quick answer:** Moving to California from the EU? CCPA looks like GDPR-lite but has different teeth. Here is how to actually use it as an expat.
 
 ## TL;DR — What I'd Tell You in 90 Seconds
 
@@ -324,3 +326,7 @@ For the VPN that hides your connections: <a href="https://go.digitalshieldpro.co
 - [Best secure cloud storage](/posts/best-secure-cloud-storage-2026/)
 - [Best VPN services](/posts/best-vpn-services-2026/)
 - [Best secure messaging apps](/posts/best-secure-messaging-apps-2026/)
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

@@ -50,7 +50,6 @@ products:
   price: '9.99'
 schema_type: Article
 ---
-
 {{< affiliate-disclosure >}}
 
 Two encrypted email services come up in every privacy conversation: Proton Mail and Tuta. Both are zero-access encrypted, both have free tiers, both have a long track record. People want to know which one to pick.
@@ -60,6 +59,9 @@ I ran both as primary email accounts in parallel for 90 days. Two phones, two la
 If you want the short version: Proton Mail wins for ecosystem, Tuta wins for cryptographic future-proofing. Below is the long version with the rough edges I hit on each.
 
 ---
+
+
+> **Quick answer:** I ran Tuta and Proton Mail in parallel for 90 days. Tuta wins on cryptographic future-proofing, Proton wins on ecosystem. The right answer depends on what you value most.
 
 ## The companies
 
@@ -211,3 +213,7 @@ For comparison context, see also [Mailfence review](/posts/mailfence-review-2026
 Both Tuta and Proton Mail are correct answers. The cryptographic foundation of both is strong enough that you cannot make a wrong choice between them.
 
 Pick Proton if you value mobile polish, ecosystem bundling, and a smoother on-ramp from Gmail. Pick Tuta if you value cryptographic future-proofing, lower price, and a focused product. Either way, you are in dramatically better privacy posture than Gmail.
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

@@ -38,7 +38,6 @@ faq:
   - q: "What about hardware-level security like Pixel + GrapheneOS?"
     a: "GrapheneOS on a Pixel device is the most secure consumer mobile platform in 2026. For journalists and activists, it is meaningfully better than stock iOS or Android. Combine with hardware security keys, no Google services, and minimal app installs. For desktop, dedicated Linux on a non-cloud-connected machine is comparable."
 ---
-
 Most "best encrypted email" articles are written for general privacy-aware users. This article is not.
 
 This is for journalists working on sensitive stories, activists in hostile environments, NGO workers in countries where their work is criminalized, lawyers handling cases with adversarial state interest, and anyone whose threat model includes state-level surveillance directed specifically at them.
@@ -50,6 +49,9 @@ If your threat model is "I have sources whose lives could be at risk if my email
 *This article contains affiliate links. I earn a commission if you purchase through my links, at no extra cost to you.*
 
 ---
+
+
+> **Quick answer:** High-threat users need more than ProtonMail's defaults. I rebuilt my email setup for hostile-environment use and tested it. Here is what actually holds up.
 
 ## Threat Model First
 
@@ -314,3 +316,7 @@ If your work involves protecting sources whose lives or freedom may be at risk, 
 - [Encrypted email jurisdiction guide](/posts/encrypted-email-jurisdiction-guide-2026/)
 - [Best secure messaging apps 2026](/posts/best-secure-messaging-apps-2026/)
 - [Linux privacy distros 2026](/posts/linux-privacy-distros-2026/)
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

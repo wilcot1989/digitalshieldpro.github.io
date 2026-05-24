@@ -45,7 +45,6 @@ products:
   price: ''
 schema_type: Article
 ---
-
 I set up a fresh Windows 11 Home install last month and ran Wireshark for the first hour. The telemetry traffic was constant — connection attempts to `settings-win.data.microsoft.com`, `vortex.data.microsoft.com`, `watson.telemetry.microsoft.com`, and a dozen more Microsoft endpoints. Before I had even opened a single app or typed a search query, Windows had already sent several megabytes of data home.
 
 This is not a conspiracy theory. It is designed behavior, documented in Microsoft's privacy statement. The question is not whether Windows collects data — it does — but how much of it you are willing to hand over and how to reduce that surface area.
@@ -53,6 +52,9 @@ This is not a conspiracy theory. It is designed behavior, documented in Microsof
 I have been locking down Windows 11 machines for clients since the OS launched. This guide covers every meaningful privacy setting, what it actually does, and the specific steps to change it. I also cover the Recall AI feature, which is new enough that most guides still miss it.
 
 ---
+
+
+> **Quick answer:** Microsoft's telemetry, Recall AI, and advertising features send your data by default. Here's exactly how to lock down Windows 11 for maximum privacy in 2026.
 
 ## What Windows 11 Collects by Default
 
@@ -323,3 +325,7 @@ Re-check these settings after every major Windows feature update. And for the th
 - [Facebook & Instagram Privacy 2026: Lockdown Guide](/posts/facebook-instagram-privacy-settings-2026/)
 - [Best Antivirus for Windows 11 in 2026](/posts/best-antivirus-for-windows-11-2026/)
 - [Build Your Complete Digital Privacy Stack 2026](/posts/best-privacy-stack-2026/)
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

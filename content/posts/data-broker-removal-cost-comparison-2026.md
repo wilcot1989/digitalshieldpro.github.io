@@ -46,7 +46,6 @@ products:
   price: $10.75/mo (annual)
 schema_type: Article
 ---
-
 I get asked one question about data broker removal more than any other: "Is it actually worth paying for, or should I just do it myself?" The honest answer requires doing real math — not just comparing subscription prices, but calculating the true annual cost of each approach including your time.
 
 I have tested every major paid service and spent months doing manual removal myself. Here is the full cost breakdown.
@@ -54,6 +53,11 @@ I have tested every major paid service and spent months doing manual removal mys
 *This article contains affiliate links. I earn a commission if you purchase through my links, at no extra cost to you.*
 
 ---
+
+
+> **Quick answer:** What does data broker removal actually cost you — in money and time? I break down the true annual cost of DIY removal versus every major paid service.
+>
+> Incogni at $6.49/month (billed annually at $77.88/year) is the most affordable major data broker removal service. Optery Core at $3.99/month covers fewer brokers than Incogni's full plan. For the combination of price and comprehensive coverage, Incogni is the best value.
 
 ## The True Cost Framework
 
@@ -443,3 +447,7 @@ At $77.88/year, Incogni is less than the cost of a streaming service subscriptio
 - [Data Broker Laws By State 2026: What CCPA, Texas](/posts/data-broker-laws-by-state-2026/)
 - [How Data Brokers Collect Your Data: The Complete 2026 Guide](/posts/how-data-brokers-collect-your-data-2026/)
 - [How to Check If Your Personal Data Has Been Leaked](/posts/how-to-check-if-your-data-has-been-leaked-2026/)
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

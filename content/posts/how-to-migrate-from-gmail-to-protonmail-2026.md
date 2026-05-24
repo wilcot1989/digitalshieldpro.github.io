@@ -42,7 +42,6 @@ products:
   price: Free / from $3.99/month
 schema_type: Article
 ---
-
 I spent eight years building a Gmail inbox. By the time I decided to migrate, I had over 40,000 messages, 1,200 contacts, and 14 calendars synced across every device I own. The idea of moving all of it felt paralyzing.
 
 It took me one weekend. Not because it is easy — there are genuinely annoying steps — but because I mapped out the process before starting and did not skip anything. This guide is that map, written from my own migration experience plus testing ProtonMail's Easy Switch tool on three separate accounts since they launched it.
@@ -52,6 +51,11 @@ I will walk you through importing your email, exporting contacts, migrating your
 *This article contains affiliate links. I earn a small commission if you sign up for ProtonMail through my links, at no extra cost to you.*
 
 ---
+
+
+> **Quick answer:** I migrated my Gmail account to ProtonMail — 8 years of email, 40,000 messages, contacts and calendar.
+>
+> The technical migration takes 1–4 hours depending on your mailbox size. ProtonMail's Easy Switch tool imports at roughly 2,000–5,000 messages per hour. A 20,000-message inbox typically completes overnight. The full transition — updating your address with every service, routing important mail, notifying contacts — realistically takes 2–4 weeks.
 
 ## Why Migrate From Gmail to ProtonMail?
 

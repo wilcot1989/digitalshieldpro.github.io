@@ -42,7 +42,6 @@ products:
   price: ''
 schema_type: Article
 ---
-
 I run a segmented home network with VLANs separating my work machines, IoT devices, and guest traffic on a pfSense firewall. I've been doing this for over a decade. But here is what I've learned: you don't need my setup to be secure. What you need is to get the basics right -- and most people don't.
 
 After auditing dozens of home networks for friends, family, and readers, the same problems keep showing up. Default router passwords. Firmware from 2021. Every device on a single flat network. A smart camera streaming video over the same WiFi your laptop uses for online banking.
@@ -50,6 +49,11 @@ After auditing dozens of home networks for friends, family, and readers, the sam
 This guide walks you through securing your home network in 7 concrete steps. No expensive equipment required. If you follow everything below, your network will be more secure than 95% of households. That is not a guess -- it is based on what I see when I scan the networks around me.
 
 *This article contains affiliate links. I earn a small commission if you purchase through my links, at no extra cost to you.*
+
+
+> **Quick answer:** Secure your home network in 7 steps: router hardening, WPA3, VLANs, VPN setup and device protection. Tested by a cybersecurity analyst.
+>
+> Start with three critical steps: change your router's default admin password, update the firmware to the latest version, and switch to WPA3 encryption (or WPA2-AES at minimum). Then create a separate guest network for IoT devices, enable the built-in SPI firewall, and disable WPS and UPnP. These six changes alone put you ahead of 95% of households.
 
 ## Step 1: Lock Down Your Router (The Most Important Step)
 

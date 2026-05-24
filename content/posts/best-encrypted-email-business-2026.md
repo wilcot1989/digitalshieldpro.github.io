@@ -49,7 +49,6 @@ products:
   price: From $5/user/month
 schema_type: Article
 ---
-
 Three months ago I ran a test I have been meaning to do for a while: I set up actual business teams on Proton for Business, Tuta for Business, Fastmail Business, and StartMail Business, and used each one as the primary work email for a two-week rotation.
 
 Not just clicking around the admin panel. Actually using them — sending and receiving client email, setting up team aliases, testing mobile apps, integrating with calendar, dealing with edge cases. Four providers, eight weeks of real use, one honest comparison.
@@ -59,6 +58,9 @@ Here is what I found.
 *This article contains affiliate links. I earn a small commission if you sign up through my links, at no extra cost to you.*
 
 ---
+
+
+> **Quick answer:** I tested Proton Business, Tuta for Business, Fastmail Business, and StartMail Business over 3 months.
 
 ## Why Business Email Is Different From Personal Email
 
@@ -379,3 +381,7 @@ My pick for most business use cases: **Proton for Business** if budget allows, *
 ---
 
 *Pricing verified August 2026. Exchange rates approximate.*
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

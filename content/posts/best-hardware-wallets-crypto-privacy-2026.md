@@ -53,7 +53,6 @@ products:
   price: $147
 schema_type: Article
 ---
-
 *This article is informational. I hold positions in Bitcoin and Ethereum and use the wallets discussed here for real money. None of this is financial advice.*
 
 A hardware wallet is the single most important piece of equipment for anyone holding non-trivial crypto. It is also the piece of equipment people get wrong most often — by buying the wrong one, by buying it from the wrong place, or by setting it up in a way that leaks the seed.
@@ -61,6 +60,9 @@ A hardware wallet is the single most important piece of equipment for anyone hol
 I have used Trezor, Ledger and ColdCard to hold real money for years. I have done the firmware updates, the recovery drills, the multi-sig migrations and the awkward conversations with relatives about why their seed phrase cannot live on Google Drive. Here is what I actually think in 2026.
 
 ---
+
+
+> **Quick answer:** I have used Trezor, Ledger and ColdCard to hold real money for years. Here is the honest 2026 review of which hardware wallet protects your keys, your privacy and your sanity — including the awkward parts about Ledger Recover and supply-chain attacks nobody talks about.
 
 ## What a hardware wallet protects against — and what it does not
 
@@ -216,3 +218,7 @@ For a single-sig user holding meaningful crypto in 2026:
 - **Multi-coin, polished UX, willing to trust vendor:** <a href="https://www.ledger.com" target="_blank" rel="nofollow sponsored noopener">Ledger Nano X</a>.
 
 For multi-sig, get one of each. Spread the risk, sleep at night, and stop checking your balances at 3am.
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

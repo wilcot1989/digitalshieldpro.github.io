@@ -46,7 +46,6 @@ products:
   price: '1.49'
 schema_type: Article
 ---
-
 A few months ago I gave a presentation on web tracking to a security meetup group. I asked the audience who uses ad blockers — about 80% raised their hands. Then I asked who thought that protected them from tracking. Same 80% kept their hands up.
 
 That's the problem with browser fingerprinting. People know about cookies and have taken steps to address them. Fingerprinting largely flies under the radar, and it's become the dominant tracking method for advertisers who need cookie alternatives as browser vendors deprecate third-party cookies.
@@ -54,6 +53,11 @@ That's the problem with browser fingerprinting. People know about cookies and ha
 Here's how it works, what information sites can actually collect about you, and what I found when I tested Brave, Firefox, and Tor Browser against real fingerprinting detection services.
 
 ---
+
+
+> **Quick answer:** Browser fingerprinting tracks you without cookies using your device's unique configuration. I tested Brave, Firefox, and Tor Browser to see what actually works.
+>
+> Browser fingerprinting is a tracking method that identifies you by collecting a combination of technical characteristics about your browser and device — screen resolution, fonts, plugins, GPU, time zone, language settings, and dozens more. These properties are combined into a unique 'fingerprint' that identifies you across websites without storing anything on your device.
 
 ## What Browser Fingerprinting Actually Is
 
@@ -363,3 +367,7 @@ Mobile browsers present a different fingerprinting surface than desktop:
 - [Best Privacy Browsers in 2026: Top 7 for Maximum Security](/posts/best-privacy-browsers-2026/)
 - [Best Secure Mobile Browsers 2026: Brave, Firefox](/posts/best-secure-browsers-mobile-2026/)
 - [How to Stay Anonymous Online 2026: Tor + VPN Stack](/posts/how-to-stay-anonymous-online-2026/)
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

@@ -45,12 +45,16 @@ faq:
 - q: 'Where do I start if I am brand new to this?'
   a: 'Pick one habit, do it for two weeks, then add the next. Trying to install five privacy tools in one weekend is how people give up. The order I recommend: password manager, 2FA app, encrypted email, then everything else.'
 ---
-
 Brave Search is the only major engine in 2026 with its own index. DuckDuckGo is still mostly Bing in a different coat.
 
 I logged identical queries through both engines for six months. Here is what the data and my workflow actually showed.
 
 *Disclosure: this article contains affiliate links. If you sign up through them I may earn a commission at no extra cost to you. I only recommend products I have personally tested and would use myself. My recommendations do not change based on commissions.*
+
+
+> **Quick answer:** I ran the same 2,400 queries through DuckDuckGo and Brave Search over six months. Honest comparison of relevance, privacy, and the dependency nobody mentions.
+>
+> No. I bought every product or service mentioned with my own money. I do use affiliate links, they cost you nothing extra and they do not change my opinions. If a tool I recommended started disappointing me, this article would change before the affiliate link did.
 
 ## The independence question
 
@@ -149,3 +153,7 @@ For a wider view of how this fits together, see my [best privacy stack](/posts/b
 Privacy work compounds. Every habit you build, every account you migrate, every default you change subtracts a small amount of risk that adds up over years. Picking the right tool from this article is the start, not the finish. The follow-through is what actually moves your exposure.
 
 If this is your first read on the topic, bookmark it and come back in a month after you have lived with the changes. The second read is where the implications click.
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

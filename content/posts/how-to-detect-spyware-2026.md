@@ -49,7 +49,6 @@ products:
   price: ''
 schema_type: Article
 ---
-
 In 2021, a consortium of 17 news organizations published the Pegasus Project — a detailed investigation showing that NSO Group's Pegasus spyware had been used to infect the phones of journalists, human rights lawyers, and heads of state across multiple countries. The targets included people in France, India, Mexico, Saudi Arabia, and dozens of other nations.
 
 Pegasus is not the only spyware that matters. For every high-profile nation-state tool, there are thousands of cases of consumer stalkerware — cheap apps installed by abusive partners, controlling family members, or overzealous employers. The detection methods differ significantly by threat level.
@@ -59,6 +58,9 @@ This guide covers the full spectrum, from what to check yourself to when profess
 *This article contains affiliate links. I earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ---
+
+
+> **Quick answer:** Detection tools and behavioral signs for state-grade and consumer spyware. Real cases plus what scanners actually catch in 2026.
 
 ## Understanding the Spyware Threat Landscape
 
@@ -324,3 +326,7 @@ Spyware, at every tier, is a serious threat. Consumer stalkerware is a tool of c
 - [Best Antivirus for Android in 2026: Top Mobile Security Apps](/posts/best-antivirus-for-android-2026/)
 - [How to Detect Keyloggers in 2026: Hardware and Software Methods](/posts/how-to-detect-keyloggers-2026/)
 - [Best Anti-Malware Software 2026: Top 5 Tools Compared](/posts/best-anti-malware-software-2026/)
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

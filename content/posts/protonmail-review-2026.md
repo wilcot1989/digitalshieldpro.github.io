@@ -51,7 +51,6 @@ products:
   price: '3.00'
 schema_type: Review
 ---
-
 I switched my primary email from Gmail to ProtonMail in May 2025. Twelve months later, I've sent over 8,000 emails through it, integrated it into my password manager, my phone, my work laptop, and my homelab. This is my honest review — what works, what doesn't, and whether the privacy story actually holds up.
 
 Short answer: ProtonMail is the most polished privacy-focused email service in 2026. It's not perfect, but if you want serious encryption without a learning curve, this is what I recommend.
@@ -59,6 +58,11 @@ Short answer: ProtonMail is the most polished privacy-focused email service in 2
 *Disclosure: I have no paid relationship with Proton. I pay €9.99/month out of pocket for Proton Unlimited.*
 
 ---
+
+
+> **Quick answer:** ProtonMail has been my primary email for a year. Honest review of features, encryption, deliverability, and whether the paid plans are worth it.
+>
+> Yes — for what it claims. ProtonMail uses end-to-end encryption between Proton users, and zero-access encryption (Proton can't read your inbox even if subpoenaed) for messages stored on their servers. However, when you email a non-Proton user, that message is only encrypted in transit (TLS), not end-to-end. The recipient's provider can read it.
 
 ## What is ProtonMail?
 
@@ -359,3 +363,7 @@ If you're considering it, start with the free plan. Migrate gradually. Upgrade t
 - [Best encrypted email services 2026](/posts/best-encrypted-email-services-2026/)
 - [Best password managers 2026](/posts/best-password-managers-2026/)
 - [What your encrypted messenger leaks](/posts/best-secure-messaging-apps-2026/)
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

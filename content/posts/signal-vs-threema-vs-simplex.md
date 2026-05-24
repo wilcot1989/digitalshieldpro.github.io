@@ -55,12 +55,14 @@ products:
   price: Free
 schema_type: Article
 ---
-
 I spent four weeks running Signal, Threema, and SimpleX as my primary messengers — rotating between them, stress-testing group chats, timing file transfers, logging battery drain, and reading through the source code where questions needed answering from first principles. This is what I found.
 
 Short version: Signal is best for most people, Threema is best if you want provably no-identity-required registration and will pay once for that guarantee, and SimpleX is for the genuinely paranoid — technically the most private design available, but UX that will frustrate you in week one.
 
 ---
+
+
+> **Quick answer:** Deep technical comparison of Signal, Threema, and SimpleX after 4 weeks testing each. Encryption protocols, metadata exposure, anonymity trade-offs.
 
 ## Why This Comparison Matters Now
 
@@ -298,3 +300,7 @@ Decide which of those factors matters most to your situation. Then install accor
 - [Best Encrypted Email Services 2026](/posts/best-encrypted-email-services-2026/)
 - [Mullvad VPN Review 2026](/posts/mullvad-vpn-review-2026/)
 - [How to Set Up a Secure Communication Stack](/posts/secure-communication-stack-2026/)
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

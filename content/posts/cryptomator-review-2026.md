@@ -50,7 +50,6 @@ products:
   price: '13.99'
 schema_type: Review
 ---
-
 {{< affiliate-disclosure >}}
 
 I have used Cryptomator for 10 months as the encryption layer over my Dropbox, Google Drive, and OneDrive accounts. The use case: I cannot fully migrate off these services because work and family share files there. But I do not want my actual important files visible to those providers.
@@ -62,6 +61,9 @@ Short answer: Cryptomator is the right answer for users who need to keep using m
 *Note: Cryptomator does not have an affiliate program. This review contains no referral links to Cryptomator.*
 
 ---
+
+
+> **Quick answer:** I encrypted my Dropbox, Google Drive, and OneDrive with Cryptomator for 10 months. €15 one-time on mobile, free desktop, fully open source. Here is what works.
 
 ## What Cryptomator Is
 
@@ -229,3 +231,7 @@ Download the desktop app for free. Buy the mobile app once for €15. Encrypt th
 Cryptomator is one of the best deals in privacy software in 2026. The pricing model alone (free desktop, one-time mobile) is the kind of model the privacy software industry needs more of. The product is also genuinely good.
 
 For users with existing cloud accounts and important files inside them: install Cryptomator this weekend. The 10 minutes of setup is the smallest privacy-improvement-per-minute investment available in 2026.
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

@@ -42,7 +42,6 @@ products:
   price: Free / from $3.99/month
 schema_type: Review
 ---
-
 StartMail does not get nearly as much attention as ProtonMail or Tutanota in the privacy email space. It probably should. After six weeks of using it as my primary email address — testing encryption, the alias system, the web interface, and the IMAP integration with my regular email clients — I found a genuinely good privacy email service that deserves more coverage.
 
 It is not perfect. I have real criticisms, particularly around its encryption architecture and the lack of a free tier. But for a specific type of user — someone who wants European privacy law protection, unlimited email aliases, and the ability to use any email client — StartMail is worth serious consideration.
@@ -52,6 +51,9 @@ Let me show you what I actually found.
 *This article contains affiliate links. I earn a small commission if you sign up for ProtonMail through my link, at no extra cost to you.*
 
 ---
+
+
+> **Quick answer:** I used StartMail as my primary email for 6 weeks. Made by Startpage, headquartered in the Netherlands.
 
 ## What Is StartMail?
 
@@ -345,3 +347,7 @@ StartMail makes sense if the specific combination of unlimited aliases, native I
 ---
 
 *StartMail pricing and features verified August 2026.*
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

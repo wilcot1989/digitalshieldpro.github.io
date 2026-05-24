@@ -42,7 +42,6 @@ products:
   price: $6.49/mo (annual)
 schema_type: Article
 ---
-
 You did not fill out a form to get listed on Spokeo. You did not agree to appear on Whitepages or BeenVerified. You did not give your home address to any of the dozens of people search sites that are currently displaying it to anyone who searches your name.
 
 Yet there you are.
@@ -52,6 +51,9 @@ Understanding how your data got there — and why it keeps coming back after you
 *This article contains affiliate links. I earn a commission if you purchase through my links, at no extra cost to you.*
 
 ---
+
+
+> **Quick answer:** Data brokers know where you live, who you know, and what you buy — and you never agreed to any of it.
 
 ## The Scale of the Problem
 
@@ -291,3 +293,7 @@ The result is an industry with strong financial incentives to collect as much da
 - [Data Broker Laws By State 2026: What CCPA, Texas](/posts/data-broker-laws-by-state-2026/)
 - [Data Broker Removal Cost Comparison 2026](/posts/data-broker-removal-cost-comparison-2026/)
 - [Data Broker Removal Family Plans 2026](/posts/data-broker-removal-family-plan-2026/)
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

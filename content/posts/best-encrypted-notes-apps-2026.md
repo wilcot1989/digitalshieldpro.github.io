@@ -38,7 +38,6 @@ faq:
   - q: "Can I export my notes if I leave the service?"
     a: "Yes for all three. Standard Notes exports to plaintext, encrypted backup, or HTML. Cryptee exports to PDF, plain text, or markdown. Joplin stores notes as markdown files locally — exporting is a file copy. Avoid any encrypted notes service that does not provide standard-format export — that is lock-in dressed up as security."
 ---
-
 Most "encrypted" notes apps are not actually encrypted. Apple Notes, Google Keep, and OneNote all store your data with provider-controlled keys — meaning the provider can read your notes when subpoenaed or breached. True end-to-end encrypted notes are a smaller market.
 
 I spent 90 days each with Standard Notes, Cryptee, and Joplin, using them as my daily notes app for journaling, work notes, code snippets, and sensitive personal data. Here is the honest comparison.
@@ -46,6 +45,9 @@ I spent 90 days each with Standard Notes, Cryptee, and Joplin, using them as my 
 *This article contains affiliate links. I earn a commission if you purchase through some of my links, at no extra cost to you.*
 
 ---
+
+
+> **Quick answer:** I used Standard Notes, Cryptee, and Joplin daily for 90 days each. Here is the honest comparison of encrypted note-taking apps in 2026.
 
 ## What Makes Notes "Truly Encrypted"
 
@@ -281,3 +283,7 @@ For your encrypted email to send the notes you write: <a href="https://go.digita
 - [Mailbox.org review 2026](/posts/mailbox-org-review-2026/)
 - [Best privacy browsers 2026](/posts/best-privacy-browsers-2026/)
 - [Encrypted cloud photo storage 2026](/posts/encrypted-cloud-photo-storage-2026/)
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

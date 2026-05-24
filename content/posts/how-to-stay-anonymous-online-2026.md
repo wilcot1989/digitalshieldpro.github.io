@@ -47,7 +47,6 @@ products:
   price: ''
 schema_type: Article
 ---
-
 I want to be honest about what this guide is for, because "how to stay anonymous online" gets treated as a topic only relevant to people doing something wrong. That framing is both incorrect and harmful.
 
 Journalists protecting sources. Activists in authoritarian countries. Domestic abuse survivors hiding their location from abusers. Researchers studying extremist content without attracting attention. Security professionals doing adversarial research. Whistleblowers. People who simply believe they have a right to digital privacy without needing to justify it.
@@ -57,6 +56,9 @@ These are the actual users of strong anonymity tools. And they deserve accurate 
 I have spent several months building, testing, and attempting to break a layered anonymity stack. Here is what I found.
 
 ---
+
+
+> **Quick answer:** Real online anonymity requires layering Tor, VPN, and operational security. I tested this stack and explain what each layer does and where it fails.
 
 ## Understanding the Threat Model First
 
@@ -348,3 +350,7 @@ The tools exist. They work, when used correctly. The limitations are real and wo
 - [Build Your Complete Digital Privacy Stack 2026](/posts/best-privacy-stack-2026/)
 - [Privacy Alternatives to Google Services 2026](/posts/privacy-respecting-alternatives-google-services-2026/)
 - [How to Anonymize Photos Online 2026: EXIF Strip](/posts/how-to-anonymize-photos-online-2026/)
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

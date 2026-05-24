@@ -50,7 +50,6 @@ products:
   price: '1'
 schema_type: Article
 ---
-
 {{< affiliate-disclosure >}}
 
 Two German encrypted email services keep coming up when people want a Gmail alternative outside the Swiss-Proton orbit: Posteo and Mailbox.org. Both have been around for over a decade. Both are independent, German-jurisdiction, ethically-positioned. They look similar on paper and feel different in daily use.
@@ -60,6 +59,9 @@ I ran both as primary email accounts for 60 days. One phone, one laptop, paralle
 Short version: Posteo wins on radical simplicity, ethical pricing, and anonymous signup. Mailbox.org wins on features, custom domains, and productivity tools.
 
 ---
+
+
+> **Quick answer:** I ran Posteo and Mailbox.org as primary email for 60 days. Posteo wins on radical simplicity and ethical pricing, Mailbox.org wins on features and custom domains.
 
 ## The two companies
 
@@ -214,3 +216,7 @@ Both providers are sign-up-direct (no affiliate programs). Try Mailbox.org throu
 If you want a more polished experience with bundled VPN and zero-access encryption, [Proton Mail](https://go.digitalshieldpro.com/protonmail){target="_blank" rel="nofollow sponsored noopener"} starts at €4.99/month for the Plus plan.
 
 For more comparisons, see [Tuta vs Proton Mail](/posts/tuta-vs-proton-mail-2026/), [Proton Mail vs Mailfence](/posts/proton-mail-vs-mailfence-2026/), [Posteo review](/posts/posteo-review-2026/), and [Mailbox.org review](/posts/mailbox-org-review-2026/).
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

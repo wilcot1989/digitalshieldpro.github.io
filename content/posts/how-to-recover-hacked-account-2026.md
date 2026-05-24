@@ -45,7 +45,6 @@ faq:
   a: Enable 2FA with an authenticator app on every account. Use unique passwords stored in a password manager. Never reuse passwords. Regularly review active sessions and remove old devices. Check haveibeenpwned.com periodically to learn if your email appears in new data breaches.
 schema_type: Article
 ---
-
 My phone rang at 11 PM on a Tuesday last year. It was my cousin: "Someone is posting from my Instagram account and I can't log in. What do I do?"
 
 Over the next 90 minutes, I walked her through the recovery process while the attacker was actively using her account. We recovered it. The damage was limited to a few embarrassing posts that we got removed, and she had control back before midnight.
@@ -53,6 +52,11 @@ Over the next 90 minutes, I walked her through the recovery process while the at
 Account compromise happens to careful people. The 2024 breach of a major healthcare provider exposed over 100 million credential pairs. Password reuse is still endemic. Phishing attacks have become sophisticated enough to fool security professionals. When it happens, the first 30 minutes matter enormously.
 
 This guide is the playbook I use when helping people recover compromised accounts. I have organized it by scenario — what to do when you can still log in, what to do when you are locked out, and specific steps for each major platform.
+
+
+> **Quick answer:** Got hacked? This step-by-step guide covers account recovery for Google, Facebook, Instagram, Microsoft, and more.
+>
+> Signs include: login notifications you did not generate, emails in your sent folder you did not send, password reset emails you did not request, contacts receiving messages from you that you did not send, unrecognized devices in your account's active sessions list, and changed profile information.
 
 ## The First 30 Minutes: What Matters Most
 
@@ -344,3 +348,7 @@ The difference between account recovery taking 10 minutes versus weeks comes dow
 - [Best Dark Web Monitoring Services 2026](/posts/best-dark-web-monitoring-2026/)
 - [How to Check If Your Personal Data Has Been Leaked](/posts/how-to-check-if-your-data-has-been-leaked-2026/)
 - [Best Identity Theft Protection 2026: Tested & Compared](/posts/best-identity-theft-protection-2026/)
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

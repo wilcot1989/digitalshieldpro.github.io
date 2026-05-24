@@ -42,7 +42,6 @@ faq:
   a: Act immediately. Change the password for the relevant service and any other accounts where you use that password. If you entered financial information, contact your bank immediately. If you entered Social Security or government ID numbers, consider a credit freeze. Report the site to Google Safe Browsing at safebrowsing.google.com/safebrowsing/report_phish/.
 schema_type: Article
 ---
-
 Last month I received what appeared to be an email from DHL about a delayed package. The design was perfect — DHL logo, correct color scheme, plausible tracking number. The link in the email went to dh1-tracking.com. 
 
 Notice the "1" replacing the "l" in DHL. If you read it quickly, it looks like a legitimate DHL domain. The actual site was a perfect clone of DHL's tracking page, with a form that would capture your name, address, and credit card number for a "$2.99 redelivery fee."
@@ -50,6 +49,11 @@ Notice the "1" replacing the "l" in DHL. If you read it quickly, it looks like a
 I report these sites to Google Safe Browsing, and they are now flagged. But between when that domain was registered and when it was flagged, how many people gave them payment information?
 
 This is what fake websites look like in 2026: technically sophisticated, visually perfect, and designed around social engineering triggers that override careful reading. Here is how to catch them before they catch you.
+
+
+> **Quick answer:** URL inspection, certificate checks, scam-pattern recognition. Real fake-store examples plus tools that catch them automatically.
+>
+> No. HTTPS means the connection between your browser and the website is encrypted — it says nothing about whether the website itself is legitimate. Attackers routinely obtain SSL certificates for fake websites. The padlock icon does not mean the site is trustworthy.
 
 ## The URL: Where Every Check Starts
 
@@ -354,3 +358,7 @@ These reports are genuinely impactful. Most fake domains are active for days to 
 - [Business Email Compromise (BEC) in 2026](/posts/business-email-compromise-bec-2026/)
 - [How to Protect Elderly Family Members Online in 2026](/posts/how-to-protect-elderly-online-2026/)
 - [How to Protect Yourself from Phishing in 2026](/posts/how-to-protect-yourself-from-phishing-2026/)
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

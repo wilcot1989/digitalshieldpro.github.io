@@ -42,7 +42,6 @@ products:
   price: Free / from €2.50/month
 schema_type: Review
 ---
-
 Mailfence is the kind of privacy email service that attracts technically curious users: transparent PGP key management, Belgian jurisdiction, a full productivity suite (calendar, contacts, documents), and an independent company with a genuine privacy-first mission rather than VC pressure to monetize data.
 
 I used Mailfence as my primary email for five weeks. I tested every feature — the PGP key store, CalDAV calendar sync, document storage, and IMAP integration with multiple clients. I also ran Mailfence against ProtonMail on the features that matter most for encryption quality and daily usability.
@@ -52,6 +51,11 @@ Here is what I found.
 *Note: This review does not contain affiliate links for Mailfence. I tested it independently.*
 
 ---
+
+
+> **Quick answer:** I tested Mailfence for 5 weeks — Belgium-based encrypted email with built-in PGP, CalDAV calendar, and document storage.
+>
+> Yes, between Mailfence users using OpenPGP encryption. Mailfence has a built-in key store where you manage your PGP keys and the public keys of your contacts. Messages to external PGP users are also end-to-end encrypted if you have their public key. Messages to non-PGP recipients are sent via TLS in transit. Mailfence is not zero-knowledge — they can access your data under Belgian legal process.
 
 ## Who Makes Mailfence?
 
@@ -316,3 +320,7 @@ The good news: both are dramatically better for your privacy than Gmail.
 ---
 
 *Mailfence pricing and features verified August 2026.*
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

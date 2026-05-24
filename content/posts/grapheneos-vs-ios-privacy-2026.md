@@ -50,7 +50,6 @@ products:
   price: '3.99'
 schema_type: Article
 ---
-
 {{< affiliate-disclosure >}}
 
 I ran GrapheneOS on a Pixel 9 as my primary phone for 90 days while keeping my iPhone 15 Pro as a secondary device. The goal was to honestly answer: is GrapheneOS practical for someone who is not a security professional, and how does it compare to iOS as a privacy phone in 2026?
@@ -58,6 +57,9 @@ I ran GrapheneOS on a Pixel 9 as my primary phone for 90 days while keeping my i
 Short answer: GrapheneOS is real and the privacy gains are substantial. It is also the most demanding consumer OS I have ever used. The tradeoffs are different than people assume. Below is the full breakdown.
 
 ---
+
+
+> **Quick answer:** I ran a Pixel 9 with GrapheneOS as primary phone for 90 days alongside my iPhone. The privacy gains are real and so are the tradeoffs. Here is the honest breakdown.
 
 ## What GrapheneOS Is
 
@@ -237,3 +239,7 @@ For users who care about phone privacy at the level of caring about [encrypted e
 I am keeping GrapheneOS as primary. Your mileage will vary. The 90-day test is the honest way to find out — buy a Pixel 9, install GrapheneOS, and run it for three months. You will know by day 90 whether it fits your life.
 
 For broader mobile-privacy reading, see [best secure browsers mobile](/posts/best-secure-browsers-mobile-2026/), [Linux privacy distros](/posts/linux-privacy-distros-2026/), [Windows 11 privacy settings](/posts/windows-11-privacy-settings-2026/), and [Signal private messaging guide](/posts/signal-private-messaging-guide-2026/).
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

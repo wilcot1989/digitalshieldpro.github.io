@@ -50,7 +50,6 @@ products:
   price: '34'
 schema_type: Article
 ---
-
 {{< affiliate-disclosure >}}
 
 I bought all three. YubiKey 5C NFC, Nitrokey 3, SoloKey v2. Used each as primary 2FA across roughly 40 accounts (email, banking, GitHub, AWS, password manager, social) for 20 days each. The conclusion is more nuanced than the comparison articles suggest.
@@ -60,6 +59,9 @@ Short version: YubiKey is the safe default for non-technical users. Nitrokey is 
 Below is the long version with the rough edges I hit on each.
 
 ---
+
+
+> **Quick answer:** I tested all three — YubiKey 5C NFC, Nitrokey 3, SoloKey v2 — for 60 days. Here is the honest breakdown of which hardware key wins for which user.
 
 ## Why hardware keys matter
 
@@ -235,3 +237,7 @@ All three are correct answers for the right user. None of them is a wrong answer
 For broader 2FA reading, see [2FA vs passkeys](/posts/two-factor-auth-vs-passkeys-2026/), [passkeys explained](/posts/passkeys-explained-2026/), [passkeys vs passwords](/posts/passkeys-vs-passwords-2026-future/), and [the best YubiKey alternatives](/posts/best-yubikey-alternatives-2026/) for a wider lineup beyond these three.
 
 The single biggest mistake is not buying any hardware key. SMS-based 2FA is broken. TOTP apps are vulnerable to phishing. Hardware keys are the only thing in 2026 that actually stops the most common account-takeover attacks. Pick a brand, buy two, register them everywhere, and stop reading articles like this until your existing keys break.
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

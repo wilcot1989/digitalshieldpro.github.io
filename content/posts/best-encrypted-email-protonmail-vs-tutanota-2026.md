@@ -47,7 +47,6 @@ products:
   price: ''
 schema_type: Article
 ---
-
 I moved off Gmail in January 2025. Not because something bad happened — because I had spent three months investigating what Google actually does with email metadata, and I did not like the answer.
 
 I ran ProtonMail as my primary for six months, then Tuta (formerly Tutanota) for six months. I now use both: ProtonMail for professional correspondence and Tuta for personal and sensitive matters. That dual-use setup gives me a better comparison than most reviews, which test one product for two weeks and call it done.
@@ -57,6 +56,9 @@ This is my honest account of both products, their actual limitations, and who sh
 *This article contains affiliate links.*
 
 ---
+
+
+> **Quick answer:** I switched to ProtonMail and Tuta as my primary email providers for 6 months each. This is an honest comparison of features, privacy, limitations.
 
 ## The Core Difference Most Reviews Miss
 
@@ -367,3 +369,7 @@ The single biggest privacy improvement you can make to your email life is moving
 - [Best VPN 2026: NordVPN vs Surfshark](/posts/best-vpn-nordvpn-vs-surfshark-2026/)
 - [Best Password Manager 2026: 1Password vs NordPass](/posts/best-password-manager-1password-vs-nordpass-2026/)
 - [Best Data Broker Removal 2026: Incogni vs DeleteMe EU](/posts/best-data-broker-removal-incogni-vs-deleteme-eu/)
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

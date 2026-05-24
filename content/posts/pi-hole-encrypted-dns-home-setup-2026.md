@@ -53,7 +53,6 @@ products:
   price: $1.99/mo
 schema_type: Article
 ---
-
 *This article describes setups I run on my own home network. Pi-hole is free and open source. NextDNS, Quad9, and other upstream DNS providers have their own pricing.*
 
 Pi-hole is one of the highest-leverage privacy upgrades you can make at home, and it pairs beautifully with [encrypted DNS](/posts/best-encrypted-dns-providers-2026/). Most guides cover one or the other. The combo — local Pi-hole for ad blocking + encrypted upstream for ISP shielding + a single dashboard to see what every device on your network is actually requesting — is what I run, and it is what I would recommend to anyone who is comfortable plugging a small Linux box into their network.
@@ -61,6 +60,9 @@ Pi-hole is one of the highest-leverage privacy upgrades you can make at home, an
 Here is the 2026 walkthrough.
 
 ---
+
+
+> **Quick answer:** A real, tested 2026 guide to running Pi-hole with encrypted DNS upstream — including hardware choice, Docker vs bare-metal, the upstream resolver decision, and how to combine Pi-hole''s ad-blocking with NextDNS or Quad9 without losing either layer.
 
 ## Why Pi-hole + encrypted DNS is the right combination
 
@@ -291,3 +293,7 @@ Pi-hole + encrypted DNS upstream is the home-network privacy upgrade that pays b
 If you want one specific recommendation for the upstream encrypted resolver: <a href="https://nextdns.io" target="_blank" rel="nofollow sponsored noopener">NextDNS</a> on the $1.99/mo plan layered behind Pi-hole gives you the best of both — local visibility from Pi-hole, cloud-grade filtering from NextDNS, encrypted egress from your network. <a href="https://quad9.net" target="_blank" rel="nofollow sponsored noopener">Quad9</a> is the no-account-needed free alternative that covers 80% of the value.
 
 Pair this with the rest of your [privacy stack](/posts/best-privacy-stack-2026/) and you will have the kind of home network that the average internet user does not know is possible.
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

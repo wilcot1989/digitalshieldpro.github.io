@@ -38,12 +38,16 @@ products:
   price: ''
 schema_type: Article
 ---
-
 Phishing protection is something I think about every day -- because I deal with phishing attempts every single day. Last Tuesday, I received an email that was nearly indistinguishable from a genuine Microsoft 365 notification. Perfect formatting, correct sender domain (spoofed), even a reference to a real SharePoint document I'd recently accessed. The only tell? The login page URL was off by one character.
 
 Over **90% of data breaches** start with a phishing attack. The average cost to an individual who falls for one: **$1,400**. And with AI-generated phishing now producing messages that fool even experienced security professionals, the old advice of "just look for typos" is dangerously outdated.
 
 I've spent the past decade helping people and organizations defend against phishing. Here's what actually works in 2026 -- and what most guides won't tell you.
+
+
+> **Quick answer:** Phishing protection in 2026: spot AI-generated scams, set up layered defenses, and avoid the mistakes that cost people $1,400 on average.
+>
+> Modern antivirus with AI-powered web protection like Norton 360 (4.7/5 on Trustpilot) and Bitdefender can block known phishing sites. But no tool is 100% effective — combine it with a password manager and two-factor authentication for layered protection.
 
 ## What Is Phishing (and Why It's Different Now)
 

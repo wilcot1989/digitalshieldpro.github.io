@@ -49,7 +49,6 @@ products:
   price: '1.49'
 schema_type: Article
 ---
-
 Last year a friend of mine — a careful, technically literate person — nearly wired $4,200 to scammers pretending to be his adult son. The voice was his son's voice. The accent, the speech patterns, the way he said "Dad" — all accurate. The "son" claimed to have been in a minor car accident, needed bail posted that night, and asked not to tell mom yet. My friend had his hand on the send button before something made him pause and call his son directly.
 
 His son was fine. At home. Had not called.
@@ -61,6 +60,9 @@ This is the world we are in now. AI voice synthesis that once required studio eq
 I have spent the past six months testing detection methods, interviewing fraud investigators, and studying documented cases. Here is what actually works.
 
 ---
+
+
+> **Quick answer:** AI voice cloning and deepfake video calls are being used to scam people out of thousands of dollars. Here's how to recognize them and protect yourself.
 
 ## The Scale of AI-Enabled Fraud in 2026
 
@@ -294,3 +296,7 @@ The verification protocols — safe words, callback rules, out-of-band confirmat
 - [How to Protect Elderly Family Members Online in 2026](/posts/how-to-protect-elderly-online-2026/)
 - [How to Protect Yourself from Phishing in 2026](/posts/how-to-protect-yourself-from-phishing-2026/)
 - [How to Protect Yourself Online: The Complete Digital](/posts/how-to-protect-yourself-online-2026/)
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

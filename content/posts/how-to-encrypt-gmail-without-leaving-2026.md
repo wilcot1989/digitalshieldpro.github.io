@@ -50,7 +50,6 @@ products:
   price: '4.99'
 schema_type: HowTo
 ---
-
 {{< affiliate-disclosure >}}
 
 I get this question every month: "I love Gmail, I do not want to switch, but I want my email encrypted. What can I actually do?"
@@ -60,6 +59,9 @@ Honest answer: you can add real end-to-end encryption to Gmail. It works. It is 
 I tested all the methods over six weeks: native Gmail Confidential Mode, S/MIME on Workspace, FlowCrypt, Mailvelope, Enigmail, and the manual PGP-via-Thunderbird approach. Here is what is real, what is theater, and what I would recommend depending on your threat model.
 
 ---
+
+
+> **Quick answer:** You do not have to leave Gmail to add real encryption. I tested every method — confidential mode, S/MIME, FlowCrypt, Mailvelope. Here is what actually protects you and what is theater.
 
 ## What "encrypting Gmail" actually means
 
@@ -233,3 +235,7 @@ For broader reading, see [how to set up email aliases](/posts/how-to-set-up-emai
 <a href="https://go.digitalshieldpro.com/protonmail" target="_blank" rel="nofollow sponsored noopener">Get Proton Mail (the no-extension answer)</a>
 
 Encrypting Gmail is a valid middle path. Switching is the cleaner answer. Pick based on what your contacts will tolerate and what your threat model actually requires.
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

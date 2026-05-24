@@ -49,10 +49,12 @@ products:
   price: From $2.99/month
 schema_type: Article
 ---
-
 I've been using passkeys on my primary accounts since late 2023, and in early 2025 I ran a systematic comparison: 6 months of data on login friction, account recovery scenarios, and actual security incidents across my personal and professional accounts. Here's what I learned, and why the answer to "which is more secure" is more nuanced than most guides admit.
 
 ---
+
+
+> **Quick answer:** I've switched most of my accounts to passkeys and kept 2FA on the rest. Here's what the security difference actually looks like — and when each makes sense.
 
 ## The Core Problem with Passwords (and Why 2FA Doesn't Fully Solve It)
 
@@ -345,3 +347,7 @@ The passkey in your NordPass vault is tied to your NordPass master password and 
 - [Passkeys explained 2026: the password replacement that's](/posts/passkeys-explained-2026/)
 - [1Password vs Bitwarden 2026: Which Password Manager Should](/posts/1password-vs-bitwarden-2026/)
 - [Best Hardware Security Keys in 2026](/posts/best-hardware-security-keys-2026/)
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

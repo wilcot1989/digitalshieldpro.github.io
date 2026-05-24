@@ -47,7 +47,6 @@ products:
   price: ''
 schema_type: Article
 ---
-
 The data broker industry is a €300 billion market built on selling your personal information to anyone willing to pay. Marketers, insurers, private investigators, stalkers, and identity thieves all use the same brokers. The brokers do not distinguish between these customers.
 
 EU residents are better protected than Americans, but only theoretically. GDPR's Article 17 right to erasure is powerful on paper. In practice, few people know which brokers have their data, and fewer still take the time to send removal requests to each one.
@@ -60,6 +59,11 @@ I spent four months testing Incogni and DeleteMe from the Netherlands. I want to
 
 
 🌍 *Moving to the EU? See also [EU banking privacy guide](https://expatnetherlandshub.com/blog/best-banking-expats-netherlands-2026/).*
+
+
+> **Quick answer:** GDPR gives EU residents stronger data rights, but data brokers still collect your information.
+>
+> Yes, and GDPR makes EU removal requests more powerful than US ones. Under Article 17 (right to erasure), data brokers operating in the EU must comply with removal requests or face fines. Incogni leverages GDPR actively. DeleteMe's EU coverage has improved significantly in 2025–2026 but is still US-focused at its core.
 
 ## Why Data Broker Removal Matters More in 2026
 
@@ -396,3 +400,7 @@ Start with Incogni. After the first year, review the dashboard and assess whethe
 - [Best VPN 2026: NordVPN vs Surfshark](/posts/best-vpn-nordvpn-vs-surfshark-2026/)
 - [Best Encrypted Email 2026: ProtonMail vs Tuta](/posts/best-encrypted-email-protonmail-vs-tutanota-2026/)
 - [Best Password Manager 2026: 1Password vs NordPass](/posts/best-password-manager-1password-vs-nordpass-2026/)
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

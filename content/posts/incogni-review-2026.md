@@ -52,12 +52,16 @@ products:
   price: '10.75'
 schema_type: Review
 ---
-
 In January 2026 I signed up for Incogni and started a 12-week tracking experiment. The goal: independently verify whether the €7.49/month subscription actually removes my data from broker sites — and how much.
 
 Spoiler: yes, it works. But it's not magic, and you need to manage expectations. Here's exactly what happened.
 
 ---
+
+
+> **Quick answer:** I tested Incogni for 12 weeks tracking data broker removals. Real results, removal counts, and whether €7.49/month is worth it.
+>
+> Incogni is a data broker removal service from Surfshark (the VPN company). They send opt-out requests to 200+ data brokers on your behalf, monthly. Cost: €7.49/month annually, or €15.79/month month-to-month. Family plans available.
 
 ## What is Incogni?
 
@@ -362,3 +366,7 @@ Incogni isn't perfect (no service is). But it's good, it's cheap, and the GDPR a
 - [Privacy Bee review](/posts/privacy-bee-review-2026/)
 - [Best identity theft protection](/posts/best-identity-theft-protection-2026/)
 - [Surfshark VPN review](/posts/surfshark-review-2026/)
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

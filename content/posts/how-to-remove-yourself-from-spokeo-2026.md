@@ -42,7 +42,6 @@ products:
   price: $6.49/mo (annual)
 schema_type: Article
 ---
-
 I have spent more time than I would like to admit manually opting out of data broker sites. What I discovered is that the opt-out process ranges from "annoying but functional" (Spokeo, Whitepages) to "deliberately obstructive" (MyLife, LexisNexis) to "laughably broken" (a few smaller players). This guide gives you exact step-by-step instructions for the 11 most important sites — plus an honest answer to the question of whether any of this is actually worth doing manually.
 
 Let me start with the most important site and work down from there.
@@ -50,6 +49,11 @@ Let me start with the most important site and work down from there.
 *This article contains affiliate links. I earn a commission if you purchase through my links, at no extra cost to you.*
 
 ---
+
+
+> **Quick answer:** Step-by-step instructions for opting out of Spokeo, Whitepages, BeenVerified, Intelius, MyLife, Radaris, PeopleFinder, TruthFinder, Acxiom, LexisNexis.
+>
+> Yes, the Spokeo opt-out process works — but your listing will typically reappear within 3–6 months as Spokeo re-acquires data from public records updates and other sources. You have to resubmit the opt-out periodically to stay removed. For ongoing suppression, an automated service like Incogni handles re-submissions automatically.
 
 ## Before You Start: Find Your Listings
 
@@ -427,3 +431,7 @@ Either path is legitimate. The important thing is to take some action — becaus
 - [How to Protect Yourself from Phishing in 2026](/posts/how-to-protect-yourself-from-phishing-2026/)
 - [How to Migrate From Gmail to ProtonMail in 2026](/posts/how-to-migrate-from-gmail-to-protonmail-2026/)
 - [How to Protect Yourself Online: The Complete Digital](/posts/how-to-protect-yourself-online-2026/)
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

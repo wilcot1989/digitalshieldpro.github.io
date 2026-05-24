@@ -44,7 +44,6 @@ products:
   price: '1'
 schema_type: Review
 ---
-
 {{< affiliate-disclosure >}}
 
 Posteo is the encrypted email service I never see in the comparison articles. €1/month, German, ethics-first, and quietly used by a community of European privacy enthusiasts who have been on it since 2013. I tested it for six weeks as my secondary inbox to see if it deserves more attention than it gets.
@@ -56,6 +55,9 @@ Below is the full breakdown.
 *Note: Posteo does not have an affiliate program. This review contains no referral links to Posteo.*
 
 ---
+
+
+> **Quick answer:** I used Posteo for 6 weeks. €1/month for green-energy German email with strong privacy posture but no zero-access encryption. Here is who it fits and who should pick something else.
 
 ## Who Makes Posteo
 
@@ -186,3 +188,7 @@ For a stronger zero-access alternative if Posteo's encryption posture is not eno
 Posteo gets a thoughtful 8/10 from me. It is genuinely the best €12/year you can spend on email privacy. The limitations (no custom domain, no zero-access by default, no mobile app) are real and disqualify it for some users. But for the right user, Posteo is the encrypted email service the privacy press should be talking about more.
 
 Try it for €12. If it does not fit, you have lost less than the price of a single Proton Plus monthly bill.
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

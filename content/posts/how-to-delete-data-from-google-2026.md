@@ -42,7 +42,6 @@ faq:
   a: 'Search: [Brave Search, Mojeek, or Kagi](/posts/best-privacy-search-engines-2026/). Gmail: [Proton Mail or Tutanota](/posts/best-encrypted-email-services-2026/). Drive: [Proton Drive or Tresorit](/posts/best-secure-cloud-storage-2026/). Photos: [Ente Photos](/posts/ente-photos-review-2026/). Calendar: Proton Calendar or Tutanota. Maps: OsmAnd or Organic Maps.'
 schema_type: Article
 ---
-
 *This guide is informational. The steps below worked when I executed them. Google''s UI changes constantly — if a button has moved, the underlying setting still exists; search the help docs for the current path.*
 
 I have been deleting my Google footprint, in stages, for about three years. I have also walked three family members through the same exercise. Every time I learn something new — Google quietly added a new product, retention setting, or "auto-delete after 18 months" toggle that did not exist before.
@@ -50,6 +49,9 @@ I have been deleting my Google footprint, in stages, for about three years. I ha
 This is the 2026 version. It is the order I would do it in if I were starting from scratch. Do as many of these steps as feel right for you — none of them is irreversible until the very last "delete account" button.
 
 ---
+
+
+> **Quick answer:** A real, tested 2026 walkthrough for deleting your data from Google — accounts, location history, ad profile, YouTube watch history, Workspace, the lot. I did this for myself and three family members. Here is what works, what does not, and where Google quietly keeps your data anyway.
 
 ## Stage 0: Plan before you delete
 
@@ -261,3 +263,7 @@ Deleting your Google footprint is one of the highest-impact privacy moves availa
 Six weeks of part-time effort to remove yourself from Google's training data, ad profile, and downstream broker network. Compare that to the cost of leaving the data in place — every year for the rest of your life — and it is the easiest privacy ROI you can get.
 
 Pair this guide with your full [privacy stack](/posts/best-privacy-stack-2026/) and you are well ahead of where most internet users will ever be.
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

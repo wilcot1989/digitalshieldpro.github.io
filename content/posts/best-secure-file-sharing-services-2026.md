@@ -50,7 +50,6 @@ products:
   price: '4.99'
 schema_type: Article
 ---
-
 Affiliate disclosure: this article contains affiliate links to Tresorit, Sync.com, and Proton Drive. I earn a commission if you sign up. I tested every service mentioned by sending real files and observing exactly what the server stores and what it cannot decrypt.
 
 A friend asked me last month for "a secure way to send a 2GB folder of legal discovery documents to my counsel". She had been using WeTransfer because that is what people use. Her counsel had been using Dropbox. Neither is end-to-end encrypted. Either could be subpoenaed and produce the documents in plaintext.
@@ -60,6 +59,11 @@ This is the normal state of file sharing in 2026. Everyone uses tools that work,
 This article covers the secure file sharing services I actually recommend in 2026. Each one is end-to-end encrypted by design, free or affordable, and works without making the recipient install anything weird. I have tested each by sending files and verifying the encryption model.
 
 ---
+
+
+> **Quick answer:** WeTransfer is fine for cat photos. For client deliverables, legal documents, or anything sensitive you want end-to-end encrypted file sharing. Here is what actually works in 2026 — Tresorit Send, Sync.com, Proton Drive, Bitwarden Send, and the open-source options.
+>
+> WeTransfer encrypts files in transit (TLS) and at rest on their servers, but they hold the keys. They can decrypt your files. Anyone with a court order or a successful breach against WeTransfer can decrypt your files. This is the standard model for "secure" cloud services and it is not end-to-end encryption.
 
 ## What "secure" actually means here
 

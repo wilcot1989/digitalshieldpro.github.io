@@ -44,12 +44,16 @@ faq:
   a: Firefox is the best mainstream privacy-respecting browser. It has strong built-in tracker blocking, supports all major extensions, and is not built on Google's Chromium engine. Brave is Chromium-based but adds aggressive ad and tracker blocking by default. For maximum privacy, Tor Browser is available but significantly impacts usability.
 schema_type: Article
 ---
-
 Two years ago I started deliberately moving away from Google services. Not because Google is uniquely evil — I have no illusions that other tech companies are significantly more privacy-conscious — but because having one company that handles my email, navigation, document storage, web search, and browser creates a surveillance profile more comprehensive than any single-company profile should be.
 
 The process has been gradual and I have learned which alternatives are actually good and which are ideologically appealing but practically inadequate. I want to give you the honest version: where Google alternatives are genuinely excellent, where they are adequate but require adjustment, and where Google still wins and the trade-off deserves acknowledgment.
 
 This is not a "destroy Google" guide. It is a practical framework for reducing your dependency on a single data-hungry ecosystem.
+
+
+> **Quick answer:** Replace Maps with OSMand, Drive with Proton Drive, Search with DuckDuckGo. Realistic adoption costs and feature gaps after 6 months.
+>
+> Complete elimination is possible but involves real trade-offs. I have been running a mostly de-Googled setup for two years, and a few Google services remain irreplaceable in my workflow — primarily Google Docs for collaboration with people who use it. The goal is reducing data exposure strategically, not ideological purity.
 
 ## Why Reducing Google Dependency Matters
 
@@ -319,3 +323,7 @@ That fragmentation is the privacy gain. Not ideological purity — practical red
 - [Best Privacy Browsers in 2026: Top 7 for Maximum Security](/posts/best-privacy-browsers-2026/)
 - [Build Your Complete Digital Privacy Stack 2026](/posts/best-privacy-stack-2026/)
 - [How to Disable Google Tracking in 2026](/posts/how-to-disable-google-tracking-2026/)
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

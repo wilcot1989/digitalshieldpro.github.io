@@ -53,7 +53,6 @@ products:
   price: from 4.99/month
 schema_type: Review
 ---
-
 **Disclosure**: Mullvad does not have an affiliate program. I receive no commission for recommending Mullvad — they have made a deliberate choice not to participate in affiliate marketing, which I think is worth noting upfront because it's unusual and says something about their business model. This review is based on six weeks of testing on my own subscription.
 
 ---
@@ -65,6 +64,11 @@ That is the pitch. It's not for everyone.
 After six weeks of daily testing — speeds at multiple times of day, DNS leak tests, kill switch failure scenarios, multi-device usage across platforms — here's the honest assessment.
 
 ---
+
+
+> **Quick answer:** Honest Mullvad VPN review after 6 weeks testing. Anonymous account numbers, RAM-only servers, WireGuard speeds.
+>
+> Reliably, no. Mullvad does not optimize servers for streaming and makes no claims about unblocking Netflix, Hulu, Disney+, or other geo-restricted services. Some servers may work some of the time, but Mullvad actively resists the IP farming arms race that streaming-optimized VPNs play. If streaming access is a primary use case, NordVPN or ExpressVPN are better fits.
 
 ## What Mullvad Is, and What It Deliberately Isn't
 
@@ -319,3 +323,7 @@ If you want a VPN to protect your actual privacy and are willing to accept those
 - [ProtonMail vs Gmail 2026](/posts/protonmail-vs-gmail-2026/)
 - [Best Privacy VPNs 2026](/posts/best-privacy-vpns-2026/)
 - [WireGuard vs OpenVPN: Which Protocol Should You Use?](/posts/wireguard-vs-openvpn-2026/)
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

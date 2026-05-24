@@ -38,7 +38,6 @@ faq:
   - q: "Can I run a family on Proton Unlimited?"
     a: "Proton offers Proton Family at €19.99/month for 6 users (each gets their own Unlimited features). Compared to Google One Family Premium (also 2 TB shared, same €9.99 — but storage is shared, not per user), Proton Family gives each user 500 GB private storage. For most families, Proton Family is better value despite higher headline price."
 ---
-
 I switched my entire personal cloud stack from Google One to Proton Unlimited in March 2026. Six months later I have hard data on what actually works, what I miss, and whether €9.99/month gets you a real Google replacement.
 
 Short answer: yes, and the privacy upgrade is dramatic. But there are real trade-offs that the marketing pages do not mention.
@@ -46,6 +45,9 @@ Short answer: yes, and the privacy upgrade is dramatic. But there are real trade
 *This article contains affiliate links to Proton. I earn a commission if you subscribe through my links, at no extra cost to you. I pay €99.99/year for Proton Unlimited from my own wallet.*
 
 ---
+
+
+> **Quick answer:** Proton Unlimited at €9.99 vs Google One at €9.99 — same price, very different products. I switched from Google One for 6 months. Honest comparison.
 
 ## What Each Service Actually Includes
 
@@ -304,3 +306,7 @@ For the full Proton ecosystem at €9.99/month: <a href="https://go.digitalshiel
 - [Email aliasing comparison 2026](/posts/email-aliasing-simplelogin-vs-anonaddy-vs-relay-2026/)
 - [Best privacy stack 2026](/posts/best-privacy-stack-2026/)
 - [Privacy-respecting alternatives to Google services](/posts/privacy-respecting-alternatives-google-services-2026/)
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

@@ -38,7 +38,6 @@ faq:
   - q: "Does Proton Pass work offline?"
     a: "Yes. The vault is cached locally and decrypted on demand. You can access all passwords offline and create new entries. Sync happens when you reconnect. This is on par with 1Password and Bitwarden."
 ---
-
 I have used 1Password as my primary password manager since 2014. It is the best password manager I have ever used. Twelve years of trust, 612 entries, hardware key integration, family plan with my partner — I was not looking to switch.
 
 Then I subscribed to ProtonMail Unlimited and discovered Proton Pass Plus was included. I figured I would test it for a weekend. Ninety days later I am still using it as my primary, with 1Password running as a backup.
@@ -48,6 +47,9 @@ This review explains exactly what surprised me, what frustrated me, and whether 
 *This article contains affiliate links to ProtonMail (which includes Proton Pass) and NordPass. I earn a commission if you subscribe through my links, at no extra cost to you.*
 
 ---
+
+
+> **Quick answer:** Proton Pass is included in ProtonMail Unlimited. I tried using it as my only password manager for 90 days. Here is the honest verdict vs 1Password.
 
 ## What Proton Pass Is
 
@@ -350,3 +352,7 @@ For NordPass instead (similar feature set, NordVPN ecosystem): <a href="https://
 - [Best hardware security keys 2026](/posts/best-hardware-security-keys-2026/)
 - [Passkeys explained 2026](/posts/passkeys-explained-2026/)
 - [Best privacy stack 2026](/posts/best-privacy-stack-2026/)
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

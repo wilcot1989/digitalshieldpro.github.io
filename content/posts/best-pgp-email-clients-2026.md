@@ -47,7 +47,6 @@ products:
   price: '55'
 schema_type: Article
 ---
-
 {{< affiliate-disclosure >}}
 
 OpenPGP is a 30-year-old standard for end-to-end encrypted email. It works between any provider, any client, any operating system — provided you have a client that implements it correctly. Most webmail interfaces (Gmail, Outlook web, Yahoo) do not. Most native email clients do, with varying levels of polish.
@@ -57,6 +56,11 @@ I tested seven clients over six months: Thunderbird, Apple Mail, Outlook, K-9 Ma
 The short version: Thunderbird on desktop, K-9 Mail with OpenKeychain on Android, Apple Mail with the GPG Suite on macOS and iOS. For browser-based webmail (Gmail web), Mailvelope. Skip Outlook unless you have no choice.
 
 ---
+
+
+> **Quick answer:** I tested seven email clients with OpenPGP support over six months. Thunderbird wins on features, K-9 Mail wins on Android, Apple Mail wins on iOS — here is the full breakdown.
+>
+> Yes, if you want to exchange encrypted mail with non-Proton or non-Tuta users. Proton-to-Proton and Tuta-to-Tuta encryption is automatic. Cross-provider encryption (Proton to a journalist using GnuPG, or you to anyone with a published PGP key) requires a client that supports OpenPGP. The major clients all support it natively or via plugins.
 
 ## Why bother with PGP in 2026
 

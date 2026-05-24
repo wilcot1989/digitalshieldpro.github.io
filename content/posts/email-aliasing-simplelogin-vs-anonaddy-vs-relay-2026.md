@@ -38,7 +38,6 @@ faq:
   - q: "Can the alias service read my email?"
     a: "By default, yes — aliases route through the service's SMTP infrastructure. SimpleLogin and AnonAddy both offer optional PGP encryption: you upload your public key, the service encrypts incoming mail to your alias before forwarding. This means even the aliasing service cannot read forwarded content. Firefox Relay does not offer PGP encryption."
 ---
-
 Email aliases are the single highest-leverage privacy upgrade most people never make. Spend one weekend setting up aliases for every signup and your inbox stops being a tracking ID for the rest of your life.
 
 I ran SimpleLogin, AnonAddy (now addy.io), and Firefox Relay simultaneously for 60 days using the same workflow on each. Here is which service won, where each falls short, and exactly how I configured them.
@@ -46,6 +45,11 @@ I ran SimpleLogin, AnonAddy (now addy.io), and Firefox Relay simultaneously for 
 *This article contains affiliate links to ProtonMail (which now owns SimpleLogin). I earn a commission if you subscribe through my links, at no extra cost to you.*
 
 ---
+
+
+> **Quick answer:** I ran SimpleLogin, AnonAddy (addy.io), and Firefox Relay in parallel for 60 days. Here is which email aliasing service actually protects your inbox.
+>
+> An aliasing service generates throwaway email addresses (like 9x7k2a@simplelogin.com) that forward to your real inbox. When a service spams or sells the alias, you disable it without affecting your real address. Aliases prevent cross-site tracking by email address, isolate breaches to one alias, and let you identify which company sold your data.
 
 ## Why Email Aliases Matter More Than VPNs
 
@@ -309,3 +313,7 @@ For the encrypted inbox that aliases forward to: <a href="https://go.digitalshie
 - [Best privacy stack 2026](/posts/best-privacy-stack-2026/)
 - [Incogni vs DeleteMe](/posts/incogni-vs-deleteme-2026/)
 - [Best secure cloud storage](/posts/best-secure-cloud-storage-2026/)
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

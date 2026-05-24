@@ -50,7 +50,6 @@ products:
   price: '11.99'
 schema_type: Review
 ---
-
 {{< affiliate-disclosure >}}
 
 I had 47,000 photos in Google Photos. Family pictures going back to 2008. Trips, kids growing up, irreplaceable visual memory. The thought of Google scanning all of it for face recognition, location patterns, and ML training had nagged at me for years.
@@ -62,6 +61,11 @@ Short version: Ente is the real deal. End-to-end encrypted, cross-platform, and 
 *Note: Ente does not have an affiliate program at the time of writing. This review contains no referral links to Ente.*
 
 ---
+
+
+> **Quick answer:** I migrated 47,000 photos from Google Photos to Ente. End-to-end encrypted, cross-platform, $2.99/month for 50 GB. Here is what works, what is rough, and who should switch.
+>
+> Yes. Ente uses zero-access encryption — your photos are encrypted on your device before upload, with keys derived from your password. Ente cannot see your photos, decrypt them, or hand them over to anyone. The face recognition and search features run on-device, not on Ente's servers, which means they work without breaking the encryption. The encryption design has been independently audited.
 
 ## Why Move Off Google Photos
 
@@ -241,3 +245,7 @@ The cost is $2.99/month for most users. The migration takes a week. The feature 
 For users who care enough about privacy to use [encrypted email](/posts/protonmail-review-2026/), [hardware 2FA keys](/posts/yubikey-vs-nitrokey-vs-solokey-2026/), and [VPNs](/posts/what-is-a-vpn-and-do-you-need-one-2026/), photos are the obvious next gap to close. Ente is the answer in 2026.
 
 Try it free with 5 GB at ente.io. The migration tools work. The encryption is real. The product is genuinely good.
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

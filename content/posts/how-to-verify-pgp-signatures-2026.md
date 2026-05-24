@@ -47,7 +47,6 @@ products:
   price: '55'
 schema_type: HowTo
 ---
-
 {{< affiliate-disclosure >}}
 
 PGP signatures are useless if you do not actually verify them. I see this constantly: developers publish signed software releases, users download the software but never check the signature. Sources sign emails to journalists, journalists never verify them. The signature exists; it is functionally decoration.
@@ -57,6 +56,9 @@ This is the practical guide to verifying PGP signatures the way it is supposed t
 The single most important point: a verified signature only proves that the message was signed by someone holding a specific private key. It does NOT prove that key belongs to the person you think it does. The hard part is binding the key to a real-world identity.
 
 ---
+
+
+> **Quick answer:** PGP signatures are useless if you do not actually verify them. Here is the step-by-step I follow for software releases, email, and identity claims — including the trust-on-first-use trap.
 
 ## What a PGP signature actually proves
 

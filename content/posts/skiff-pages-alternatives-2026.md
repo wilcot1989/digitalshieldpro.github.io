@@ -47,7 +47,6 @@ products:
   price: '4.99'
 schema_type: Article
 ---
-
 {{< affiliate-disclosure >}}
 
 Skiff Pages was the best end-to-end encrypted document tool I had used. Block editor, real-time collaboration, end-to-end encryption, integrated with Skiff Mail and Skiff Drive. It felt like Notion built by people who actually cared about privacy.
@@ -57,6 +56,11 @@ Notion bought Skiff in February 2024. Notion killed Skiff Pages by August 2024. 
 The short version: Proton Docs for most users, CryptPad for self-hosted privacy-extreme setups, [Obsidian with encrypted sync](/posts/best-encrypted-notes-apps-2026/) for offline-first knowledge management. Notion is not on the list — it is the company that killed Skiff and has not added end-to-end encryption to its own product.
 
 ---
+
+
+> **Quick answer:** Skiff Pages was the best end-to-end encrypted document tool I had used. Notion shut it down. I migrated 200+ pages across three alternatives — here is what works.
+>
+> Notion acquired Skiff in February 2024 and shut down all Skiff products within six months — including Skiff Pages, Skiff Drive, Skiff Calendar, and Skiff Mail. Existing users had a 90-day grace period to export data. As of 2026, Skiff is gone. The acquisition pattern (acqui-hire of the engineering team, kill the product) is the same one that has killed dozens of privacy-focused startups.
 
 ## What Skiff Pages did well
 
@@ -231,3 +235,7 @@ For self-hosters and privacy-extreme users, CryptPad self-hosted is free if you 
 For knowledge management workflows, [Obsidian with encrypted sync](/posts/best-encrypted-notes-apps-2026/) is the offline-first answer.
 
 For more on the encrypted alternatives ecosystem, see [Skiff Mail vs Proton Mail](/posts/skiff-mail-vs-proton-mail-2026/), [privacy-respecting alternatives to Google services](/posts/privacy-respecting-alternatives-google-services-2026/), and [best secure cloud storage](/posts/best-secure-cloud-storage-2026/).
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

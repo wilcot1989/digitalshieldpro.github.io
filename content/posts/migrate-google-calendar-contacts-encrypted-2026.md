@@ -53,7 +53,6 @@ products:
   price: 'Free (self-host) / $24/yr hosted'
 schema_type: Article
 ---
-
 *This article describes a migration I have done myself and walked several family members through. Proton, Tutanota, and EteSync each have their own pricing — none of them ran a referral program at time of writing.*
 
 Calendar and contacts data is some of the most personal information you generate. Where you go, who you meet, when, in what kind of relationship. Google Calendar holds it all, indexed, searchable, and integrated into everything Google does — including ads.
@@ -61,6 +60,11 @@ Calendar and contacts data is some of the most personal information you generate
 Migrating off Google Calendar and Google Contacts is one of the more rewarding privacy moves of 2026. The data transfer itself is minutes of work; the integration rewiring is most of the effort. Here is the realistic walkthrough.
 
 ---
+
+
+> **Quick answer:** A practical 2026 walkthrough for moving off Google Calendar and Google Contacts to encrypted alternatives — Proton Calendar, Tutanota Calendar and EteSync — including the parts that always break, how to keep family-shared calendars working, and what to do about Apple Calendar integration.
+>
+> Different kind of hard. Email migration is mostly volume-based — lots of historical messages to import. Calendar and contacts migration is mostly integration-based — every device, every shared calendar, every "add to calendar" link in your booking flows breaks at once. The data transfer itself takes minutes; rewiring the integrations takes a weekend.
 
 ## What you actually want at the end
 
@@ -304,3 +308,7 @@ For self-hosters and CalDAV/CardDAV maximalists: <a href="https://www.etesync.co
 For Tutanota loyalists: <a href="https://tuta.com" target="_blank" rel="nofollow sponsored noopener">Tutanota Calendar</a>. Clean, focused, no Apple Calendar integration but excellent on its own.
 
 Pair this with the rest of your [privacy stack](/posts/best-privacy-stack-2026/) and you remove one of the most personally revealing data sets from Google's hands. That is one of the best calendar-week investments your future self will thank you for.
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

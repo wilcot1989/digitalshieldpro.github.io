@@ -52,7 +52,6 @@ products:
   price: '7.49'
 schema_type: Review
 ---
-
 Last April I searched my name on BeenVerified out of curiosity. Forty-three results. Full address, phone number, estimated income range, relatives listed. I knew data brokers existed as a concept. Seeing it laid out like a dossier on myself was a different experience.
 
 I spent a weekend doing manual opt-outs. Seventeen broker sites, most requiring email verification, three requiring a photo ID upload, one sending me through a broken CAPTCHA loop for 25 minutes. By Sunday evening I'd cleared 17 sites and had a spreadsheet with 200+ still to go. That's when I signed up for DeleteMe.
@@ -63,6 +62,11 @@ What follows is 8 weeks of tracked results — not DeleteMe's marketing numbers,
 
 
 🌍 *Moving to the EU? See also [EU banking privacy guide](https://expatnetherlandshub.com/blog/best-banking-expats-netherlands-2026/).*
+
+
+> **Quick answer:** I tested DeleteMe for 8 weeks, starting with 247 broker listings on my profile. Here's exactly what got removed, what didn't, and whether $129/year is worth it.
+>
+> DeleteMe covers approximately 750 data brokers as of 2026, which is one of the highest counts in the industry. By comparison, Incogni covers around 230+ brokers. However, broker count alone doesn't determine results — what matters is whether the brokers holding your data are in their list.
 
 ## What DeleteMe Does
 
@@ -373,3 +377,7 @@ If you're in the EU, or want a cheaper starting point to test the category, Inco
 - [Best Identity Theft Protection 2026](/posts/best-identity-theft-protection-2026/)
 
 *Questions about your data exposure? Email james@digitalshieldpro.com.*
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

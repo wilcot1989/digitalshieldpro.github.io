@@ -47,7 +47,6 @@ products:
   price: '9.99'
 schema_type: Article
 ---
-
 {{< affiliate-disclosure >}}
 
 I migrated three Skiff Mail accounts to Proton Mail in late 2024 after the Notion acquisition shutdown announcement. One was my own secondary inbox. Two belonged to clients who had built workflows around Skiff Pages and Skiff Drive in addition to mail.
@@ -57,6 +56,11 @@ This is not a comparison in the usual sense. Skiff Mail no longer exists as a se
 If you are reading this in 2026 and you still have a Skiff archive ZIP sitting on a drive somewhere, the second half of this article is the migration playbook I wish I had when I started.
 
 ---
+
+
+> **Quick answer:** Skiff Mail is gone — Notion acquired and shut it down. I migrated 3 inboxes to Proton Mail. Here is what worked, what broke, and what to do if you are still stuck.
+>
+> No. Skiff was acquired by Notion in February 2024 and shut down operations within six months. Existing users had until late 2024 to export their data. As of 2026, Skiff Mail accounts no longer receive or send mail and the web app returns a static landing page directing users to Notion. If you still have a Skiff archive ZIP, you can import it into Proton Mail or another provider.
 
 ## What happened to Skiff
 
@@ -201,3 +205,7 @@ For deeper reading on encrypted email, see [Proton Mail review](/posts/protonmai
 Skiff was a good product killed by a bad corporate structure. Proton is the obvious migration target and the better long-term bet specifically because of its foundation ownership. The migration is annoying but tractable if you still have your archive ZIP. If you do not, the data is gone — there is no Skiff support team to email.
 
 The meta-lesson: pick privacy tools by their organizational durability, not their feature list. Skiff users learned this the hard way. The rest of us can learn it free.
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

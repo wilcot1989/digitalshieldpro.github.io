@@ -50,7 +50,6 @@ products:
   price: '3.99'
 schema_type: Article
 ---
-
 {{< affiliate-disclosure >}}
 
 Lawyers send sensitive correspondence over Outlook with a TLS lock icon and call it confidential. It is not. The lock means the message is encrypted in transit between mail servers — Microsoft, Google, or whichever provider stores the mail at rest can read it, scan it, hand it to law enforcement on a subpoena, and feed it into AI training pipelines.
@@ -60,6 +59,9 @@ Attorney-client privilege deserves better. I worked with three small law firms o
 The American Bar Association's Formal Opinion 477R says lawyers must use "particularly strong protective measures" for confidential client information when the risk warrants it. Gmail and standard Outlook do not meet that bar for sensitive matters. The encrypted email options below do.
 
 ---
+
+
+> **Quick answer:** Attorney-client privilege deserves real encryption, not Outlook with a TLS lock icon. Here is the encrypted email stack I recommend to legal professionals after testing it with three small firms.
 
 ## The legal threat model
 
@@ -213,3 +215,7 @@ For solo and small-firm practices, [Proton Mail](https://go.digitalshieldpro.com
 Pair it with a [NordVPN](https://go.digitalshieldpro.com/nordvpn){target="_blank" rel="nofollow sponsored noopener"} subscription for travel and remote work. Add hardware-key 2FA before you handle any privileged communication on the new account.
 
 For full provider comparisons, see [best encrypted email services](/posts/best-encrypted-email-services-2026/), [best encrypted email for journalists and activists](/posts/best-encrypted-email-journalists-activists-2026/), and [best encrypted email for business](/posts/best-encrypted-email-business-2026/).
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

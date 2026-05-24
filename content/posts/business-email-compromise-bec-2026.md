@@ -42,7 +42,6 @@ products:
   price: ''
 schema_type: Article
 ---
-
 I spent three weeks reviewing FBI IC3 reports, interviewing a finance director who nearly wired $340,000 to fraudsters, and working through dozens of real BEC email samples. What I found is that these attacks succeed not because they are technically sophisticated, but because they are socially brilliant. The criminals do their homework. They learn when your CEO is traveling. They know the name of your CFO. They understand your payment approval process. And then they send one email at exactly the right moment.
 
 Business Email Compromise cost US businesses $2.9 billion in 2023. That is more than all ransomware losses combined. The average incident cost $137,000. And despite years of awareness campaigns, the FBI says BEC incidents are still rising year-over-year.
@@ -55,6 +54,11 @@ This is not a problem you can solve by telling employees to "be careful." You ne
 
 
 🌍 *Moving to the EU? See also [EU banking privacy guide](https://expatnetherlandshub.com/blog/best-banking-expats-netherlands-2026/).*
+
+
+> **Quick answer:** BEC fraud cost businesses $2.9 billion in 2023. I break down the real tactics criminals use to impersonate executives.
+>
+> BEC is a type of fraud where attackers impersonate executives, vendors, or trusted colleagues via email to trick employees into transferring money, sharing sensitive data, or providing account credentials. Unlike mass phishing, BEC attacks are targeted and highly researched, making them far more convincing.
 
 ## What BEC Actually Looks Like in 2026
 
@@ -294,3 +298,7 @@ The criminals doing this will move to easier targets. Make sure that is not you.
 - [Best Email Security Solutions 2026: Protect Your Inbox](/posts/best-email-security-2026/)
 - [Fastmail Review 2026: Six Weeks Testing the Best](/posts/fastmail-review-2026/)
 - [How to Protect Yourself Online: The Complete Digital](/posts/how-to-protect-yourself-online-2026/)
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

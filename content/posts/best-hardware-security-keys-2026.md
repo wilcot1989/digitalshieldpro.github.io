@@ -60,12 +60,14 @@ products:
   price: $25
 schema_type: Article
 ---
-
 I bought six hardware security keys and used all of them, simultaneously, for six weeks. Not a rotating test -- I had all six registered on my accounts and used different keys on different days to build a real picture of daily-use friction.
 
 The result: two keys I would actually recommend, one strong value pick, two niche options with legitimate use cases, and one I would avoid for most people.
 
 Here is the complete breakdown.
+
+
+> **Quick answer:** I tested six hardware security keys across Google, Microsoft, GitHub, AWS, and password managers for six weeks.
 
 ## Why Hardware Security Keys Matter More in 2026
 
@@ -391,3 +393,7 @@ For most people reading this: buy a YubiKey 5C NFC and a Token2 as backup. Regis
 - [Passkeys vs Passwords 2026: The Future of Login](/posts/passkeys-vs-passwords-2026-future/)
 - [Two-Factor Auth vs Passkeys in 2026: Which Is More Secure?](/posts/two-factor-auth-vs-passkeys-2026/)
 - [Best 2FA Apps 2026: Authy, Aegis, 1Password Tested](/posts/best-2fa-apps-2026/)
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

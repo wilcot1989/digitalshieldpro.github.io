@@ -49,7 +49,6 @@ products:
   price: '199'
 schema_type: Article
 ---
-
 My home network has had the same router for four years. About eight months ago I started noticing something troubling while reviewing my Firewalla traffic logs: several of my IoT devices — a smart TV, a security camera, and a robot vacuum — were making regular connections to IP addresses I could not immediately identify. None of it was overtly malicious. Some was telemetry. Some was standard update checking. But some of it was unexplained outbound traffic on port 443 to servers in regions that made no sense for the device's manufacturer.
 
 That is when I started taking home network security seriously again.
@@ -57,6 +56,9 @@ That is when I started taking home network security seriously again.
 The router market has changed significantly. Security features that were enterprise-only five years ago — intrusion detection, VLAN segmentation, encrypted DNS, real-time traffic analysis — are now available in consumer hardware at reasonable prices. I tested eight routers over four months, focusing on three that represent the best options in their respective categories.
 
 ---
+
+
+> **Quick answer:** I tested ASUS, Synology, and Firewalla routers for real-world security. Here are the ones worth buying in 2026 and what separates good from great.
 
 ## Why Your Current Router is Probably a Security Risk
 
@@ -296,3 +298,7 @@ Your router is the single piece of hardware that all of your network traffic pas
 - [Best VPN Routers in 2026: Hardware vs Software Compared](/posts/best-vpn-router-2026/)
 - [Best Secure Mobile Browsers 2026: Brave, Firefox](/posts/best-secure-browsers-mobile-2026/)
 - [Best Secure Cloud Storage in 2026: Tresorit, Sync.com](/posts/best-secure-cloud-storage-2026/)
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

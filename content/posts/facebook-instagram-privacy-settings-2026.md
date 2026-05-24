@@ -45,10 +45,14 @@ faq:
   a: Meta changes privacy settings and introduces new features regularly. Review your settings every 3-6 months, or any time you hear news about Meta changing its privacy policy. Your settings from 2023 do not cover features introduced in 2025.
 schema_type: Article
 ---
-
 I do this audit every six months, and every single time I find a new setting I had not configured. Meta has added more privacy controls over the years — partly from regulatory pressure, partly from the ongoing PR work of appearing privacy-conscious — but they have also added more ways to share data in the same updates. The interface buries the most protective settings while surfacing the ones that benefit Meta's advertising business.
 
 I spent three hours last month walking through every privacy menu on both Facebook and Instagram, testing on both mobile (iOS) and desktop. Here is the complete guide to what actually matters and where to find it.
+
+
+> **Quick answer:** Step-by-step guide to locking down your Facebook and Instagram privacy settings in 2026. I walked through every menu so you don't have to guess.
+>
+> No. Privacy settings control who can see your content and some ad targeting preferences, but Meta continues collecting data about your behavior for internal purposes regardless of public privacy settings. Limiting what you post and using Facebook less are the most effective data-reduction strategies.
 
 ## Why This Matters More Than You Think
 
@@ -361,3 +365,7 @@ Starting with Facebook and Instagram is reasonable — they are the largest plat
 - [Best Privacy Browsers in 2026: Top 7 for Maximum Security](/posts/best-privacy-browsers-2026/)
 - [Best Privacy Search Engines 2026: DuckDuckGo, Startpage](/posts/best-privacy-search-engines-2026/)
 - [Build Your Complete Digital Privacy Stack 2026](/posts/best-privacy-stack-2026/)
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

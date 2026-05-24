@@ -39,12 +39,16 @@ products:
   price: ''
 schema_type: Article
 ---
-
 A friend of mine had their Instagram hacked last year, and within hours the attacker was DMing everyone in their contact list with a crypto scam. The damage was not just personal -- it burned trust with dozens of people. Your social media accounts hold more data than you think, and a compromised account turns you into a weapon against everyone you know. Here is how I lock down every platform, and you can do it in under 30 minutes.
 
 *This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
 
 Want stronger passwords for all your accounts? Check our [guide to creating unbreakable passwords](/posts/strong-passwords-guide-2026/).
+
+
+> **Quick answer:** Step-by-step guide to securing your social media accounts. Protect Facebook, Instagram, X, LinkedIn, and TikTok from hackers, scams, and data theft.
+>
+> The most common methods: phishing (fake login pages sent via DM or email), credential stuffing (using leaked passwords from other breaches), SIM swapping (taking over your phone number for 2FA), malicious apps (third-party apps with excessive permissions), and social engineering (tricking support staff into resetting your account).
 
 ## Universal Security Checklist
 
@@ -331,3 +335,7 @@ Securing your social media takes 30 minutes upfront and 10 minutes per month to 
 ---
 
 *Last updated: June 2026.*
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

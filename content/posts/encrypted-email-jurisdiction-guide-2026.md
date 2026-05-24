@@ -46,7 +46,6 @@ products:
   price: Free / from €3/month
 schema_type: Article
 ---
-
 Most people pick their encrypted email provider based on features and price. Few realize that **where the company is headquartered may matter more than any technical security feature** for their actual protection.
 
 Jurisdiction determines: what laws govern the provider, what court orders can compel them to disclose data, what intelligence agencies can access them without a court order, and what happens when your government wants your email.
@@ -56,6 +55,9 @@ I spent weeks researching the relevant laws, court precedents, government reques
 *This article contains affiliate links. I earn a small commission if you sign up for ProtonMail or Tutanota through my links, at no extra cost to you.*
 
 ---
+
+
+> **Quick answer:** Where your encrypted email provider is headquartered determines what legal protections you actually have.
 
 ## Why Jurisdiction Matters More Than You Think
 
@@ -462,3 +464,7 @@ The bottom line: for privacy from surveillance, stay outside Five Eyes and outsi
 ---
 
 *Legal frameworks, transparency reports, and case records verified August 2026. Legal information is for educational purposes — consult a lawyer for specific legal advice.*
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

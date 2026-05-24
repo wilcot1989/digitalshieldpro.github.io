@@ -39,7 +39,6 @@ products:
   price: ''
 schema_type: Article
 ---
-
 I recently received a phone call that sounded exactly like a colleague asking me to verify a wire transfer. The voice was perfect -- tone, cadence, even the way he pauses mid-sentence. It was a deepfake. AI-generated voice cloning now needs as little as three seconds of audio to produce a convincing replica, and deepfake fraud losses exceeded $25 billion globally in 2025-2026. This is the threat that keeps me up at night, and here is how to defend against it.
 
 *This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
@@ -48,6 +47,11 @@ For broader online safety, see our [complete privacy protection guide](/posts/pr
 
 
 🌍 *Moving to the EU? See also [EU banking privacy guide](https://expatnetherlandshub.com/blog/best-banking-expats-netherlands-2026/).*
+
+
+> **Quick answer:** How to identify deepfake scams in 2026. AI-generated voice calls, video impersonation, and social engineering attacks explained with practical protection tips.
+>
+> A deepfake scam uses AI to create realistic fake audio, video, or images of real people to commit fraud. Common examples include AI voice calls impersonating family members asking for money, fake video calls from 'executives' authorizing wire transfers, and fabricated celebrity endorsements for investment scams.
 
 ## How Deepfake Scams Work
 

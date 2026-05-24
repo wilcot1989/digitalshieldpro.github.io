@@ -47,12 +47,16 @@ products:
   price: ''
 schema_type: Article
 ---
-
 After eight years in cybersecurity, I have a personal security setup that would take an attacker serious effort to crack. It did not happen overnight -- I built it step by step, tool by tool, habit by habit. This guide is the exact checklist I follow and recommend to everyone who asks me "how do I actually protect myself online?"
 
 You do not need a CS degree. You need about two hours and the willingness to follow through. By the end of this guide, you will be more secure than 95% of internet users.
 
 ---
+
+
+> **Quick answer:** The complete 2026 guide to protecting yourself online. A step-by-step checklist covering VPNs, antivirus, password managers, 2FA, safe browsing.
+>
+> Use a password manager and enable two-factor authentication on every account that supports it. Weak and reused passwords are the number one cause of account breaches. A password manager eliminates this risk entirely.
 
 ## Table of Contents
 
@@ -640,3 +644,7 @@ Bookmark this page and come back to it as you work through each section. Your fu
 - [How to Set Up a VPN](/posts/how-to-set-up-vpn-2026/)
 
 Last updated: March 2026.
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

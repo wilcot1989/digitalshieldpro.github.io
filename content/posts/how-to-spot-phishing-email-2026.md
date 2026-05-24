@@ -44,12 +44,14 @@ products:
   price: Free / From $3.99/month
 schema_type: Article
 ---
-
 In 2025, the FBI's Internet Crime Complaint Center received 298,878 phishing complaints — more than any other cybercrime category — with reported losses exceeding $70 million. Those numbers only cover cases that were reported, and most aren't.
 
 I've spent several months collecting real phishing emails from the past 18 months. Eight of them are analyzed in detail below, with annotations on exactly what makes them effective and what gives them away. Understanding what attackers are actually doing right now is more useful than a generic list of "tips."
 
 ---
+
+
+> **Quick answer:** I analyzed 8 real phishing emails from 2025–2026 and broke down exactly what makes them convincing — and how to spot them before you click.
 
 ## Why Phishing Is Getting Harder to Spot
 
@@ -285,3 +287,7 @@ The QR code attacks are the fastest-growing category I'm seeing in 2026. Treat Q
 - [ProtonMail review 2026: 12 months testing the privacy-first](/posts/protonmail-review-2026/)
 - [Best Email Security Solutions 2026: Protect Your Inbox](/posts/best-email-security-2026/)
 - [Best Encrypted Email Services in 2026: Protect Your Inbox](/posts/best-encrypted-email-services-2026/)
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

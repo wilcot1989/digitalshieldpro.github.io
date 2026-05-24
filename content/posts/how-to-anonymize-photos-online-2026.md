@@ -44,7 +44,6 @@ products:
   price: ''
 schema_type: Article
 ---
-
 I have a habit of checking EXIF data on photos people send me — not for any invasive reason, just because it is genuinely illuminating how much information is hidden in a typical photo. The ones that get me are the innocuous ones: a photo of a home-cooked meal with precise GPS coordinates showing the home address, a "just landed" photo with the exact departure and arrival locations logged.
 
 Most people do not know this data exists. Even fewer know how to remove it before sharing. This guide covers everything: what metadata photos carry, which platforms strip it (and which do not), and the best tools for removal across every platform.
@@ -52,6 +51,11 @@ Most people do not know this data exists. Even fewer know how to remove it befor
 *This article contains affiliate links. I earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ---
+
+
+> **Quick answer:** Strip EXIF metadata, blur faces, and remove geolocation data from photos before sharing online. Tools tested for desktop and mobile.
+>
+> EXIF (Exchangeable Image File Format) data is metadata embedded in image files by cameras and phones. It can include the exact GPS coordinates where the photo was taken, the device model, software version, date and time, and camera settings. If you share a photo with GPS data intact, anyone who views the file metadata can see precisely where you were when you took it.
 
 ## What Data Is Actually Hidden in Your Photos
 
@@ -442,3 +446,7 @@ For maximum cleanliness, consider converting HEIC to JPEG after metadata removal
 - [Best Dark Web Monitoring Services 2026](/posts/best-dark-web-monitoring-2026/)
 - [Best Encrypted Email Services in 2026: Protect Your Inbox](/posts/best-encrypted-email-services-2026/)
 - [Best Identity Theft Protection 2026: Tested & Compared](/posts/best-identity-theft-protection-2026/)
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

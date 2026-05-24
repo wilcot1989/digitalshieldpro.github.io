@@ -45,7 +45,6 @@ products:
   price: $6.49/mo (annual)
 schema_type: Article
 ---
-
 When I signed up for my first data broker removal service, it took about two weeks before I started thinking about my spouse. She was listed on the same sites I was — same address, same phone number, her employer, her approximate income. Anyone who found my listing could immediately correlate it to hers. What was the point of removing my data if her information was still there pointing back to us?
 
 Family plans for data broker removal are the answer to this problem. But the pricing and coverage structures across services are complex enough that choosing wrong can cost you significantly — or leave gaps in your family's coverage.
@@ -55,6 +54,11 @@ I tested family plans from the two most established services in this category: D
 *This article contains affiliate links. I earn a commission if you purchase through my links, at no extra cost to you.*
 
 ---
+
+
+> **Quick answer:** Should you get a family data broker removal plan? I compared DeleteMe Family, Incogni multi-seat, Optery family, and PrivacyBee family plans.
+>
+> Data brokers are generally prohibited from publishing data on minors under COPPA and their own policies. However, older teenagers (16–17) often have enough public records activity — driver's license applications, sports registrations, school records in some states — to appear on some broker sites. If your teenager drives or is near adulthood, it is worth checking.
 
 ## Why Family Coverage Matters More Than You Think
 
@@ -341,3 +345,7 @@ None of these prevent data collection entirely, but they slow re-listing — whi
 - [Data Broker Removal Guide for EU Residents 2026](/posts/data-broker-removal-guide-eu-2026/)
 - [Data Broker Laws By State 2026: What CCPA, Texas](/posts/data-broker-laws-by-state-2026/)
 - [How Data Brokers Collect Your Data: The Complete 2026 Guide](/posts/how-data-brokers-collect-your-data-2026/)
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

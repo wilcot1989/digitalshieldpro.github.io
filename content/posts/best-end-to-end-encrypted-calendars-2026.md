@@ -50,7 +50,6 @@ products:
   price: '3'
 schema_type: Article
 ---
-
 {{< affiliate-disclosure >}}
 
 I switched my primary calendar away from Google Calendar in early 2025 and have been running Proton Calendar as my main calendar ever since. Over the past 90 days I also ran Tuta Calendar, Mailfence Calendar, and Mailbox.org Calendar in parallel to write this comparison.
@@ -60,6 +59,11 @@ The short answer: Proton Calendar wins for most users. Tuta is the closer second
 The longer answer is below, with the rough edges I hit on each.
 
 ---
+
+
+> **Quick answer:** I tested every encrypted calendar I could find against Google Calendar for 90 days. Proton Calendar wins, Tuta is close, the rest have real gaps. Here is the full breakdown.
+>
+> No. Google Calendar data is encrypted in transit and at rest, but Google holds the keys. Google can read your event titles, locations, attendees, and notes. This is not a security flaw — it is by design. Calendar content feeds into Google Assistant, Gmail smart replies, and machine learning models. If you want event content that Google literally cannot read, you need a different calendar.
 
 ## Why a private calendar matters
 
@@ -229,3 +233,7 @@ For broader email privacy reading, see [the best encrypted email comparison](/po
 Proton Calendar is the best end-to-end encrypted calendar in 2026 for most users. Tuta is closer than people think and wins on cryptographic future-proofing. Mailbox.org wins on CalDAV. Google Calendar is not in this conversation — it is not encrypted in any way that matters.
 
 Pick based on your existing email service first, your CalDAV requirement second, and your aesthetic preference third. The encryption quality of all four real contenders is high enough that you cannot make a wrong choice.
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

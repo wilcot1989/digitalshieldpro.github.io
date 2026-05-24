@@ -44,7 +44,6 @@ products:
   price: ''
 schema_type: Article
 ---
-
 Last November I bought a pair of running shoes from a site that looked identical to the brand's official store. Same logo, same product photos, same colour scheme. The domain was six characters off from the real one. I noticed the discrepancy three days after placing the order, when my card was charged twice — once for the shoes, once for a $340 "subscription" I had never signed up for.
 
 I work in cybersecurity. I knew what to look for. I still fell for it.
@@ -56,6 +55,9 @@ That experience prompted me to spend eight weeks mapping the current landscape o
 This is not an abstract risk. It is the most likely financial crime you will experience in 2026.
 
 ---
+
+
+> **Quick answer:** Fake stores, card-skimming malware, and return scams cost consumers $8.8 billion in 2025.
 
 ## Part 1: Fake Online Stores
 
@@ -293,3 +295,7 @@ Protect yourself at the browser level and you protect yourself from most of what
 - [Cyber Insurance Guide 2026: What Every Business Needs to](/posts/cyber-insurance-guide-2026/)
 - [How to Protect Yourself Online: The Complete Digital](/posts/how-to-protect-yourself-online-2026/)
 - [Online Banking Security Tips 2026: 12 Habits](/posts/online-banking-security-tips-2026/)
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

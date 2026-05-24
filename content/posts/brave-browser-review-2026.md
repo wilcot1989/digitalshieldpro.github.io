@@ -44,13 +44,15 @@ products:
   price: Free
 schema_type: Review
 ---
-
 Four weeks ago I uninstalled Chrome on my main Windows machine and switched to Brave as my daily driver. I did the same on my iPhone. I kept notes, measured load times, counted blocked trackers, and tested every privacy feature I could think of.
 
 Here is what actually happened.
 
 
 🌍 *Moving to the EU? See also [EU banking privacy guide](https://expatnetherlandshub.com/blog/best-banking-expats-netherlands-2026/).*
+
+
+> **Quick answer:** Brave Browser reviewed after four weeks on Windows and iOS. Real speed measurements, tracker counts, honest takes on the BAT controversy.
 
 ## Why I Tested Brave
 
@@ -346,3 +348,7 @@ I kept Brave as my daily driver after the four-week test. That is probably the c
 - [Best Secure Mobile Browsers 2026: Brave, Firefox](/posts/best-secure-browsers-mobile-2026/)
 - [VPN vs Proxy vs Tor: Which Should You Use in 2026?](/posts/vpn-vs-proxy-vs-tor-2026/)
 - [DeleteMe Review 2026: 8-Week Test Results, Pricing](/posts/deleteme-review-2026/)
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

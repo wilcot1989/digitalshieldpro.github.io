@@ -67,7 +67,6 @@ products:
   price: ''
 schema_type: Article
 ---
-
 Three months ago, I sat down and did something most security professionals never actually do for themselves: I ran a formal threat model audit on my own digital life.
 
 I pulled every account I own — 247 of them, embarrassingly — ran my email address through Have I Been Pwned, checked what data broker sites listed about me, and timed how long it would take someone with $50 and a motivation to impersonate me to find my phone number, home address, and employer history. The answer was under four minutes. That included two security researchers and a freelance OSINT investigator I hired as a dry run.
@@ -79,6 +78,11 @@ This article is the result of actually fixing all of that. Not theory — the sp
 *This article contains affiliate links. I earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ---
+
+
+> **Quick answer:** Build a complete digital privacy stack in one weekend for around $30/month. VPN + encrypted email + password manager + antivirus + data broker removal.
+>
+> You can start with just a password manager and VPN and cover 70% of realistic threats. The full five-layer stack is for people who want to eliminate blind spots. If budget is tight, prioritize in this order: password manager, then VPN, then antivirus. Encrypted email and data broker removal are the final mile.
 
 ## Why a Stack Beats Individual Tools
 
@@ -425,3 +429,7 @@ Yes. All five tools I recommend are subscription services with no long-term cont
 - [Best Antivirus Software 2026: Tested & Compared](/posts/best-antivirus-software-2026/)
 - [Best VPN for Travel in 2026: Stay Secure on Public Wi-Fi](/posts/best-vpn-for-travel-2026/)
 - [Best VPN Services 2026: Tested on My Own Hardware](/posts/best-vpn-services-2026/)
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

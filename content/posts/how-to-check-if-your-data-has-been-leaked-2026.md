@@ -44,7 +44,6 @@ products:
   price: ''
 schema_type: Article
 ---
-
 I check HaveIBeenPwned every month, and I have found my own email address in seven separate breach databases over the years. My phone number showed up in the Facebook leak. An old password from 2018 was circulating on a dark web paste site. If you have been online for more than a few years, some of your data is out there too -- the only question is how much and what you do about it.
 
 This guide walks you through exactly how to check, what each type of breach means, and the step-by-step recovery plan I follow every time I find something new.
@@ -52,6 +51,9 @@ This guide walks you through exactly how to check, what each type of breach mean
 For broader protection strategies, see our [Best Identity Theft Protection 2026](/posts/best-identity-theft-protection-2026/) guide. And if you want to lock down the passwords that breaches most commonly expose, our [Best Password Managers 2026](/posts/best-password-managers-2026/) roundup will help you choose the right tool.
 
 ---
+
+
+> **Quick answer:** A step-by-step guide to checking if your personal data has been leaked in a data breach, with actionable recovery steps.
 
 ## Step 1: Check Your Email on HaveIBeenPwned
 
@@ -303,3 +305,7 @@ Start by checking your email addresses on HaveIBeenPwned today. Then set up cont
 - [Best VPN Services 2026](/posts/best-vpn-services-2026/)
 
 Last updated: March 2026.
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

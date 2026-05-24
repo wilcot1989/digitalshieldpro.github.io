@@ -38,7 +38,6 @@ faq:
   - q: "How can I minimize metadata leakage?"
     a: "Five practical steps: (1) Use email aliases so each contact sees a different alias, breaking the social graph; (2) Use a VPN or Tor when accessing your email provider; (3) Keep email-vs-messaging boundaries — use Signal/Threema for sensitive conversations; (4) Avoid sending mail at predictable times that reveal your timezone; (5) Send to one recipient at a time when possible — group emails reveal who knows whom."
 ---
-
 You moved to ProtonMail. You feel safer. You should — your messages are encrypted now in ways Gmail never was.
 
 But "encrypted email" is a marketing simplification. The actual privacy story is more complicated, and understanding what your encrypted email still reveals is the difference between informed privacy and false confidence.
@@ -48,6 +47,9 @@ This article explains exactly what metadata your encrypted email leaks, who can 
 *This article contains affiliate links. I earn a commission if you purchase through my links, at no extra cost to you.*
 
 ---
+
+
+> **Quick answer:** ProtonMail and Tutanota encrypt your message body. They do not encrypt who you talk to, when, or for how long. Here is what metadata actually leaks.
 
 ## The Marketing vs The Reality
 
@@ -365,3 +367,7 @@ For the VPN that hides your email connections: <a href="https://go.digitalshield
 - [Signal private messaging guide](/posts/signal-private-messaging-guide-2026/)
 - [Best privacy stack 2026](/posts/best-privacy-stack-2026/)
 - [Mullvad VPN review](/posts/mullvad-vpn-review-2026/)
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

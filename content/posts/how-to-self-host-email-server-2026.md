@@ -43,7 +43,6 @@ products:
   price: Free / from $3.99/month
 schema_type: Article
 ---
-
 Self-hosting your email is the ultimate privacy move — your data on your hardware under your control, with no third party able to access it. It is also one of the most technically demanding, maintenance-heavy decisions you can make in your personal privacy setup.
 
 I have run self-hosted email continuously for three years. During that time I used Mail-in-a-Box, then Mailcow, and most recently Stalwart. I have dealt with every major problem: spam blacklisting, TLS certificate failures, disk space issues, inbound mail lost during VPS migrations, and the fun experience of waking up at 2 AM because my mail server is unreachable.
@@ -53,6 +52,9 @@ This guide is honest about all of it — the setup process, the ongoing maintena
 *This article contains affiliate links. I earn a small commission if you sign up for ProtonMail through my link, at no extra cost to you.*
 
 ---
+
+
+> **Quick answer:** I ran self-hosted email on Mail-in-a-Box, Mailcow, and Stalwart for 3 months each. Here is the honest technical guide.
 
 ## Why Self-Host Email? (And Why Not To)
 
@@ -444,3 +446,7 @@ If you are not that user, ProtonMail is the right answer.
 ---
 
 *Software versions and pricing verified August 2026. VPS pricing from Hetzner Cloud price list.*
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

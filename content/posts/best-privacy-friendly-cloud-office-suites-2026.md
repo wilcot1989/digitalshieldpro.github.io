@@ -47,7 +47,6 @@ products:
   price: '5.00'
 schema_type: Article
 ---
-
 Affiliate disclosure: this article links to Proton Drive (where I earn a commission if you sign up) and CryptPad (no affiliate program — I am recommending them anyway). I have used each service mentioned for at least three months of real work, including collaborative editing with at least one other person.
 
 Google Workspace reads your documents. Microsoft 365 reads your documents. Both run AI on the content of your files (Google has been doing this since Gmail launched in 2004 — the AI is just better now). Both can be served subpoenas. Both have had breaches.
@@ -57,6 +56,11 @@ For most users this is a non-issue. They write grocery lists and birthday party 
 This article covers the cloud office suites I actually use and recommend in 2026 when privacy is non-optional. Each one preserves the collaborative-editing experience without giving the vendor read access to your documents. I tested each by drafting real articles, spreadsheet models, and presentations with collaborators.
 
 ---
+
+
+> **Quick answer:** Google Workspace and Microsoft 365 read your documents. Here are the cloud office suites that do not — CryptPad, OnlyOffice, Nextcloud Office, and Proton Drive Docs. Tested with real collaboration workflows in 2026.
+>
+> Yes — CryptPad does this. The trick: clients exchange encrypted operational transforms through a relay server that cannot decrypt them. The crypto is more complex than static-file E2EE but it works. Latency is slightly higher than Google Docs but acceptable.
 
 ## What "privacy-friendly" means here
 

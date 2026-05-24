@@ -53,7 +53,6 @@ products:
   price: '4.99'
 schema_type: Review
 ---
-
 Six weeks ago I migrated my secondary Gmail account to Fastmail. The migration was so smooth that I'm now considering moving my primary email there too — which I didn't expect when I started this test. This is my full honest review.
 
 The short version: Fastmail is the best non-encrypted privacy email service in 2026. Fast, clean, genuinely private in the ways that matter to most people, and reasonably priced. But it is absolutely not zero-knowledge encrypted, and if that distinction matters to you, you need to know that before you sign up.
@@ -61,6 +60,11 @@ The short version: Fastmail is the best non-encrypted privacy email service in 2
 *Disclosure: This review contains affiliate links to Fastmail. If you sign up through my link, I may receive a commission at no extra cost to you. I tested Fastmail using a paid Standard account ($9/month, paid out of pocket). Opinions are my own.*
 
 ---
+
+
+> **Quick answer:** Fastmail is fast, private, and genuinely polished — but it's not zero-knowledge encrypted.
+>
+> Fastmail encrypts data in transit (TLS) and at rest on their servers, but it is NOT zero-knowledge encrypted. Unlike ProtonMail or Tutanota, Fastmail can technically access your emails if compelled by law. They use strong server-side encryption, but they hold the keys — you don't. This is the most important distinction to understand before signing up.
 
 ## What Is Fastmail?
 
@@ -405,3 +409,7 @@ Start with the 30-day trial. If your migration goes smoothly (it will), the Stan
 - [Best Encrypted Email Services 2026](/posts/best-encrypted-email-services-2026/)
 - [Tutanota Review 2026](/posts/tutanota-review-2026/)
 - [ProtonVPN Review 2026](/posts/protonvpn-review-2026/)
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

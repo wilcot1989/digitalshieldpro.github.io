@@ -60,7 +60,6 @@ products:
   price: 'Free'
 schema_type: Article
 ---
-
 *This article contains affiliate links. I earn a commission if you purchase through some of my links, at no extra cost to you.*
 
 Encrypted DNS is the most underrated privacy upgrade of the last five years. Most people set up a VPN, install uBlock Origin, lock down their browser — and then leave their DNS resolver pointed at their ISP. Every single domain they visit goes out in clear text to a company whose business model frequently includes selling that data.
@@ -70,6 +69,9 @@ Switching to an encrypted DNS resolver takes about ninety seconds. It is free. I
 I have run NextDNS, Quad9, ControlD, Cloudflare and Mullvad DNS as my primary resolvers, swapping every few weeks across my home router, laptop and phone. Here is the honest comparison.
 
 ---
+
+
+> **Quick answer:** Encrypted DNS is the cheapest privacy upgrade you can make in 2026 — most people skip it. I ran NextDNS, Quad9, ControlD, Cloudflare and Mullvad DNS for months and here is the honest breakdown of who they leak to, who they block, and what you should actually pick.
 
 ## What encrypted DNS actually does
 

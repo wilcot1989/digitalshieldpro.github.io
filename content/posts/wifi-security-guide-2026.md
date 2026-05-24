@@ -39,12 +39,16 @@ products:
   price: ''
 schema_type: Article
 ---
-
 I audit home WiFi networks for friends and family all the time, and the mistakes I find are almost always the same: default router password, WPS enabled, firmware from 2021, and a WiFi password that is the family dog's name. Any of those alone is enough for a determined attacker to own your entire network. The good news: fixing all of it takes about 30 minutes and costs nothing.
 
 *This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
 
 For a complete network security setup, see our [home network security guide](/posts/secure-home-network-2026/).
+
+
+> **Quick answer:** Complete guide to securing your WiFi network in 2026. WPA3 setup, router hardening, guest networks, VPN protection, and how to detect intruders on your network.
+>
+> Check these 5 things: (1) You're using WPA3 or WPA2 encryption (not WEP or 'Open'), (2) Your WiFi password is at least 12 characters, (3) You've changed the default router admin password, (4) Your router firmware is up to date, (5) WPS is disabled. If all 5 are yes, your basic WiFi security is solid.
 
 ## WiFi Security Checklist
 
@@ -311,3 +315,7 @@ WiFi security comes down to four fundamentals: WPA3/WPA2 encryption with a stron
 ---
 
 *Last updated: June 2026.*
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

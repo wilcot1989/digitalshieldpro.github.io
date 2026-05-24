@@ -42,12 +42,16 @@ faq:
   a: Without a kill switch, traffic would fall back to your regular connection. Most advanced router firmware (DD-WRT, Tomato, AsusWRT-Merlin) supports VPN kill switch configuration that blocks internet access if the VPN tunnel drops. Always configure this.
 schema_type: Article
 ---
-
 I have been running a VPN router setup at home for three years, and the number one question I get from people who visit and notice my network configuration is: "How much did that cost and was it worth it?"
 
 Honest answer: my current setup cost around $180 total, took an afternoon to configure, and has protected every device on my network since — including my smart thermostat, the old Roku in the guest room, and every phone that connects to my WiFi. Whether that is worth it depends on your threat model and your patience for initial setup.
 
 This guide covers everything you need to know about VPN routers in 2026: how they work, what hardware to consider, how they compare to device-level VPN apps, and how to configure them with NordVPN or any other provider.
+
+
+> **Quick answer:** I tested hardware VPN routers and software-based router VPNs in 2026. Here's what actually protects every device on your network without killing your speed.
+>
+> A VPN router routes all traffic from every device on your home network through a VPN tunnel. This means devices that cannot run VPN apps — smart TVs, gaming consoles, IoT devices, guest devices — are protected automatically. You also only need one VPN subscription rather than separate connections per device.
 
 ## How VPN Routers Work
 
@@ -289,3 +293,7 @@ The common thread: pair with a reliable, router-compatible VPN provider. [NordVP
 - [Best VPN for Android in 2026: Tested for Battery, Speed](/posts/best-vpn-android-2026/)
 - [Best VPN for Gaming in 2026: Lowest Ping, No Lag](/posts/best-vpn-for-gaming-2026/)
 - [Best VPN for Streaming in 2026: Netflix, Disney+, and More](/posts/best-vpn-for-streaming-2026/)
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

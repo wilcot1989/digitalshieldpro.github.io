@@ -50,7 +50,6 @@ products:
   price: '2.50'
 schema_type: Article
 ---
-
 {{< affiliate-disclosure >}}
 
 Two encrypted email services keep coming up when people want a Gmail alternative that takes privacy seriously: Proton Mail and Mailfence. Both have been around for a decade, both are EU-based, both implement OpenPGP. The differences look small on paper and turn out to be large in daily use.
@@ -60,6 +59,11 @@ I ran both as primary accounts for 60 days — one phone, one laptop, parallel f
 The short version: pick Proton Mail if you want polished apps and zero-access architecture. Pick Mailfence if you need IMAP support, standards-based PGP, and unlimited custom domains on a budget.
 
 ---
+
+
+> **Quick answer:** I tested Proton Mail and Mailfence side by side for 60 days. Proton wins on apps and zero-access architecture, Mailfence wins on standards-based PGP and IMAP support.
+>
+> Not quite. Proton Mail uses zero-access encryption — the server never sees your private key, so even Proton cannot read your mail. Mailfence stores your private key on their servers (encrypted with your password) so they technically could decrypt it if forced. The architecture difference matters for high-threat models. For everyday privacy, both are massively better than Gmail.
 
 ## The companies behind the products
 
@@ -211,3 +215,7 @@ Try [Proton Mail](https://go.digitalshieldpro.com/protonmail){target="_blank" re
 For Mailfence, sign up directly at mailfence.com — they don't currently run an affiliate program. The Entry plan at €2.50/month is the best starting point for a single user with custom domain needs.
 
 For more comparisons in this category, see [Tuta vs Proton Mail](/posts/tuta-vs-proton-mail-2026/), [Posteo review](/posts/posteo-review-2026/), and [Mailbox.org review](/posts/mailbox-org-review-2026/).
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

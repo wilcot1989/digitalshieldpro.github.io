@@ -51,7 +51,6 @@ products:
   price: '4.99'
 schema_type: Review
 ---
-
 After 12 months on ProtonMail, I wanted to test the alternative everyone keeps recommending: Tutanota (now branded Tuta). I ran it as my secondary email for 6 months on a separate domain, sent ~2,000 messages through it, and pushed it through everything ProtonMail handles for me.
 
 Short verdict: Tuta is genuinely good. Cheaper than Proton, with subject-line encryption that Proton doesn't have. But limited to their own apps — no Thunderbird, no Outlook, no power-user setup. For most people it's a solid pick. For some, the limitations are dealbreakers.
@@ -59,6 +58,11 @@ Short verdict: Tuta is genuinely good. Cheaper than Proton, with subject-line en
 *Disclosure: I pay €3/month for Tuta out of pocket. No affiliate relationship at time of writing.*
 
 ---
+
+
+> **Quick answer:** Tutanota review after 6 months of testing. End-to-end encryption with subject line privacy at €3/month. How it compares to ProtonMail.
+>
+> Same thing. Tutanota rebranded to 'Tuta Mail' in 2023. Both names refer to the same German encrypted email service. Their domain is now tuta.com.
 
 ## What is Tutanota / Tuta?
 
@@ -394,3 +398,7 @@ For most users either is dramatically better than Gmail. Pick based on which lim
 - [ProtonMail vs Gmail showdown](/posts/protonmail-vs-gmail-2026/)
 - [Best encrypted email services 2026](/posts/best-encrypted-email-services-2026/)
 - [Best secure messaging apps](/posts/best-secure-messaging-apps-2026/)
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

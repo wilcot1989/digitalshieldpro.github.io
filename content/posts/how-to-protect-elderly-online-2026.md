@@ -43,7 +43,6 @@ products:
   price: ''
 schema_type: Article
 ---
-
 My mother-in-law almost lost £3,400 to a tech support scammer last year. She received a pop-up on her laptop claiming her computer was infected, with a phone number to call. The man who answered was professional, calm, and terrifyingly convincing. He had her install AnyDesk, showed her "viruses" in Windows Event Viewer (which show harmless warning logs that look alarming to non-technical users), and was about to have her buy Google Play gift cards when she called me to ask if it sounded right.
 
 It did not. I called her back, told her to hang up and turn off the computer, and drove over. We spent an afternoon cleaning up the software he had installed and going through every account she had used. She was lucky. Most people are not.
@@ -55,6 +54,9 @@ That experience prompted me to write this guide — everything I set up for her,
 For context on the broader threat landscape, also read [Best Antivirus Software 2026](/posts/best-antivirus-software-2026/) and [Best Identity Theft Protection 2026](/posts/best-identity-theft-protection-2026/).
 
 ---
+
+
+> **Quick answer:** Practical step-by-step guide to protecting elderly parents and relatives from online scams in 2026.
 
 ## Understanding Why Elderly People Are Targeted
 
@@ -362,3 +364,7 @@ Give your elder the technical protection of a layered security setup, the cognit
 
 
 <a href="https://go.digitalshieldpro.com/bitdefender" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Bitdefender</a>
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

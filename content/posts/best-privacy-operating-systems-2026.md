@@ -50,7 +50,6 @@ products:
   price: '4.99'
 schema_type: Article
 ---
-
 {{< affiliate-disclosure >}}
 
 I have run Tails, Qubes OS, and Whonix as primary operating systems on different machines for two years. Tails on a 2018 ThinkPad I keep in a Faraday bag for sensitive sessions. Qubes OS on my main work laptop. Whonix as VMs on a workstation I use for research. Each one is good at different things.
@@ -60,6 +59,9 @@ This is the comparison I wish I had read before I spent six months trying to mak
 The short version: Tails for amnesiac sessions where you want to leave no trace. Qubes for hardened daily-driver compartmentalization. Whonix for persistent Tor-only environments. They are not direct competitors.
 
 ---
+
+
+> **Quick answer:** I have run Tails, Qubes OS, and Whonix as my primary operating systems on different machines for two years. Each one is right for a specific threat model — here is how to pick.
 
 ## Tails: amnesiac live USB
 
@@ -227,3 +229,7 @@ For Whonix: download from whonix.org, import the gateway and workstation OVA fil
 Pair any of these with a [hardware key](/posts/yubikey-vs-nitrokey-vs-solokey-2026/) for two-factor authentication, and a [VPN like Mullvad](https://go.digitalshieldpro.com/nordvpn){target="_blank" rel="nofollow sponsored noopener"} for the workflows where Tor is impractical.
 
 For the full privacy stack, see [best privacy stack](/posts/best-privacy-stack-2026/), [Linux privacy distros](/posts/linux-privacy-distros-2026/), and [GrapheneOS vs iOS privacy](/posts/grapheneos-vs-ios-privacy-2026/) for the phone equivalent.
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

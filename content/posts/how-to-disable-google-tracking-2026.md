@@ -44,7 +44,6 @@ products:
   price: '3.49'
 schema_type: Article
 ---
-
 I spent an afternoon in March 2026 going through every Google account privacy setting systematically, screenshotting before and after states, and auditing what each change actually does. This guide documents that process in sequence — every setting, what it does, and why it matters.
 
 *This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
@@ -52,6 +51,9 @@ I spent an afternoon in March 2026 going through every Google account privacy se
 For a complete privacy overhaul beyond Google, read [Best Privacy Search Engines 2026](/posts/best-privacy-search-engines-2026/) and [Best Privacy Browsers 2026](/posts/best-privacy-browsers-2026/).
 
 ---
+
+
+> **Quick answer:** Complete step-by-step guide to disabling Google tracking in 2026. Ad personalisation, location history, YouTube history, and third-party tracking — all covered.
 
 ## How Much Google Knows About You
 
@@ -398,3 +400,7 @@ The settings you will not find: controls over data Google infers about you from 
 
 
 <a href="https://go.digitalshieldpro.com/eset" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">View Eset</a>
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

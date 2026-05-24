@@ -47,7 +47,6 @@ products:
   price: '9.99'
 schema_type: HowTo
 ---
-
 {{< affiliate-disclosure >}}
 
 I have set up Proton Mail custom domains for myself and 14 clients over the past three years. The first one took me three hours because I made every DNS mistake possible. The most recent one took 25 minutes including DNS propagation wait time.
@@ -57,6 +56,11 @@ This is the playbook. Buy a domain, point it at Proton, verify, wait for DNS, se
 Custom domain on Proton Mail upgrades you from yourname@proton.me to yourname@yourdomain.com. It is a small change with three real benefits: professional appearance, provider portability (you can move from Proton to anywhere later without losing your address), and a clean separation between your identity and your provider.
 
 ---
+
+
+> **Quick answer:** I have set up custom domains on Proton Mail for myself and 14 clients. Here is the exact step-by-step including the DNS gotchas that cost me three hours the first time.
+>
+> Yes. Custom domains require Proton Mail Plus (€4.99/month), Proton Unlimited (€9.99/month), or Proton Business (€12.99/user/month). The free tier does not support custom domains. Of the paid tiers, Plus is the cheapest entry point and supports 1 custom domain with up to 10 addresses.
 
 ## What you need before starting
 
@@ -248,3 +252,7 @@ For more on Proton Mail features and pricing, see the full [Proton Mail review](
 For migration from other encrypted providers, see [Skiff Mail vs Proton Mail](/posts/skiff-mail-vs-proton-mail-2026/) and [Tuta vs Proton Mail](/posts/tuta-vs-proton-mail-2026/).
 
 For the broader privacy stack to pair with Proton Mail, see [best privacy stack](/posts/best-privacy-stack-2026/).
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

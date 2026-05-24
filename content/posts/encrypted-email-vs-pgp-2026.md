@@ -46,7 +46,6 @@ products:
   price: Free / from €3/month
 schema_type: Article
 ---
-
 When people ask me how to secure their email, they usually expect a simple answer. Use ProtonMail. Use PGP. Done.
 
 But the actual answer depends entirely on your threat model — who might try to read your email, what capabilities they have, and how much usability friction you are willing to accept. I have run both models as daily drivers: ProtonMail as my primary address for two years, and PGP-on-Thunderbird for a period before that. The difference in day-to-day experience is enormous. The difference in security is more nuanced than most people admit.
@@ -56,6 +55,9 @@ This guide breaks down both approaches honestly — what each actually protects,
 *This article contains affiliate links. I earn a small commission if you sign up through my links, at no extra cost to you.*
 
 ---
+
+
+> **Quick answer:** End-to-end encrypted email (ProtonMail, Tutanota) vs PGP on top of Gmail — I tested both models across real threat scenarios to find out which actually.
 
 ## The Fundamental Difference: Architecture vs Add-On
 
@@ -399,3 +401,7 @@ The most important step is moving your primary email away from a provider whose 
 ---
 
 *Encryption implementations and feature sets verified August 2026.*
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

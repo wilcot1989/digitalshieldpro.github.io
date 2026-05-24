@@ -47,7 +47,6 @@ products:
   price: '5.83'
 schema_type: Article
 ---
-
 Affiliate disclosure: this article links to ProtonMail (where I earn a commission if you sign up) and Hetzner (no affiliate program — I am recommending them anyway). I have run my own mail server on Mailcow for six years and have been a paying ProtonMail user for nine. This is not a hypothetical comparison.
 
 The "self-host vs ProtonMail" debate generally splits into two camps. Self-hosting purists who think any third-party mail provider is a sellout. ProtonMail users who think self-hosting in 2026 is masochism. Both camps are partially right.
@@ -57,6 +56,9 @@ This article is the honest version. I cover what self-hosting actually buys you 
 The short answer: ProtonMail for almost everyone. Self-hosted if you have specific compliance requirements, want to learn email infrastructure, or have a threat model where holding your own keys matters more than uptime and deliverability.
 
 ---
+
+
+> **Quick answer:** I have run my own mail server for six years and I have been a paying ProtonMail user for nine. Here is the honest comparison — what self-hosting actually buys you, what it costs, and the threat models where ProtonMail is genuinely better.
 
 ## What "self-hosted email" actually means in 2026
 
@@ -221,3 +223,7 @@ For most readers, ProtonMail is the right answer. The privacy guarantees are str
 For technical readers with the operational discipline, self-hosted Mailcow on a Hetzner box is rewarding and under-rated. You learn a lot. You control your own infrastructure. You also become your own SRE on permanent on-call.
 
 The people I would not recommend self-hosting to: anyone whose threat model is "I read about Snowden once and want to be more secure". The threat model needs to be specific. If your threat model is general privacy hygiene, ProtonMail wins.
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

@@ -53,7 +53,6 @@ products:
   price: 'Free'
 schema_type: Article
 ---
-
 *This article describes self-hosting setups I have personally run. None of these projects has an affiliate program. They are all free and open source.*
 
 Self-hosting your own notes server is the kind of thing that sounds like a chore until you realise you have been paying $96 a year for an app that occasionally goes down anyway. The math gets clearer in 2026 with VPS prices flat, Docker images trivial to deploy, and the open-source notes ecosystem genuinely competitive with the commercial options.
@@ -61,6 +60,11 @@ Self-hosting your own notes server is the kind of thing that sounds like a chore
 I ran Joplin Server, Logseq, and SilverBullet on my own VPS for roughly six months each as my daily notes app. Different jobs, different strengths. Here is the honest comparison.
 
 ---
+
+
+> **Quick answer:** I self-hosted Joplin Server, Logseq Sync, and SilverBullet on my own VPS for six months each. Here is the honest 2026 comparison of which one actually keeps your notes private, syncable, and recoverable when things go wrong.
+>
+> Three reasons. First, no vendor lock-in — your notes are markdown files on your server, readable by any text editor forever. Second, no monthly subscription. Third, the sync server runs on hardware you control, so even if a vendor is compelled or compromised, your notes are not exposed. The trade-off is operational responsibility — you back it up, you patch it, you fix it when it breaks.
 
 ## What you get and what you give up
 
@@ -259,3 +263,7 @@ If you want a thinking tool with a graph: **Logseq** with Git sync. The best for
 If you want the simplest deploy and you live in a browser: **SilverBullet**. Most fun, smallest moving parts.
 
 All three are real alternatives to commercial encrypted notes apps. None of them is as polished as a paid SaaS. All of them respect your data because they run on hardware you own. Pair any of them with the rest of your [privacy stack](/posts/best-privacy-stack-2026/) — encrypted email, [encrypted cloud](/posts/best-secure-cloud-storage-2026/), [hardware security keys](/posts/best-hardware-security-keys-2026/) — and you are doing better than 99% of internet users.
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

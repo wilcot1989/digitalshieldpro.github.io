@@ -41,10 +41,14 @@ products:
   price: ''
 schema_type: Article
 ---
-
 I analyze breached password databases as part of my work, and it never stops surprising me: **"123456"**, **"password"**, and **"qwerty"** are still in the top 10 most commonly used passwords worldwide. People are guarding their bank accounts and medical records with credentials a five-year-old could guess.
 
 I use a password manager with randomly generated 20+ character strings for everything, and my master password is a six-word passphrase. This guide covers the exact methodology I follow -- how to create genuinely unbreakable passwords and layer your defenses so that even a compromised credential does not take you down.
+
+
+> **Quick answer:** Learn how to create strong, unbreakable passwords in 2026. Includes password best practices, common mistakes, and why you need a password manager.
+>
+> At minimum 12 characters for accounts protected by a password manager. For your master password or any password you need to memorize, use a passphrase of 5 or more randomly chosen words, which typically results in 25-35 characters. Longer is always better.
 
 ## How Hackers Crack Passwords
 

@@ -52,7 +52,6 @@ products:
   price: '1.79'
 schema_type: Article
 ---
-
 Last week my mother — 67 years old, not technical — set up a passkey on her Apple ID. It took her 30 seconds. She doesn't know what cryptography is. She doesn't need to.
 
 This is the moment passkeys broke through. After years of "this is the future" talk, the actual user experience matches the promise: no passwords to remember, no codes to type, no phishing risk. Just one tap.
@@ -60,6 +59,11 @@ This is the moment passkeys broke through. After years of "this is the future" t
 In this guide: what passkeys actually are, why they're better than passwords, and exactly how to start using them on your most important accounts.
 
 ---
+
+
+> **Quick answer:** Passkeys are replacing passwords across major sites. Plain-English guide to what they are, why they're more secure, and how to start using them today.
+>
+> A passkey is a cryptographic key pair stored on your device (or in your password manager) that replaces passwords. Instead of typing 'P@ssw0rd123' on a website, your device proves it's you using a private key. Phishing-proof, breach-proof, and you don't have to remember anything.
 
 ## What is a passkey?
 
