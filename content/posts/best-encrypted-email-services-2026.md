@@ -104,7 +104,7 @@ On Trustpilot, Proton Mail scores a 2.4/5 with 1,573 reviews (checked February 2
 
 My take: the free tier is perfect for testing. If you commit, Mail Plus at $4.99/month hits the sweet spot. Only go Unlimited if you'll actually use the VPN and Drive -- otherwise you're paying for features you don't need.
 
-[Try Proton Mail Free](https://proton.me/mail)
+[Try Proton Mail Free](https://go.digitalshieldpro.com/protonmail)
 
 ---
 
@@ -140,7 +140,7 @@ On Trustpilot, Tuta scores a 3.6/5 with 275 reviews (checked February 2026). Tha
 
 My take: if you want encrypted email and nothing else, Tuta's Revolutionary plan is the best value on the market. Period.
 
-[Try Tuta Free](https://tuta.com)
+[Try Tuta Free](https://go.digitalshieldpro.com/tutanota)
 
 ---
 
@@ -272,7 +272,7 @@ I've heard this argument a thousand times. My response: lock your bathroom door 
 Here's the process I followed, and the one I recommend to everyone:
 
 **Week 1: Set up and import**
-1. Sign up for [Proton Mail](https://proton.me/mail) or [Tuta](https://tuta.com) (free tier is fine to start)
+1. Sign up for [Proton Mail](https://go.digitalshieldpro.com/protonmail) or [Tuta](https://go.digitalshieldpro.com/tutanota) (free tier is fine to start)
 2. Use the built-in import tool to pull your existing emails over
 3. Set up forwarding from your old address to your new one
 
@@ -294,9 +294,9 @@ The whole transition takes about a month of active work, then runs on autopilot.
 
 After three years on Proton Mail, eight months testing Tuta, three months on Mailfence, and two months with StartMail, here's my honest breakdown by scenario:
 
-**If you want the most complete privacy solution:** [Proton Mail](https://proton.me/mail). The ecosystem is unmatched. VPN, Drive, Calendar, Pass -- all encrypted, all under one account. The Unlimited plan at $12.99/month replaces multiple subscriptions. This is what I use and what I recommend to most people.
+**If you want the most complete privacy solution:** [Proton Mail](https://go.digitalshieldpro.com/protonmail). The ecosystem is unmatched. VPN, Drive, Calendar, Pass -- all encrypted, all under one account. The Unlimited plan at $12.99/month replaces multiple subscriptions. This is what I use and what I recommend to most people.
 
-**If you want maximum encryption at the lowest price:** [Tuta](https://tuta.com). Subject line encryption, anonymous sign-up, and $3.60/month for 20 GB. If you don't need third-party client support or a broader ecosystem, Tuta gives you more privacy per dollar than anyone.
+**If you want maximum encryption at the lowest price:** [Tuta](https://go.digitalshieldpro.com/tutanota). Subject line encryption, anonymous sign-up, and $3.60/month for 20 GB. If you don't need third-party client support or a broader ecosystem, Tuta gives you more privacy per dollar than anyone.
 
 **If you run a small business and need collaboration tools:** [Mailfence](https://mailfence.com). IMAP support, shared calendars, document storage, and group management. It's the only encrypted email that fits into a traditional business workflow without workarounds.
 

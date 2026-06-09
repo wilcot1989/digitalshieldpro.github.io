@@ -290,7 +290,7 @@ If you want the password manager that "just works" -- flawless autofill, a beaut
 
 The $35.88/year is real money, and the recent price increases that Trustpilot reviewers mention are frustrating. But for what you get, I still think it is fair value -- you are paying for the most refined password management experience available.
 
-<a href="https://1password.com" class="cta" rel="nofollow" target="_blank">Try 1Password Free for 14 Days</a>
+<a href="https://go.digitalshieldpro.com/1password" class="cta" rel="nofollow" target="_blank">Try 1Password Free for 14 Days</a>
 
 ### Choose Bitwarden if you value transparency and value
 
@@ -304,7 +304,7 @@ If you want a password manager that respects your wallet *and* your principles, 
 
 Bitwarden Premium at $10/year is the best value in password management. Period.
 
-<a href="https://bitwarden.com" class="cta cta-outline" rel="nofollow" target="_blank">Get Bitwarden Free</a>
+<a href="https://go.digitalshieldpro.com/bitwarden" class="cta cta-outline" rel="nofollow" target="_blank">Get Bitwarden Free</a>
 
 ### If Neither Feels Right: Consider NordPass
 

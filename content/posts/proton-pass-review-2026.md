@@ -17,7 +17,7 @@ products:
     url: "https://go.digitalshieldpro.com/protonmail"
     price: "Free / €1.99/mo / Unlimited €9.99/mo"
   - name: "1Password"
-    url: "https://1password.com/"
+    url: "https://go.digitalshieldpro.com/1password"
     price: "$2.99/mo"
   - name: "NordPass"
     url: "https://go.digitalshieldpro.com/nordpass"

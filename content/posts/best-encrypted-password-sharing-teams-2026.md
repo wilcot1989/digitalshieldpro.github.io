@@ -40,13 +40,13 @@ faq:
   a: 'Partially. All four tools I recommend store API tokens and SSH keys as encrypted notes or attachments. 1Password and Bitwarden both have CLI tools that integrate with shell scripts, so you can fetch a secret without copy-paste. For production secret management at scale you still want HashiCorp Vault or AWS Secrets Manager — these are operational, not credential-storage tools.'
 products:
 - name: 1Password Teams
-  url: https://1password.com/teams
+  url: https://go.digitalshieldpro.com/1password
   price: '7.99'
 - name: NordPass Business
-  url: https://nordpass.com/business
+  url: https://go.digitalshieldpro.com/nordpass
   price: '3.99'
 - name: Bitwarden Teams
-  url: https://bitwarden.com/products/teams
+  url: https://go.digitalshieldpro.com/bitwarden
   price: '4.00'
 schema_type: Article
 ---

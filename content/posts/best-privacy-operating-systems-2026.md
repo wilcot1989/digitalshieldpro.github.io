@@ -40,10 +40,10 @@ faq:
   a: 'For Tails: any x86_64 laptop with USB 3.0 boot support — even old ThinkPads work. For Qubes OS: a laptop with Intel VT-x and VT-d, at least 16 GB of RAM, and an SSD. ThinkPad X1 Carbon, T-series, and P-series ThinkPads are well-supported. For Whonix: any machine that can run VirtualBox or KVM with at least 8 GB RAM. Avoid Apple Silicon Macs for all three.'
 products:
 - name: NordVPN
-  url: https://nordvpn.com/
+  url: https://go.digitalshieldpro.com/nordvpn
   price: '3.99'
 - name: Mullvad VPN
-  url: https://mullvad.net/en
+  url: https://go.digitalshieldpro.com/mullvad
   price: '5'
 - name: Proton VPN
   url: https://protonvpn.com/

@@ -251,7 +251,7 @@ I've been using it alongside Aura for 8 months. The digital footprint visualizat
 
 **My take:** Don't buy Bitdefender Digital Identity as your only protection. But as a $3.33/month supplement to a credit monitoring service, or if you already have a Bitdefender subscription? It's excellent. The footprint visualization alone made me take action on a dozen data broker removals I would have never known about.
 
-[Get Bitdefender Digital Identity Protection](https://www.bitdefender.com/consumer/digital-identity-protection)
+[Get Bitdefender Digital Identity Protection](https://go.digitalshieldpro.com/bitdefender)
 
 ---
 
@@ -363,7 +363,7 @@ After 14 months of running these services in parallel, here's where I land:
 - **Best for most people**: [Aura](https://aura.com) at $12/month. Three-bureau monitoring, $5M insurance, and the fastest alerts in my testing. Start here.
 - **Best if you need antivirus too**: [LifeLock Ultimate Plus](https://lifelock.norton.com) at $34.99/month. Only the top tier is worth it -- the cheaper plans have coverage gaps. But if you'd buy Norton 360 anyway, the bundle math works out.
 - **Best on a tight budget**: [Identity Guard Total](https://www.identityguard.com) at $12.50/month. Three-bureau monitoring with $1M insurance for a dollar more than Aura's base price. Slower alerts, but solid coverage.
-- **Best as an add-on**: [Bitdefender Digital Identity](https://www.bitdefender.com/consumer/digital-identity-protection) at $3.33/month. Pair it with any credit monitoring service for the best footprint visibility. Even better if you already have a [Bitdefender subscription](/posts/bitdefender-review-2026/).
+- **Best as an add-on**: [Bitdefender Digital Identity](https://go.digitalshieldpro.com/bitdefender) at $3.33/month. Pair it with any credit monitoring service for the best footprint visibility. Even better if you already have a [Bitdefender subscription](/posts/bitdefender-review-2026/).
 - **Best for data removal**: [DeleteMe](https://joindeleteme.com) at $10.75/month. Not a replacement for monitoring, but a powerful complement. Run it alongside Aura for full coverage.
 
 **What I'd avoid:** Any plan that monitors fewer than 3 credit bureaus. Paying $11.99/month for 1-bureau monitoring is like installing a security camera that only covers your front door while leaving the back door and windows unwatched.

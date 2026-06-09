@@ -124,7 +124,7 @@ That moment of "why isn't it auto-filling?" is your red flag. I've caught three 
 
 My honest take: I use 1Password daily and have for 4 years. The Watchtower feature proactively warns you about compromised passwords and vulnerable accounts. Bitwarden is the best free option and being open-source is a genuine security advantage -- anyone can audit the code. Dashlane's lower Trustpilot score concerns me; the complaints center on billing issues and recent price hikes, though the actual security product is solid.
 
-<a href="https://1password.com" class="cta" rel="nofollow sponsored" target="_blank">Try 1Password Free for 14 Days</a>
+<a href="https://go.digitalshieldpro.com/1password" class="cta" rel="nofollow sponsored" target="_blank">Try 1Password Free for 14 Days</a>
 
 Read the full comparison: [Best Password Managers in 2026](/posts/best-password-managers-2026/) | [1Password vs Bitwarden](/posts/1password-vs-bitwarden-2026/)
 
@@ -205,7 +205,7 @@ Don't panic, but act fast. I've walked dozens of people through this process, an
 1. **Don't enter any information** -- Close the page immediately. If you already entered credentials, skip to step 2
 2. **Change your password** -- For the targeted account AND any other account using the same password. This is why a password manager with unique passwords matters
 3. **Enable 2FA** -- If you haven't already, do it now on the compromised account
-4. **Scan for malware** -- Run a full scan with your antivirus. If you don't have one, [Bitdefender's free scanner](https://www.bitdefender.com/solutions/free.html) works
+4. **Scan for malware** -- Run a full scan with your antivirus. If you don't have one, [Bitdefender's free scanner](https://go.digitalshieldpro.com/bitdefender) works
 5. **Monitor your accounts** -- Check bank statements and email for unusual activity over the next 30 days
 6. **Report it** -- Forward phishing emails to `reportphishing@apwg.org`. Report phishing sites to [Google Safe Browsing](https://safebrowsing.google.com/safebrowsing/report_phish/)
 7. **Consider a credit freeze** -- If you entered financial information, contact your bank immediately and consider freezing your credit
@@ -294,7 +294,7 @@ The defense? Don't rely on spotting the message. Rely on systems that verify aut
 
 After 10 years in this field, here's what I'd tell a friend who asked me how to stay safe:
 
-**Start with two things right now** -- a password manager and 2FA on your email. [1Password](https://1password.com) is my top recommendation (4.4/5 on Trustpilot, 12,300+ reviews). If you want free, [Bitwarden](https://bitwarden.com) is excellent. Then enable 2FA on every account that supports it, starting with email, then banking, then social media.
+**Start with two things right now** -- a password manager and 2FA on your email. [1Password](https://go.digitalshieldpro.com/1password) is my top recommendation (4.4/5 on Trustpilot, 12,300+ reviews). If you want free, [Bitwarden](https://go.digitalshieldpro.com/bitwarden) is excellent. Then enable 2FA on every account that supports it, starting with email, then banking, then social media.
 
 **Next, add network protection.** [NordVPN](https://go.digitalshieldpro.com/nordvpn?ref=/posts/how-to-protect-yourself-from-phishing-2026/) with Threat Protection blocks malicious URLs before they load. If you ever use public WiFi -- at a coffee shop, hotel, airport -- a VPN is not optional.
 

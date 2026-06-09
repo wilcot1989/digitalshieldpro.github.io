@@ -43,10 +43,10 @@ products:
   url: https://store.google.com/product/pixel_9
   price: '799'
 - name: Proton Mail Plus
-  url: https://proton.me/mail/pricing
+  url: https://go.digitalshieldpro.com/protonmail
   price: '4.99'
 - name: NordVPN
-  url: https://nordvpn.com/
+  url: https://go.digitalshieldpro.com/nordvpn
   price: '3.99'
 schema_type: Article
 ---

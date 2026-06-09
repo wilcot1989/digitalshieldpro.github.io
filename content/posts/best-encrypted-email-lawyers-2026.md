@@ -40,13 +40,13 @@ faq:
   a: 'Custom domain. lawyer@yourfirm.com signals professionalism and survives provider changes (you can move the domain from Gmail to Proton without changing your address). All major encrypted providers support custom domains on paid plans. Proton Plus, Mailbox.org Standard, and Mailfence Pro all handle this cleanly. Avoid using your provider''s default domain for client correspondence.'
 products:
 - name: Proton Business
-  url: https://proton.me/business
+  url: https://go.digitalshieldpro.com/protonmail
   price: '12.99'
 - name: Proton Mail Plus
-  url: https://proton.me/mail/pricing
+  url: https://go.digitalshieldpro.com/protonmail
   price: '4.99'
 - name: NordVPN
-  url: https://nordvpn.com/
+  url: https://go.digitalshieldpro.com/nordvpn
   price: '3.99'
 schema_type: Article
 ---

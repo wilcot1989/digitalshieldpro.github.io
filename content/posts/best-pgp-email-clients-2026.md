@@ -40,7 +40,7 @@ faq:
   a: 'K-9 Mail with OpenKeychain is the standard PGP setup on Android. K-9 handles IMAP and the email UI; OpenKeychain handles key storage and crypto operations. Setup is more friction than Thunderbird (you install two apps, link them, import keys) but it works reliably once configured. Both are open-source and audited.'
 products:
 - name: Proton Mail Plus
-  url: https://proton.me/mail/pricing
+  url: https://go.digitalshieldpro.com/protonmail
   price: '4.99'
 - name: YubiKey 5C
   url: https://www.yubico.com/product/yubikey-5c/

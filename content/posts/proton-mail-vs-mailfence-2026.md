@@ -40,10 +40,10 @@ faq:
   a: 'Depends on the workflow. Proton Business with Drive, Docs, VPN, and Pass is a full Microsoft 365 alternative. Mailfence Pro plus the Mailfence Group plan adds calendars, contacts, document storage, and admin controls — closer to a traditional IMAP-based business mail setup. For organizations that already run Outlook, Mailfence integrates more cleanly. For greenfield privacy-first setups, Proton has more breadth.'
 products:
 - name: Proton Mail Plus
-  url: https://proton.me/mail/pricing
+  url: https://go.digitalshieldpro.com/protonmail
   price: '4.99'
 - name: Proton Unlimited
-  url: https://proton.me/mail/pricing
+  url: https://go.digitalshieldpro.com/protonmail
   price: '9.99'
 - name: Mailfence Entry
   url: https://mailfence.com/en/pricing.jsp

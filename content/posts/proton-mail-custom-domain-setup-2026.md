@@ -40,10 +40,10 @@ faq:
   a: 'Proton supports catch-all on Plus (1 catch-all per domain), Unlimited (1 per domain across 3 domains), and Business (per-domain catch-all). With catch-all enabled, anything@yourdomain.com routes to your inbox. Useful for site-specific aliases (amazon@yourdomain, netflix@yourdomain) without preconfiguring each one. Note that catch-all attracts spam directed at common usernames (admin@, info@, support@) so be prepared to filter aggressively.'
 products:
 - name: Proton Mail Plus
-  url: https://proton.me/mail/pricing
+  url: https://go.digitalshieldpro.com/protonmail
   price: '4.99'
 - name: Proton Unlimited
-  url: https://proton.me/mail/pricing
+  url: https://go.digitalshieldpro.com/protonmail
   price: '9.99'
 schema_type: HowTo
 ---

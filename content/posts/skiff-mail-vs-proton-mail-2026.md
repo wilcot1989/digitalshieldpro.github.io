@@ -40,10 +40,10 @@ faq:
   a: 'Paid Skiff subscribers received pro-rated refunds for unused subscription time. Free users received nothing beyond the data export window. Lifetime subscription holders (Skiff sold lifetime plans early on) got a credit toward Notion AI subscriptions, which most users found insulting given the original purchase intent.'
 products:
 - name: Proton Mail Plus
-  url: https://proton.me/mail/pricing
+  url: https://go.digitalshieldpro.com/protonmail
   price: '4.99'
 - name: Proton Unlimited
-  url: https://proton.me/mail/pricing
+  url: https://go.digitalshieldpro.com/protonmail
   price: '9.99'
 schema_type: Article
 ---

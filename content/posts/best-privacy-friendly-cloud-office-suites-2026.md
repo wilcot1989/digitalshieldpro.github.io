@@ -40,7 +40,7 @@ faq:
   a: 'Yes. Each service supports importing .docx, .xlsx, .pptx files. Google''s "Download as .docx" works for individual files; Google Takeout exports the whole Drive in one batch. Some formatting may shift — comments and revision history typically do not import.'
 products:
 - name: Proton Drive Plus
-  url: https://proton.me/drive
+  url: https://go.digitalshieldpro.com/protonmail
   price: '4.99'
 - name: CryptPad Premium
   url: https://cryptpad.fr/pricing

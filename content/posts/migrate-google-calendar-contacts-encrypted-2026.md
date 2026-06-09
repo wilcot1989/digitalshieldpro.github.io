@@ -43,10 +43,10 @@ faq:
   a: 'Calendar entries are sensitive — they reveal who you meet, when, where, and often why. Doctor appointments. Job interviews. Therapy. Travel. Migrating off Google Calendar is one of the higher-impact privacy moves *for what an attacker can learn about you*, even though it is one of the lower-volume data sets. Yes, it is worth it.'
 products:
 - name: Proton Calendar
-  url: https://proton.me/calendar
+  url: https://go.digitalshieldpro.com/protonmail
   price: 'Free / €4.99/mo Plus'
 - name: Tutanota Calendar
-  url: https://tuta.com
+  url: https://go.digitalshieldpro.com/tutanota
   price: 'Free / €3/mo'
 - name: EteSync
   url: https://www.etesync.com
@@ -304,11 +304,11 @@ It is fiddly. It is also fine. A weekend, two coffees, the right tools.
 
 ## Bottom line
 
-For most people in 2026, the right migration target for calendar + contacts is <a href="https://proton.me/calendar" target="_blank" rel="nofollow sponsored noopener">Proton Calendar</a>. It pairs naturally with Proton Mail, has the strongest E2E encryption, supports CalDAV via Bridge for desktop integration, and the mobile apps are good.
+For most people in 2026, the right migration target for calendar + contacts is <a href="https://go.digitalshieldpro.com/protonmail" target="_blank" rel="nofollow sponsored noopener">Proton Calendar</a>. It pairs naturally with Proton Mail, has the strongest E2E encryption, supports CalDAV via Bridge for desktop integration, and the mobile apps are good.
 
 For self-hosters and CalDAV/CardDAV maximalists: <a href="https://www.etesync.com" target="_blank" rel="nofollow sponsored noopener">EteSync</a>. Maximum portability, maximum control, more setup work.
 
-For Tutanota loyalists: <a href="https://tuta.com" target="_blank" rel="nofollow sponsored noopener">Tutanota Calendar</a>. Clean, focused, no Apple Calendar integration but excellent on its own.
+For Tutanota loyalists: <a href="https://go.digitalshieldpro.com/tutanota" target="_blank" rel="nofollow sponsored noopener">Tutanota Calendar</a>. Clean, focused, no Apple Calendar integration but excellent on its own.
 
 Pair this with the rest of your [privacy stack](/posts/best-privacy-stack-2026/) and you remove one of the most personally revealing data sets from Google's hands. That is one of the best calendar-week investments your future self will thank you for.
 

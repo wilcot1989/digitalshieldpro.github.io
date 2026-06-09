@@ -40,10 +40,10 @@ faq:
   a: Probably not — partially. If you depend on Google Docs, Sheets, Drive integration, and your work is in Google's tools, switching email alone is friction without enough benefit. Consider switching personal email to Proton while keeping Workspace for work.
 products:
 - name: Proton Mail Plus
-  url: https://proton.me/mail/pricing
+  url: https://go.digitalshieldpro.com/protonmail
   price: '4.99'
 - name: Proton Unlimited
-  url: https://proton.me/mail/pricing
+  url: https://go.digitalshieldpro.com/protonmail
   price: '9.99'
 - name: Gmail Workspace Starter
   url: https://workspace.google.com/

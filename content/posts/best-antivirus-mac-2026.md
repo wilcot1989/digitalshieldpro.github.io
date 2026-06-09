@@ -210,7 +210,7 @@ Norton 360 Standard starts at **$49.99 per year** for a single device. Norton 36
 
 <div class="pros-cons"><div class="pros"><strong>Pros</strong><ul><li>Most comprehensive feature set of any Mac antivirus</li><li>Unlimited VPN included without data caps</li><li>Built-in password manager and dark web monitoring</li><li>50 GB cloud backup storage</li><li>Strong malware detection rates</li></ul></div><div class="cons"><strong>Cons</strong><ul><li>Highest system resource usage among the products I tested</li><li>More expensive than leaner alternatives</li><li>Heavy installation footprint</li><li>Some Windows features are missing from the Mac version</li><li>Requires a Norton account and online activation</li></ul></div></div>
 
-<a href="https://norton.com/products/norton-360" class="cta" rel="nofollow" target="_blank">Visit Norton 360 for Mac</a>
+<a href="https://go.digitalshieldpro.com/norton" class="cta" rel="nofollow" target="_blank">Visit Norton 360 for Mac</a>
 
 ---
 

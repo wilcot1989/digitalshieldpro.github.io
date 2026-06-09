@@ -49,7 +49,7 @@ products:
   url: https://go.digitalshieldpro.com/fastmail
   price: '5.00'
 - name: ProtonMail Plus (alternative)
-  url: https://proton.me/mail/pricing
+  url: https://go.digitalshieldpro.com/protonmail
   price: '4.99'
 schema_type: Review
 ---

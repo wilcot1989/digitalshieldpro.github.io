@@ -56,7 +56,7 @@ products:
   url: https://1.1.1.1
   price: 'Free'
 - name: Mullvad DNS
-  url: https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/
+  url: https://go.digitalshieldpro.com/mullvad
   price: 'Free'
 schema_type: Article
 ---

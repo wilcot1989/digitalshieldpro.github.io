@@ -40,13 +40,13 @@ faq:
   a: 'Either is significantly better than Gmail or Outlook. Tuta has a slight edge on technical future-proofing (post-quantum). Proton has a slight edge on operational maturity (longer track record of resisting government data requests). For most journalist threat models, either is fine. The decisive factor is usually what your sources use — match your encryption to your contact list.'
 products:
 - name: Tuta Revolutionary
-  url: https://tuta.com/pricing
+  url: https://go.digitalshieldpro.com/tutanota
   price: '3'
 - name: Proton Mail Plus
-  url: https://proton.me/mail/pricing
+  url: https://go.digitalshieldpro.com/protonmail
   price: '4.99'
 - name: Proton Unlimited
-  url: https://proton.me/mail/pricing
+  url: https://go.digitalshieldpro.com/protonmail
   price: '9.99'
 schema_type: Article
 ---

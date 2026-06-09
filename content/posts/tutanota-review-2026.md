@@ -41,13 +41,13 @@ faq:
   a: It's solid but not the strongest choice for high-threat scenarios. The German jurisdiction is privacy-friendly but not impossible to compel. For journalists with confidential sources, layer Tuta with Tor for connection-layer anonymity. Or look at Posteo for stronger anonymity properties.
 products:
 - name: Tuta Mail Revolutionary
-  url: https://tuta.com/pricing
+  url: https://go.digitalshieldpro.com/tutanota
   price: '3'
 - name: Tuta Mail Free
-  url: https://tuta.com/signup
+  url: https://go.digitalshieldpro.com/tutanota
   price: '0'
 - name: Proton Mail Plus (alternative)
-  url: https://proton.me/mail/pricing
+  url: https://go.digitalshieldpro.com/protonmail
   price: '4.99'
 schema_type: Review
 ---

@@ -40,10 +40,10 @@ faq:
   a: 'Yes. Export from Google Calendar as .ics file. Import into Proton, Tuta, or any CalDAV-based calendar. The import preserves event titles, dates, attendees, and notes. Recurring events sometimes lose exception data (a single edited instance of a recurring event). Test on one calendar before migrating dozens.'
 products:
 - name: Proton Mail Plus
-  url: https://proton.me/mail/pricing
+  url: https://go.digitalshieldpro.com/protonmail
   price: '4.99'
 - name: Tuta Revolutionary
-  url: https://tuta.com/pricing
+  url: https://go.digitalshieldpro.com/tutanota
   price: '3'
 - name: Mailbox.org Standard
   url: https://mailbox.org/en/private-customers

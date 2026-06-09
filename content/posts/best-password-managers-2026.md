@@ -93,7 +93,7 @@ On Trustpilot, 1Password scores a **4.4/5 with 12,300+ reviews** (checked Februa
 
 My advice: if you can afford $2.99 a month and want the smoothest experience, start with the 14-day trial and see for yourself.
 
-[Try 1Password free for 14 days](https://1password.com)
+[Try 1Password free for 14 days](https://go.digitalshieldpro.com/1password)
 
 ---
 
@@ -123,7 +123,7 @@ On Trustpilot, Bitwarden has a **3.8/5 with 335 reviews** (checked February 2026
 
 If you want no-cost security that actually works, grab Bitwarden and consider the $10/year premium. That is less than one month of most competitors.
 
-[Get Bitwarden free](https://bitwarden.com)
+[Get Bitwarden free](https://go.digitalshieldpro.com/bitwarden)
 
 ---
 
@@ -263,9 +263,9 @@ The initial setup takes about 30 minutes. Full migration happens naturally over 
 
 After testing all four as my daily driver at different points over the past two years, here is where I land:
 
-- **Best overall experience**: [1Password](https://1password.com) — the interface, security architecture, and Watchtower make it my default recommendation. The Trustpilot score of 4.4 with 12,300+ reviews backs that up. If you travel internationally, Travel Mode is a feature nobody else offers.
+- **Best overall experience**: [1Password](https://go.digitalshieldpro.com/1password) — the interface, security architecture, and Watchtower make it my default recommendation. The Trustpilot score of 4.4 with 12,300+ reviews backs that up. If you travel internationally, Travel Mode is a feature nobody else offers.
 
-- **Best free option (and best for self-hosters)**: [Bitwarden](https://bitwarden.com) — unlimited everything, open source, and $10/year for premium. If you run a homelab or just refuse to pay for something that should be a basic right, this is the one.
+- **Best free option (and best for self-hosters)**: [Bitwarden](https://go.digitalshieldpro.com/bitwarden) — unlimited everything, open source, and $10/year for premium. If you run a homelab or just refuse to pay for something that should be a basic right, this is the one.
 
 - **Best value in the Nord ecosystem**: [NordPass](https://go.digitalshieldpro.com/nordpass?ref=/posts/best-password-managers-2026/) — $1.49/month is hard to argue with, the email masking feature is unique, and the interface is polished without being cluttered. Bundle it with NordVPN for the best deal.
 

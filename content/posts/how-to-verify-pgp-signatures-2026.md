@@ -40,7 +40,7 @@ faq:
   a: 'Treat it as unsigned. Expired keys can no longer be used to make new signatures (any new signature with an expired key indicates clock manipulation or improper handling). Revoked keys have been publicly marked as compromised by the key owner — never trust signatures with a revoked key. Both states show clearly in Thunderbird, GnuPG, and other tools. If you see one, contact the sender through a separate channel.'
 products:
 - name: Proton Mail Plus
-  url: https://proton.me/mail/pricing
+  url: https://go.digitalshieldpro.com/protonmail
   price: '4.99'
 - name: YubiKey 5C
   url: https://www.yubico.com/product/yubikey-5c/

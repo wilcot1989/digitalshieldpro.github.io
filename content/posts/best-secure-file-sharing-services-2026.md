@@ -46,7 +46,7 @@ products:
   url: https://www.sync.com/pricing
   price: '8.00'
 - name: Proton Drive Plus
-  url: https://proton.me/drive
+  url: https://go.digitalshieldpro.com/protonmail
   price: '4.99'
 schema_type: Article
 ---

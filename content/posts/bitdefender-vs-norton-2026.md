@@ -386,7 +386,7 @@ Read our full **[Bitdefender Total Security Review 2026](/posts/bitdefender-revi
 
 Norton 360 Deluxe (or Norton 360 with LifeLock) is the right choice if identity theft protection is a priority. LifeLock is genuinely excellent and has no equivalent in the Bitdefender ecosystem. If you're in the US and want antivirus + identity monitoring in a single subscription, Norton is the way to go.
 
-<a href="https://norton.com" class="cta cta-outline" rel="nofollow" target="_blank">Get Norton 360 Deluxe</a>
+<a href="https://go.digitalshieldpro.com/norton" class="cta cta-outline" rel="nofollow" target="_blank">Get Norton 360 Deluxe</a>
 
 ### Consider Kaspersky as an Alternative
 

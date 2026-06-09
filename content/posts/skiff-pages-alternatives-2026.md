@@ -40,10 +40,10 @@ faq:
   a: 'Yes. CryptPad self-hosted is the most direct one. Etherpad with the End-to-End Encryption plugin is another. HedgeDoc (formerly CodiMD) handles markdown collaborative editing with optional self-hosting. For technically capable users who want full control, self-hosting is viable. For most users, Proton Docs hosted is the lower-friction answer.'
 products:
 - name: Proton Unlimited
-  url: https://proton.me/mail/pricing
+  url: https://go.digitalshieldpro.com/protonmail
   price: '9.99'
 - name: Proton Mail Plus
-  url: https://proton.me/mail/pricing
+  url: https://go.digitalshieldpro.com/protonmail
   price: '4.99'
 schema_type: Article
 ---

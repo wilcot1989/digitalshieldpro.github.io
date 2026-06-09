@@ -43,7 +43,7 @@ products:
   url: https://www.ivpn.net/pricing
   price: '10.00'
 - name: Mullvad VPN
-  url: https://mullvad.net
+  url: https://go.digitalshieldpro.com/mullvad
   price: '5.00'
 schema_type: Article
 ---

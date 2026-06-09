@@ -46,7 +46,7 @@ products:
   url: https://flowcrypt.com/pricing/
   price: '5'
 - name: Proton Mail Plus
-  url: https://proton.me/mail/pricing
+  url: https://go.digitalshieldpro.com/protonmail
   price: '4.99'
 schema_type: HowTo
 ---

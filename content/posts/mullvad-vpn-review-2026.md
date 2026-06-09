@@ -43,7 +43,7 @@ faq:
   a: Mullvad's no-logs policy has been audited and their servers store nothing identifiable. In 2023, Swedish police raided a Mullvad data center and left without any useful data — the RAM-only servers had nothing to seize. This is the real-world validation of a no-logs claim that most VPN providers only assert in marketing copy.
 products:
 - name: Mullvad VPN
-  url: https://mullvad.net
+  url: https://go.digitalshieldpro.com/mullvad
   price: 5.00/month
 - name: NordVPN
   url: https://go.digitalshieldpro.com/nordvpn

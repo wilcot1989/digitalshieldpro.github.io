@@ -46,7 +46,7 @@ products:
   url: https://www.gl-inet.com/products/gl-mt6000
   price: $169
 - name: Mullvad VPN
-  url: https://mullvad.net
+  url: https://go.digitalshieldpro.com/mullvad
   price: €5/mo
 - name: Proton VPN
   url: https://protonvpn.com
@@ -288,7 +288,7 @@ The router protects the network; the rest of the stack protects the layers above
 A VPN router with OpenWrt is not as scary as the internet makes it sound. The critical bits:
 
 - Buy <a href="https://www.gl-inet.com/products/gl-mt6000" target="_blank" rel="nofollow sponsored noopener">GL.iNet Flint 2</a> if you want the easy path
-- Use <a href="https://mullvad.net" target="_blank" rel="nofollow sponsored noopener">Mullvad</a> or <a href="https://protonvpn.com" target="_blank" rel="nofollow sponsored noopener">Proton VPN</a> for the tunnel
+- Use <a href="https://go.digitalshieldpro.com/mullvad" target="_blank" rel="nofollow sponsored noopener">Mullvad</a> or <a href="https://protonvpn.com" target="_blank" rel="nofollow sponsored noopener">Proton VPN</a> for the tunnel
 - Configure the firewall correctly to enforce the kill switch
 - Install policy-based routing for the inevitable "this site does not like VPN" exceptions
 

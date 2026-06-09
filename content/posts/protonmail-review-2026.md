@@ -41,13 +41,13 @@ faq:
   a: ProtonMail apps (iOS, Android) work great. Desktop email clients like Thunderbird, Apple Mail, and Outlook require Proton Bridge — a small app that translates IMAP/SMTP to Proton's encrypted protocol. Bridge is paid-only (Plus and above). Without Bridge, you must use the web app or mobile apps.
 products:
 - name: Proton Mail Plus
-  url: https://proton.me/mail/pricing
+  url: https://go.digitalshieldpro.com/protonmail
   price: '4.99'
 - name: Proton Unlimited
-  url: https://proton.me/mail/pricing
+  url: https://go.digitalshieldpro.com/protonmail
   price: '9.99'
 - name: Tutanota Premium (alternative)
-  url: https://tuta.com/pricing
+  url: https://go.digitalshieldpro.com/tutanota
   price: '3.00'
 schema_type: Review
 ---

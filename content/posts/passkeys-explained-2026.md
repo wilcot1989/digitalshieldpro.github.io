@@ -42,13 +42,13 @@ faq:
   a: Not yet — most sites still keep your password as a fallback for users without passkey support. After 6+ months of working passkeys with no issues, you can disable the password fallback for highest security. But many sites force you to keep at least one fallback method.
 products:
 - name: 1Password (passkey support)
-  url: https://1password.com/
+  url: https://go.digitalshieldpro.com/1password
   price: '2.99'
 - name: Bitwarden Premium (passkey support)
-  url: https://bitwarden.com/
+  url: https://go.digitalshieldpro.com/bitwarden
   price: '0.83'
 - name: NordPass (passkey support)
-  url: https://nordpass.com/
+  url: https://go.digitalshieldpro.com/nordpass
   price: '1.79'
 schema_type: Article
 ---

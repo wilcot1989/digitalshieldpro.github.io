@@ -42,10 +42,10 @@ faq:
   a: Privacy Bee has a free tier (limited to 8 brokers). Optery has a free tier (limited but useful). Both are US-focused. For EU users, paid Incogni is the most thorough option in 2026.
 products:
 - name: Incogni Annual
-  url: https://incogni.com/
+  url: https://go.digitalshieldpro.com/incogni
   price: '7.49'
 - name: Incogni Family
-  url: https://incogni.com/family
+  url: https://go.digitalshieldpro.com/incogni
   price: '12.99'
 - name: DeleteMe (alternative)
   url: https://joindeleteme.com/

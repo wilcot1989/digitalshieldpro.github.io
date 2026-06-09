@@ -79,7 +79,7 @@ Ready? Let me walk through the migration.
 
 ## Step 1: Create Your ProtonMail Account
 
-Go to [proton.me](https://proton.me) and create an account. The free plan gives you 1 GB storage and 150 messages per day — enough to test the interface but not enough for a full migration.
+Go to [proton.me](https://go.digitalshieldpro.com/protonmail) and create an account. The free plan gives you 1 GB storage and 150 messages per day — enough to test the interface but not enough for a full migration.
 
 **My recommendation: Start with a free account, verify it works for you, then upgrade to Proton Mail Plus ($3.99/month or $47.88/year) before importing.**
 

@@ -40,7 +40,7 @@ faq:
   a: 'Email queued by senders typically retries for 4-7 days. If your server is down longer, mail bounces and may be lost. You need monitoring, backups, and (ideally) a secondary MX record pointing to a backup mail server. ProtonMail handles all of this automatically; self-hosting means you handle it.'
 products:
 - name: Proton Mail Plus
-  url: https://proton.me/mail/pricing
+  url: https://go.digitalshieldpro.com/protonmail
   price: '4.99'
 - name: Hetzner Cloud
   url: https://www.hetzner.com/cloud

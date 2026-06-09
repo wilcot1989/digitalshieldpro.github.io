@@ -118,7 +118,7 @@ This quiz cuts through the marketing fog. 7 questions about how YOU use a VPN, w
     mullvad: {
       name: "Mullvad",
       tagline: "Privacy maximum — anonymous, no streaming",
-      url: "https://mullvad.net/",
+      url: "https://go.digitalshieldpro.com/mullvad",
       price: "€5/mo flat",
       affiliate: false,
       scores: {
@@ -166,7 +166,7 @@ This quiz cuts through the marketing fog. 7 questions about how YOU use a VPN, w
     expressvpn: {
       name: "ExpressVPN",
       tagline: "Premium streaming + simple UI (expensive)",
-      url: "https://www.expressvpn.com/",
+      url: "https://go.digitalshieldpro.com/expressvpn",
       price: "$6.67/mo (1-year plan)",
       affiliate: false,
       scores: {
